@@ -1,0 +1,7 @@
+study_id	MGYS00004519
+study_name	Future climate change affects the microbiome and condition of habitat-forming kelp
+study_abstract	Climate change can cause effect on marine ecosystem. As a result, higher temperature and enrichment of carbon dioxide of seawater would be expected in the future scenario. In this study, we experimentally investigated the independent and interactive effects of warming and acidification on the habitat-forming kelp Ecklonia radiata and its associated microbiome, then 16S rRNA sequencing data of microbial communities associated with E. radiata on healthy and blistered samples under current and future environmental conditions were collected.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004246
+study_name	Successional trajectories of coastal bacterioplankton communities in response to co-exposure of cadmium and phenanthrene
+study_abstract	Coexistence of multiple contaminants in coastal aquatic ecosystems can lead to complicated circumstances in ecotoxicological assessment for biological communities due to potential interaction between contaminants. We chose cadmium (Cd) and phenanthrene (PHE) as representatives of heavy metals and polycyclic aromatic hydrocarbons, respectively. Contamination process was mimicked using coastal water microcosms contaminated by Cd (1 mg/L), PHE (1 mg/L), and their mixture over two weeks.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

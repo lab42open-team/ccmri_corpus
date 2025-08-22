@@ -1,0 +1,7 @@
+study_id	MGYS00001472
+study_name	Metagenomics of magnetotactic bacteria from Dianchi Lake
+study_abstract	We used metagenomics to probe the community structure, magnetosome biomineralization mechanisms and potential ecological roles of magnetotactic bacteria from Dianchi Lake in southwestern China.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

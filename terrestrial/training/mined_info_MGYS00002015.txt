@@ -1,0 +1,8 @@
+study_id	MGYS00002015
+study_name	EMG produced TPA metagenomics assembly of the Lime was injected to acid sulfate soils with aim to balance the acidity. The indigenous microbial communities before and after injection were investigated. (Effects of lime injection on the microbial community in acid sulfate soils) data set
+study_abstract	The Effects of lime injection on the microbial community in acid sulfate soils Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB6125. This project includes samples from the following biomes : Grassland.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000387
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

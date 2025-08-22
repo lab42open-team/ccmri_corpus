@@ -1,0 +1,7 @@
+study_id	MGYS00004350
+study_name	Anaerobic Photosynthetic Consortia 16s rRNA profiling
+study_abstract	Anaerobic photosynthetic consortia that degrade cellulose and fix nitrogen.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

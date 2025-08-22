@@ -1,0 +1,12 @@
+study_id	MGYS00005205
+study_name	Soil microbial distribution
+study_abstract	Soil microbial distribution in agricultural lands
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33060673
+publication_nr_0_pubmed_abstract	Biogeographic patterns in soil bacterial communities and their responses to environmental variables are well established, yet little is known about how different types of agricultural land use affect bacterial communities at large spatial scales. We report the variation in bacterial community structures in greenhouse, orchard, paddy, and upland soils collected from 853 sites across the Republic of Korea using 16S rRNA gene pyrosequencing analysis. Bacterial diversities and community structures were significantly differentiated by agricultural land-use types. Paddy soils, which are intentionally flooded for several months during rice cultivation, had the highest bacterial richness and diversity, with low community variation. Soil chemical properties were dependent on agricultural management practices and correlated with variation in bacterial communities in different types of agricultural land use, while the effects of spatial components were little. Firmicutes, Chloroflexi, and Acidobacteria were enriched in greenhouse, paddy, and orchard soils, respectively. Members of these bacterial phyla are indicator taxa that are relatively abundant in specific agricultural land-use types. A relatively large number of taxa were associated with the microbial network of paddy soils with multiple modules, while the microbial network of orchard and upland soils had fewer taxa with close mutual interactions. These results suggest that anthropogenic agricultural management can create soil disturbances that determine bacterial community structures, specific bacterial taxa, and their relationships with soil chemical parameters. These quantitative changes can be used as potential biological indicators for monitoring the impact of agricultural management on the soil environment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33060673
+publication_nr_0_title	Different types of agricultural land use drive distinct soil bacterial communities.
+publication_nr_0_publication_year	2020
+=========================================================================================

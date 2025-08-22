@@ -1,0 +1,7 @@
+study_id	MGYS00002365
+study_name	De novo whole metagenome sequencing studies
+study_abstract	A comparative study between control and disease condition metagenome sampples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Pond
+=========================================================================================
+=========================================================================================

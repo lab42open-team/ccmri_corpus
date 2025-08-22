@@ -1,0 +1,9 @@
+study_id	MGYS00001285
+study_name	Regional heterogeneity and seasonal succession in proteorhodopsin containing marine microbial assemblages
+study_abstract	A significant proportion of the marine prokaryote community is comprised of microbes that utilise proteorhodopsin (PR), a retinal based photoreceptor used for generating ATP from light. Using an amplicon sequencing approach, we examined spatial and temporal patterns in the diversity of PR containing Bacteria and Archaea (PRBA) along the east coast of Australia, during a period of 12 month from surface samples collected at 3 oceanographic time-series sites spanning 15° of latitude. Coastal PRBA assemblages were dynamic in both space and time, with diversity linked to several environmental factors, with positive correlations to temperature, Secchi depth and Prochlorococcus cell abundance and negative correlations to phosphate concentration observed. Shifts in the taxonomic composition of the PRBA assemblage were best explained by temperature and day length. Seasonality in taxonomic structure was accompanied by temporal variability in proteorhodopsin spectral tuning characteristics. The ratio of blue absorbing proteorhodopsin proteins (BPR) to green absorbing proteorhodopsin proteins (GPR) was strongly linearly correlated with day length, with levels of GPR increasing with day length. These observations highlight the dynamic nature of proteorhodopsin containing marine assemblages, which exhibit substantial shifts in both taxonomy and spectral tuning properties in response to seasonal and spatial variability in environmental conditions.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000615
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

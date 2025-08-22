@@ -1,0 +1,7 @@
+study_id	MGYS00004655
+study_name	nirS-Encoding and nirK-Encoding Denitrifiers in the Sediment of Daya Bay Raw sequence reads
+study_abstract	Surface sediments (upper 2 cm) were collected in spring (March 2016), summer (August 2016) and winter (December 2015) from four different locations in Daya Bay.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

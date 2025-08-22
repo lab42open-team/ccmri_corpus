@@ -1,0 +1,12 @@
+study_id	MGYS00003070
+study_name	envinronment Metagenome
+study_abstract	We used a 16S and 18S rRNA based pyrosequencing approach to characterize the sediment bacterial and microeukaryote communities in mud volcanoes (MVs) with differential activity in the Gulf of Cadiz
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	27762306
+publication_nr_0_pubmed_abstract	The present study assesses the diversity and composition of sediment bacterial and microeukaryotic communities from deep-sea mud volcanoes (MVs) associated with strike-slip faults in the South-West Iberian Margin (SWIM). We used a 16S/18S rRNA gene based pyrosequencing approach to characterize and correlate the sediment bacterial and microeukaryotic communities from MVs with differing gas seep regimes and from an additional site with no apparent seeping activity. In general, our results showed significant compositional changes of bacterial and microeukaryotic communities in sampling sites with different seepage regimes. Sediment bacterial communities were enriched with Methylococcales (putative methanotrophs) but had lower abundances of Rhodospirillales, Nitrospirales and SAR202 in the more active MVs. Within microeukaryotic communities, members of the Lobosa (lobose amoebae) were enriched in more active MVs. We also showed a strong correlation between Methylococcales populations and lobose amoeba in active MVs. This study provides baseline information on the diversity and composition of bacterial and microeukaryotic communities in deep-sea MVs associated with strike-slip faults. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27762306
+publication_nr_0_title	Integrated analysis of bacterial and microeukaryotic communities from differentially active mud volcanoes in the Gulf of Cadiz.
+publication_nr_0_publication_year	2016
+=========================================================================================

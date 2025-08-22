@@ -1,0 +1,12 @@
+study_id	MGYS00004095
+study_name	Antarctic Lakes Brine Raw sequence reads
+study_abstract	The Tarn Flat area is the largest ice-free area (ca. 11 9 km) north to the McMurdo Dry Valley in Victoria Land (Antarctica). The aim was to identify the biodiversity differences in hypersaline brines; understanding the reasons of these differences, considering that brines might contain DNA and RNA molecules that remain trapped inside for long geological eras, thus representing a key to reconstruct past ecosystems.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+publication_nr_0_pubmed_id	31505750
+publication_nr_0_pubmed_abstract	Two distinct pressurized hypersaline brine pockets (named TF4 and TF5), separated by a thin ice layer, were detected below an ice-sealed Antarctic lake. Prokaryotic (bacterial and archaeal) diversity, abundances (including virus-like particles) and metabolic profiles were investigated by an integrated approach, including traditional and new-generation methods. Although similar diversity indices were computed for both Bacteria and Archaea, distinct bacterial and archaeal assemblages were observed. Bacteroidetes and Gammaproteobacteria were more abundant in the shallowest brine pocket, TF4, and Deltaproteobacteria, mainly represented by versatile sulphate-reducing bacteria, dominated in the deepest, TF5. The detection of sulphate-reducing bacteria and methanogenic Archaea likely reflects the presence of a distinct synthrophic consortium in TF5. Surprisingly, members assigned to hyperthermophilic Crenarchaeota and Euryarchaeota were common to both brines, indicating that these cold habitats host the most thermally tolerant Archaea. The patterns of microbial communities were different, coherently with the observed microbiological diversity between TF4 and TF5 brines. Both the influence exerted by upward movement of saline brines from a sub-surface anoxic system and the possible occurrence of an ancient ice remnant from the Ross Ice Shelf were the likely main factors shaping the microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31505750
+publication_nr_0_title	Microbial Assemblages in Pressurized Antarctic Brine Pockets (Tarn Flat, Northern Victoria Land): A Hotspot of Biodiversity and Activity.
+publication_nr_0_publication_year	2019
+=========================================================================================

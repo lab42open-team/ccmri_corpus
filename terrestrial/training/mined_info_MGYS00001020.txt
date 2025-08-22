@@ -1,0 +1,7 @@
+study_id	MGYS00001020
+study_name	Forest Soil Targeted Locus (Loci)
+study_abstract	The purpose of this study was to explore the diversity of ammonia-oxidizing microbes (bacteria and archaea) in the soils at Coweeta LTER, a research site in western North Carolina.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Forest soil
+=========================================================================================
+=========================================================================================

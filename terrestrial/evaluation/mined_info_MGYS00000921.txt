@@ -1,0 +1,10 @@
+study_id	MGYS00000921
+study_name	The samples about fungi Targeted Locus (Loci)
+study_abstract	The objectives of this study were 1) to reveal the bacterial community compositions in Black soils; 2) to determine which environmental factors are dominating predict the distribution of bacterial community structures; and 3) to compare the difference/similarity of bacterial communities among 26 black soils.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+=========================================================================================

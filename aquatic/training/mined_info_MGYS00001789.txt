@@ -1,0 +1,11 @@
+study_id	MGYS00001789
+study_name	Amplicon sequencing of Tara Oceans RNA samples corresponding to size fractions for protists.
+study_abstract	Seawater was filtered from different depths to retain small and large cell sizes (Protist Organisms). The RNA was extracted, cDNA prepared then amplified by PCR.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001306
+associated_study_1	MGYS00002368
+associated_study_2	MGYS00002392
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000366
+study_name	Artic fresh water viromes (2)
+study_abstract	Recent metagenomic studies have shown that our knowledge about viruses in nature is very scarce. We aimed to augment such knowledge by analyzing newly sequenced polar freshwater viral metagenomes (both arctic and antarctic..)Previously unexplored arctic viromes were dominated by ssDNA viruses with no known relatives in the databases. Arctic and antarctic viromes were shown to differ at the fine grain level, yet we were able to find a circular contig in both environments with very high similarity.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

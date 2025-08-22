@@ -1,0 +1,7 @@
+study_id	MGYS00001261
+study_name	16S rRNA amplicons for dugout DNA samples - primers removed.
+study_abstract	Three methods to profile a microbial community are compared. These samples are 16S rRNA amplicons from a single DNA sample
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater
+=========================================================================================
+=========================================================================================

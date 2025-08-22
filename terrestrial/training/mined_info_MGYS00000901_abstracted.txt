@@ -1,0 +1,12 @@
+study_id	MGYS00000901
+study_name	Soil Genome sequencing
+study_abstract	The analysis of bacterial community structure
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	28125031
+publication_nr_0_pubmed_abstract	Due to advancements in sequencing technology, sequence data production is no longer a constraint in the field of microbiology and has made it possible to study uncultured microbes or whole environments using metagenomics. However, these new technologies introduce different biases in metagenomic sequencing, affecting the nucleotide distribution of resulting sequence reads. Here, we illustrate such biases using two methods. One is based on phylogenetic heatmaps (PGHMs), a novel approach for compact visualization of sequence composition differences between two groups of sequences containing the same phylogenetic groups. This method is well suited for finding noise and biases when comparing metagenomics samples. We apply PGHMs to detect noise and bias in the data produced with different DNA extraction protocols, different sequencing platforms and different experimental frameworks. In parallel, we use principal component analysis displaying different clustering of sequences from each sample to support our findings and illustrate the utility of PGHMs. We considered contributions of the read length and GC-content variation and observed that in most cases biases were generally due to the GC-content of the reads. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28125031
+publication_nr_0_title	Phylogenetic Heatmaps Highlight Composition Biases in Sequenced Reads.
+publication_nr_0_publication_year	2017
+=========================================================================================

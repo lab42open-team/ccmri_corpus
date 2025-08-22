@@ -1,0 +1,12 @@
+study_id	MGYS00002946
+study_name	Microbial diversity of marine sediments from Ross Sea
+study_abstract	To understand the microbial diversity of marine sediments along the depth
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30555444
+publication_nr_0_pubmed_abstract	Candidate phylum Atribacteria JS1 lineage is one of the predominant bacterial groups in anoxic subseafloor sediments, especially in organic-rich or gas hydrate-containing sediments. However, due to the lack of axenic culture representatives, metabolic potential and biogeochemical roles of this phylum have remained elusive. Here, we examined the microbial communities of marine sediments of the Ross Sea, Antarctica, and found candidate phylum Atribacteria JS1 lineage was the most abundant candidate phylum accounting for 9.8-40.8% of the bacterial communities with a single dominant operational taxonomic unit (OTU). To elucidate the metabolic potential and ecological function of this species, we applied a single-cell genomic approach and obtained 18 single-cell amplified genomes presumably from a single species that was consistent with the dominant OTU throughout the sediments. The composite genome constructed by co-assembly showed the highest genome completeness among available Atribacteria JS1 genomes. Metabolic reconstruction suggested fermentative potential using various substrates and syntrophic acetate oxidation coupled with hydrogen or formate scavenging methanogens. This metabolic potential supports the predominance of Atribacteria JS1 in anoxic environments expanding our knowledge of the ecological function of this uncultivated group. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30555444
+publication_nr_0_title	Genomic Insight Into the Predominance of Candidate Phylum Atribacteria JS1 Lineage in Marine Sediments.
+publication_nr_0_publication_year	2018
+=========================================================================================

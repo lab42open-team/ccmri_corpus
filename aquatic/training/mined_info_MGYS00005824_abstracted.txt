@@ -1,0 +1,13 @@
+study_id	MGYS00005824
+study_name	PMC 728.11_cyano
+study_abstract	Microcystis aeruginosa PMC 728.11_cyano metagenome sequencing
+study_origination	HARVESTED
+associated_study_0	MGYS00005823
+biome_info_0	root:Environmental:Aquatic:Freshwater
+=========================================================================================
+publication_nr_0_pubmed_id	33239466
+publication_nr_0_pubmed_abstract	<i>Microcystis aeruginosa</i> is one of the major species that cause toxic cyanobacterial blooms in freshwater systems worldwide. Here, we report the draft genome sequence of <i>M. aeruginosa</i> PMC 728.11, a microcystin-producing cyanobacterium isolated from the freshwater reservoir of Juanon in Valence, France. The genome sequence contains 276 contigs, consisting of 5,536,025 bp and 5,594 putative protein-coding genes, among which are several biosynthetic gene clusters encoding enzyme complexes involved in the production of various bioactive and toxic metabolites. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33239466
+publication_nr_0_title	Draft Genome Sequence of the Toxic Freshwater Microcystis aeruginosa Strain PMC 728.11 (Cyanobacteria, Chroococcales).
+publication_nr_0_publication_year	2020
+=========================================================================================

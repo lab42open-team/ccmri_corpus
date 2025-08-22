@@ -1,0 +1,8 @@
+study_id	MGYS00002068
+study_name	EMG produced TPA metagenomics assembly of the Wisconsin, Continuous corn soil metagenome reference core Project (Soil 402460) data set
+study_abstract	The 402460 Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set SRP008617. This project includes samples from the following biomes :Soil .
+study_origination	SUBMITTED
+associated_study_0	MGYS00000713
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

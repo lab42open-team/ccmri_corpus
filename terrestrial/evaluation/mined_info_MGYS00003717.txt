@@ -1,0 +1,7 @@
+study_id	MGYS00003717
+study_name	Microbial community structure is affected by cropping sequences and bio-covers under long-term no-tillage
+study_abstract	Changes in soil bacterial community composition were assessed in response to cropping sequences and bio-covers at long-term no-tillage sites. Main effects of 4 four different cropping sequences of corn (Zea mays L.), cotton (Gossypium hirsutum L.), and soybean (Glycine max L.) were rotated in four year phases for 12-yrs at two Tennessee Research and Education Centers in a randomized complete block design with split-block treatments of four winter bio-covers: hairy vetch (Vicia villosa L.), wheat (Triticum aestivum L.), poultry litter, and a fallow control. Using Illumina high-throughput sequencing of 16S rRNA genes, bacterial community composition was determined.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

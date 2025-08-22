@@ -1,0 +1,7 @@
+study_id	MGYS00002684
+study_name	Effects of organic matter manipulation on archaeal, bacterial, and fungal community assembly
+study_abstract	Community assembly is not only important for community structure, it is also a strong predictor of ecosystem functioning. Understanding how communities initially form and colonize lake sediments – where essential functions like carbon cycling occur – is therefore important for whole-ecosystem processes. Here, we tested for the deterministic processes that drive assembly order. Is this order primarily determined by the sediment or by the lake conditions ? What influences how rapidly this environmental filtering occurs? Do communities become more interconnected with time because of the sediment or lake conditions? Artificial mesocosms were created with varying levels and types of terrestrial organic matter. The mesocosms were placed at the bottom of three lakes. We sampled the sediment monthly over a two-month period to characterize microbial communities.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

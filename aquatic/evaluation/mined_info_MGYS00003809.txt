@@ -1,0 +1,10 @@
+study_id	MGYS00003809
+study_name	Bioturbating shrimp alter the structure and diversity of bacterial communities in coastal marine sediments
+study_abstract	Investigation into the effects of ocean acidification on microbial community structure and diversity in bioturbated coastal marine sediments. Samples taken from surface sediments and sediment from the burrow walls of Upogebia deltaura, a bioturbating shrimp species. Sediments were subjected to 5 different pH levels over a 14-week exposure period. Bacterial and archaeal 16S genes were sequenced.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00002070
+study_name	EMG produced TPA metagenomics assembly of the ASS lime injection - injection site (ASS lime injection - injection site) data set
+study_abstract	The ASS lime injection - injection site Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB6137. This project includes samples from the following biomes :Grassland .
+study_origination	SUBMITTED
+associated_study_0	MGYS00000373
+biome_info_0	root:Environmental:Terrestrial:Soil:Clay
+=========================================================================================
+=========================================================================================

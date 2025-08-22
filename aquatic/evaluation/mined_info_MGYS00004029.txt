@@ -1,0 +1,7 @@
+study_id	MGYS00004029
+study_name	Sinking bloom influences benthic microorganisms
+study_abstract	Here, we analyzed the bacterial community structure of four abyssal sediments and one shallow reference site in the Atlantic sector of the Southern Ocean. The sediments differed in their exposure to phytoplankton blooms to investigate potential links between the blooms and benthic microorganisms. Our main hypotheses were (i) that an extended bloom situation in the surface ocean leads to shifts in the benthic microbial communities with short delay times and (ii) that certain key bacterial clades benefit from the organic matter input.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

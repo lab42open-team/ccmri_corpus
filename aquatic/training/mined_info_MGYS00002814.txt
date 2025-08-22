@@ -1,0 +1,7 @@
+study_id	MGYS00002814
+study_name	Microbial Biogeography and Potential Ecological Function Deep Indian Ocean Ridge
+study_abstract	The marine microbial biogeography is gradually emerging a consensus. However, knowledge of the biodiversity, the biogeographic patterns and the factors influencing the distribution of deep-marine prokaryotes in distinct habitats at large scale is far from adequate. In this study, 16S rRNA gene Miseq-sequencing was used to survey the diversity and biogeography of prokaryotes from 39 sites across a broad geographic range, containing two obvious different habitats, hydrothermal and non-hydrothermal sediments. The deep marine sediment communities were highly diverse and Proteobacteria, Thaumarchaeota, Planctomycetes, Acidobacteria, Actinobacteria, Chloroflexi, Gemmatimonadetes, Nitrospirae and Bacteroidetes were dominant in both habitats with varied percentages. The composition of prokaryotic communities obviously diverged across environmental heterogeneity and large geographic distances.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Aphotic zone
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00000779
+study_name	Arctic tundra soils Targeted Locus (Loci)
+study_abstract	To understanding the relationships between bacterial community structure and environmental variables in Arctic tundra soil.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	24893754
+publication_nr_0_pubmed_abstract	The subarctic region is highly responsive and vulnerable to climate change. Understanding the structure of subarctic soil microbial communities is essential for predicting the response of the subarctic soil environment to climate change. To determine the composition of the bacterial community and its relationship with soil properties, we investigated the bacterial community structure and properties of surface soil from the moist acidic tussock tundra in Council, Alaska. We collected 70 soil samples with 25-m intervals between sampling points from 0-10 cm to 10-20 cm depths. The bacterial community was analyzed by pyrosequencing of 16S rRNA genes, and the following soil properties were analyzed: soil moisture content (MC), pH, total carbon (TC), total nitrogen (TN), and inorganic nitrogen (NH4+ and NO3-). The community compositions of the two different depths showed that Alphaproteobacteria decreased with soil depth. Among the soil properties measured, soil pH was the most significant factor correlating with bacterial community in both upper and lower-layer soils. Bacterial community similarity based on jackknifed unweighted unifrac distance showed greater similarity across horizontal layers than through the vertical depth. This study showed that soil depth and pH were the most important soil properties determining bacterial community structure of the subarctic tundra soil in Council, Alaska. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24893754
+publication_nr_0_title	Bacterial community structure and soil properties of a subarctic tundra soil in Council, Alaska.
+publication_nr_0_publication_year	2014
+=========================================================================================

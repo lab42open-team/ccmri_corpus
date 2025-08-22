@@ -1,0 +1,7 @@
+study_id	MGYS00004130
+study_name	Seawater sample Targeted Locus (Loci)
+study_abstract	Heterotrophic nanoflagellate (HNF) grazing is one of the main factors shaping the structure of the prokaryotic communities in the marine environments as an important source of microbial mortality. It strongly affects prokaryotic abundance, diversity and taxonomic composition. We analyzed the effects of predation exerted by heterotrophic nanoflagellates (HNF) on bacterioplankton assemblages from a surface coastal station in the North Adriatic Sea, evaluating also the effects of smaller HNF (<3 m) which are known to constitute an important link between bacteria and larger protists. We coupled the traditional dilution method with 454 sequencing of 16S rRNA gene, providing qualitatively and quantitatively evaluations of the grazing process occurring in marine microbial communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

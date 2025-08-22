@@ -1,0 +1,7 @@
+study_id	MGYS00003067
+study_name	16S rRNA metagenomic investigation of arsenotrophic bacteriome of ground water and soil from arsenic-prone area of Bangladesh
+study_abstract	In order to characterize the microbial biodiversity of arsenic contaminated water and surrounding soil a metagenomic approach by sequencing six hypervariable regions of 16S rRNA gene has been performed.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

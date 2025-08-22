@@ -1,0 +1,12 @@
+study_id	MGYS00004651
+study_name	Composition and Genetic Diversity of Microbial Communities in Subtropical Coastal Wetland Sediments
+study_abstract	This study aimed to examine the composition and genetic diversity of bacterial, archaeal and fungal communities in surface sediments of a subtropical coastal wetland.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Wetlands:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30258074
+publication_nr_0_pubmed_abstract	Bacteria, archaea and fungi play crucial roles in wetland biogeochemical processes. However, little is known about their community structure, dynamics and interactions in subtropical coastal wetlands. Here, we examined communities of the three kingdoms in mangrove and mudflat sediments of a subtropical coastal wetland using Ion Torrent amplicon sequencing and co-occurrence network analysis. Bacterial, archaeal and fungal communities comprised mainly of members from the phyla Proteobacteria and Bacteroidetes, Bathyarchaeota and Euryarchaeota, and Ascomycota, respectively. Species richness and Shannon diversity were highest in bacteria, followed by archaea and were lowest in fungi. Distinct spatiotemporal patterns were observed, with bacterial and fungal communities varying, to different extent, between wet and dry seasons and between mangrove and mudflat, and archaeal community remaining relatively stable between seasons and regions. Redundancy analysis revealed temperature as the major driver of the seasonal patterns of bacterial and fungal communities but also highlighted the importance of interkingdom biotic factors in shaping the community structure of all three kingdoms. Potential ecological interactions and putative keystone taxa were identified based on co-occurrence network analysis. These findings facilitate current understanding of the microbial ecology of subtropical coastal wetlands and provide a basis for better modelling of ecological processes in this important ecosystem. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30258074
+publication_nr_0_title	Community Structure, Dynamics and Interactions of Bacteria, Archaea and Fungi in Subtropical Coastal Wetland Sediments.
+publication_nr_0_publication_year	2018
+=========================================================================================

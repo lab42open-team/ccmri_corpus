@@ -1,0 +1,12 @@
+study_id	MGYS00004365
+study_name	PCB-contaminated sediment Genome sequencing
+study_abstract	Extracellular organic matter (EOM) from Micrococcus luteus was used to enhance biphenyl biodegradation. The effect of the EOM on the composition of bacterial community was investigated by Illumina high-throughput sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	25301582
+publication_nr_0_pubmed_abstract	Recent advances in the bioremediation of polychlorinated biphenyl (PCB)-contaminated environments have focused on the development of approaches to stimulate the activities of indigenous bacterial communities. In this study, extracellular organic matter (EOM) from Micrococcus luteus was used to enhance the biphenyl-degrading capability of potentially functional microorganisms. The obtained results suggest that EOM significantly enhanced the biphenyl (BP)-degradation capability. Under a concentration of 3,500 mg/L BP, BP-degradation efficiency reached 60.8 % at a dosage of 10 % EOM (v/v), whereas the degradation efficiencies of control group (with inactivated EOM addition) and blank group (with lactate minimal medium) were only 21.5 and 6.2 %, respectively. Denaturing gradient gel electrophoresis (DGGE) profiles demonstrated that EOM played a key role in shifts in the composition and diversity of bacterial community. The Illumina high-throughput sequencing analysis indicated that the genera of Rhodococcus and Pseudomonas closely related to BP/PCB-degradation were greatly abundant after EOM addition. Together with polymerase chain reaction (PCR)-DGGE analysis, the link between the enhanced BP-degrading capability and the stimulation and resuscitation function of EOM in uncultured bacteria belonging to phylum Actinobacteria was tentatively established. These results suggest that EOM from M. luteus as an additive holds great potential for the efficient and cost-effective bioremediation of PCB-contaminated environment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25301582
+publication_nr_0_title	Enhanced degradation of biphenyl from PCB-contaminated sediments: the impact of extracellular organic matter from Micrococcus luteus.
+publication_nr_0_publication_year	2015
+=========================================================================================

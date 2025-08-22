@@ -1,0 +1,7 @@
+study_id	MGYS00002571
+study_name	US East Coast Salt Marshes Targeted Locus (Loci)
+study_abstract	This work is aimed at elucidating the extent of microbial diversity and biogeography in US east coast salt marshes using 16s tag sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+=========================================================================================
+=========================================================================================

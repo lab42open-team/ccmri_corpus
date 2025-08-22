@@ -1,0 +1,7 @@
+study_id	MGYS00002477
+study_name	Protistan communities of the upper Arctic Ocean (18S SSU-rRNA Targeted Locus)
+study_abstract	Protistan communities of the upper Arctic Ocean (18S SSU-rRNA Targeted Locus), sampled during the MALINA cruise, August 2009.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

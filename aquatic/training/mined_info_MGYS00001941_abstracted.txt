@@ -1,0 +1,12 @@
+study_id	MGYS00001941
+study_name	Hawaii Dissolved Organic Matter (HIDOM) microcosm perturbation experiments
+study_abstract	Marine dissolved organic matter (DOM) contains nearly as much carbon as the Earths atmosphere. To investigate the roles of planktonic marine microbes in the biogeochemical cycling of DOM, we followed the transcriptional responses of a surface water microbial assemblage to DOM derived from an axenic culture of Prochlorococcus marinus and high-molecular weight DOM concentrated from nearby surface waters.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	24974201
+publication_nr_0_pubmed_abstract	Several technical challenges in metagenomic data analysis, including assembling metagenomic sequence data or identifying operational taxonomic units, are both significant and well known. These forms of analysis are increasingly cited as conceptually flawed, given the extreme variation within traditionally defined species and rampant horizontal gene transfer. Furthermore, computational requirements of such analysis have hindered content-based organization of metagenomic data at large scale. In this article, we introduce the Amordad database engine for alignment-free, content-based indexing of metagenomic datasets. Amordad places the metagenome comparison problem in a geometric context, and uses an indexing strategy that combines random hashing with a regular nearest neighbor graph. This framework allows refinement of the database over time by continual application of random hash functions, with the effect of each hash function encoded in the nearest neighbor graph. This eliminates the need to explicitly maintain the hash functions in order for query efficiency to benefit from the accumulated randomness. Results on real and simulated data show that Amordad can support logarithmic query time for identifying similar metagenomes even as the database size reaches into the millions. Source code, licensed under the GNU general public license (version 3) is freely available for download from http://smithlabresearch.org/amordad andrewds@usc.edu Supplementary data are available at Bioinformatics online. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24974201
+publication_nr_0_title	The Amordad database engine for metagenomics.
+publication_nr_0_publication_year	2014
+=========================================================================================

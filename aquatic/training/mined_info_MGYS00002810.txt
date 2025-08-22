@@ -1,0 +1,7 @@
+study_id	MGYS00002810
+study_name	peptide incubation in GOM C6 seawater bacteria Metagenome
+study_abstract	Study bacteria community changes in the peptide decomposition in different seawater
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

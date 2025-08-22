@@ -1,0 +1,7 @@
+study_id	MGYS00003602
+study_name	EMG produced TPA metagenomics assembly of the Hot spring thermophilic microbial communities from Obsidian Pool, Yellowstone National Park, USA - site 3 bottle 8 metagenome (hot springs metagenome) data set.
+study_abstract	The hot springs metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA366343. This project includes samples from the following biomes: Environmental, Aquatic, Thermal springs.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

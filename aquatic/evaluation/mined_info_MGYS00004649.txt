@@ -1,0 +1,7 @@
+study_id	MGYS00004649
+study_name	Arctic Microbial response to oil and Corexit
+study_abstract	The fate of oil and oil spill response chemicals in the Arctic is of critical importance as marine shipping and oil exploration are increasing due to receding sea ice cover. Using indigenous Arctic marine organisms in freshly collected seawater, we identified of bacterial taxa that increase in relative abundance in response to both oil and Corexit in Arctic seawater, suggesting that some taxa biodegrade components of both oil and dispersant. We then paried these microbial analyses with the chemical loss of oil and the surfactant components of Corexit 9500. These results allow for the first comparison between Arctic and temperate environments in regards to the fate of Corexit and the microbes involved in biodegrading dispersants and oil.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

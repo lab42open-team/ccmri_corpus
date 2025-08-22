@@ -1,0 +1,7 @@
+study_id	MGYS00004284
+study_name	freshwater sediment metagenome Metagenome
+study_abstract	To investigate the influence of nitrate on soil microbial communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

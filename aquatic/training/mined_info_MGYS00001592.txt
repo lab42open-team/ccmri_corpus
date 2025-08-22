@@ -1,0 +1,7 @@
+study_id	MGYS00001592
+study_name	Uncultured archaeal communities in anoxic, saline groundwater were characterized using 16S rRNA and rDNA targeted 454 amplicon sequencing.
+study_abstract	Uncultured archaeal communities in anoxic, saline groundwater were characterized using 16S rRNA and rDNA targeted 454 amplicon sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00000536
+study_name	The 2014 and 2015 International Geobiology Courses took place at Little Hot Creek (LHC), California. The data shown here represents an attempt to gather information from a number of sources at LHC.
+study_abstract	Samples were collected from a series of hot springs at the headwaters of Little Hot Creek located in the Long Valley Caldera near Mammoth Lake, CA. The springs are supersaturated for carbonate, circumneutral in pH, and range from a temperature of 50? to 80? C. Genomic DNA was isolated from biofilms and water filtered through a PES 0.22?m 13mm filter using the Zymo Xpedition Soil/Fecal kit (Zymo Research Corp., Irvine, CA). Sequencing was conducted using either MiSeq PE250, PE300, or HiSeq Rapid PE250. MiSeq runs were prepared using the Agilent SureSelect kit (Agilent Technologies, Irvine, CA) with an approximate insert size of 400bp, and HiSeq PE250 samples were prepared using the Nextera XT library preparation kit (Illumina, San Diego, CA).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+publication_nr_0_pubmed_id	25212621
+publication_nr_0_pubmed_abstract	The genome of a member of the phylum Chlorobi was assembled from a shotgun metagenomic sequence of a hot spring in Mammoth Lakes, CA. This organism appears to be a novel, aerobic, photosynthetic Chlorobi member, expanding the knowledge of this underrepresented phylum. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25212621
+publication_nr_0_title	Draft genome of a novel chlorobi member assembled by tetranucleotide binning of a hot spring metagenome.
+publication_nr_0_publication_year	2014
+=========================================================================================

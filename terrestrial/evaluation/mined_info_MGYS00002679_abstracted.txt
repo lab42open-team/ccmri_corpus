@@ -1,0 +1,12 @@
+study_id	MGYS00002679
+study_name	Soil DNA extracted from Robinson Ridge, East Antarctica Raw sequence reads
+study_abstract	To investigate the functional potentials of microbial community
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	29211716
+publication_nr_0_pubmed_abstract	Cultivation-independent surveys have shown that the desert soils of Antarctica harbour surprisingly rich microbial communities. Given that phototroph abundance varies across these Antarctic soils, an enduring question is what supports life in those communities with low photosynthetic capacity. Here we provide evidence that atmospheric trace gases are the primary energy sources of two Antarctic surface soil communities. We reconstructed 23 draft genomes from metagenomic reads, including genomes from the candidate bacterial phyla WPS-2 and AD3. The dominant community members encoded and expressed high-affinity hydrogenases, carbon monoxide dehydrogenases, and a RuBisCO lineage known to support chemosynthetic carbon fixation. Soil microcosms aerobically scavenged atmospheric H<sub>2</sub> and CO at rates sufficient to sustain their theoretical maintenance energy and mediated substantial levels of chemosynthetic but not photosynthetic CO<sub>2</sub> fixation. We propose that atmospheric H<sub>2</sub>, CO<sub>2</sub> and CO provide dependable sources of energy and carbon to support these communities, which suggests that atmospheric energy sources can provide an alternative basis for ecosystem function to solar or geological energy sources. Although more extensive sampling is required to verify whether this process is widespread in terrestrial Antarctica and other oligotrophic habitats, our results provide new understanding of the minimal nutritional requirements for life and open the possibility that atmospheric gases support life on other planets. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29211716
+publication_nr_0_title	Atmospheric trace gases support primary production in Antarctic desert surface soil.
+publication_nr_0_publication_year	2017
+=========================================================================================

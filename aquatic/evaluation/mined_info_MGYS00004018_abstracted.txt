@@ -1,0 +1,12 @@
+study_id	MGYS00004018
+study_name	marine metagenome Raw sequence reads
+study_abstract	Mariana Trench microbial eukaryotes
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30210485
+publication_nr_0_pubmed_abstract	Marine microbial eukaryotes are ubiquitous, comprised of phylogenetically diverse groups and play key roles in microbial food webs and global biogeochemical cycling. However, their vertical distribution in the deep sea has received little attention. In this study, we investigated the composition and diversity of the eukaryotes of both 0.2-3 mym and &gt;3 mym size fractions from the surface to the hadal zone (8727 m) of the Mariana Trench using Illumina MiSeq sequencing for the 18S rDNA. The microbial eukaryotic community structure differed substantially across size fractions and depths. Operational taxonomic unit (OTU) richness in the &gt;3 mym fraction was higher than that in the 0.2-3 mym fraction at the same depth. For the 0.2-3 mym fraction, sequences of Retaria (Rhizaria) were most abundant in the surface water (53.5%). Chrysophyceae (Stramenopiles) sequences dominated mostly in the samples from water depths below 1795 m. For the &gt;3 mym fraction, sequences of Dinophyceae (Alveolata) were most abundant in surface waters (49.3%) and remained a significant proportion of total sequences at greater depths (9.8%, on average). Retaria sequences were abundant in samples of depths >=1000 m. Amoebozoa and Apusozoa sequences were enriched in the hadal sample, comprising 38 and 20.4% of total sequences, respectively. Fungi (Opisthokonta) sequences were most abundant at 1759 m in both size fractions. Strong positive associations were found between Syndiniales (mainly MALV-I and MALV-II) and Retaria while negative associations were shown between MALV-II and Fungi in a co-occurrence analysis. This study compared the community structure of microbial eukaryotes in different zones in the deep sea and identified a distinct hadal community in the larger size fraction, suggesting the uniqueness of the eukaryotes in the biosphere in the Mariana Trench. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30210485
+publication_nr_0_title	Vertical Distribution of Microbial Eukaryotes From Surface to the Hadal Zone of the Mariana Trench.
+publication_nr_0_publication_year	2018
+=========================================================================================

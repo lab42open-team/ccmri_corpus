@@ -1,0 +1,7 @@
+study_id	MGYS00000450
+study_name	Enriched Hetertrophic-Methantrophic Cultures from Different Soils (amplicon)
+study_abstract	The project aimed to develop a robust consortia for oxidizing methane from possible emission sources e.g. coal mine and landfills. Different soil/sediments were collected and enriched under 20% methane atmosphere for more than 100 days and DNA were extracted for metagenomic studies. Methane oxidation potentials of each enrichments were analysed and byproducts were screened. Further testings were on-going using the enriched cultures for biofilter applications to treat continuous emissions of methane from point sources.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

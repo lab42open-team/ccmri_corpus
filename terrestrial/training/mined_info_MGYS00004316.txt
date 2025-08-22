@@ -1,0 +1,7 @@
+study_id	MGYS00004316
+study_name	BES pyrosequencing
+study_abstract	Pyrosequencing analysis of BES sample
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

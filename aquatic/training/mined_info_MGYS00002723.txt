@@ -1,0 +1,7 @@
+study_id	MGYS00002723
+study_name	Sediment bacteria in the Southern Ocean
+study_abstract	The aim of the study was to investigate bacterial community structures sediment samples taken in the Southern Ocean around Elephant Island and the Antarctic Peninsula. Bacterial community structures were assessed by pyrotag sequencing targeting the bacterial 16S rRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+=========================================================================================

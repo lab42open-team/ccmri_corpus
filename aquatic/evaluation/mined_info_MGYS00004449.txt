@@ -1,0 +1,7 @@
+study_id	MGYS00004449
+study_name	sediment metagenome Raw sequence reads
+study_abstract	The goal of the project is to differentiate storm and tsunami deposits by characterizing the microbial assemblage found in them.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Storm water
+=========================================================================================
+=========================================================================================

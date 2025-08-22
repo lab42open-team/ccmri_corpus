@@ -1,0 +1,7 @@
+study_id	MGYS00001019
+study_name	Metacommunity analysis of two protozoan taxa (Amoebozoa) in grassland soils
+study_abstract	To contribute to the current understanding of free-living soil protozoan, we examined the diversity of two widespread and common groups of soil amoebae, the genus Acanthamoeba and the Myxomycetes, in the topsoil of grasslands from three German regions (Schorfheide-Chorin, Hainich-D?n, Schw?bische Alb). We choose these two taxa of Amoebozoa because of the converging evidence of their prevalence in soils and because they are overlooked by both traditional and molecular sampling methodologies: they are rarely, if ever, recovered using eukaryote-wide primers. We developed specific primers to target the variable region V2 in the first part of the small subunit of the ribosomal RNA gene, using Roche GS FLX high-throughput sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

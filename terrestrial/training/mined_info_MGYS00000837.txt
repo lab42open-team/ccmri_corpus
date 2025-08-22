@@ -1,0 +1,7 @@
+study_id	MGYS00000837
+study_name	Soil and water from an agricultural field Targeted Locus (Loci)
+study_abstract	Natural soil bacteria selectively transported by seepage water are revealed to resemble root-associated microbiota. Mechanisms of mobilisation and transport appear related to preferential flow. Mobilised bacterial biomass carbon represents only a minor contribution to overall organic carbon flux. Bacterial 16S rRNA gene pyrotags from depth resolved soil and seepage water samples from a maize field near Gottingen, Germany. Sampled in January 2010.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

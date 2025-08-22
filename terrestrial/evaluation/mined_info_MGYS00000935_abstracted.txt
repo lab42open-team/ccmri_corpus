@@ -1,0 +1,12 @@
+study_id	MGYS00000935
+study_name	HN
+study_abstract	Promoting methanogenesis
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Crop:Agricultural land
+=========================================================================================
+publication_nr_0_pubmed_id	25935393
+publication_nr_0_pubmed_abstract	Potential for paddy soil enrichments obtained in the presence of nano-sized magnetite particles (named as PSEM) to promote methane production from effluents of hydrogen-producing stage in two-stage anaerobic digestion was investigated. The results showed that the addition of magnetite significantly accelerated methane production from acetate in a dose-independent manner. The results from high-throughput sequencing analysis revealed that Rhodocyclaceae-related species were selectively enriched, which were likely the key players for conversion of acetate to methane in PSEM. Compared to the paddy soil enrichments obtained in the absence of magnetite (named as PSEC), the maximum methane production rate in PSEM was significantly higher (1.5-5.5times higher for the artificial medium and 0.2-1.7times higher for the effluents). The accelerated methane production from the effluents indicated remarkably application potential of PSEM for improving performance of anaerobic digestion. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25935393
+publication_nr_0_title	Accelerated methanogenesis from effluents of hydrogen-producing stage in anaerobic digestion by mixed cultures enriched with acetate and nano-sized magnetite particles.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001952
+study_name	Diversity of Picoeukaryotic community in the Gulf of Gabès (south-eastern Mediterranean)
+study_abstract	Diversity of Picoeukaryotic community in the Gulf of Gabès (south-eastern Mediterranean)
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

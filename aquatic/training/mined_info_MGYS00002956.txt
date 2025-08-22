@@ -1,0 +1,7 @@
+study_id	MGYS00002956
+study_name	blocking PCR amplification of metazoan DNA for protistan diversity
+study_abstract	Protists form the basis of marine food webs. However, the understanding of protistan diversity is typically impeded by the predominance of metazoans, especially when employing universal primers in samples from large size fractions. In order to block the amplification of metazoan DNA in PCR, we designed 3 blocking primers and tested the performance using pure cultures and environmental samples. Furthermore, blockimg primers were applied to samples from a large size fraction, which is insufficiently studied due to the dominance of metazoans.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

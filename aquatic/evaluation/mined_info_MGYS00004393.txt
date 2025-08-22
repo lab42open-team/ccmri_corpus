@@ -1,0 +1,7 @@
+study_id	MGYS00004393
+study_name	Microbial communities in estuarine sediments
+study_abstract	Microbial communities from estuarine sediments differing in anthropogenic contamination
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

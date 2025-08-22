@@ -1,0 +1,8 @@
+study_id	MGYS00005337
+study_name	Marine microbial community from La Parguera, Puerto Rico - BB Mangrove A Liquid metagenome
+study_abstract	
+study_origination	HARVESTED
+associated_study_0	MGYS00005334
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

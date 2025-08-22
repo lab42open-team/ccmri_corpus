@@ -1,0 +1,7 @@
+study_id	MGYS00003117
+study_name	uncultured marine eukaryote Targeted loci environmental
+study_abstract	Identification of mixotrophic protists in Antarctic marine water samples based upon bromodeoxyuridine incorporation via grazing on labelled bacteria and subsequent 454 amplicon sequencing of the V9 region of the 18S ribosomal RNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

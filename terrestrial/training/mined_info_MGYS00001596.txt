@@ -1,0 +1,7 @@
+study_id	MGYS00001596
+study_name	Canonical correlation methods for exploring microbe-environment interactions in deep subsurface
+study_abstract	The active and general sulphate reducing bacterial popilation of crystalline bedrock fracture fluids from Olkiluoto Island, Finland, were investigated by dsrB gene and transcript trageted 454 amplicon sequencing. The effect of geochemical parameters on the SRB community was tested by canonical correlation methods.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Geologic
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002663
+study_name	Red Sea microbial plankton Raw sequence reads
+study_abstract	To examine the diversity of the microbial plankton in the northern and southern extremes of the Red Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28747798
+publication_nr_0_pubmed_abstract	The semi-enclosed nature of the Red Sea (20.2N-38.5N) makes it a natural laboratory to study the influence of environmental gradients on microbial communities. This study investigates the composition and structure of microbial prokaryotes and eukaryotes using molecular methods, targeting ribosomal RNA genes across different regions and seasons. The interaction between spatial and temporal scales results in different scenarios of turbulence and nutrient conditions allowing for testing of ecological theory that categorizes the response of the plankton community to these variations. The prokaryotic reads are mainly comprised of Cyanobacteria and Proteobacteria (Alpha and Gamma), with eukaryotic reads dominated by Dinophyceae and Syndiniophyceae. Periodic increases in the proportion of Mamiellophyceae and Bacillariophyceae reads were associated with alterations in the physical oceanography leading to nutrient increases either through the influx of Gulf of Aden Intermediate Water (south in the fall) or through water column mixing processes (north in the spring). We observed that in general dissimilarity amongst microbial communities increased when nutrient concentrations were higher, whereas richness (observed OTUs) was higher in scenarios of higher turbulence. Maximum abundance models showed the differential responses of dominant taxa to temperature giving an indication how taxa will respond as waters become warmer and more oligotrophic. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28747798
+publication_nr_0_title	Microbial planktonic communities in the Red Sea: high levels of spatial and temporal variability shaped by nutrient availability and turbulence.
+publication_nr_0_publication_year	2017
+=========================================================================================

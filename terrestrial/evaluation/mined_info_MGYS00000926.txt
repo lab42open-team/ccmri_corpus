@@ -1,0 +1,7 @@
+study_id	MGYS00000926
+study_name	Uncultured bacteria soil carbon-fixing Targeted Locus (Loci)
+study_abstract	This library was made using 454 - pyrophosphate sequencing method to attest diversity and richness of soil carbon-fixing functional gene (cbbL-green like).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

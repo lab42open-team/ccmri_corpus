@@ -1,0 +1,7 @@
+study_id	MGYS00004405
+study_name	Old Rifle sediment Raw sequence reads
+study_abstract	A systematic column study compared the interactive effects of acetate amendment, sediment geochemistry, and bacterial community composition on in-situ bioremediation of U(VI) using sediments from the subsurface at the U.S. Department of Energys Integrated Field Research Challenge site in Rifle, Colorado that were either contaminated or non-contaminated by a uranium plume.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000408
+study_name	Lake depth metagenomes comparison
+study_abstract	We have sampled two depths from lake Redon (2m (sample 21) and 60m (sample 60) during late september 2013. We plan to study community function and structure in both depths and compare the putative differences we find, regarding lake stratification.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic
+=========================================================================================
+=========================================================================================

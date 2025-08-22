@@ -1,0 +1,12 @@
+study_id	MGYS00000981
+study_name	Desert soil Targeted Locus (Loci)
+study_abstract	Bacterial community data (cDNA; 16S rRNA gene) from desert soil samples (Namib) taken over the course of a 5 day period in April 2013 and representative of the diurnal cycle (morning, midday, night).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+publication_nr_0_pubmed_id	28071697
+publication_nr_0_pubmed_abstract	Microbes in hot desert soil partake in core ecosystem processes e.g., biogeochemical cycling of carbon. Nevertheless, there is still a fundamental lack of insights regarding short-term (i.e., over a 24-hour [diel] cycle) microbial responses to highly fluctuating microenvironmental parameters like temperature and humidity. To address this, we employed T-RFLP fingerprinting and 454 pyrosequencing of 16S rRNA-derived cDNA to characterize potentially active bacteria in Namib Desert soil over multiple diel cycles. Strikingly, we found that significant shifts in active bacterial groups could occur over a single 24-hour period. For instance, members of the predominant Actinobacteria phyla exhibited a significant reduction in relative activity from morning to night, whereas many Proteobacterial groups displayed an opposite trend. Contrary to our leading hypothesis, environmental parameters could only account for 10.5% of the recorded total variation. Potential biotic associations shown through co-occurrence networks indicated that non-random inter- and intra-phyla associations were 'time-of-day-dependent' which may constitute a key feature of this system. Notably, many cyanobacterial groups were positioned outside and/or between highly interconnected bacterial associations (modules); possibly acting as inter-module 'hubs' orchestrating interactions between important functional consortia. Overall, these results provide empirical evidence that bacterial communities in hot desert soils exhibit complex and diel-dependent inter-community associations. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28071697
+publication_nr_0_title	Diel-scale temporal dynamics recorded for bacterial groups in Namib Desert soil.
+publication_nr_0_publication_year	2017
+=========================================================================================

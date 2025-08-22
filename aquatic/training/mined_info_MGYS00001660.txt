@@ -1,0 +1,7 @@
+study_id	MGYS00001660
+study_name	Four metagenomes and four metatranscriptomes sampled along a transect in the plume of the Sarno River in the Gulf of Naples (Italy).
+study_abstract	The study aimed to investigate closely related samples under the influence from the Sarno River, the most polluted river in Europe, to inform about differences within the taxonomical and functional diversity along a transect from the rivers mouth to the open Gulf of Naples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000636
+study_name	Effect of biochar on bacterial community in rice paddy soils
+study_abstract	Impacts of biochar soil amendment (BSA) on soil bacterial community have not been well documented. In this study, we present a cross site field experiment on bacterial community changes of rice paddy in three sites (JX in Jiangxi, HN in Hunan and SC in Sichuan provinces) from South China with wheat straw biochar amended in May 2010. Using quantitative real-time PCR (qPCR) and terminal restriction fragment length polymorphism (T-RFLP) combined with tag-encoded amplicon pyrosequencing, changes in bacterial abundance and diversity under BSA at 0, 20 and 40 t ha-1 (C0, C1 and C2, respectively) were assessed with topsoils sampled at rice harvest.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Crop:Agricultural land
+=========================================================================================
+=========================================================================================

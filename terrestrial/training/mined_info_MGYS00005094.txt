@@ -1,0 +1,8 @@
+study_id	MGYS00005094
+study_name	Soil bacterial communities under long-term organic production in Buenos Aires, Argentina
+study_abstract	Soil bacterial communities under long-term organic production in Buenos Aires, Argentina
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+biome_info_1	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

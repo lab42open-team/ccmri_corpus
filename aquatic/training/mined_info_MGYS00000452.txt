@@ -1,0 +1,7 @@
+study_id	MGYS00000452
+study_name	Metagenomics of a freshwater pond in Sheffield, UK.
+study_abstract	The microbial community used in the microcosm study was obtained from this pond. The inoculums were subjected to nutrient enrichment studies.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic
+=========================================================================================
+=========================================================================================

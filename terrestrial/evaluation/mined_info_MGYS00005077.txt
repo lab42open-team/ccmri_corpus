@@ -1,0 +1,7 @@
+study_id	MGYS00005077
+study_name	CEFS_16S_ITS
+study_abstract	soil 16S and ITS amplicon from different ecosystems
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

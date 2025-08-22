@@ -1,0 +1,7 @@
+study_id	MGYS00006071
+study_name	Bio-geochemistry of alkaline waste
+study_abstract	This project investigates the application advanced molecular biology and bioinformatic techniques to the sustainable management of alkaline wastes. These wastes are produced globally in enormous quantities by societies’ primary industries, including iron, steel and aluminium production, and a significant proportion are dumped. “Aggressive” interventions are energy intensive and disturb a waste during treatment when the most significant risk to human health is airborne dusts. Microbes that occur naturally offer exciting potential to bring about beneficial chemical changes to prevent migration of harmful contaminants from the waste into the wider environment. However, to realise this potential requires better understanding of the occurrence and activity of the microbes in these extreme environments. Using samples from an alkaline waste site, microcosm experiments were established where the desired chemical processes were occurring. Samples from these microcosms are being interrogated using ‘omics’ techniques to understand which microbes and processes are critical to achieve the desired geochemical outcome and how these can be encouraged.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,11 @@
+study_id	MGYS00005275
+study_name	EMG produced TPA metagenomics assembly of the Marine subseafloor sediment microbial communities, sample from White Oak River Estuary, NC, USA 14E metagenome (marine sediment metagenome) data set.
+study_abstract	The marine sediment metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA337846. This project includes samples from the following biomes: Environmental, Aquatic, Estuary, Sediment.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005276
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

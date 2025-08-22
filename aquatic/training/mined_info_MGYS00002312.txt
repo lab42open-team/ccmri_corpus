@@ -1,0 +1,7 @@
+study_id	MGYS00002312
+study_name	EMG produced TPA metagenomics assembly of the Manikaran hot springs water metagenome (Water metagenome) data set.
+study_abstract	The Water metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJEB19501. This project includes samples from the following biomes: Environmental, Aquatic, Thermal springs.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Near-boiling (>90C)
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000390
+study_name	Fagans Bay metagenomes
+study_abstract	Compare taxonomic and functional diversity in three depths in sediments of Fagans Bay
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

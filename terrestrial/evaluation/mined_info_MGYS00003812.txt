@@ -1,0 +1,10 @@
+study_id	MGYS00003812
+study_name	Jurelivicius Antarctic cleanup
+study_abstract	Antarctic Clean Up Project. Microcosms constructed at Brazilian Antarctic Station. Comandante Ferraz using diesel-oil contaminated soil. The contamination was caused by a blast and fire at the station in Ferbruary of 2012
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand:Oil-contaminated
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

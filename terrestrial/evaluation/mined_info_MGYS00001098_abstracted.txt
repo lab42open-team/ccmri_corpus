@@ -1,0 +1,12 @@
+study_id	MGYS00001098
+study_name	Evaluation of PGM for gene-targeted studies using nifH
+study_abstract	To evaluate PGM as substitution of 454 for microbial ecology study
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	25911484
+publication_nr_0_pubmed_abstract	The sequencing chips and kits of the Ion Torrent Personal Genome Machine (PGM), which employs semiconductor technology to measure pH changes in polymerization events, have recently been upgraded. The quality of PGM sequences has not been reassessed, and results have not been compared in the context of a gene-targeted microbial ecology study. To address this, we compared sequence profiles across available PGM chips and chemistries and with 454 pyrosequencing data by determining error types and rates and diazotrophic community structures. The PGM was then used to assess differences in nifH-harboring bacterial community structure among four corn-based cropping systems. Using our suggested filters from mock community analyses, the overall error rates were 0.62, 0.36, and 0.39% per base for chips 318 and 314 with the 400-bp kit and chip 318 with the Hi-Q chemistry, respectively. Compared with the 400-bp kit, the Hi-Q kit reduced indel rates by 28 to 59% and produced one to seven times more reads acceptable for downstream analyses. The PGM produced higher frameshift rates than pyrosequencing that were corrected by the RDP FrameBot tool. Significant differences among platforms were identified, although the diversity indices and overall site-based conclusions remained similar. For the cropping system analyses, a total of 6,182 unique NifH operational taxonomic units at 5% amino acid dissimilarity were obtained. The current crop type, as well as the crop rotation history, significantly influenced the composition of the soil diazotrophic community detected. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25911484
+publication_nr_0_title	Evaluation of the Ion Torrent Personal Genome Machine for Gene-Targeted Studies Using Amplicons of the Nitrogenase Gene nifH.
+publication_nr_0_publication_year	2015
+=========================================================================================

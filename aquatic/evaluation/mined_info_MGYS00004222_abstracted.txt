@@ -1,0 +1,12 @@
+study_id	MGYS00004222
+study_name	AT26-10 Crab Spa IGT incubations raw sequence reads
+study_abstract	These are sequences from the final time point of ~24 h incubations of diffuse-flow hydrothermal vent fluids from "Crab Spa" (9o50.3981 N, 104o17.4942 W). All but two samples were incubated at 24 C, the remaining two were incubated at 50 C. Further details about sampling and experimental conditions are available in an accepted publication by McNichol et al (2016) entitled "Assessing Microbial Processes in Deep-Sea Hydrothermal Systems via Incubations at In Situ Temperature and Pressure" to be published in Deep-Sea Research Part I. A forthcoming publication will also use these data.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents:Diffuse flow
+=========================================================================================
+publication_nr_0_pubmed_id	29891698
+publication_nr_0_pubmed_abstract	Below the seafloor at deep-sea hot springs, mixing of geothermal fluids with seawater supports a potentially vast microbial ecosystem. Although the identity of subseafloor microorganisms is largely known, their effect on deep-ocean biogeochemical cycles cannot be predicted without quantitative measurements of their metabolic rates and growth efficiency. Here, we report on incubations of subseafloor fluids under in situ conditions that quantitatively constrain subseafloor primary productivity, biomass standing stock, and turnover time. Single-cell-based activity measurements and 16S rRNA-gene analysis showed that <i>Campylobacteria</i> dominated carbon fixation and that oxygen concentration and temperature drove niche partitioning of closely related phylotypes. Our data reveal a very active subseafloor biosphere that fixes carbon at a rate of up to 321 myg C.L<sup>-1</sup>.d<sup>-1</sup>, turns over rapidly within tens of hours, rivals the productivity of chemosynthetic symbioses above the seafloor, and significantly influences deep-ocean biogeochemical cycling. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29891698
+publication_nr_0_title	Primary productivity below the seafloor at deep-sea hot springs.
+publication_nr_0_publication_year	2018
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00005404
+study_name	Marine sediment microbial community from La Parguera, Puerto Rico - PR Tt Sediment 2 metagenome
+study_abstract	
+study_origination	HARVESTED
+associated_study_0	MGYS00005403
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

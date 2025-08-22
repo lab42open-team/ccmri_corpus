@@ -1,0 +1,7 @@
+study_id	MGYS00001061
+study_name	Oil contaminated soils Targeted Locus (Loci)
+study_abstract	Surveying microbial communities in desert soils polluted by oil
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00000320
+study_name	Making and breaking DMS by salt marsh microbes (Illumina HiSeq 100bp)
+study_abstract	Study of microbial populations that cycle the globally significant organic sulfur compounds dimethylsulfoniopropionate (DMSP) and dimethylsulfide (DMS) in coastal intertidal sediments.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002009
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+=========================================================================================
+=========================================================================================

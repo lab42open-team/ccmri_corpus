@@ -1,0 +1,8 @@
+study_id	MGYS00000406
+study_name	Metagenomic analysis of sediments along a uranium gradient
+study_abstract	Surface sediment from a billabong in the Northern Territory of Australia was collected and spiked with uranyl sulfate at 6 different concentrations (0 - 4,000 mg/ kg). The sediments were then re-deployed at the site and left in these natural environmental conditions for 5 months. DNA was extracted from the sediments and submitted for metagenomic sequencing on the Illumina HiSeq 2500 instrument.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002025
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

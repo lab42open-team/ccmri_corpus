@@ -1,0 +1,7 @@
+study_id	MGYS00002888
+study_name	Ocean Water Metagenome
+study_abstract	Microbes from water column samples and "non-lethal" sediment traps were collected on 0.2 uM micron filters to look at diversity and richness of bacterial community dynamics within an annually recurring spring phytoplankton bloom.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00002042
+study_name	EMG produced TPA metagenomics assembly of the Oyster and water samples from Texas bays. (Texas Bay Metagenomes) data set
+study_abstract	The Texas Bay Metagenomes Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB16362. This project includes samples from the following biomes : Marine, Mollusca.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001291
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

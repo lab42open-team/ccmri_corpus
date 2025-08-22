@@ -1,0 +1,7 @@
+study_id	MGYS00001310
+study_name	Before and after a geosequestration experiment, volumes of reservoir water were filtered in order to infer on taxonomy, structure of the underlying microbial communities.
+study_abstract	Before and after a geosequestration experiment, volumes of reservoir water were filtered in order to infer on taxonomy, structure of the underlying microbial communities.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,10 @@
+study_id	MGYS00003813
+study_name	NEON: Directions and resources for long-term monitoring in soil microbial ecology
+study_abstract	The EMP_Pilot represents a subset of soil samples from the National Ecological Observatory Network (NEON) microbe prototype project. The EMP_Pilot was designed as a cross-facility comparison to quantify variation in sample processing and outputs from two sequencing facilities (Argonne National Labs, Lawrence Berkeley Labs) for quality assurance. The twelve soil samples that comprise the EMP-Pilot were collected in 2009 from four NEON core domain sites in Alaska, Florida,Utah, and Hawaii and represent gradients in ecosystem and soil properties. Information regarding the NEON Domain sites can be found at www.neoninc.org/science/domains. In 2013, soil biochemical, phospholipid fatty acid (PLFA), and targeted gene sequence data associated with the EMP-Pilot samples will be available through NEON's data sharing system.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

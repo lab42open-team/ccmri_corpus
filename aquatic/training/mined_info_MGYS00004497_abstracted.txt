@@ -1,0 +1,12 @@
+study_id	MGYS00004497
+study_name	Enrichment of abundant sedimentary Bathyarchaeota demonstrating organoautotrophic metabolic capabilities
+study_abstract	Enrichment of Bathyarchaeota
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29773709
+publication_nr_0_pubmed_abstract	Members of the archaeal phylum <i>Bathyarchaeota</i> are among the most abundant microorganisms on Earth. Although versatile metabolic capabilities such as acetogenesis, methanogenesis, and fermentation have been suggested for bathyarchaeotal members, no direct confirmation of these metabolic functions has been achieved through growth of <i>Bathyarchaeota</i> in the laboratory. Here we demonstrate, on the basis of gene-copy numbers and probing of archaeal lipids, the growth of <i>Bathyarchaeota</i> subgroup Bathy-8 in enrichments of estuarine sediments with the biopolymer lignin. Other organic substrates (casein, oleic acid, cellulose, and phenol) did not significantly stimulate growth of <i>Bathyarchaeota</i> Meanwhile, putative bathyarchaeotal tetraether lipids incorporated <sup>13</sup>C from <sup>13</sup>C-bicarbonate only when added in concert with lignin. Our results are consistent with organoautotrophic growth of a bathyarchaeotal group with lignin as an energy source and bicarbonate as a carbon source and shed light into the cycling of one of Earth's most abundant biopolymers in anoxic marine sediment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29773709
+publication_nr_0_title	Growth of sedimentary <i>Bathyarchaeota</i> on lignin as an energy source.
+publication_nr_0_publication_year	2018
+=========================================================================================

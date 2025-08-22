@@ -1,0 +1,8 @@
+study_id	MGYS00002011
+study_name	EMG produced TPA metagenomics assembly of the Microbial Community of Mobilong Acid Sulfate Soil depth profile using Metagenomics (Mobilong Soil Profile) data set
+study_abstract	The Mobilong Soil Profile Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB5872. This project includes samples from the following biomes : Grassland.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000369
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

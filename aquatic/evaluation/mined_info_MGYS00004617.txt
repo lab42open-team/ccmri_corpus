@@ -1,0 +1,7 @@
+study_id	MGYS00004617
+study_name	River sediments Metagenome
+study_abstract	Mining activities have introduced contamination to surrounding aquatic and terrestrial environments, causing adverse impacts to human health and the environment. Indigenous microbial communities are responsible for biogeochemical cycling in diverse environments, indicating the potential to remediate the contamination introduced by the mining activities. Antimony has been extensively mined in China and Sb contamination in mining areas has been frequently encountered. However, the microbial composition and structure in response to antimony contamination has remained overlooked. Here we selected a watershed heavily contaminated by an antimony tailing from an upstream mine. We obtained comprehensive geochemical data (specifically, physical-chemical properties and different antimony extraction fractions) from river water and sediments at different depths. In addition, the indigenous microbial communities were profiled by high-throughput sequencing from 16 sediment samples (535,390 valid reads).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

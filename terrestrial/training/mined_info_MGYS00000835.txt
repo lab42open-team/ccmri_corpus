@@ -1,0 +1,7 @@
+study_id	MGYS00000835
+study_name	Soil 454 sequencing data
+study_abstract	To analyze the soil bacterial and eukaryotic community structure and diversity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

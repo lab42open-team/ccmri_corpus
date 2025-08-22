@@ -1,0 +1,13 @@
+study_id	MGYS00000662
+study_name	Biochar-amended soil Targeted loci environmental
+study_abstract	To evaluate the effect of biochar-mineral complexes on organic soil microbial communities.
+study_origination	HARVESTED
+associated_study_0	MGYS00002059
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	27092104
+publication_nr_0_pubmed_abstract	Organic farming avoids the use of synthetic fertilizers and promises food production with minimal environmental impact, however this farming practice does not often result in the same productivity as conventional farming. In recent years, biochar has received increasing attention as an agricultural amendment and by coating it with minerals to form biochar-mineral complex (BMC) carbon retention and nutrient availability can be improved. However, little is known about the potential of BMC in improving organic farming. We therefore investigated here how soil, bacterial and plant properties respond to a combined treatment of BMC and an organic fertilizer, i.e., a compost based on poultry manure. In a pakchoi pot trial, BMC and compost showed synergistic effects on soil properties, and specifically by increasing nitrate content. Soil nitrate has been previously observed to increase leaf size and we correspondingly saw an increase in the surface area of pakchoi leaves under the combined treatment of BMC and composted chicken manure. The increase in soil nitrate was also correlated with an enrichment of bacterial nitrifiers due to BMC. Additionally, we observed that the bacteria present in the compost treatment had a high turnover, which likely facilitated organic matter degradation and a reduction of potential pathogens derived from the manure. Overall our results demonstrate that a combination of BMC and compost can stimulate microbial process in organic farming that result in better vegetable production and improved soil properties for sustainable farming. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27092104
+publication_nr_0_title	A Combination of Biochar-Mineral Complexes and Compost Improves Soil Bacterial Processes, Soil Quality, and Plant Properties.
+publication_nr_0_publication_year	2016
+=========================================================================================

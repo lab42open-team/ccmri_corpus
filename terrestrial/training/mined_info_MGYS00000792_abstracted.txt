@@ -1,0 +1,12 @@
+study_id	MGYS00000792
+study_name	Maritime Antarctic soils Targeted Locus (Loci)
+study_abstract	This project characterised the diversity of bacterial communities associated with 42 vegetation-free soils along a maritime Antarctic latitudinal gradient (60-72oS) using 16S rRNA gene amplicon pyrosequencing. The dataset provides a base-line for future monitoring of maritime Antarctic soil bacterial communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	30804443
+publication_nr_0_pubmed_abstract	Terrestrial ecosystems in the maritime Antarctic experienced rapid warming during the latter half of the 20<sup>th</sup> century. While warming ceased at the turn of the millennium, significant increases in air temperature are expected later this century, with predicted positive effects on soil fungal diversity, plant growth and ecosystem productivity. Here, by sequencing 16S ribosomal RNA genes in 40 soils sampled from along a 1,650 km climatic gradient through the maritime Antarctic, we determine whether rising air temperatures might similarly influence the diversity of soil bacteria. Of 22 environmental factors, mean annual surface air temperature was the strongest and most consistent predictor of soil bacterial diversity. Significant, but weaker, associations between bacterial diversity and soil moisture content, C:N ratio, and Ca, Mg, PO<sub>4</sub><sup>3-</sup> and dissolved organic C concentrations were also detected. These findings indicate that further rises in air temperature in the maritime Antarctic may enhance terrestrial ecosystem productivity through positive effects on soil bacterial diversity. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30804443
+publication_nr_0_title	Soil bacterial diversity is positively associated with air temperature in the maritime Antarctic.
+publication_nr_0_publication_year	2019
+=========================================================================================

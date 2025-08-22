@@ -1,0 +1,7 @@
+study_id	MGYS00000484
+study_name	Marine metagenomes from 3 sediment samples along a pH gradient in Papua New Guinea
+study_abstract	Sediment microbial communities are key players in biogeochemical cycling and the remineralization of organic matter on tropical reefs. To better understand the long-term effects of low pH conditions on sediment microbial communities, microbial diversity and community composition were investigated at naturally CO2-rich tropical coral reefs in Papua New Guinea. Metagenomic and metatranscriptomic analyses will reveal insights into the response of sediment microbial communities and their functions to low pH environments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

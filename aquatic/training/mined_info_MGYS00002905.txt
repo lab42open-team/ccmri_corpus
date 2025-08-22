@@ -1,0 +1,8 @@
+study_id	MGYS00002905
+study_name	Atlantic salmon microbiota
+study_abstract	Atlantic salmon skin mucus and surrounding water have been sampled at production facilities both in freshwater and after transfer to seawater. Extracted DNA is sequenced using barcoded 16S primers using PacBio SCC.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+biome_info_1	root:Host-associated:Fish:Skin
+=========================================================================================
+=========================================================================================

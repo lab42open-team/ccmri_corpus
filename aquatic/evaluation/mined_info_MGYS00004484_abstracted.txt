@@ -1,0 +1,12 @@
+study_id	MGYS00004484
+study_name	Methane and dissolved organic carbon fueled microbial loop supports a tropical subterranean estuary ecosystem
+study_abstract	Here we demonstrate that a microbial loop shuttles CH4 and DOC to higher trophic levels of the anchialine food web in the Yucatan Peninsula (Mexico). Methane and DOC production and consumption within the coastal groundwater correspond with a microbial community capable of methanotrophy, heterotrophy and chemoautotrophy, based on characterization by 16S rRNA amplicon sequencing and respiratory quinone composition. This study reveals a heretofore unrecognized subterranean methane sink and contribute to our understanding of the carbon cycle and ecosystem function of karst subterranean estuaries.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+publication_nr_0_pubmed_id	29180666
+publication_nr_0_pubmed_abstract	Subterranean estuaries extend inland into density-stratified coastal carbonate aquifers containing a surprising diversity of endemic animals (mostly crustaceans) within a highly oligotrophic habitat. How complex ecosystems (termed anchialine) thrive in this globally distributed, cryptic environment is poorly understood. Here, we demonstrate that a microbial loop shuttles methane and dissolved organic carbon (DOC) to higher trophic levels of the anchialine food web in the Yucatan Peninsula (Mexico). Methane and DOC production and consumption within the coastal groundwater correspond with a microbial community capable of methanotrophy, heterotrophy, and chemoautotrophy, based on characterization by 16S rRNA gene amplicon sequencing and respiratory quinone composition. Fatty acid and bulk stable carbon isotope values of cave-adapted shrimp suggest that carbon from methanotrophic bacteria comprises 21% of their diet, on average. These findings reveal a heretofore unrecognized subterranean methane sink and contribute to our understanding of the carbon cycle and ecosystem function of karst subterranean estuaries. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29180666
+publication_nr_0_title	Methane- and dissolved organic carbon-fueled microbial loop supports a tropical subterranean estuary ecosystem.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00005988
+study_name	Microbial diversity and function in Antarctic paleomats
+study_abstract	Dessicated microbial mats that are thousands of years old found in the McMurdo Dry Valleys in Antarctica provide a unique opportunity to study the effects of prolonged desiccation on microbial composition and function. The goal of this work is to understand which microbes form these mats, whether they are transcriptionally active, and what mechanisms microbial cells use for long-term survival under extremely harsh conditions, with implications for our understanding of cell biology, Antarctic microbiology and biogeography, and the limits of life in cold, arid environments.
+study_origination	HARVESTED
+associated_study_0	MGYS00005987
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice:Glacial lake
+=========================================================================================
+=========================================================================================

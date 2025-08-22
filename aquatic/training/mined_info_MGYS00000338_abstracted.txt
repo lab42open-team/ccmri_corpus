@@ -1,0 +1,17 @@
+study_id	MGYS00000338
+study_name	Metagenome of a microbial consortium obtained from the Tuna oil field in the Gippsland Basin, Australia
+study_abstract	In 2011, fluid samples were collected from the A7A oil well in the Tuna oil field (38°10' S, 148°25' E) in the Gippsland Basin, Australia. Chemical analyses of the water revealed the sample was pH 7.2, had a salinity of 2.7%, and contained 270 mg liter–1 calcium, 320 mg liter–1 magnesium, 1,200 mg liter–1 sulfate, and 1,170 mg liter–1 bicarbonate. The temperature in the reservoir was 102°C. One liter of formation water was filtered through a 0.2-M Polyvinylidene difluoride (PVDF) filter disc and subjected to genomic DNA extraction using a Meta-G-Nome DNA isolation kit (Epicenter Biotechnologies). The resultant DNA was sequenced using 100-bp paired-end Illumina HiSeq at the University of Western Sydney.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oil field:bore hole
+=========================================================================================
+publication_nr_0_pubmed_id	24029756
+publication_nr_0_pubmed_abstract	The draft genome sequence of Thermoanaerobacter sp. strain A7A was reconstructed from a metagenome of a microbial consortium obtained from the Tuna oil field in the Gippsland Basin, Australia. The organism is a strict anaerobe that is predicted to ferment a range of simple sugars and undertake sulfur reduction. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24029756
+publication_nr_0_title	Draft Genome Sequence of Thermoanaerobacter sp. Strain A7A, Reconstructed from a Metagenome Obtained from a High-Temperature Hydrocarbon Reservoir in the Bass Strait, Australia
+publication_nr_0_publication_year	2013
+publication_nr_1_pubmed_id	24009120
+publication_nr_1_pubmed_abstract	The draft genome sequence of Thermotoga maritima A7A was obtained from a metagenomic assembly obtained from a high-temperature hydrocarbon reservoir in the Gippsland Basin, Australia. The organism is predicted to be a motile anaerobe with an array of catabolic enzymes for the degradation of numerous carbohydrates. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24009120
+publication_nr_1_title	Draft Genome Sequence of Thermotoga maritima A7A Reconstructed from Metagenomic Sequencing Analysis of a Hydrocarbon Reservoir in the Bass Strait, Australia
+publication_nr_1_publication_year	2013
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00004525
+study_name	SOLA Raw sequence reads
+study_abstract	Raw environmental eukaryotic samples from the SOLA (Service d''Observation Laboratoire Arago) sampling point, in the North Western Mediterranean sea. These samples are part of a time series, from 2007 to 2015, that is investigating the seasonal reoccurrence of rhythmic species.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	30254323
+publication_nr_0_pubmed_abstract	Seasonality in marine microorganisms has been classically observed in phytoplankton blooms, and more recently studied at the community level in prokaryotes, but rarely investigated at the scale of individual microbial taxa. Here we test if specific marine eukaryotic phytoplankton, bacterial and archaeal taxa display yearly rhythms at a coastal site impacted by irregular environmental perturbations. Our seven-year study in the Bay of Banyuls (North Western Mediterranean Sea) shows that despite some fluctuating environmental conditions, many microbial taxa displayed significant yearly rhythms. The robust rhythmicity was found in both autotrophs (picoeukaryotes and cyanobacteria) and heterotrophic prokaryotes. Sporadic meteorological events and irregular nutrient supplies did, however, trigger the appearance of less common non-rhythmic taxa. Among the environmental parameters that were measured, the main drivers of rhythmicity were temperature and day length. Seasonal autotrophs may thus be setting the pace for rhythmic heterotrophs. Similar environmental niches may be driving seasonality as well. The observed strong association between Micromonas and SAR11, which both need thiamine precursors for growth, could be a first indication that shared nutritional niches may explain some rhythmic patterns of co-occurrence. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30254323
+publication_nr_0_title	Rhythmicity of coastal marine picoeukaryotes, bacteria and archaea despite irregular environmental perturbations.
+publication_nr_0_publication_year	2019
+=========================================================================================

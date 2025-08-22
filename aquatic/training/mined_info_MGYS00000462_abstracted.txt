@@ -1,0 +1,16 @@
+study_id	MGYS00000462
+study_name	Ocean Sampling Day (OSD) 2014: AUTHORITY-RAW amplicon and metagenome sequencing study from the June solstice in the year 2014
+study_abstract	Sequencing of amplicon and metagenome samples from the main OSD event, representing joint effort of marine sampling stations around the world. The OSD campaign aims to analyze marine microbial community compositions and embedded functional traits on a single day, the solstice on 2014-06-21.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001977
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+publication_nr_1_pubmed_id	26615190
+publication_nr_1_pubmed_abstract	The European Nucleotide Archive (ENA; http://www.ebi.ac.uk/ena) is a repository for the submission, maintenance and presentation of nucleotide sequence data and related sample and experimental information. In this article we report on ENA in 2015 regarding general activity, notable published data sets and major achievements. This is followed by a focus on sustainable biocuration of functional annotation, an area which has particularly felt the pressure of sequencing growth. The importance of functional annotation, how it can be submitted and the shifting role of the biocurator in the context of increasing volumes of data are all discussed. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26615190
+publication_nr_1_title	Biocuration of functional annotation at the European nucleotide archive.
+publication_nr_1_publication_year	2016
+=========================================================================================

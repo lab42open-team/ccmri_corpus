@@ -1,0 +1,7 @@
+study_id	MGYS00002116
+study_name	Bulk and rhizosphere soil microbial communities in wheat fields
+study_abstract	The study aims to investigate functional activities of soil microbial communities surrounding wheat crops that are associated with higher yields. Two wheat fields were sampled for bulk and rhizosphere soil at three different wheat growth and development stages (March, June and July 2017). We used 16S rRNA sequencing to identify and compare bacteria present in these soil samples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Agricultural
+=========================================================================================
+=========================================================================================

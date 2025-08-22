@@ -1,0 +1,7 @@
+study_id	MGYS00002605
+study_name	Mariana and Kermadec Trench sediment 16S rRNA gene sequencing
+study_abstract	This project studies the microbial communities within the Mariana and Kermadec trenches as a function of trench, sediment, and water depth using 16S rRNA gene sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

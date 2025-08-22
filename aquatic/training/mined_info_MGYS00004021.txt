@@ -1,0 +1,7 @@
+study_id	MGYS00004021
+study_name	Marine photic zone, New Caledonia Lagoon raw sequence reads, nitrogenase amplicons
+study_abstract	The VAHINE mesocosm experiment, conducted in the low-nutrient low-chlorophyll waters of the Noumea Lagoon (coastal New Caledonia) was designed to trace the incorporation of nitrogen (N) fixed by diazotrophs into the food web, using large volume (50 m3) mesocosms. This experiment provided a unique opportunity to study the succession of N2-fixing microorganisms (diazotrophs) and calculate in situ net growth and mortality rates in response to fertilization with dissolved inorganic phosphate (DIP) over a 23-day period, using both polymerase chain reaction (PCR) amplification of nitrogenase genes (nifH) and quantitative PCR (qPCR) assays targeting known marine diazotroph lineages.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

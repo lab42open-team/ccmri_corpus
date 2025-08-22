@@ -1,0 +1,7 @@
+study_id	MGYS00000572
+study_name	Enrichment from groundwater treating sand filters
+study_abstract	Samples collected at waterworks sand filters were enriched for specific functional groups e.g. ammonium oxidizers. These enrichment cultures were tested in column experiments. Samples were taken at experimental termination. 16S rRNA amplicon sequencing was done on the original sand filter material, the cultures and the samples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

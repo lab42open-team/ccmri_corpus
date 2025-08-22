@@ -1,0 +1,12 @@
+study_id	MGYS00001968
+study_name	Microbial communities in drinking water systems
+study_abstract	Microbial communities in drinking water systems
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water
+=========================================================================================
+publication_nr_0_pubmed_id	31948958
+publication_nr_0_pubmed_abstract	We announce five shotgun metagenomics data sets from two Norwegian premise plumbing systems. The samples were shotgun sequenced on two lanes of an Illumina HiSeq 3000 instrument (THRUplex chemistry, 151 bp, paired-end reads), providing an extensive resource for sequence analyses of tap water and biofilm microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31948958
+publication_nr_0_title	Metagenomic Sequences of Three Drinking Water and Two Shower Hose Biofilm Samples Treated with or without Copper-Silver Ionization.
+publication_nr_0_publication_year	2020
+=========================================================================================

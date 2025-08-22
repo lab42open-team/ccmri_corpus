@@ -1,0 +1,7 @@
+study_id	MGYS00001543
+study_name	study of microbial communities of a lake during winter
+study_abstract	three different depth points, sediment and water(2 levels)
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

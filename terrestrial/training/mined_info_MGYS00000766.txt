@@ -1,0 +1,8 @@
+study_id	MGYS00000766
+study_name	RA Metagenome
+study_abstract	Swamp soil diversity.
+study_origination	HARVESTED
+associated_study_0	MGYS00002067
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

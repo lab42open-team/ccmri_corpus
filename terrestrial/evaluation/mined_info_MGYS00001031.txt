@@ -1,0 +1,7 @@
+study_id	MGYS00001031
+study_name	Trace element-contaminated soil Metagenome
+study_abstract	We aimed to compare the community structure of fungi and bacteria in the rhizosphere of introduced willows to willow growth and metal uptake.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

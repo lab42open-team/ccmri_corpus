@@ -1,0 +1,7 @@
+study_id	MGYS00000892
+study_name	Scheyern-soil Metagenome
+study_abstract	Agricultural soil metagenome
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

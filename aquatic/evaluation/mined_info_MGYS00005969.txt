@@ -1,0 +1,8 @@
+study_id	MGYS00005969
+study_name	Shotgun metagenomic approch to identify the bacterial, archaeaa,virus, fungi and eukaryotes in Northern Indian Ocean
+study_abstract	Shotgun metagenomic approch to identify the bacterial, archaeal,virus, fungi and eukaryotes in Northern Indian Ocean. The surface and chlorophyll max depth water samples were collected during the monsoon in the Arabian Sea. The water samples were filtered in 0.2 micron filter sterivex and the DNA was extracted using qiagen blood and tissue dna extraction kit. The metagenome sequence were carried out in Illumina HiSeq platform.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005968
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

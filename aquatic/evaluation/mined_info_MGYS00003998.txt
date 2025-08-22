@@ -1,0 +1,8 @@
+study_id	MGYS00003998
+study_name	MiSeq 16S rRNA gene (Thaumarchaeota 16S rRNA gene) sequences of 12 SCS sediments
+study_abstract	DNA from 12 SCS sediments have been extracted and amplified by THAUM494/958R primer pairs (for Thaumarchaeota 16S rRNA gene). The Thaumarchaeota communities of these 12 samples were obtained.
+study_origination	SUBMITTED
+associated_study_0	MGYS00003997
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

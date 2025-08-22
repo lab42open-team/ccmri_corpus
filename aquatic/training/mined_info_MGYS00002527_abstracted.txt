@@ -1,0 +1,12 @@
+study_id	MGYS00002527
+study_name	Diversity of archaeal and bacterial 16S rRNA gene in marine sediment in Aarhus Bay
+study_abstract	This project is to study the diversity of Archaeal and bacterial 16S rRNA gene in marine sediments in Aarhus Bay.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28546547
+publication_nr_0_pubmed_abstract	The factors controlling the relative abundances of Archaea and Bacteria in marine sediments are poorly understood. We determined depth distributions of archaeal and bacterial 16S rRNA genes by quantitative PCR at eight stations in Aarhus Bay, Denmark. Bacterial outnumber archaeal genes 10-60-fold in uppermost sediments that are irrigated and mixed by macrofauna. This bioturbation is indicated by visual observations of sediment color and faunal tracks, by porewater profiles of dissolved inorganic carbon and sulfate, and by distributions of unsupported <sup>210</sup>Pb and <sup>137</sup>Cs. Below the depth of bioturbation, the relative abundances of archaeal genes increase, accounting for one third of 16S rRNA genes in the sulfate zone, and half of 16S rRNA genes in the sulfate-methane transition zone and methane zone. Phylogenetic analyses reveal a strong shift in bacterial and archaeal community structure from bioturbated sediments to underlying layers. Stable isotopic analyses on organic matter and porewater geochemical gradients suggest that macrofauna mediate bacterial dominance and affect microbial community structure in bioturbated sediment by introducing fresh organic matter and high-energy electron acceptors from overlying seawater. Below the zone of bioturbation, organic matter content and the presence of sulfate exert key influences on bacterial and archaeal abundances and overall microbial community structure. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28546547
+publication_nr_0_title	Bioturbation as a key driver behind the dominance of Bacteria over Archaea in near-surface sediment.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004542
+study_name	particle-attached and free-living bacteria kongsfjorden
+study_abstract	particle attached and free-living bacteria kongsfjorden
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

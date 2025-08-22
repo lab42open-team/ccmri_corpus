@@ -1,0 +1,7 @@
+study_id	MGYS00000975
+study_name	Soil Metagenome
+study_abstract	Changes in soil bacterial populations following incubation with mixtures of hydrocarbons
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004031
+study_name	Protists in Havre-aux-Maisons Lagoon, Magdalen Islands, Quebec, Canada
+study_abstract	Seasonal monitoring, 454-sequencing 18S rDNA V4 region
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

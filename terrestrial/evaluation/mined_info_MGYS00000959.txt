@@ -1,0 +1,7 @@
+study_id	MGYS00000959
+study_name	Microbial Ecology of Thailand Tsunami and Non-Tsunami Affected Terrestrials
+study_abstract	This study represents the first to elucidate their effects on microbial ecology. We utilized metagenomics with 16S and 18S rDNA-barcoded pyrosequencing to obtain prokaryotic and eukaryotic profiles for this terrestrial site, tsunami affected (S1), as well as a parallel unaffected terrestrial site, non-tsunami affected (S2)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

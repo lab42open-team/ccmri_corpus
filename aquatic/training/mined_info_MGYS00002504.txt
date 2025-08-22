@@ -1,0 +1,7 @@
+study_id	MGYS00002504
+study_name	Shotgun Metagenome Sequencing of Lake Soyang
+study_abstract	The lakewater samples were collected from different depths and differnet seasons. The DNA was extracted after filtration through 0.2 um pore-size membrane.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000510
+study_name	Study of the bacterial and fungal diversity in soil habitats with increased ligninocellulolytic activity
+study_abstract	This study aims at the metagenomic analysis of ligninocellulose-degrading microbial communities of Mediterranean forest soils. For this purpose, two soil ecosystems with distinct ecophysiological characteristics were selected, and thorough spatio-seasonal sampling was undertaken. Total DNA was extracted from 48 soil samples, and PCR amplification was performed with both 16S (V3-V4) region- and ITS2-specific universal primers for the analysis of bacterial and fungal diversity, respectively. High-throughput amplicon sequencing was performed with the Illumina MiSeq technology.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

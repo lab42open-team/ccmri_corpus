@@ -1,0 +1,12 @@
+study_id	MGYS00000994
+study_name	Soil and tailings Genome sequencing
+study_abstract	Bacterial community research in metalliferous mine tailings, which was supported by National Natural Science Foundation of China
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Mine drainage
+=========================================================================================
+publication_nr_0_pubmed_id	27126064
+publication_nr_0_pubmed_abstract	Ecological restoration of mine tailings have impact on soil physiochemical properties and microbial communities. The surface soil has been a primary concern in the past decades, however it remains poorly understood about the adaptive response of microbial communities along the profile during ecological restoration of the tailings. In this study, microbial communities along a 60-cm profile were investigated in a mine tailing pond during ecological restoration of the bare waste tailings (BW) with two vegetated soils of Imperata cylindrica (IC) and Chrysopogon zizanioides (CZ) plants. Revegetation of both IC and CZ could retard soil degradation of mine tailing by stimulation of soil pH at 0-30 cm soils and altered the bacterial communities at 0-20 cm depths of the mine tailings. Significant differences existed in the relative abundance of the phyla Alphaproteobacteria, Deltaproteobacteria, Acidobacteria, Firmicutes and Nitrospira. Slight difference of bacterial communities were found at 30-60 cm depths of mine tailings. Abundance and activity analysis of nifH genes also explained the elevated soil nitrogen contents at the surface 0-20 cm of the vegetated soils. These results suggest that microbial succession occurred primarily at surface tailings and vegetation of pioneering plants might have promoted ecological restoration of mine tailings. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27126064
+publication_nr_0_title	Ecological restoration alters microbial communities in mine tailings profiles.
+publication_nr_0_publication_year	2016
+=========================================================================================

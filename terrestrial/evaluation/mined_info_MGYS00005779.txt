@@ -1,0 +1,7 @@
+study_id	MGYS00005779
+study_name	Land use change effects on the soil microbiome of the rainforest of the northwest Colombian Amazon region.
+study_abstract	This study aimed to characterize the microbiome present in both litter and the soil of rainforest in the northwest Colombian Amazon region, and the response of the microbiome to land use change. The study was conducted specifically in Belen de los Andaquies and Solano counties, in Caqueta state, the second most important hotspot of deforestation in the entire Amazon basin. Experimental study design included 4 study sites for comparing native forest to livestock pasture systems, within the main landscapes of the region, mountain and hill landscapes separately.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+=========================================================================================

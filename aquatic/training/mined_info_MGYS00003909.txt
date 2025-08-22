@@ -1,0 +1,10 @@
+study_id	MGYS00003909
+study_name	Brazelton LostCity chimney biofilm
+study_abstract	The Lost City Hydrothermal Field, an ultramafic-hosted system located 15 km west of the Mid-Atlantic Ridge, has experienced at least 30,000 years of hydrothermal activity. Previous studies have shown that its carbonate chimneys form by mixing of round 90C, pH 9-11 hydrothermal fluids and cold seawater. Flow of methane and hydrogen-rich hydrothermal fluids in the porous interior chimney walls supports an archaeal biofilm dominated by a single phylotype of Methanosarcinales. We have a collection of 40 carbonate chimney samples, most of which have been dated with uranium-thorium isotopic systematics. The resulting ages range from 34 to 145,000 years. Previous 16S rRNA pyrotag sequencing of 4 of these samples revealed that rare sequences in young chimneys were often more abundant in older chimneys, indicating that species can remain rare in a chimney for &gt;100 years before blooming and becoming dominant when the environmental conditions allow. These results suggest that a long history of selection over many cycles of chimney growth has resulted in numerous closely related species at Lost City, each of which is pre-adapted to a particular set of re-occurring environmental conditions. Due to the unique characteristics of the Lost City Hydrothermal Field, these data offer an unprecedented opportunity to study the dynamics of a microbial ecosystem's rare biosphere over thousands of years.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00001946
+study_name	DeepHotMicrobe - genomic clues on microbial adaptation to life in deep bedrock
+study_abstract	DeepHotMicrobe - genomic clues on microbial adaptation to life in deep bedrock
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Cave water
+=========================================================================================
+publication_nr_0_pubmed_id	31947979
+publication_nr_0_pubmed_abstract	The deep bedrock surroundings are an analog for extraterrestrial habitats for life. In this study, we investigated microbial life within anoxic ultradeep boreholes in Precambrian bedrock, including the adaptation to environmental conditions and lifestyle of these organisms. Samples were collected from Pyhaesalmi mine environment in central Finland and from geothermal drilling wells in Otaniemi, Espoo, in southern Finland. Microbial communities inhabiting the up to 4.4 km deep bedrock were characterized with phylogenetic marker gene (16S rRNA genes and fungal ITS region) amplicon and DNA and cDNA metagenomic sequencing. Functional marker genes (<i>dsr</i>B, <i>mcr</i>A, <i>nar</i>G) were quantified with qPCR. Results showed that although crystalline bedrock provides very limited substrates for life, the microbial communities are diverse. Gammaproteobacterial phylotypes were most dominant in both studied sites. <i>Alkanindiges</i> -affiliating OTU was dominating in Pyhaesalmi fluids, while different depths of Otaniemi samples were dominated by <i>Pseudomonas</i>. One of the most common OTUs detected from Otaniemi could only be classified to phylum level, highlighting the uncharacterized nature of the deep biosphere in bedrock. Chemoheterotrophy, fermentation and nitrogen cycling are potentially significant metabolisms in these ultradeep environments. To conclude, this study provides information on microbial ecology of low biomass, carbon-depleted and energy-deprived deep subsurface environment. This information is useful in the prospect of finding life in other planetary bodies. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31947979
+publication_nr_0_title	Ultradeep Microbial Communities at 4.4 km within Crystalline Bedrock: Implications for Habitability in a Planetary Context.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00000392
+study_name	Acid sulfate soil microbial profile - pre-investigation
+study_abstract	A pre-investigation of the microbial composition of the acid sulfate soils were carried in Oct 2011 to obtain the microbial information before lime injection
+study_origination	SUBMITTED
+associated_study_0	MGYS00002688
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

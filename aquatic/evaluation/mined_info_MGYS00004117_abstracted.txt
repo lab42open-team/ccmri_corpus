@@ -1,0 +1,12 @@
+study_id	MGYS00004117
+study_name	Seawater free living bacterioplankton
+study_abstract	To study the relationships between bacterioplankton community composition and environmental factors between different sampling scales.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	25416764
+publication_nr_0_pubmed_abstract	Large spatial scales and long-term shifts of bacterial community composition (BCC) in the open ocean can often be reliably predicted based on the dynamics of physical-chemical variables. The power of abiotic factors in shaping BCC on shorter time scales in shallow estuarine mixing zones is less clear. We examined the diurnal variation in BCC at different water depths in the spring and fall of 2011 at a station in the Gray's Reef National Marine Sanctuary (GRNMS). This site is located in the transition zone between the estuarine plume and continental shelf waters of the South Atlantic Bight. A total of 234,516 pyrotag sequences of bacterial 16S rRNA genes were recovered; they were taxonomically affiliated with &gt;200 families of 23 bacterial phyla. Nonmetric multidimensional scaling analysis revealed significant differences in BCC between spring and fall samples, likely due to seasonality in the concentrations of dissolved organic carbon and nitrate plus nitrite. Within each diurnal sampling, BCC differed significantly by depth only in the spring and differed significantly between day and night only in the fall. The former variation largely tracked changes in light availability, while the latter was most correlated with concentrations of polyamines and chlorophyll a. Our results suggest that at the GRNMS, a coastal mixing zone, diurnal variation in BCC is attributable to the mixing of local and imported bacterioplankton rather than to bacterial growth in response to environmental changes. Our results also indicate that, like members of the Roseobacter clade, SAR11 bacteria may play an important role in processing dissolved organic material in coastal oceans. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25416764
+publication_nr_0_title	Temporal and vertical distributions of bacterioplankton at the Gray's Reef National Marine Sanctuary.
+publication_nr_0_publication_year	2015
+=========================================================================================

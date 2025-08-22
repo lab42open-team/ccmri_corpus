@@ -1,0 +1,7 @@
+study_id	MGYS00004607
+study_name	Assessing the microbial diversity in Cape Comorin ocean water
+study_abstract	Cape Comorin is a site located at the southern-most point of the Indian Peninsula, where the Bay of Bengal, Arabian Sea and the Indian Ocean meet. This study aims to explore the microbial diversity present in the ocean water at this site.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

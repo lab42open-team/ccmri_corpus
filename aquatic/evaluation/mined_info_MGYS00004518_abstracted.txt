@@ -1,0 +1,12 @@
+study_id	MGYS00004518
+study_name	Lake sediment sequencing
+study_abstract	This study can provide novel insights into basin pollution control in plain river networks
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	29888529
+publication_nr_0_pubmed_abstract	Sediment microbial communities from plain river networks exert different effects on pollutant transformation and migration in lake basins. In this study, we examined millions of Illumina reads (16S rRNA gene amplicons) to compare lake, lake wetland, and estuary bacterial communities through a technically consistent approach. Results showed that bacterial communities in the sampled lake sediments had the highest alpha-diversity (Group B), than in sampled lake wetland sediments and estuary sediments. Proteobacteria was the most abundant (more than 30%) phyla in all the sediments. The lake sediments had more Nitrospirae (1.63%-11.75%) and Acidobacteria (3.46%-10.21%) than the lake wetland and estuary sediments, and estuary sediments had a greater abundance of the phylum Firmicutes (mean of 22.30%). Statistical analysis (LEfSe) revealed that lake wetland sediments contained greater abundances of the class Anaerolineaceae, orders Xanthomonadales, Pseudomonadales, and genera Flavobacterium, Acinetobacter. The lake sediments had a distinct community of diverse primary producers, such as phylum Acidobacteria, order Ignavibacteriales, and families Nitrospiraceae, Hydrogenophilaceae. Total phosphorus and organic matter were the main factors influencing the bacterial communities in sediments from several parts of the lake wetland and river estuary (p &lt; .05). The novel insights into basin pollution control in plain river networks may be obtained from microbial distribution in sediments from different basin regions. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29888529
+publication_nr_0_title	Comparison among the microbial communities in the lake, lake wetland, and estuary sediments of a plain river network.
+publication_nr_0_publication_year	2019
+=========================================================================================

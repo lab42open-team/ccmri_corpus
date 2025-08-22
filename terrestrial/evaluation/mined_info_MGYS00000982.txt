@@ -1,0 +1,7 @@
+study_id	MGYS00000982
+study_name	Total soil fungi Genome sequencing
+study_abstract	The aim of the present survey was to relate soil physicochemical parameters and patterns of fungal community composition to different soil management practices: conventional tillage or reduced tillage, retention or removal of crop residues, in an experimental design combining each tillage practice with each crop residue management practice.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,14 @@
+study_id	MGYS00005352
+study_name	seawater metagenome Metagenomic assembly
+study_abstract	ESRF shotgun metagenomics project
+study_origination	HARVESTED
+associated_study_0	MGYS00002420
+biome_info_0	root:Environmental:Aquatic:Lentic:Brackish
+biome_info_1	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28800137
+publication_nr_0_pubmed_abstract	Application of chemical dispersants to oil spills in the marine environment is a common practice to disperse oil into the water column and stimulate oil biodegradation by increasing its bioavailability to indigenous bacteria capable of naturally metabolizing hydrocarbons. In the context of a spill event, the biodegradation of crude oil and gas condensate off eastern Canada is an essential component of a response strategy. In laboratory experiments, we simulated conditions similar to an oil spill with and without the addition of chemical dispersant under both winter and summer conditions and evaluated the natural attenuation potential for hydrocarbons in near-surface sea water from the vicinity of crude oil and natural gas production facilities off eastern Canada. Chemical analyses were performed to determine hydrocarbon degradation rates, and metagenome binning combined with metatranscriptomics was used to reconstruct abundant bacterial genomes and estimate their oil degradation gene abundance and activity. Our results show important and rapid structural shifts in microbial populations in all three different oil production sites examined following exposure to oil, oil with dispersant and dispersant alone. We found that the addition of dispersant to crude oil enhanced oil degradation rates and favored the abundance and expression of oil-degrading genes from a Thalassolituus sp. (that is, metagenome bin) that harbors multiple alkane hydroxylase (alkB) gene copies. We propose that this member of the Oceanospirillales group would be an important oil degrader when oil spills are treated with dispersant. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28800137
+publication_nr_0_title	Chemical dispersants enhance the activity of oil- and gas condensate-degrading marine bacteria.
+publication_nr_0_publication_year	2017
+=========================================================================================

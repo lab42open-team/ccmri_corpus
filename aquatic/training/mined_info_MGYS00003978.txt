@@ -1,0 +1,11 @@
+study_id	MGYS00003978
+study_name	EMG produced TPA metagenomics fasta_path of the Shotgun metagenomic analysis of Lake Paajarvi sediment microbes. (PRJEB29513) data set.
+study_abstract	The PRJEB29513 Third Party Annotation (TPA) fasta_path was derived from the primary whole genome shotgun (WGS) data set: PRJEB29513. This project includes samples from the following biomes: root:Environmental:Aquatic:Freshwater:Lentic:Sediment.
+study_origination	SUBMITTED
+associated_study_0	MGYS00003605
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

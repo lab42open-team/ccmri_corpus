@@ -1,0 +1,7 @@
+study_id	MGYS00004148
+study_name	Microbial community structures of chimney in DODO and Solitaire hydrothermal fields
+study_abstract	Difference of microbial diversity by the 16S rRNA gene in chimney structures between two hydrothermal fields on central Indian Ridge.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents
+=========================================================================================
+=========================================================================================

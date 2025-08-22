@@ -1,0 +1,7 @@
+study_id	MGYS00000998
+study_name	Soil microbiome CENEB Metagenome
+study_abstract	This project investigated three agricultural practices, i.e. different raised bed planting systems (tilled raised beds vs permanent raised beds), different levels of residue retention (full, partial and no retention of crop residue) and two application rates of inorganic N fertilizer (0 or 300 kg N ha-1), at a 20-year long-term field experiment cultivated with wheat (Triticum spp. L.) and maize (Zea mays L.). This study included also the effect of residue burning
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

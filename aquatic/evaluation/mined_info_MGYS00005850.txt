@@ -1,0 +1,8 @@
+study_id	MGYS00005850
+study_name	Ecological Genomics of a Seasonally Anoxic Fjord; Saanich Inlet
+study_abstract	Saanich Inlet is a seasonally anoxic fjord opening to the Strait of Georgia on the southeast coast of Vancouver Island, British Columbia. It is approximately 24 kilometers long with a maximal basin depth of 234 meters and receives limited freshwater input from the surrounding watershed. A shallow glacial entrance sill 75 meters deep restricts circulation within interior and basin waters for most of the year. During spring and summer months, restricted circulation combined with high levels of primary productivity in surface waters lead to oxygen loss with concomitant water column stratification indicated by accumulation of methane (CH4), Ammonia (NH3) and Hydrogen Sulfide (H2S). In late summer and fall, oxygenated nutrient-rich ocean waters upwelling through the Strait cascade into Saanich Inlet shoaling anoxic bottom waters upward and transforming the redox chemistry of the water column. This process is stable on decadal time scales exhibiting a relatively narrow deviation in the depth distribution of the oxycline at different times of year. The recurring seasonal development of water column anoxia followed by deep-water renewal enables spatiotemporal profiling of microbial community structure and function across a wide range of water column redox states.
+study_origination	HARVESTED
+associated_study_0	MGYS00005865
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+=========================================================================================
+=========================================================================================

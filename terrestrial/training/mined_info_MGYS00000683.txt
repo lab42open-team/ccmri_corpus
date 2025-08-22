@@ -1,0 +1,7 @@
+study_id	MGYS00000683
+study_name	Geothermal soil crust Targeted Locus (Loci)
+study_abstract	Diatomaceous samples from a geothermal biological soil crust. Alkaline siliceous geothermal biological soil crust samples from across 1ha and subdivided by photic/depth. <p> Soil cores were collected across a 1ha geothermal biological crusted soil system with the goals of describing a novel microbial environment, and investigating spatial heterogeneity in soil microbial systems. Soil cores were further separated into photic/depth levels, and replicated. 18S universal primers were used for amplifications, and individual samples were pyrosequenced (454-Ti). 
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00002308
+study_name	EMG produced TPA metagenomics assembly of the Metagenome sequencing of marine membrane vesicles (marine metagenome) data set.
+study_abstract	The marine metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA222589. This project includes samples from the following biomes: Environmental, Aquatic, Marine.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000546
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00005402
+study_name	Deterministic microbial communities dynamics in salterns exposed to different light intensities
+study_abstract	Microbial communities thriving in salterns are influenced by high salinity and high light irradiation. Here, short read metagenomes (Illumina) were sequenced from 3 different ponds. One was applied as control with no environmental stress applied. The other pond was covered with a plastic mess decreasing the environmental light intensity.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005401
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Salt crystallizer pond
+=========================================================================================
+=========================================================================================

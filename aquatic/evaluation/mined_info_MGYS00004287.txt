@@ -1,0 +1,7 @@
+study_id	MGYS00004287
+study_name	seawater PCC7002M CCMP1334M Raw sequence reads
+study_abstract	publish a paper
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

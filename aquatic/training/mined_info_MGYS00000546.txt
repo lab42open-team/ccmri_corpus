@@ -1,0 +1,8 @@
+study_id	MGYS00000546
+study_name	Metagenome sequencing of marine membrane vesicles
+study_abstract	Sequencing of DNA amplified from membrane vesicles isolated from the oceans
+study_origination	HARVESTED
+associated_study_0	MGYS00002308
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

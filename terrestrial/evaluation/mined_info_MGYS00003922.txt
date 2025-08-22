@@ -1,0 +1,10 @@
+study_id	MGYS00003922
+study_name	A combination of biochar-mineral complexes and compost improves soil bacterial processes, soil quality, and plant properties
+study_abstract	Biochar is derived from the oxygen-limited pyrolysis of organic matter (e.g. agricultural or municipal waste) and constitutes for complex structure of recalcitrant, porous carbon and well as mobile minerals and nutrients. Several studies have shown that the addition of biochar improves agricultural yields and performance in a way comparable to classical NPK or urea-based fertilisers. Biochar is therefore an emerging and attractive replacement for classical farming practices with the additional benefit of sequestering carbon that would otherwise be burnt or composted. The mechanisms behind the beneficial properties of biochar are not well understood, but initial work has shown that its amendment to soil impacts on microbial community composition. To better understand these processes, this project will obtain a comprehensive picture of the microbial community in bulk soil, roots and biochar particles in agricultural soils that were supplemented with various amounts of biochar as part of a field trial executed by the New South Wales Department of Primary Industries (DPI). A total of 253 samples will be analysed, that constitute a design that will allow us to understand where the most pronounced microbial changes occur (e.g. biochar particle versus soil) and what changes in the microbial communities occur over time.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

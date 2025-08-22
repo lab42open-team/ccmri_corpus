@@ -1,0 +1,7 @@
+study_id	MGYS00000720
+study_name	Diversity and Abundance of Ammonia Oxidizing Archaea in the Coastal Sea Surface Microlayer
+study_abstract	This is a part of a project targeting the distribution and diversity of ammonia oxidizing archaea in the sea surface microlayer (SML). Previous reports have reported the high abundance of Thaumarcheota in the SML in lake environments but the distribution of archaea in the SML of marine environments have yet to be investigated. Using 16S rRNA gene pyrosequencing and qualitative PCR techniques, we found that the relative abundance of phylum Thaumarchaeota can also be high in the SML and their abundances were weakly co-related to the chlorophyll-a and transparent exopolymer particles concentrations in the SML. Additionally, archaeal groups originating from soil or terrestrial were also found in higher proportions in the SML compared to the underlying water (20cm).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

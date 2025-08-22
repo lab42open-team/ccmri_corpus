@@ -1,0 +1,10 @@
+study_id	MGYS00003919
+study_name	Malaysia Pasoh Landuse Logged Forest
+study_abstract	In Malaysia and much of Southeast Asia the major drivers of deforestation are logging and expansion of oil palm agriculture. Forests regenerating from logging have been found to support relatively high levels of biodiversity for some larger taxa, while oil palm plantations have been shown to harbor a very small fraction of biodiversity that would otherwise be observed in primary forest. However, no studies have evaluated the belowground communities in these mosaics across the tropical landscape.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

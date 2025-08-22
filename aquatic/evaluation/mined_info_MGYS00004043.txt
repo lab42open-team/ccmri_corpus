@@ -1,0 +1,7 @@
+study_id	MGYS00004043
+study_name	Microbiome variation in Agaricia undata with distinct depth distribution ranges
+study_abstract	Here, we study the prokaryotic community associated with reef-building coral (Agaricia undata) over a depth gradient (38-80 m)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+=========================================================================================

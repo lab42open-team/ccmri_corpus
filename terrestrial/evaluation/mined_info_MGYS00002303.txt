@@ -1,0 +1,7 @@
+study_id	MGYS00002303
+study_name	Microbiome profiling Schlöppnerbrunnen peat cores from different depths
+study_abstract	Microbiome profiling of Schlöppnerbrunnen peat cores collected from different depths ranging from 0-30 cm.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

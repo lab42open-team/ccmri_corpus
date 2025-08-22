@@ -1,0 +1,7 @@
+study_id	MGYS00001620
+study_name	study of the Ancona harbor microbial community using 16S rRNA pyrosequencing.
+study_abstract	The sediments of the Ancona harbor (Italy) are polluted by crude oil, hence co-contaminated by different classes of molecules like hydrocarbons and heavy metals. In our study, we aimed to investigate the bacterial community composition of highly contaminated sediments and the deriving enrichment cultures established using different hydrocarbon pollutants. To depict the assemblage of bacteria populations we used 16S rRNA pyrosequencing data.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated
+=========================================================================================
+=========================================================================================

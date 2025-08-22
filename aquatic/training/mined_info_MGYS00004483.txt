@@ -1,0 +1,7 @@
+study_id	MGYS00004483
+study_name	Sediment river Genome sequencing and assembly
+study_abstract	Bacterial community composition in sediment discharge at upper and lower reaches of Puyang river
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

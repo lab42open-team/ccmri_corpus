@@ -1,0 +1,7 @@
+study_id	MGYS00005712
+study_name	Pelagic eukaryotic communities across Fram Strait
+study_abstract	Water samples were collected in Fram Strait during the Polarstern cruise PS85 (June 6th 2014 until July 3rd 2014) from eastern Greenland shelf to west coast of Spitsbergen. For assessing eukaryotic community composition 2 L of water were filtered using vacuum filtration (at 200 mbar) through successive membrane filters of 10 m , 3 m and 0.4 m. The extracted genomic eukaryotic DNA was pulled together from the different fractions and the hypervariable V4 (528iF - 964iR) region of the 18S rRNA was amplified and sequenced using Illumina MiSeq platform in a 2 300 bp paired-end run.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

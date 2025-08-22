@@ -1,0 +1,12 @@
+study_id	MGYS00004566
+study_name	Marine metagenome ICM_BSP
+study_abstract	Seasonal dynamics of bacterioplankton communities in the Baltic Sea Proper.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	19829318
+publication_nr_0_pubmed_abstract	Variation in traits causes bacterial populations to respond in contrasting ways to environmental drivers. Learning about this will help us understand the ecology of individual populations in complex ecosystems. We used 454 pyrosequencing of the hypervariable region V6 of the 16S rRNA gene to study seasonal dynamics in Baltic Sea bacterioplankton communities, and link community and population changes to biological and chemical factors. Surface samples were collected from May to October 2003 and in May 2004 at the Landsort Deep in the central Baltic Sea Proper. The analysis rendered, on average, 20 200 sequence reads for each of the eight samples analyzed, providing the first detailed description of Baltic Sea bacterial communities. Community composition varied dramatically over time, supporting the idea of strong temporal shifts in bacterioplankton assemblages, and clustered according to season (including two May samples from consecutive years), suggesting repeatable seasonal succession. Overall, community change was most highly correlated with change in phosphorus concentration and temperature. Individual bacterial populations were also identified that tightly co-varied with different Cyanobacteria populations. Comparing the abundance profiles of operational taxonomic units at different phylogenetic distances revealed a weak but significant negative correlation between abundance profile similarity and genetic distance, potentially reflecting habitat filtering of evolutionarily conserved functional traits in the studied bacterioplankton. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/19829318
+publication_nr_0_title	Pyrosequencing reveals contrasting seasonal dynamics of taxa within Baltic Sea bacterioplankton communities.
+publication_nr_0_publication_year	2010
+=========================================================================================

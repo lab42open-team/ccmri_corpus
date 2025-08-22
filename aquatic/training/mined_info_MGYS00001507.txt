@@ -1,0 +1,7 @@
+study_id	MGYS00001507
+study_name	Comparison of samples and mock communities amplified with single-base variations in 515-Forward universal primer
+study_abstract	This study is a comparison of marine environmental and marine mock community samples amplified with different versions of a commonly used universal forward primer 515. A mismatch in the 4th position in the 515F primer to the Thaumarchaea was corrected by replacing the (C) in that position with an ambiguity (N).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

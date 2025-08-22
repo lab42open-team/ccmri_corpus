@@ -1,0 +1,7 @@
+study_id	MGYS00004310
+study_name	sediment metagenome Metagenome
+study_abstract	Benthic communities in the aquatic ecosystem are influenced by both natural and anthropogenic stressors. To understand the ecogenomic responses of sediment communities to the multiple stressors of polluted environments, the bacteria, protistanand metazoan communities in sediments from marine and adjacent riverine areas of North Bohai Sea were characterized by environmental DNA meta-systematics, and their associations with environmental variables were assessed bymultiple statistical approaches. The structures of communities in sediments were shaped by both natural variables and anthropogenic contaminants, including DDTs, PAHs or metals. Particularly, the correlation network of multiple communities was modulated by the concentrationsof Na and DDTs at the family level.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000902
+study_name	Soil microorganisms Targeted Locus (Loci)
+study_abstract	Bacterial 16S sequences and fungal 18S sequences isolated from a wet tropical forest soil in Costa Rica
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+=========================================================================================

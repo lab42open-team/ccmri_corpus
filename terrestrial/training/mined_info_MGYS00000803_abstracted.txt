@@ -1,0 +1,12 @@
+study_id	MGYS00000803
+study_name	Agricultural soil samples pyrosequencing of nifH gene from soil samples
+study_abstract	The aim of this study was to examine the abundance, diversity and structure of diazotroph communities in a gradient of Argentinean agricultural soils, under different agricultural practices, using deep pyrosequencing-based analysis of the nifH gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	28766873
+publication_nr_0_pubmed_abstract	In this survey, a total of 80 787 reads and 28 171 unique NifH protein sequences were retrieved from soil RNA. This dataset extends our knowledge about the structure and diversity of the functional diazotrophic communities in agricultural soils from Argentinean Pampas. Operational taxonomic unit (OTU)-based analyses showed that nifH phylotypes related to Geobacter and Anaeromyxobacter (44.8%), Rhizobiales (29%), Cyanobacteria (16.7%), and Verrucomicrobiales (8%) are key microbial components of N<sub>2</sub> fixation in soils associated with no-till management and soil depth. In addition, quantification of nifH gene copies related to Geobacter and Cyanobacteria revealed that these groups are abundant in soils under maize-soybean rotation and soybean monoculture, respectively. The correlation of physicochemical soil parameters with the diazotrophic diversity and composition showed that soil stability and organic carbon might contribute to the functional signatures of particular nifH phylotypes in fields under no-till management. Because crop production relies on soil-borne microorganism's activities, such as free N<sub>2</sub> fixation, the information provided by our study on the diazotrophic population dynamics, associated with the edaphic properties and land-use practices, represents a major contribution to gain insight into soil biology, in which functionally active components are identified. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28766873
+publication_nr_0_title	Analysis of nifH-RNA reveals phylotypes related to Geobacter and Cyanobacteria as important functional components of the N<sub>2</sub> -fixing community depending on depth and agricultural use of soil.
+publication_nr_0_publication_year	2017
+=========================================================================================

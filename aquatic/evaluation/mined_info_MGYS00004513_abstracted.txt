@@ -1,0 +1,12 @@
+study_id	MGYS00004513
+study_name	Microbial diversity before and after tidal re-instatement
+study_abstract	Microbial community diversity from four surface sediment sites collected in duplicates. Two of the sites are below sea level and two are above sea level. The data set includes samples before and after a tidal re-instatement project. Greenhouse gas fluxes, water levels, and salinity were also collected to identify the potential of blue carbon in coastal wetlands.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30867475
+publication_nr_0_pubmed_abstract	There is a growing interest in how the management of 'blue carbon' sequestered by coastal wetlands can influence global greenhouse gas (GHG) budgets. A promising intervention is through restoring tidal exchange to impounded coastal wetlands for reduced methane (CH<sub>4</sub>) emissions. We monitored an impounded wetland's GHG flux (CO<sub>2</sub> and CH<sub>4</sub>) prior to and following tidal reinstatement. We found that biogeochemical responses varied across an elevation gradient. The low elevation zone experienced a greater increase in water level and an associated greater marine transition in the sediment microbial community (16 S rRNA) than the high elevation zone. The low elevation zone's GHG emissions had a reduced sustained global warming potential of 264 g m<sup>-2</sup> yr<sup>-1</sup> CO<sub>2</sub>-e over 100 years, and it increased to 351 g m<sup>-2</sup> yr<sup>-1</sup> with the removal of extreme rain events. However, emission benefits were achieved through a reduction in CO<sub>2</sub> emissions, not CH<sub>4</sub> emissions. Overall, the wetland shifted from a prior CH<sub>4</sub> sink (-0.07 to -1.74 g C m<sup>-2</sup> yr<sup>-1</sup>) to a variable sink or source depending on the elevation site and rainfall. This highlights the need to consider a wetland's initial GHG emissions, elevation and future rainfall trends when assessing the efficacy of tidal reinstatement for GHG emission control. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30867475
+publication_nr_0_title	Blue carbon potential of coastal wetland restoration varies with inundation and rainfall.
+publication_nr_0_publication_year	2019
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002490
+study_name	Baselines Initiative 16S rRNA gene dataset: Baselines Amplicon Release 1 (R1) Indian Ocean 2015
+study_abstract	The overall objective of this project (Baselines Initiative) is to generate several 16S rRNA gene databases to establish robust baseline information on the biological communities in marine ecosystems. This field study was conducted in the Bay of Bengal in Auguest-September 2015 to examine phytoplankton community diversity.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28073013
+publication_nr_0_pubmed_abstract	Ocean surface warming is resulting in an expansion of stratified, low-nutrient environments, a process referred to as ocean desertification [1]. A challenge for assessing the impact of these changes is the lack of robust baseline information on the biological communities that carry out marine photosynthesis. Phytoplankton perform half of global biological CO<sub>2</sub> uptake, fuel marine food chains, and include diverse eukaryotic algae that have photosynthetic organelles (plastids) acquired through multiple evolutionary events [1-3]. While amassing data from ocean ecosystems for the Baselines Initiative (6,177 near full-length 16S rRNA gene sequences and 9.4 million high-quality 16S V1-V2 amplicons) we identified two deep-branching plastid lineages based on 16S rRNA gene data. The two lineages have global distributions, but do not correspond to known phytoplankton. How the newly discovered phytoplankton lineages contribute to food chains and vertical carbon export to the deep sea remains unknown, but their prevalence in expanding, low nutrient surface waters suggests they will have a role in future oceans. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28073013
+publication_nr_0_title	Newly discovered deep-branching marine plastid lineages are numerically rare but globally distributed.
+publication_nr_0_publication_year	2017
+=========================================================================================

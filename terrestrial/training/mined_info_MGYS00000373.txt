@@ -1,0 +1,8 @@
+study_id	MGYS00000373
+study_name	ASS lime injection - injection site
+study_abstract	Due to very low inflows from the Murray-Darling Basin from 2007-2009, water levels in the Lower Murray River dropped to -1m AHD in April 2009. The low water levels and restricted water allocations during this hydrological drought period caused the acid sulfate soils subsequently acidified and salinized. Given the acidic drainage water presents a potential risk to the water quality and environmental values of the Lower River Murray, a subsoil neutralisation using a limestone slurry and a modified mole drain technique was applied. The aim of this trial is to examine whether the introduction of alkalinity (limestone) at depth in the oxidised and rewet acid sulfate soils, will sufficiently raise the pH to begin the process of sulfate reduction. It is hoped by promoting sulfate reduction, via sulfate reducing bacteria, the soils will begin to remediate, producing less acidic drainage to the salt drains in the irrigation areas.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002070
+biome_info_0	root:Environmental:Terrestrial:Soil:Clay
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000731
+study_name	gts.soil.sample Metagenome
+study_abstract	Soil fungi in Gutianshan.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

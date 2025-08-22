@@ -1,0 +1,10 @@
+study_id	MGYS00003793
+study_name	McGuire Nicaragua coffee soil
+study_abstract	Coffee plantations in northern Latin America coincide with areas of extremely rich biodiversity. Recent advances by fair trade organizations have stimulated sustainable agriculture in the form of shade coffee plantations as a way of reconciling economic and conservation targets; however, the shade management techniques vary between sites and result in different canopy assemblies across farms over time. The effect of differing canopy regimes on microbial communities are poorly understood but guide nutrient cycling, crucial for both agriculture and the maintenance of ecosystem diversity. The goal of this project is to explore the relationship between managed canopies, land use history, and soil microbial communities in Nicaraguan shade-coffee plantations, and use this information to develop a set of guidelines for soil management to improve soil quality.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

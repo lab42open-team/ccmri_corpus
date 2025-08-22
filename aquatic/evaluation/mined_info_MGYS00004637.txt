@@ -1,0 +1,7 @@
+study_id	MGYS00004637
+study_name	Marine picocyanobacterial community structure
+study_abstract	A surprising recent observation is that one of the smallest types marine phytoplankton, picocyanobacteria of the genus Synechococcus, can contain concentrations of silicon rivaling those found in diatoms. As part of an NSF-funded project exploring the implications of this observation, entitled ''Understanding the Role of Picocyanobacteria in the Marine Silicate Cycle'', we used PacBio sequencing of a PCR-amplified fragment of the petB gene to describe the diversity and structure of the cyanobacterial community in seawater samples collected at several locations in the North Atlantic ocean. We used this information to determine whether there is a relationship between the content of biogenic silica in the <3 micron size fraction and the types of picocyanobacteria present.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

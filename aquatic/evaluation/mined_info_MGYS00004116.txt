@@ -1,0 +1,8 @@
+study_id	MGYS00004116
+study_name	Archaeal diversity of surface seawater (A3,A5,G3,G5) Targeted Locus (Loci)
+study_abstract	To investigate the archaeal diversity of sea water from Greatwall cove and Ardley cove, Fildes Peninsula, four surface water samples were collected during the 29th Chinese Antarctic scientific expedition in 2013.
+study_origination	HARVESTED
+associated_study_0	MGYS00004589
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

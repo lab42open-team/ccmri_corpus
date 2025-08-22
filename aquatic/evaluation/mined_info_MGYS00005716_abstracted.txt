@@ -1,0 +1,14 @@
+study_id	MGYS00005716
+study_name	Metabarcoding of eDNAbyss water samples
+study_abstract	Water from different depths was prefiltered in situ using Salsa pump or collected in CTD bottled before being filtered onboard to retain small cell sizes or nucleic acids (DNA/RNA). Nucleic acids were extracted from filters and submitted to a PCR-ligation protocols using 6 sets of primers pairs targeting metazoans (2 primer pairs targeting a fragment of Cytochrome Oxydase I and one of rDNA18S V1-V2), microeukaryotes (2 primer pairs targeting rDNA 18S V4 and V9) and prokaryotes (2 sets of primer pairs targeting rDNA16S V4-V5 respectively defined for prokaryotes in general, and archaebacterial in particular).
+study_origination	SUBMITTED
+associated_study_0	MGYS00005851
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33846371
+publication_nr_0_pubmed_abstract	Despite representing one of the largest biomes on earth, biodiversity of the deep seafloor is still poorly known. Environmental DNA metabarcoding offers prospects for fast inventories and surveys, yet requires standardized sampling approaches and careful choice of environmental substrate. Here, we aimed to optimize the genetic assessment of prokaryote (16S), protistan (18S V4), and metazoan (18S V1-V2, COI) communities, by evaluating sampling strategies for sediment and aboveground water, deployed simultaneously at one deep-sea site. For sediment, while size-class sorting through sieving had no significant effect on total detected alpha diversity and resolved similar taxonomic compositions at the phylum level for all markers studied, it effectively increased the detection of meiofauna phyla. For water, large volumes obtained from an in situ pump (~ 6000 L) detected significantly more metazoan diversity than 7.5 L collected in sampling boxes. However, the pump being limited by larger mesh sizes (&gt; 20 mym), only captured a fraction of microbial diversity, while sampling boxes allowed access to the pico- and nanoplankton. More importantly, communities characterized by aboveground water samples significantly differed from those characterized by sediment, whatever volume used, and both sample types only shared between 3 and 8% of molecular units. Together, these results underline that sediment sieving may be recommended when targeting metazoans, and aboveground water does not represent an alternative to sediment sampling for inventories of benthic diversity. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33846371
+publication_nr_0_title	Evaluating sediment and water sampling methods for the estimation of deep-sea biodiversity using environmental DNA.
+publication_nr_0_publication_year	2021
+=========================================================================================

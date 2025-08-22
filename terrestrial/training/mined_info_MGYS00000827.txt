@@ -1,0 +1,7 @@
+study_id	MGYS00000827
+study_name	Study of microbial community structure of permafrost soil
+study_abstract	The goal of this study is to uncover the inter-reflections between microbes and environment in continuous permafrost near bitumen in Qiangtang basin. Organisms were grown in pure culture after isolation from permafrost soil.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+=========================================================================================

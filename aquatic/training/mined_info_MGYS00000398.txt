@@ -1,0 +1,7 @@
+study_id	MGYS00000398
+study_name	Gladstone Shading Experiment
+study_abstract	Effect of dredging on taxonomic and functional diversity of microbes in sediments
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

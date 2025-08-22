@@ -1,0 +1,7 @@
+study_id	MGYS00000774
+study_name	Bacterial, IncP-1 and merA diversity in soil and wastewater
+study_abstract	The diversity of bacterial 16S rRNA gene, IncP-1 replication (trfA) gene and mercuric reductase (merA) gene in two different soils (forest soil and copper, chrome and arsenic contaminated soil) and wastewater studied by amplicon pyrosequencing. Three replicates were collected from each location.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

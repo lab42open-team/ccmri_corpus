@@ -1,0 +1,7 @@
+study_id	MGYS00005312
+study_name	16S rRNA amplicon analysis of Pozo Bravo Lake, Catamarca, Argentina.
+study_abstract	16S rRNA amplicon analysis of Pozo Bravo Lake, Catamarca, Argentina.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+=========================================================================================

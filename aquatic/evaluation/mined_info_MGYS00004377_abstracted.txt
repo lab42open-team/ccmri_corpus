@@ -1,0 +1,12 @@
+study_id	MGYS00004377
+study_name	Boreal lake sediment 16S rRNA gene amplicon (454-pyrosequencing) raw sequence reads
+study_abstract	Boreal lake sediment 16S rRNA gene amplicons
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26191058
+publication_nr_0_pubmed_abstract	Denitrification is an important microbial process in aquatic ecosystems that can reduce the effects of eutrophication. Here, quantification and pyrosequencing of nirS, nirK, and nosZ genes encoding for nitrite and nitrous oxide reductases was performed in sediment samples from four boreal lakes to determine the structure and seasonal stability of denitrifying microbial populations. Sediment quality and nitrate concentrations were linked to the quantity and diversity of denitrification genes, the abundance of denitrifying populations (nirS and nosZ genes) correlated with coupled nitrification-denitrification (Dn), and the denitrification of the overlying water NO3 (-) (Dw) correlated with the nirS/nirK ratio. The number of core nirS, nirK, and nosZ operational taxonomical units (OTUs) was low (6, 7, and 3, respectively), and most of these core OTUs were shared among the lakes. Dominant nirK sequences matched best with those of the order Rhizobiales, which was one of the main bacterial orders present in the sediment microbiomes, whereas the dominant nirS sequences were affiliated with the order Burkholderiales. Over half of the nosZ sequences belonged to a single OTU of the order Burkholderiales, but coupled nitrification-denitrification rate correlated with another dominant nosZ OTU assigned to the order Rhodospirillales. The study indicates that a few core proteobacterial clusters may drive denitrification in boreal lake sediments, as the same Alpha- and Betaproteobacteria denitrifier clusters were present in different lakes and seasons. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26191058
+publication_nr_0_title	Functional gene pyrosequencing reveals core proteobacterial denitrifiers in boreal lakes.
+publication_nr_0_publication_year	2015
+=========================================================================================

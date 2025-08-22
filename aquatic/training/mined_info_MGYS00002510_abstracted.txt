@@ -1,0 +1,12 @@
+study_id	MGYS00002510
+study_name	Hatteras return: Oligotrich and choreotrich ciliates diversity at small scales
+study_abstract	Hatteras return: diversity and community composition of Oligotrich and choreotrich ciliates at small scales (1-3 km) off the New England coast
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	27936137
+publication_nr_0_pubmed_abstract	Although protists (microbial eukaryotes) provide an important link between bacteria and Metazoa in food webs, we do not yet have a clear understanding of the spatial scales on which protist diversity varies. Here, we use a combination of DNA fingerprinting (denaturant gradient gel electrophoresis or DGGE) and high-throughput sequencing (HTS) to assess the ciliate community in the class Spirotrichea at varying scales of 1-3 km sampled in three locations separated by at least 25 km-offshore, midshelf and inshore-along the New England shelf. Analyses of both abundant community (DGGE) and the total community (HTS) members reveal that: 1) ciliate communities are patchily distributed inshore (i.e. the middle station of a transect is distinct from its two neighboring stations), whereas communities are more homogeneous among samples within the midshelf and offshore stations; 2) a ciliate closely related to Pelagostrobilidium paraepacrum 'blooms' inshore and; 3) environmental factors may differentially impact the distributions of individual ciliates (i.e. OTUs) rather than the community as a whole as OTUs tend to show distinct biogeographies (e.g. some OTUs are restricted to the offshore locations, some to the surface, etc.). Together, these data show the complexity underlying the spatial distributions of marine protists, and suggest that biogeography may be a property of ciliate species rather than communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27936137
+publication_nr_0_title	Patchiness of Ciliate Communities Sampled at Varying Spatial Scales along the New England Shelf.
+publication_nr_0_publication_year	2016
+=========================================================================================

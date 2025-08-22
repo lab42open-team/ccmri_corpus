@@ -1,0 +1,7 @@
+study_id	MGYS00001467
+study_name	The studies presented here aim to gain evaluate the potential of an anaerobic microbial consortium to biologically translate Cr(VI) from sediments amended with NPs (i.e., Fe2O3 and Fe3O4).
+study_abstract	Chromium has been listed as one of the top 20 contaminants on the superfund priority list of hazardous substances for the past few years due to its tremendous toxicity. In general, chromium mainly exists in trivalent (Cr(III)) and hexavalent (Cr(VI)) species. Carbon sources and electron shuttles compounds, some novel materials, like nanoparticls (NPs), would play an important role in Cr(VI) reduction in anaerobic condition. Thus, the studies presented here aim to gain evaluate the potential of an anaerobic microbial consortium to biologically translate Cr(VI) from sediments amended with NPs (i.e., Fe2O3 and Fe3O4).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+=========================================================================================

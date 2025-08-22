@@ -1,0 +1,10 @@
+study_id	MGYS00001055
+study_name	Dune soil fungi Metagenome
+study_abstract	This study aimed to wholly describe fungal diversity and community composition in a semi-closed coastal sand dune ecosystem, and to relate changes in fungi with variations in soil physiochemistry and shifts in ecosystem function at 8 different stages of succession.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+=========================================================================================

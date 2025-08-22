@@ -1,0 +1,7 @@
+study_id	MGYS00002769
+study_name	Distribution of the Roseobacter clade
+study_abstract	The aim of this study was to investigate the distribution of the Roseobacter clade in water and sediment samples which were taken along a latitudinal gradient from Germany to Norway.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

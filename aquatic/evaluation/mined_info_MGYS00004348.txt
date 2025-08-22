@@ -1,0 +1,7 @@
+study_id	MGYS00004348
+study_name	Cataloging the Microbial Diversity of Sundarbans in the Backdrop of Climate Change
+study_abstract	The influence of temporal and spatial variations on the microbial population in sediments of Sundarbans has been assessed using 16S rRNA gene pyrosequencing. The extraction of DNA from the sediment samples collected from the surface (2 cm) and subsurface (16 cm) layers in two seasons (monsoon and post monsoon) and the direct application of the 16S rRNA gene pyrosequencing resulted in approximately 117 Mbp of data from three sampling stations (Jharkhali, Sahidnagar and Godkhali). The taxonomic analysis of the pyrosequencing data grouped the sequences into 24 different phyla. In general, Proteobacteria were the most dominant phyla and further analysis revealed the dominance of Deltaprotaobacteria, Alphaproteobacteria and Gammaproteobacteria within the sediments. To our knowledge, this is the first detailed analysis of the microbial diversity in the world''s largest mangrove sediment of Sundarabns.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Mangrove swamp
+=========================================================================================
+=========================================================================================

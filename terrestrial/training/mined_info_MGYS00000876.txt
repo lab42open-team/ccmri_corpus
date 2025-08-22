@@ -1,0 +1,7 @@
+study_id	MGYS00000876
+study_name	Bacterial community composition on leaf litter of F. sylvatica Targeted Locus (Loci)
+study_abstract	Identification of bacterial community composition on leaf litter of F. sylvatica by 454 amplicon sequecing of 16S rRNA gene fragments
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

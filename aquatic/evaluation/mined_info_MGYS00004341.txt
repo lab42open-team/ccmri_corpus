@@ -1,0 +1,7 @@
+study_id	MGYS00004341
+study_name	Aquifer sediment nitrate reducing community change
+study_abstract	Microbial community composition change over the course of a heterotrophic nitrate reducing enrichment. Sediments used in this experiment were collected from a nitrate contaminated shallow aquifer at a depth of 58-61ft from Alda, NE. Illumina sequencing of the V5 hypervariable region of the 16S rRNA gene is used.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Contaminated
+=========================================================================================
+=========================================================================================

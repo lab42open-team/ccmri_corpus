@@ -1,0 +1,7 @@
+study_id	MGYS00001619
+study_name	Sulfate reducing and methanogenic microbial community structure in Outokumpu deep bedrock fracture zones
+study_abstract	Sulfate reducing bacterial communities and methanogenic archaeal communities were characterized by amplicon sequencing the marker gene for sulfate reduction and methanogenesis, dsrB and mcrA, respectively. Study was conducted in Outokumpu Deep Drill Hole, Finland in a depth range of 180-2300 m.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Rock-dwelling (subaerial biofilm)
+=========================================================================================
+=========================================================================================

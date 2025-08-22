@@ -1,0 +1,12 @@
+study_id	MGYS00001602
+study_name	Nitrate and ammonia as nitrogen sources for deep subsurface microorganisms
+study_abstract	The nitrogen cycling bacterial community at 100 m depth in crystalline bedrock groundwater was investigated using nitrate and ammonium as substrates in a stable isotope probing study. The bacterial community was enriched with 15N ammonium or nitrate for 28 days after which the enriched community and the nitrogen assimilating communities were compared using 454 amplicon sequencing of the 16S rRNA genes
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+publication_nr_0_pubmed_id	26528251
+publication_nr_0_pubmed_abstract	We investigated the N-utilizing bacterial community in anoxic brackish groundwater of the low and intermediate level nuclear waste repository cave in Olkiluoto, Finland, at 100 m depth using (15)N-based stable isotope probing (SIP) and enrichment with (14/15)N-ammonium or (14/15)N-nitrate complemented with methane. Twenty-eight days of incubation at 12C increased the concentration of bacterial 16S rRNA and nitrate reductase (narG) gene copies in the substrate amended microcosms simultaneously with a radical drop in the overall bacterial diversity and OTU richness. Hydrogenophaga/Malikia were enriched in all substrate amended microcosms and Methylobacter in the ammonium and ammonium+methane supplemented microcosms. Sulfuricurvum was especially abundant in the nitrate+methane treatment and the unamended incubation control. Membrane-bound nitrate reductase genes (narG) from Polarimonas sp. were detected in the original groundwater, while Burkholderia, Methylibium, and Pseudomonas narG genes were enriched due to substrate supplements. Identified amoA genes belonged to Nitrosomonas sp. (15)N-SIP revealed that Burkholderiales and Rhizobiales clades belonging to the minority groups in the original groundwater used (15)N from ammonium and nitrate as N source indicating an important ecological function of these bacteria, despite their low number, in the groundwater N cycle in Olkiluoto bedrock system. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26528251
+publication_nr_0_title	Nitrate and ammonia as nitrogen sources for deep subsurface microorganisms.
+publication_nr_0_publication_year	2015
+=========================================================================================

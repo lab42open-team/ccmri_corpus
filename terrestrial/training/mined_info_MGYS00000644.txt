@@ -1,0 +1,7 @@
+study_id	MGYS00000644
+study_name	Desert varnish metagenome
+study_abstract	Our study provides an insight into the microbial community structure associated with desert varnish, a coating found on exposed rock surfaces in arid environments. We characterize samples from the Mojave Desert, California, USA using whole-genome shotgut sequencing with a special focus on manganese-oxidizing species.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

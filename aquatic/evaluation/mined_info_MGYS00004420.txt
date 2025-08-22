@@ -1,0 +1,7 @@
+study_id	MGYS00004420
+study_name	Sea ice and seawater Raw sequence reads
+study_abstract	Fungi are vastly understudied in the marine realm and the extent of their functionality as nutrient cyclers and parasites is constrained by the current understandings of fungal distribution and drivers on global scales. To investigate fungal distributions, high throughput sequencing of the 18S and 28S rRNA genes were examined from across the western Arctic and sub-Arctic.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

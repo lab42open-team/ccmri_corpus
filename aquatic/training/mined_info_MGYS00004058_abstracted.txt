@@ -1,0 +1,12 @@
+study_id	MGYS00004058
+study_name	Marine Sediment Targeted Locus
+study_abstract	Marine sediment samples collected from the Bay of Fundy, New Brunswick.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	24531187
+publication_nr_0_pubmed_abstract	Actinomycetes are an important resource for the discovery of natural products with therapeutic properties. Bioprospecting for actinomycetes typically proceeds without a priori knowledge of the bacterial diversity present in sampled habitats. In this study, we endeavored to determine if overall bacterial diversity in marine sediments, as determined by 16S rDNA amplicon pyrosequencing, could be correlated with culturable actinomycete diversity, and thus serve as a powerful tool in guiding future bioprospecting efforts. Overall bacterial diversity was investigated in eight marine sediments from four sites in New Brunswick, Canada, resulting in over 44,000 high quality sequences (x = 5610 per sample). Analysis revealed all sites exhibited significant diversity (H' = 5.4 to 6.7). Furthermore, statistical analysis of species level bacterial communities (D = 0.03) indicated community composition varied according to site and was strongly influenced by sediment physiochemical composition. In contrast, cultured actinomycetes (n = 466, 98.3% Streptomyces) were ubiquitously distributed among all sites and distribution was not influenced by sediment composition, suggesting that the biogeography of culturable actinomycetes does not correlate with overall bacterial diversity in the samples examined. These actinomycetes provide a resource for future secondary metabolite discovery, as exemplified by the antimicrobial activity observed from preliminary investigation. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24531187
+publication_nr_0_title	Bioprospecting from marine sediments of New Brunswick, Canada: exploring the relationship between total bacterial diversity and actinobacteria diversity.
+publication_nr_0_publication_year	2014
+=========================================================================================

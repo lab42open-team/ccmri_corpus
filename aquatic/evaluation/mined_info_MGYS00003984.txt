@@ -1,0 +1,7 @@
+study_id	MGYS00003984
+study_name	marine sediment metagenome Targeted loci environmental
+study_abstract	The microbiological objectives of IODP Expedition 347 Baltic Sea Paleoenvironmentfocused on 1) how the phylogenetic diversity of the deep biosphere in this intracontinental sea differs from that of deep-ocean communities, and 2) are microorganisms that presently live in the deep sediments remnants of limnic and marine populations, or does the modern sedimentary environment select for thecommunity. The Expedition took place September 16, 2013 November 1, 2013 on board the IODP Mission-Specific Platform Greatship Manisha. Cores were advanced for microbiological sampling at 4 locations: BSB-1, BSB-3, BSB-7, and BSB-9 (Figure 1) using Advanced Piston Coring (APC) and checked for contamination using perfluorcarbon tracers (PFTs).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

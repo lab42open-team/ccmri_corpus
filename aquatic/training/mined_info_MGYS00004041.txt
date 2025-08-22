@@ -1,0 +1,7 @@
+study_id	MGYS00004041
+study_name	Copepod induced bacterial community Raw sequence reads
+study_abstract	Live copepods from the North Atlantic subtropical gyre were collected and rinsed to be used in bioassay-type experiments. Bacteria present in various seawater and copepod treatments were analyzed by targeting the 16S rRNA V3-V4 region. In this study, copepods were observed to increase growth of bacteria which were released to their surroundings. Additionally, copepods may be responsible for inhibiting or inducing growth of specific bacterial groups.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

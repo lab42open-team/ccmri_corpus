@@ -1,0 +1,7 @@
+study_id	MGYS00004277
+study_name	sediment metagenome Raw sequence reads
+study_abstract	microbe community and funtion
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,15 @@
+study_id	MGYS00000737
+study_name	The Island Project - Fungal communities in boreal forest soils
+study_abstract	This project investigates fungal communities in fine-scaled organic soil profiles in a long-term chronosequence of boreal forests. The forests are situated on 30 islands in the two lakes Hornavan and Uddjaure, in northern Sweden. The islands have burned with different frequency due to their different area to intercept lightning, and the forests represent a successional gradient ranging from 50 to 5000 years in age. The current project seeks to unravel the mechanisms for the observed long-term build-up of carbon in the organic soil profiles in the islands. It is highly relevant to increase understanding of these mechanisms to be able to adequately predict effects of climate change, forest management practices and other environmental changes on the large carbon stocks currently stored in boreal forest soils. Fungal ITS2 amplicons from organic soil profiles from boreal forest chronosequence.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+publication_nr_1_pubmed_id	32463383
+publication_nr_1_pubmed_abstract	Fungi have crucial roles in ecosystems, and are important associates for many organisms. They are adapted to a wide variety of habitats, however their global distribution and diversity remains poorly documented. The exponential growth of DNA barcode information retrieved from the environment is assisting considerably the traditional ways for unraveling fungal diversity and detection. The raw DNA data in association to environmental descriptors of metabarcoding studies are made available in public sequence read archives. While this is potentially a valuable source of information for the investigation of Fungi across diverse environmental conditions, the annotation used to describe environment is heterogenous. Moreover, a uniform processing pipeline still needs to be applied to the available raw DNA data. Hence, a comprehensive framework to analyses these data in a large context is still lacking. We introduce the MycoDiversity DataBase, a database which includes public fungal metabarcoding data of environmental samples for the study of biodiversity patterns of Fungi. The framework we propose will contribute to our understanding of fungal biodiversity and aims to become a valuable source for large-scale analyses of patterns in space and time, in addition to assisting evolutionary and ecological research on Fungi. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32463383
+publication_nr_1_title	Fungal metabarcoding data integration framework for the MycoDiversity DataBase (MDDB).
+publication_nr_1_publication_year	2020
+=========================================================================================

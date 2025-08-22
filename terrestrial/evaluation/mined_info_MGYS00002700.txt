@@ -1,0 +1,7 @@
+study_id	MGYS00002700
+study_name	Soil metagenome from healthy and unhealthy agricultural soil
+study_abstract	Soil samples were collected from healthy and unhealthy agricultural soil. Soil health was determined based on plant productivity and farmer's perception. DNA was extracted and subjected to metagenome sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000913
+study_name	Changshu soil samples Metagenome
+study_abstract	Organic-inorganic compound fertilizer is a novel fertilizer type in China. A field study was performed to evaluate the effect of organic-inorganic compound fertilizer to soil properties, microbial biomass, soil enzyme activity, functional genes and the bacterial community structure.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

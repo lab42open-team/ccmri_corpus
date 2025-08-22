@@ -1,0 +1,7 @@
+study_id	MGYS00001911
+study_name	This project studies the global transcriptional changes of P. veronii 1YdBTEX once it is introduced in different soils which contain a establish resident microbial community. We would like to characterize the response from the resident community members to the introduced strain.
+study_abstract	This project studies the global transcriptional changes of P. veronii 1YdBTEX once it is introduced in different soils which contain a establish resident microbial community. We would like to characterize the response from the resident community members to the introduced strain.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

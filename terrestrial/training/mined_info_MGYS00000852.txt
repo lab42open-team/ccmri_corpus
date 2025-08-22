@@ -1,0 +1,7 @@
+study_id	MGYS00000852
+study_name	Soil environment Metagenome
+study_abstract	This project aims to determine the diversity of fungi surrounding individual pine trees in Point Reyes National Seashore, California
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

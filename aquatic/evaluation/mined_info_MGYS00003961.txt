@@ -1,0 +1,10 @@
+study_id	MGYS00003961
+study_name	Long-term seasonal development in selected lakes of Northeast Germany
+study_abstract	Longterm data (up to 9 years) of 8 lakes situated in Northeastern Germany are provided. Samples were taken monthly on average dividing particle-associated (greater than 5.0um) and free-living (less than 5.0um, greater than 0.2um) microbes in the water column and in two lakes in the sediment. The lakes are all located closely to each other but differ in many physicochemical parameters such as pH and conductivity. Thus, similarities as well as dissimilarities of microbial communities are of high interest. One lake (Lake Tiefwaren) was sampled after phosphate restoration.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,10 @@
+study_id	MGYS00003963
+study_name	Influence of tillage practices on soil microbial diversity and activity in a long-term corn experimental field under continuous maize production
+study_abstract	It is well known that an intensive conventional farming and continuous use of land resources can lead to a decrease of soil sustainability. The aim of this study was to compare the impact of four different tillage practices (minimum tillage MT, shallow ploughing SP, ripper subsoiling RS and conventional tillage DP) on soil profile under both continuous and rotating (wheat, bean, maize) maize production since 1970. The field study was conducted on 24 experimental plots on a loam soil of Fagna, Tuscany (Italy), where soil samples were collected at four different layers of 10 cm each, up to a total depth of 40 cm (0-10, 10-20, 20-30 and 30-40 cm in triplicate) and of 20 cm (0-10 and 10-20 cm) from continuous and rotating maize fields respectively, in order to measure the effect of the different tillage practices on soil organic matter, microbial diversity and microbial activity.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

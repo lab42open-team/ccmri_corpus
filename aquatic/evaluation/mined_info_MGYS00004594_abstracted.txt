@@ -1,0 +1,12 @@
+study_id	MGYS00004594
+study_name	Arctic water Metagenome
+study_abstract	Diversity and distribution of aquatic fungal communities in the Ny-Alesund Region, Svalbard, High Arctic
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	26492897
+publication_nr_0_pubmed_abstract	We assessed the diversity and distribution of fungi in 13 water samples collected from four aquatic environments (stream, pond, melting ice water, and estuary) in the Ny-Aalesund Region, Svalbard (High Arctic) using 454 pyrosequencing with fungi-specific primers targeting the internal transcribed spacer (ITS) region of the ribosomal rRNA gene. Aquatic fungal communities in this region showed high diversity, with a total of 43,061 reads belonging to 641 operational taxonomic units (OTUs) being found. Of these OTUs, 200 belonged to Ascomycota, 196 to Chytridiomycota, 120 to Basidiomycota, 13 to Glomeromycota, and 10 to early diverging fungal lineages (traditional Zygomycota), whereas 102 belonged to unknown fungi. The major orders were Helotiales, Eurotiales, and Pleosporales in Ascomycota; Chytridiales and Rhizophydiales in Chytridiomycota; and Leucosporidiales and Sporidiobolales in Basidiomycota. The common fungal genera Penicillium, Rhodotorula, Epicoccum, Glaciozyma, Holtermanniella, Betamyces, and Phoma were identified. Interestingly, the four aquatic environments in this region harbored different aquatic fungal communities. Salinity, conductivity, and temperature were important factors in determining the aquatic fungal diversity and community composition. The results suggest the presence of diverse fungal communities and a considerable number of potentially novel fungal species in Arctic aquatic environments, which can provide reliable data for studying the ecological and evolutionary responses of fungi to climate change in the Arctic ecosystem. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26492897
+publication_nr_0_title	Diversity and Distribution of Aquatic Fungal Communities in the Ny-Ålesund Region, Svalbard (High Arctic): Aquatic Fungi in the Arctic.
+publication_nr_0_publication_year	2016
+=========================================================================================

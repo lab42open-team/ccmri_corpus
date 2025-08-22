@@ -1,0 +1,7 @@
+study_id	MGYS00000727
+study_name	1) Fungi, 2) Perscribed Burning, 3) Soil Targeted Locus (Loci)
+study_abstract	We Ion Torrent sequenced Internal Transcribed Spacer Region 1 (ITS1) amplicons to interrogate soil fungal community responses to long-term prescribed fire treatments in a loblolly pine forest on the Piedmont of Georgia. Our deep sequence data are largely congruent with previous studies and indicate that frequent fire recurrence (3 year fire interval) leads to shifts in soil fungus communities whereas infrequent fires (6 year fire interval) permit system resetting to a state similar to that without prescribed fire. Our results suggest that shifts in the vegetation community, which are the management goal of frequent prescribed fire, accompany changes in the soil fungal community. However, these changes do not occur when the interval between fires is longer.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

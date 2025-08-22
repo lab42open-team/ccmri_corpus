@@ -1,0 +1,8 @@
+study_id	MGYS00004669
+study_name	microbial community composition of marine water and sediment
+study_abstract	To study the diversity and composition of water and sediment microbial community in seaweed cultivation zone and natural sea zone.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+biome_info_1	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

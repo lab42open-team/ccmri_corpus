@@ -1,0 +1,7 @@
+study_id	MGYS00000802
+study_name	Diversity and rehabilitation of prokaryotic communities of European biological soil crusts
+study_abstract	Biological soil crusts (biocrusts) play vital roles in dryland regions that cover over 35% of the Earth?s land mass, including 24% of Europe. They provide important ecosystem services such as limitation of soil erosion, retention of water, improving soil fertility, and nitrogen and carbon fixation. Here, we present a characterization of the prokaryotic components of European biocrusts, particularly in light of the fact that biocrusts are very susceptible to land use change, long-term farming and chronic physical disturbance. Knowledge of soil microorganisms is rarely considered within the context of biodiversity management, although the diversity and services provided by soil biota are of decisive importance for intact ecosystem function. Secondly, a rehabilitation study was carried out in order to investigate the recovery processes of biocrusts in response to anthropogenic perturbation. The successional pattern of recovery was assessed in the form of returning organisms including bacteria, fungi, algae, lichens, bryophytes and higher plants.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

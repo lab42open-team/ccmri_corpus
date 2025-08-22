@@ -1,0 +1,12 @@
+study_id	MGYS00000721
+study_name	Phototrophs Metagenome
+study_abstract	454 amplicon pyrosequencing was used to assess bacterial (16S rRNA), fungal (ITS region) and phototroph (23S rRNA genes of plastids) community structure at the soil surface (upper 3mm) of pasture soil following incubation under light (16hr:8hr light:dark cycle) and dark conditions for 80 days. Phototrophs at Gartenacker soil surface.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	23894406
+publication_nr_0_pubmed_abstract	The upper few millimeters of soil harbour photosynthetic microbial communities that are structurally distinct from those of underlying bulk soil due to the presence of light. Previous studies in arid zones have demonstrated functional importance of these communities in reducing soil erosion, and enhancing carbon and nitrogen fixation. Despite being widely distributed, comparative understanding of the biodiversity of the soil surface and underlying soil is lacking, particularly in temperate zones. We investigated the establishment of soil surface communities on pasture soil in microcosms exposed to light or dark conditions, focusing on changes in phototroph, bacterial and fungal communities at the soil surface (0-3 mm) and bulk soil (3-12 mm) using ribosomal marker gene analyses. Microbial community structure changed with time and structurally similar phototrophic communities were found at the soil surface and in bulk soil in the light exposed microcosms suggesting that light can influence phototroph community structure even in the underlying bulk soil. 454 pyrosequencing showed a significant selection for diazotrophic cyanobacteria such as Nostoc punctiforme and Anabaena spp., in addition to the green alga Scenedesmus obliquus. The soil surface also harboured distinct heterotrophic bacterial and fungal communities in the presence of light, in particular, the selection for the phylum Firmicutes. However, these light driven changes in bacterial community structure did not extend to the underlying soil suggesting a discrete zone of influence, analogous to the rhizosphere. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/23894406
+publication_nr_0_title	Light structures phototroph, bacterial and fungal communities at the soil surface.
+publication_nr_0_publication_year	2013
+=========================================================================================

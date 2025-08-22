@@ -1,0 +1,12 @@
+study_id	MGYS00001017
+study_name	Tibetan wetland soils Metagenome
+study_abstract	The study is to investigate the methanogenic archaeal community by targeting the mcrA gene fragment, and to examine their link to environmental parameters
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Wetlands
+=========================================================================================
+publication_nr_0_pubmed_id	29029047
+publication_nr_0_pubmed_abstract	The rare biosphere, the low abundant microbial populations, is suggested to be a conserved way of microbial life. Here we conducted a molecular survey of rare methanogenic archaea in the environment targeting the mcrA gene in order to test if general concepts associated with the structure of the rare bacterial biosphere also apply to single functional groups. Similar to what is known about rare bacterial communities, the contribution of rare methanogens to the alpha diversity is much larger than to Bray-Curtis measures. Moreover, a similar core group of methanogens harbored by the abundant and rare communities suggests similar sources and environmental controls of both groups. Among the communities of different levels of rarity, the conditionally rare methanogenic taxa largely account for the overall community dynamics of the rare biosphere and likely enter the dominant community under favorable environmental conditions. In addition, we observed a positive correlation between the alpha diversity and the production of methane when the rare taxa were taken into account. This supports the concept that increasing microbial biodiversity enhances ecological function. The composition and environmental associations of the rare methanogenic biosphere allow us to conclude that rarity is a conserved way also for single functional groups. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29029047
+publication_nr_0_title	Community structure of rare methanogenic archaea: insight from a single functional group.
+publication_nr_0_publication_year	2017
+=========================================================================================

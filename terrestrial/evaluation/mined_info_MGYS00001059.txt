@@ -1,0 +1,7 @@
+study_id	MGYS00001059
+study_name	The Metagenome of acidic soil sample before and after the remediation of bioelectrochemistry
+study_abstract	The Metagenome of acidic soil sample before and after the remediation of bioelectrochemistry. Besides the raw soil and control sample, other 4 acidic soil sample were operated in microbial fuel cells under different external resistance (1000, 1000, 100 and 10).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002462
+study_name	Effect of size fractionation and DNA extraction on the diversity and composition of prokaryotic and eukaryotic plankton community
+study_abstract	We determined the effect of sample size fractionation (5 size fractions) and DNA extraction (2 methods) on the composition of the prokaryotic (16s) and eukaryotic (18s) plankton community composition
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

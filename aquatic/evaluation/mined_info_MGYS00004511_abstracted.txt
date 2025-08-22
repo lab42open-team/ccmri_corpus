@@ -1,0 +1,12 @@
+study_id	MGYS00004511
+study_name	microbial diversity Raw sequence reads
+study_abstract	microbial diversity of Bohai Sea
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	33763048
+publication_nr_0_pubmed_abstract	Understanding environment-community relationships under shifting environmental conditions helps uncover mechanisms by which environmental microbial communities manage to improve ecosystem functioning. This study investigated the microbial community and structure near the Yellow Sea River estuary in 12 stations across the middle of the Bohai Sea for over two seasons to elucidate the influence of estuarine output on them. We found that the dominant phyla in all stations were Proteobacteria, Cyanobacteria, Bacteroidetes, Actinobacteria, and Planctomycetes. Alpha-diversity increased near the estuary and bacterial community structure differed with variation of spatiotemporal gradients. Among all the environmental factors surveyed, temperature, salinity, phosphate, silicon, nitrate, and total virioplankton abundance played crucial roles in controlling the bacterial community composition. Some inferred that community functions such as carbohydrate, lipid, amino acid metabolism, xenobiotics biodegradation, membrane transport, and environmental adaptation were much higher in winter; energy and nucleotide metabolism were lower in winter. Our results suggested that estuarine output had a great influence on the Bohai Sea environment and changes in the water environmental conditions caused by estuarine output developed distinctive microbial communities in the middle of the Bohai Sea. The distinctive microbial communities in winter demonstrated that the shifting water environment may stimulate changes in the diversity and then strengthen the predicted functions. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33763048
+publication_nr_0_title	Divergent Patterns of Bacterial Community Structure and Function in Response to Estuarine Output in the Middle of the Bohai Sea.
+publication_nr_0_publication_year	2021
+=========================================================================================

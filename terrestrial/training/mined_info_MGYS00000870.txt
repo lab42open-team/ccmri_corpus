@@ -1,0 +1,7 @@
+study_id	MGYS00000870
+study_name	Environmental Soil Sample
+study_abstract	Increasing permafrost thaw, driven by climate change, has the potential to result in organic carbon stores being mineralized into carbon dioxide (CO2) and methane (CH4) through microbial activity. This study examines the effect of increasing temperature on community structure and metabolic activity of methanogens from the Canadian High Arctic, in an attempt to predict how warming will affect microbially controlled CH4 soil flux. Permafrost and active layer soil samples were collected at the same sites and incubated under anaerobic conditions at warmer temperatures, with and without substrate amendment. Pyrosequencing was used to examine the effects of an extended thaw cycle on methanogen diversity and the results indicate that in situ methanogen diversity, based on the relative abundance of the 16S ribosomal ribonucleic acid (rRNA) gene associated with known methanogens, is higher in the permafrost than in the active layer. Methanogen diversity was also shown to increase in both the active layer and permafrost soil after an extended thaw.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+=========================================================================================

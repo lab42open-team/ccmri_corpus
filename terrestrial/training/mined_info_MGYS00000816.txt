@@ -1,0 +1,7 @@
+study_id	MGYS00000816
+study_name	Black soil Targeted Locus (Loci)
+study_abstract	The objectives of this study were 1) to reveal the bacterial community compositions in Black soils; 2) to determine environmental factors. Soil samples were collected from 26 farmlands across a wide range of Black soil zone of Northeast China in September 2012. Soil pH varied from 4.56 to 6.57. Soil total C and total N varied from 11.77 to 53.53 gkg-1 and from 0.99 to 4.25 gkg-1, respectively. Soil MBC ranged from 64 to 595 mgkg-1.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

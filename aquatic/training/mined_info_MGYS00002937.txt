@@ -1,0 +1,7 @@
+study_id	MGYS00002937
+study_name	Arctic first-year drift ice and under-ice water bacterial communities
+study_abstract	Arctic first-year drift ice and under-ice water bacterial communities (16S rRNA gene) were studied with Illumina MiSeq.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

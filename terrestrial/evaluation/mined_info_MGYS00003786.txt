@@ -1,0 +1,10 @@
+study_id	MGYS00003786
+study_name	Environmental metagenomic interrogation of Thar desert microbial communities
+study_abstract	Interrogation soil microbial community from arid and semiarid regions of the Thar Desert is essential. Until recently the studies on Thar desert soil microbes mostly focused on cultivation alone. Here we use culture independent approach. T-RFLP result shows that there is a significant difference among arid and semiarid soil bacterial communities, they clustered according to the sample type arid-soil, semi-arid soil, sand dune. Our clone library showed difference in the bacterial communities among arid-soil, semi-arid soil, sand dune respectively.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

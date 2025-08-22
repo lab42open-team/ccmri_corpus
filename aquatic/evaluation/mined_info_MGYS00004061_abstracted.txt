@@ -1,0 +1,12 @@
+study_id	MGYS00004061
+study_name	Bacterial community of cold seeps Metagenome
+study_abstract	Spatial scaling of bacterial diversity of cold seeps in the deep Eastern Mediterranean sea
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Cold seeps:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	25500510
+publication_nr_0_pubmed_abstract	Cold seeps are highly productive, fragmented marine ecosystems that form at the seafloor around hydrocarbon emission pathways. The products of microbial utilization of methane and other hydrocarbons fuel rich chemosynthetic communities at these sites, with much higher respiration rates compared with the surrounding deep-sea floor. Yet little is known as to the richness, composition and spatial scaling of bacterial communities of cold seeps compared with non-seep communities. Here we assessed the bacterial diversity across nine different cold seeps in the Eastern Mediterranean deep-sea and surrounding seafloor areas. Community similarity analyses were carried out based on automated ribosomal intergenic spacer analysis (ARISA) fingerprinting and high-throughput 454 tag sequencing and were combined with in situ and ex situ geochemical analyses across spatial scales of a few tens of meters to hundreds of kilometers. Seep communities were dominated by Deltaproteobacteria, Epsilonproteobacteria and Gammaproteobacteria and shared, on average, 36% of bacterial types (ARISA OTUs (operational taxonomic units)) with communities from nearby non-seep deep-sea sediments. Bacterial communities of seeps were significantly different from those of non-seep sediments. Within cold seep regions on spatial scales of only tens to hundreds of meters, the bacterial communities differed considerably, sharing &lt;50% of types at the ARISA OTU level. Their variations reflected differences in porewater sulfide concentrations from anaerobic degradation of hydrocarbons. This study shows that cold seep ecosystems contribute substantially to the microbial diversity of the deep-sea. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25500510
+publication_nr_0_title	Spatial scales of bacterial community diversity at cold seeps (Eastern Mediterranean Sea).
+publication_nr_0_publication_year	2015
+=========================================================================================

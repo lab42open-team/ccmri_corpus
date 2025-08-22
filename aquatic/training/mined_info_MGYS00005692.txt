@@ -1,0 +1,7 @@
+study_id	MGYS00005692
+study_name	Samples of a study the Venice lagoon from a functional perspective via metagenomics.
+study_abstract	The samples belong to a project aiming to study the Venice lagoon from a functional perspective via metagenomics.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

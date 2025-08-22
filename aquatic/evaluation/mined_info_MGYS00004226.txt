@@ -1,0 +1,7 @@
+study_id	MGYS00004226
+study_name	Diatom Community Composition CCS Diel
+study_abstract	Diatom and other Stramenopile community composition from targeted amplicon sequencing of V4 region of 18S from incubated seawater collected in upwelled waters off the coast of Oregon. Incubation treatments included UV and no UV natural light treatments as well as dark treatments and were collected at 3 time points.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

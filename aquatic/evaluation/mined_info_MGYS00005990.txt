@@ -1,0 +1,8 @@
+study_id	MGYS00005990
+study_name	Freshwater microbial communities from Lake Lanier, Atlanta, Georgia, United States - LL-1505 metagenome
+study_abstract	Freshwater microbial communities from Lake Lanier, Atlanta, Georgia, United States
+study_origination	HARVESTED
+associated_study_0	MGYS00005989
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

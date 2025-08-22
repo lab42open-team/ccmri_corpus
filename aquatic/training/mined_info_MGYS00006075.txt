@@ -1,0 +1,14 @@
+study_id	MGYS00006075
+study_name	EMG produced TPA metagenomics assembly of PRJEB6608 data set (Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes.).
+study_abstract	The Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB6608, and was assembled with metaSPAdes v3.14.1 and megahit v1.2.9. This project includes samples from the following biomes: root:Environmental:Aquatic:Marine:Oceanic.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000410
+associated_study_1	MGYS00001482
+associated_study_2	MGYS00002008
+associated_study_3	MGYS00002392
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

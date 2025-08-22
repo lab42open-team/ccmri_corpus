@@ -1,0 +1,7 @@
+study_id	MGYS00000357
+study_name	Eukaryotic metatranscriptome from beech litter
+study_abstract	Eukaryotic metatranscriptome extracted from Oe litter layer of beech forest Steigerwald.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

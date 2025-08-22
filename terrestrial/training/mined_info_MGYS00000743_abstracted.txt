@@ -1,0 +1,12 @@
+study_id	MGYS00000743
+study_name	Soil sample Metagenome
+study_abstract	The study aims to determine factors which determine the diversity and species distribution of fungi (especially ectomycorrhizal fungi) in forest soils. Pine forest sample - buried mesh bag containing sterile sand and DNA extracted from sand after 2 months burial in forest soil (approx 10 cm depth).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	24147130
+publication_nr_0_pubmed_abstract	Biological communities are often structured by environmental factors even at small spatial scales. Fungi are no exception, though the patterns and mechanisms underlying their community structure are usually unknown. Previous work documented zonation in fungi under tree canopies primarily through their fruiting patterns. Here we investigate the existence of zonation patterns in fungal communities around isolated Pinus muricata trees of different ages in northern coastal California. Using a combination of ingrowth bags and pyrosequencing to target underground mycelium we found highly diverse soil fungal communities associated with single trees. Both ectomycorrhizal and non-ectomycorrhizal fungi were present in all samples, but the latter were more species rich, dominated the samples by sequence read abundance, and showed partitioning by canopy-defined zones and tree age. Soil chemistry was correlated with fungal zonation, but host root density was not. Our results indicate different guilds of fungi partition space differently and are driven by distinct environmental parameters. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24147130
+publication_nr_0_title	Fungi at a small scale: spatial zonation of fungal assemblages around single trees.
+publication_nr_0_publication_year	2013
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004605
+study_name	sediment metagenome Metagenome
+study_abstract	The objectives of this investigation were to assess TCS removal mechanisms in sediments of surface flow constructed wetlands planted with Hornwort
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Wetlands:Sediment
+=========================================================================================
+=========================================================================================

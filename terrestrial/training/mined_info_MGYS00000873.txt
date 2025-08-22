@@ -1,0 +1,7 @@
+study_id	MGYS00000873
+study_name	Natural uranium-rich soils Targeted Locus (Loci)
+study_abstract	High throughput pyrosequencing was used to assess the impact of uranium on bacterial communities by a comparative analysis of uranium-rich and control soil samples. Soil samples with high and low uranium content were collected in the region of Bessines (Limousin, France), one of the most important natural uranium deposits in France.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Uranium contaminated
+=========================================================================================
+=========================================================================================

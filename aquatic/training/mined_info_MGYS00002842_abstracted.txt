@@ -1,0 +1,12 @@
+study_id	MGYS00002842
+study_name	Eukaryotic natural population from Northern Baffin Bay - Raw sequence reads
+study_abstract	This BioProjects contain raw sequences reads of 18S rRNA and rDNA from natural populations in Northern Baffin Bay from surface and 20m depth.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29925879
+publication_nr_0_pubmed_abstract	Oceanic gateways are sensitive to climate driven processes. By connecting oceans, they have a global influence on marine biological production and biogeochemical cycles. The furthest north of these gateways is Nares Strait at the top of the North Water between Greenland and Ellesmere Island (Canada). This gateway is globally beneficial, first by supporting high local mammal and bird populations and second with the outflow of phosphate-rich Arctic waters fueling the North Atlantic spring bloom. Both sides of the North Water are hydrologically distinct with counter currents that make this Arctic portal a Janus gateway, after Janus, the Roman god of duality. We examined oceanographic properties and differences in phytoplankton and other protist communities from the eastern and western sides of the North Water (latitude 76.5N) and found that species differed markedly due to salinity stratification regimes and local hydrography. Typical Arctic communities were associated with south flowing currents along the Canadian side, while potentially noxious Pseudo-nitzschia spp. were dominant on the Greenland side and associated with greater surface freshening from ice melt. This susceptibility of the Greenland side to Pseudo-nitzschia spp. blooms suggest that monitoring species responses to climate mediated changes is needed. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29925879
+publication_nr_0_title	Need for focus on microbial species following ice melt and changing freshwater regimes in a Janus Arctic Gateway.
+publication_nr_0_publication_year	2018
+=========================================================================================

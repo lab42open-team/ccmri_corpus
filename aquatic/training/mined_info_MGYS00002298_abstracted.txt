@@ -1,0 +1,12 @@
+study_id	MGYS00002298
+study_name	Bacteria in Anopheles darlingi breeding sites in Manaus, the Amazon, Brazil
+study_abstract	In this study bacterial community composition in Anopheles darlingi breeding waters was investigated. Four sites in Manaus Brazil were sampled by taking surface water. The water samples were DNA extracted and 16S rRNA genes were amplified and sequenced by MiSeq. The reads were then analysed and compared between the sites.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic
+=========================================================================================
+publication_nr_0_pubmed_id	30989355
+publication_nr_0_pubmed_abstract	The microbiota in mosquito breeding waters can affect ovipositing mosquitoes, have effects on larval development, and can modify adult mosquito-gut bacterial composition. This, in turn, can affect transmission of human pathogens such as malaria parasites. Here, we explore the microbiota of four breeding sites for Anopheles darlingi, the most important malaria vector in Latin America. The sites are located in Manaus in the Amazon basin in Brazil, an area of active malaria transmission. Using 16S rRNA gene sequencing by MiSeq, we found that all sites were dominated by Proteobacteria and Firmicutes and that 94% of the total number of reads belonged to 36 operational taxonomic units (OTUs) identified in all sites. Of these, the most common OTUs belonged to Escherichia/Shigella, Staphylococcus, and Pseudomonas. Of the remaining 6% of the reads, the OTUs found to differentiate between the four sites belonged to the orders Burkholderiales, Actinomycetales, and Clostridiales. We conclude that An. darlingi can develop in breeding waters with different surface-water bacteria, but that the common microbiota found in all breeding sites might indicate or contribute to a suitable habitat for this important malaria vector. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30989355
+publication_nr_0_title	Characterization of Bacterial Communities in Breeding Waters of Anopheles darlingi in Manaus in the Amazon Basin Malaria-Endemic Area.
+publication_nr_0_publication_year	2019
+=========================================================================================

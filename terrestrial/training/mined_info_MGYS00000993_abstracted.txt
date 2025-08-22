@@ -1,0 +1,12 @@
+study_id	MGYS00000993
+study_name	Rolainville truffle orchards Metagenome
+study_abstract	Soil samples have been collected in a truffle orchard located in the Vosges (France). DNA was extracted and used to decipher the structure of the bacterial communities along truffle maturation.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	24118660
+publication_nr_0_pubmed_abstract	Although truffles are cultivated since decades, their life cycle and the conditions stimulating ascocarp formation still remain mysterious. A role for bacteria in the development of several truffle species has been suggested but few is known regarding the natural bacterial communities of Perigord Black truffle. Thus, the aim of this study was to decipher the structure and the functional potential of the bacterial communities associated to the Black truffle in the course of its life cycle and along truffle maturation. A polyphasic approach combining 454-pyrosequencing of 16S rRNA gene, TTGE, in situ hybridization and functional GeoChip 3.0 revealed that Black truffle ascocarps provide a habitat to complex bacterial communities that are clearly differentiated from those of the surrounding soil and the ectomycorrhizosphere. The composition of these communities is dynamic and evolves during the maturation of the ascocarps with an enrichment of specific taxa and a differentiation of the gleba and peridium-associated bacterial communities. Genes related to nitrogen and sulphur cycling were enriched in the ascocarps. Together, these data paint a new picture of the interactions existing between truffle and bacteria and of the potential role of these bacteria in truffle maturation. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24118660
+publication_nr_0_title	Black truffle-associated bacterial communities during the development and maturation of Tuber melanosporum ascocarps and putative functional roles.
+publication_nr_0_publication_year	2014
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001465
+study_name	Investigation of the response of the active microbial community to CO2 exposure from a controlled sub-seabed CO2 leak in Ardmucknish Bay (Oban, Scotland)
+study_abstract	The impact of a controlled sub-seabed CO2 leak on the composition of the active community of benthic bacteria was assessed before, during and after CO2 release. A total of 4.2 tonnes of CO2 was injected into the overlying unconsolidated sediments, over a 37 day period, during which flow was increased from 10 to 210 kg per day. Five replicate sediment samples were taken from the epicentre and 450m distant during 4 time points (7 days before CO2 exposure, after 14 and 36 days of CO2 release, and 6 after the CO2 release had ended). RNA was extracted from the top 1 cm sediment and possible changes to the composition of the active benthic bacterial community assessed by in depth sequencing of 16S rRNA. CO2 related changes were detected to the relative abundance of both major and minor bacterial taxa: most notably an increase in the relative abundance of the Planctomycetacia after 14 days of CO2 release.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Cold seeps
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00003726
+study_name	Core MV1012-46.9-JPC2 aDNA metagenomes and negative control
+study_abstract	Illumina 4000 sequencing of MV1012-46.9-JPC2 sediment core
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

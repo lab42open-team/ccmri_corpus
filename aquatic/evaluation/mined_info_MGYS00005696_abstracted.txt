@@ -1,0 +1,13 @@
+study_id	MGYS00005696
+study_name	Microbial community dynamics of a polyester film-degrading marine enrichment culture
+study_abstract	In this study, we present a multiomics approach to elucidate the biodegradation mechanism of a commercial aromatic-aliphatic copolyester film by a marine microbial enrichment culture. Marine seawater and eulittoral sediment samples were collected from three different sources: Helgoland, Germany (5411 17.0" N 752 50.1" E), near Athens, Greece (3753 33" N, 2324 30" E) and Elba, Italy (4244 00.8" N 1009 14.4" E). The enrichment cultures were made by inoculating the seawater/sediment slurry in marine minimal medium containing the polyester film as sole C source. Community composition and function was examined by metagenome/transcriptome analysis a)of the plastic biofilm/free-living fractions separately, b) after a starvation period (t0) and addition of new plastic substrate after one hour (t1), 24 hours (t2) and seven days (t3). In addition to the plastic film, the culture was grown on each monomer separately and metagenomes were analysed for each different growth condition.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005695
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	33188179
+publication_nr_0_pubmed_abstract	The degradation of synthetic polymers by marine microorganisms is not as well understood as the degradation of plastics in soil and compost. Here, we use metagenomics, metatranscriptomics and metaproteomics to study the biodegradation of an aromatic-aliphatic copolyester blend by a marine microbial enrichment culture. The culture can use the plastic film as the sole carbon source, reaching maximum conversion to CO<sub>2</sub> and biomass in around 15 days. The consortium degrades the polymer synergistically, with different degradation steps being performed by different community members. We identify six putative PETase-like enzymes and four putative MHETase-like enzymes, with the potential to degrade aliphatic-aromatic polymers and their degradation products, respectively. Our results show that, although there are multiple genes and organisms with the potential to perform each degradation step, only a few are active during biodegradation. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33188179
+publication_nr_0_title	Synergistic biodegradation of aromatic-aliphatic copolyester plastic by a marine microbial consortium.
+publication_nr_0_publication_year	2020
+=========================================================================================

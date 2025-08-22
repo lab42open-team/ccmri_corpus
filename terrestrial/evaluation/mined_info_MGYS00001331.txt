@@ -1,0 +1,7 @@
+study_id	MGYS00001331
+study_name	Class project on metagenomics using samples from soil.
+study_abstract	Class project to get a hand on exercise on metagenomics. Samples were collected from soil and sequenced in Ion torrent PGM.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

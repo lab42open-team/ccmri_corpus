@@ -1,0 +1,7 @@
+study_id	MGYS00000353
+study_name	Danube river water sampling at 4 different sites
+study_abstract	Goal is to compare the metagenomes (composition and functional annotation) of the four different sites (clean, town, agricultural area and industrial area) in order to generate specific markers (genes, species ) characteristic for the three different "pollution phenotypes"
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic
+=========================================================================================
+=========================================================================================

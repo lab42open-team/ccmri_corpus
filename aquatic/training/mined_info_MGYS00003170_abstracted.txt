@@ -1,0 +1,12 @@
+study_id	MGYS00003170
+study_name	16S_Sediment_Bolinao
+study_abstract	V4-V5 sequences from sediments in Bolinao, Philippines
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33375015
+publication_nr_0_pubmed_abstract	Milkfish, an important aquaculture species in Asian countries, are traditionally cultured in outdoor-based systems. There, they experience potentially stressful fluctuations in environmental conditions, such as temperature, eliciting changes in fish physiology. While the importance of the gut microbiome for the welfare and performance of fish has been recognized, little is known about the effects of thermal stress on the gut microbiome of milkfish and its interactions with the host's metabolism. We investigated the gut microbiome of juvenile milkfish in a thermal stress experiment, comparing control (26 C) and elevated temperature (33 C) treatments over three weeks, analyzing physiological biomarkers, gut microbiome composition, and tank water microbial communities using 16S amplicon sequencing. The gut microbiome was distinct from the tank water and dominated by <i>Cetobacterium</i>, <i>Enterovibrio</i>, and <i>Vibrio</i>. We observed a parallel succession in both temperature treatments, with microbial communities at 33 C differing more strongly from the control after the initial temperature increase and becoming more similar towards the end of the experiment. As proxy for the fish's energy status, HSI (hepatosomatic index) was correlated with gut microbiome composition. Our study showed that thermal stress induced changes in the milkfish gut microbiome, which may contribute to the host's habituation to elevated temperatures over time. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33375015
+publication_nr_0_title	Effects of Thermal Stress on the Gut Microbiome of Juvenile Milkfish (<i>Chanos chanos</i>).
+publication_nr_0_publication_year	2020
+=========================================================================================

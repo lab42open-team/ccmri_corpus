@@ -1,0 +1,12 @@
+study_id	MGYS00002958
+study_name	Surface ocean Targeted Locus (Loci)
+study_abstract	18S rRNA gene was targeted in environmental samples from surface water in the Chukchi Sea to assess diversity of the eukaryotic protist community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	25595764
+publication_nr_0_pubmed_abstract	Heterotrophic marine flagellates (HF) are ubiquitous in the world's oceans and represented in nearly all branches of the domain Eukaryota. However, the factors determining distributions of major taxonomic groups are poorly known. The Arctic Ocean is a good model environment for examining the distribution of functionally similar but phylogenetically diverse HF because the physical oceanography and annual ice cycles result in distinct environments that could select for microbial communities or favor specific taxa. We reanalyzed new and previously published high-throughput sequencing data from multiple studies in the Arctic Ocean to identify broad patterns in the distribution of individual taxa. HF accounted for fewer than 2% to over one-half of the reads from the water column and for up to 60% of reads from ice, which was dominated by Cryothecomonas. In the water column, many HF phylotypes belonging to Telonemia and Picozoa, uncultured marine stramenopiles (MAST), and choanoflagellates were geographically widely distributed. However, for two groups in particular, Telonemia and Cryothecomonas, some species level taxa showed more restricted distributions. For example, several phylotypes of Telonemia favored open waters with lower nutrients such as the Canada Basin and offshore of the Mackenzie Shelf. In summary, we found that while some Arctic HF were successful over a range of conditions, others could be specialists that occur under particular conditions. We conclude that tracking species level diversity in HF not only is feasible but also provides a potential tool for understanding the responses of marine microbial ecosystems to rapidly changing ice regimes. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25595764
+publication_nr_0_title	Biogeography of heterotrophic flagellate populations indicates the presence of generalist and specialist taxa in the Arctic Ocean.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00003019
+study_name	AllDist Targeted Locus (Loci)
+study_abstract	All samples from all sites
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	24747897
+publication_nr_0_pubmed_abstract	A common source of disturbance for coastal aquatic habitats is nutrient enrichment through anthropogenic activities. Although the water column bacterioplankton communities in these environments have been characterized in some cases, changes in Alfa-diversity and/or the abundances of specific taxonomic groups across enriched habitats remain unclear. Here, we investigated the bacterial community changes at three different nutrient-enriched and adjacent undisturbed habitats along the north coast of Crete, Greece: a fish farm, a closed bay within a town with low water renewal rates, and a city port where the level of nutrient enrichment and the trophic status of the habitat were different. Even though changes in Alfa-diversity were different at each site, we observed across the sites a common change pattern accounting for most of the community variation for five of the most abundant bacterial groups: a decrease in the abundance of the Pelagibacteraceae and SAR86 and an increase in the abundance of the Alteromonadaceae, Rhodobacteraceae, and Cryomorphaceae in the impacted sites. The abundances of the groups that increased and decreased in the impacted sites were significantly correlated (positively and negatively, respectively) with the total heterotrophic bacterial counts and the concentrations of dissolved organic carbon and/or dissolved nitrogen and chlorophyll Alfa, indicating that the common change pattern was associated with nutrient enrichment. Our results provide an in situ indication concerning the association of specific bacterioplankton groups with nutrient enrichment. These groups could potentially be used as indicators for nutrient enrichment if the pattern is confirmed over a broader spatial and temporal scale by future studies. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24747897
+publication_nr_0_title	The pattern of change in the abundances of specific bacterioplankton groups is consistent across different nutrient-enriched habitats in Crete.
+publication_nr_0_publication_year	2014
+=========================================================================================

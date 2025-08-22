@@ -1,0 +1,7 @@
+study_id	MGYS00000714
+study_name	Wisconsin, Native Prairie soil metagenome reference core Project
+study_abstract	none provided
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004186
+study_name	Active microbial eukaryotes amidst a marine subsurface RNA paleome
+study_abstract	During the first RNA-based survey of subsurface eukaryotes in a globally distributed sample collection, we detected metazoan, plant, and diatom rRNA signatures in sediments up to 2.7 million years old. The recovery of RNA from those taxa is consistent with burial in sub-seafloor environments during sedimentation, and subsequent preservation of those nucleic acids. Extensive controls indicate that the recovered RNA does not derive from seawater or aerosol contaminants, supporting the authenticity of an RNA-based subsurface eukaryotic paleome. This paleome has the potential to inform our understanding of environmental conditions at the time of deposition. Within this same dataset, a high diversity of fungi in ocean sediments was found up to 48 meters below seafloor (mbsf) exhibiting statistically significant correlations with total organic carbon (TOC), sulfide, and dissolved inorganic carbon (DIC). We interpret these correlations, together with the uniqueness of fungal profiles in the subsurface, and microscopic observations of filamentous fungi, yeasts, and spores as indicators of subsurface fungal activity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

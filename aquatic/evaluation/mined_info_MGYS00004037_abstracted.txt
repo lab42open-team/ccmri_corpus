@@ -1,0 +1,12 @@
+study_id	MGYS00004037
+study_name	Ecological succession leads to chemosynthesis in mats colonizing wood in sea water
+study_abstract	We used amplicon and metagenomic sequencing combined with fluorescence in situ hybridization (FISH) to test whether a microbial succession occurs during mat formation and whether the wood fall mats present chemosynthetic features
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Benthic
+=========================================================================================
+publication_nr_0_pubmed_id	26905628
+publication_nr_0_pubmed_abstract	Chemosynthetic mats involved in cycling sulfur compounds are often found in hydrothermal vents, cold seeps and whale falls. However, there are only few records of wood fall mats, even though the presence of hydrogen sulfide at the wood surface should create a perfect niche for sulfide-oxidizing bacteria. Here we report the growth of microbial mats on wood incubated under conditions that simulate the Mediterranean deep-sea temperature and darkness. We used amplicon and metagenomic sequencing combined with fluorescence in situ hybridization to test whether a microbial succession occurs during mat formation and whether the wood fall mats present chemosynthetic features. We show that the wood surface was first colonized by sulfide-oxidizing bacteria belonging to the Arcobacter genus after only 30 days of immersion. Subsequently, the number of sulfate reducers increased and the dominant Arcobacter phylotype changed. The ecological succession was reflected by a change in the metabolic potential of the community from chemolithoheterotrophs to potential chemolithoautotrophs. Our work provides clear evidence for the chemosynthetic nature of wood fall ecosystems and demonstrates the utility to develop experimental incubation in the laboratory to study deep-sea chemosynthetic mats. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26905628
+publication_nr_0_title	Ecological succession leads to chemosynthesis in mats colonizing wood in sea water.
+publication_nr_0_publication_year	2016
+=========================================================================================

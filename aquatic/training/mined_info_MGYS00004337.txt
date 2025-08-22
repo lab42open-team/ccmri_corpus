@@ -1,0 +1,7 @@
+study_id	MGYS00004337
+study_name	Rifle sediment bacterial community Targeted Locus (Loci)
+study_abstract	The objective of the research at the Rifle site is to gain a comprehensive and mechanistic understanding of the microbial factors and associated geochemistry controlling uranium mobility at the field scale so that DOE can confidently remediate uranium plumes as well as support stewardship of uranium-contaminated sites. This subproject focuses on near-full-length amplification, high-throughput sequencing, and assembly of the bacterial 16S rRNA gene for community characterization.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

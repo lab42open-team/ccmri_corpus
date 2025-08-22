@@ -1,0 +1,7 @@
+study_id	MGYS00000509
+study_name	Soil sample taken from wild flower meadow for metagenome study.
+study_abstract	Soil sample taken from wild flower meadow in Danesbury Park, Hertfordshire.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

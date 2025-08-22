@@ -1,0 +1,7 @@
+study_id	MGYS00001018
+study_name	Soil microflora Targeted Locus (Loci)
+study_abstract	Tracking the soil microflora components associated with fast- and slow-growing mycelium of summer truffle (Tuber aestivum)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Forest soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000847
+study_name	Chinese soil Metagenome
+study_abstract	Microbial ecology of Chinese soils
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

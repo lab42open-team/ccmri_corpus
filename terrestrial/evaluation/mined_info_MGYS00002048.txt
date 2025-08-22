@@ -1,0 +1,8 @@
+study_id	MGYS00002048
+study_name	EMG produced TPA metagenomics assembly of the Kansas, Cultivated corn soil metagenome reference core Project (402463) data set
+study_abstract	The 402463 Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set SRP008742. This project includes samples from the following biomes : Soil.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001161
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

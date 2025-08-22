@@ -1,0 +1,7 @@
+study_id	MGYS00005078
+study_name	Turf_Chronosequence_16S_ITS
+study_abstract	soil 16S and ITS amplicon from different ecosystems
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

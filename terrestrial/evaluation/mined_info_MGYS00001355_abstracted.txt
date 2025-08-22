@@ -1,0 +1,12 @@
+study_id	MGYS00001355
+study_name	Microbiome and metagenome of forest biochar
+study_abstract	We analyzed taxonomic marker gene amplicons from microbial communities in four-year-old biochar particles and in adjacent soils across three forest environments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	27212657
+publication_nr_0_pubmed_abstract	Biochar particles have been hypothesized to provide unique microhabitats for a portion of the soil microbial community, but few studies have systematically compared biochar communities to bulk soil communities. Here, we used a combination of sequencing techniques to assess the taxonomic and functional characteristics of microbial communities in four-year-old biochar particles and in adjacent soils across three forest environments. Though effects varied between sites, the microbial community living in and around the biochar particles had significantly lower prokaryotic diversity and higher eukaryotic diversity than the surrounding soil. In particular, the biochar bacterial community had proportionally lower abundance of Acidobacteria, Planctomycetes, and Beta-Proteobacteria taxa, compared to the soil, while the eukaryotic biochar community had an 11% higher contribution of protists belonging to the Aveolata superphylum. Additionally, we were unable to detect a consistent biochar effect on the genetic functional potential of these microbial communities for the subset of the genetic data for which we were able to assign functions through MG-RAST. Overall, these results show that while biochar particles did select for a unique subset of the biota found in adjacent soils, effects on the microbial genetic functional potential appeared to be specific to contrasting forest soil environments. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27212657
+publication_nr_0_title	The microbiomes and metagenomes of forest biochars.
+publication_nr_0_publication_year	2016
+=========================================================================================

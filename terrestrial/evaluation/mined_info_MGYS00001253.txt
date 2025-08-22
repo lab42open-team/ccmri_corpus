@@ -1,0 +1,7 @@
+study_id	MGYS00001253
+study_name	Soil samples collected for whole-genome shotgun sequencing.
+study_abstract	Soil samples collected for whole-genome shotgun sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

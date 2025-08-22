@@ -1,0 +1,7 @@
+study_id	MGYS00000984
+study_name	16s metagenomics of dam water from 3 sources.
+study_abstract	16s metagenomics study of dam water from 3 sources from Bulgaria. 7 samples from Miseq 2x300 PE run. The study aims to explore the natural microbiome of the fresh water from 3 different lakes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Lentic
+=========================================================================================
+=========================================================================================

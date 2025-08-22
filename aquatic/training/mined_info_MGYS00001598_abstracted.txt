@@ -1,0 +1,12 @@
+study_id	MGYS00001598
+study_name	Probing the texture of the rare biosphere
+study_abstract	Probing the texture of the rare biosphere: We have bracketed the dimensions of the rare biosphere in two marine bacterial samples by comparing a deep (1 million sequences per sample) pyrosequencing analysis of the two samples and the cultures isolated from one of them.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	27442429
+publication_nr_0_pubmed_abstract	High-throughput sequencing (HTS) techniques have suggested the existence of a wealth of species with very low relative abundance: the rare biosphere. We attempted to exhaustively map this rare biosphere in two water samples by performing an exceptionally deep pyrosequencing analysis (~500,000 final reads per sample). Species data were derived by a 97% identity criterion and various parametric distributions were fitted to the observed counts. Using the best-fitting Sichel distribution we estimate a total species richness of 1,568-1,669 (95% Credible Interval) and 5,027-5,196 for surface and deep water samples respectively, implying that 84-89% of the total richness in those two samples was sequenced, and we predict that a quadrupling of the present sequencing effort would suffice to observe 90% of the total richness in both samples. Comparing the HTS results with a culturing approach we found that most of the cultured taxa were not obtained by HTS, despite the high sequencing effort. Culturing therefore remains a useful tool for uncovering marine bacterial diversity, in addition to its other uses for studying the ecology of marine bacteria. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27442429
+publication_nr_0_title	Probing the Rare Biosphere of the North-West Mediterranean Sea: An Experiment with High Sequencing Effort.
+publication_nr_0_publication_year	2016
+=========================================================================================

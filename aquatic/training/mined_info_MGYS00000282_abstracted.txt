@@ -1,0 +1,12 @@
+study_id	MGYS00000282
+study_name	Antarctica Aquatic Microbial Metagenome
+study_abstract	Microbial metagenome from a lake in Antarctica. Microbial community isolated from an aquatic lake in Antarctica.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29064480
+publication_nr_0_pubmed_abstract	Oxidation of methanethiol (MT) is a significant step in the sulfur cycle. MT is an intermediate of metabolism of globally significant organosulfur compounds including dimethylsulfoniopropionate (DMSP) and dimethylsulfide (DMS), which have key roles in marine carbon and sulfur cycling. In aerobic bacteria, MT is degraded by a MT oxidase (MTO). The enzymatic and genetic basis of MT oxidation have remained poorly characterized. Here, we identify for the first time the MTO enzyme and its encoding gene (mtoX) in the DMS-degrading bacterium Hyphomicrobium sp. VS. We show that MTO is a homotetrameric metalloenzyme that requires Cu for enzyme activity. MTO is predicted to be a soluble periplasmic enzyme and a member of a distinct clade of the Selenium-binding protein (SBP56) family for which no function has been reported. Genes orthologous to mtoX exist in many bacteria able to degrade DMS, other one-carbon compounds or DMSP, notably in the marine model organism Ruegeria pomeroyi DSS-3, a member of the Rhodobacteraceae family that is abundant in marine environments. Marker exchange mutagenesis of mtoX disrupted the ability of R. pomeroyi to metabolize MT confirming its function in this DMSP-degrading bacterium. In R. pomeroyi, transcription of mtoX was enhanced by DMSP, methylmercaptopropionate and MT. Rates of MT degradation increased after pre-incubation of the wild-type strain with MT. The detection of mtoX orthologs in diverse bacteria, environmental samples and its abundance in a range of metagenomic data sets point to this enzyme being widely distributed in the environment and having a key role in global sulfur cycling. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29064480
+publication_nr_0_title	Bacterial SBP56 identified as a Cu-dependent methanethiol oxidase widely distributed in the biosphere.
+publication_nr_0_publication_year	2018
+=========================================================================================

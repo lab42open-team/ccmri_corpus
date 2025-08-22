@@ -1,0 +1,7 @@
+study_id	MGYS00000712
+study_name	Title : Biological soil crust microbiota
+study_abstract	Desert soil- and rock-surface communities are of crucial importance in the global biogeochemical cycles of carbon and nitrogen. In arid regions, nitrogen inputs depend on biological nitrogen fixation. Biological soil crusts contribute substantially to nitrogen fixation and act as net exporters of ammonium, nitrate and organic nitrogen to the underlying soil layers. Approximately half of the total biological nitrogen fixation on land is attributed to cryptogamic covers. Up to 70% of the fixed nitrogen can be released into the underlying soils and hence is available to other organisms. The N-cycle includes the assimilatory pathways dinitrogen fixation and nitrate assimilation. Some prokaryotes are capable of obtaining metabolic energy from nitrification and denitrification. Here, we studied the nitrogen cycling in biological soil crusts in Southern Spain.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

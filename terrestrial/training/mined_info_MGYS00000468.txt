@@ -1,0 +1,7 @@
+study_id	MGYS00000468
+study_name	Reseq_Jan15 - Eukaryotic mRNA from 1 year old litter in beech forest of the German Exploratories
+study_abstract	Reseq_Jan15 - Metatranscriptommic study of eukyryotic microbial activity in 1 year old litter in beech forest of the German Exploratories
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

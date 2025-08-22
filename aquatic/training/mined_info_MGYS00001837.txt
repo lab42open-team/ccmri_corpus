@@ -1,0 +1,7 @@
+study_id	MGYS00001837
+study_name	Brazoria Sediment Inocula and Fermentations of Carboxylate Biofuels Platform Targeted Locus (Loci)
+study_abstract	Comparison of community compositions of different fermentation screen approaches conducted simultaneously with a shared inoculum source. Chemical engineers at Texas A&M use three fermentation screens to evaluate and model community performance at different scales, times, substrate concentrations, and product concentrations. To date, these screens have been used sequentially to optimize different features of the process while the inoculum has undergone selective pressure from storage conditions. We used four fresh, environmentally distinct, previously characterized sediment sources collected from Brazoria National Wildlife Refuge to simultaneously inoculate the three screens. We sequenced the communities in each screen to compare the communities that establish across the manipulated parameters.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

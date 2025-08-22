@@ -1,0 +1,7 @@
+study_id	MGYS00005510
+study_name	anchialine metagenome Raw sequence reads
+study_abstract	Microbial ecology is an important and growing field that has revealed the importance of microbes in many ecosystems; however, some ecosystems have yet to receive much attention including the anchialine ecosystem (nearshore bodies of water with subsurface freshwater and seawater connections). Hawaiian anchialine habitats in the Cape Kinau region of Maui and the Kona region of Hawaii exhibit distinctive, laminated orange cyanobacterial-bacterial crusts, but little is known about their composition, the composition of microbial communities in non-crust containing sites lacking the cyanobacterial-bacterial crusts, or the degree to which environmental factors structure them. During the summer of 2010, we surveyed benthic and water column microbial communities from ten anchialine habitats on Oahu, Maui, and Hawaii using high-throughput amplicon sequencing of the V6 (prokaryotic-biased) and V9 (eukaryotic-biased) hypervariable regions of the SSU rRNA gene. A subset of six anchialine habitats were also sampled in the spring, summer, and winter of 2011 to allow elucidation of seasonal effects on the Hawaiian anchialine microbial community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

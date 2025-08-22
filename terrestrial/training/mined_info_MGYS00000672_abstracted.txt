@@ -1,0 +1,12 @@
+study_id	MGYS00000672
+study_name	Simultaneous assessment of soil microbial community structure and function through analysis of the meta-transcriptome
+study_abstract	RNA-centered meta-transcriptomic approach to simultaneously obtain information on both structure and function of a soil community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	16915287
+publication_nr_0_pubmed_abstract	Ammonia oxidation is the first step in nitrification, a key process in the global nitrogen cycle that results in the formation of nitrate through microbial activity. The increase in nitrate availability in soils is important for plant nutrition, but it also has considerable impact on groundwater pollution owing to leaching. Here we show that archaeal ammonia oxidizers are more abundant in soils than their well-known bacterial counterparts. We investigated the abundance of the gene encoding a subunit of the key enzyme ammonia monooxygenase (amoA) in 12 pristine and agricultural soils of three climatic zones. amoA gene copies of Crenarchaeota (Archaea) were up to 3,000-fold more abundant than bacterial amoA genes. High amounts of crenarchaeota-specific lipids, including crenarchaeol, correlated with the abundance of archaeal amoA gene copies. Furthermore, reverse transcription quantitative PCR studies and complementary DNA analysis using novel cloning-independent pyrosequencing technology demonstrated the activity of the archaea in situ and supported the numerical dominance of archaeal over bacterial ammonia oxidizers. Our results indicate that crenarchaeota may be the most abundant ammonia-oxidizing organisms in soil ecosystems on Earth. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/16915287
+publication_nr_0_title	Archaea predominate among ammonia-oxidizing prokaryotes in soils.
+publication_nr_0_publication_year	2006
+=========================================================================================

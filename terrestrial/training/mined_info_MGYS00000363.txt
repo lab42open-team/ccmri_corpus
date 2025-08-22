@@ -1,0 +1,7 @@
+study_id	MGYS00000363
+study_name	Soil metagenomes profiling for forensic purposes
+study_abstract	Forensic soil analysis has the potential to play a crucial role in criminal investigations. This is particularly the case when a crime occurs outdoors such that soil is transferred to shoes, clothing, vehicles and tools. Owing to the large microbial diversity of soil, DNA profiling of soil microbial communities can serve as a powerful tool for forensic soil examination. This project uses metagenomic approaches to analyse the entire genetic composition of soil samples and use these sequence data for comparison purposes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

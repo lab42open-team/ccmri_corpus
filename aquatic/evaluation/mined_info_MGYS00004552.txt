@@ -1,0 +1,7 @@
+study_id	MGYS00004552
+study_name	Severino orchard metagenome
+study_abstract	The total DNA sample from Severino orchard was extracted using a MoBio Powersoil DNA Isolation Kit and sequenced at 2x250bp using a Illumina MiSeq machine, to prepare a Metagenomic Shotgun Library.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004645
+study_name	microbial community diversities of Tuosu Lake
+study_abstract	Detecting the bacterial, archaeal and fungal population diversities in Tuosu Lake
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

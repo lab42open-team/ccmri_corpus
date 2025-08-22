@@ -1,0 +1,7 @@
+study_id	MGYS00000808
+study_name	Boreal forest soils Targeted Locus (Loci)
+study_abstract	Response of soil fungi to boreal forest fires
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Boreal forest
+=========================================================================================
+=========================================================================================

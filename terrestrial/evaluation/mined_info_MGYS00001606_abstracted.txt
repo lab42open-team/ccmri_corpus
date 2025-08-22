@@ -1,0 +1,12 @@
+study_id	MGYS00001606
+study_name	Comparative analysis of twelve viromes from fen and bog peat pore water
+study_abstract	Using pyrosequencing,12 peatland metaviromes have been produced for both fen and bog at 4 different dates. Using shotgun metagenomics we observed a shift in viral diversity between winter/spring and summer/autumn, indicating a seasonal succession of viral communities, mainly driven by weather-related environmental changes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Wetlands
+=========================================================================================
+publication_nr_0_pubmed_id	26779149
+publication_nr_0_pubmed_abstract	Viruses impact microbial activity and carbon cycling in various environments, but their diversity and ecological importance in Sphagnum-peatlands are unknown. Abundances of viral particles and prokaryotes were monitored bi-monthly at a fen and a bog at two different layers of the peat surface. Viral particle abundance ranged from 1.7 x 10(6) to 5.6 x 10(8) particles mL(-1), and did not differ between fen and bog but showed seasonal fluctuations. These fluctuations were positively correlated with prokaryote abundance and dissolved organic carbon, and negatively correlated with water-table height and dissolved oxygen. Using shotgun metagenomics we observed a shift in viral diversity between winter/spring and summer/autumn, indicating a seasonal succession of viral communities, mainly driven by weather-related environmental changes. Based on the seasonal asynchrony between viral and microbial diversity, we hypothesize a seasonal shift in the active microbial communities associated with a shift from lysogenic to lytic lifestyles. Our results suggest that temporal variations of environmental conditions rather than current habitat differences control the dynamics of virus-host interactions in Sphagnum-dominated peatlands. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26779149
+publication_nr_0_title	Dynamics of Viral Abundance and Diversity in a Sphagnum-Dominated Peatland: Temporal Fluctuations Prevail Over Habitat.
+publication_nr_0_publication_year	2015
+=========================================================================================

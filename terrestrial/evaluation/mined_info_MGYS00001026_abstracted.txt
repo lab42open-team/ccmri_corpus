@@ -1,0 +1,12 @@
+study_id	MGYS00001026
+study_name	Alpine soil archaea Metagenome
+study_abstract	Investigate the archaea community under different water gradient in alpine ecosystem.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	28401921
+publication_nr_0_pubmed_abstract	Global change may be a severe threat to natural and agricultural systems, partly through its effects in altering soil biota and processes, due to changes in water balance. We studied the potential influence of changing soil water balance on soil biota by comparing existing sites along a natural water balance gradient in the Qinghai-Tibetan Plateau. In this study, the community structure of bacteria, archaea and eukaryotes differed between the different soil water conditions. Soil moisture was the strongest predictor of bacterial and eukaryotic community structure, whereas C/N ratio was the key factor predicting variation in the archaeal community. Bacterial and eukaryotic diversity was quite stable among different soil water availability, but archaeal diversity was dramatically different between the habitats. The auxotype of methanogens also varied significantly among different habitats. The co-varying soil properties among habitats shaped the community structure of soil microbes, with archaea being particularly sensitive in terms of community composition, diversity and functional groups. Bacterial and archaeal phylogenetic community turnover was mainly driven by deterministic processes while stochastic processes had stronger effects on eukaryotic phylogenetic community turnover. Our work provides insight into microbial community, functional group and phylogenetic turnover under different soil conditions in low-latitude alpine ecosystem. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28401921
+publication_nr_0_title	Distinct Soil Microbial Communities in habitats of differing soil water balance on the Tibetan Plateau.
+publication_nr_0_publication_year	2017
+=========================================================================================

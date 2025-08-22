@@ -1,0 +1,8 @@
+study_id	MGYS00000377
+study_name	Microbial biodiversity and structure in soil affects the composition of pyrrolizidine alkaloids in Jacobaea vulgaris
+study_abstract	Secondary metabolites like pyrrolizidine alkaloids (PAs) act as defense compounds against aboveground and belowground attackers. We studied to get a better understanding of relevance of microbial diversity in the rhizosphere for plant growth and behavior, specifically related to secondary metabolites production. We made soil dilution to compare the composition of soil microbial communities of soil suspension, incubation and rhizosphere soil by 16s rRNA high throughput pyrosequencing, as a consequence, to determine the effects on plant behaviors. The dilution procedure leads to reduction of the diversity of bacteria at the phylum level. After regrown, the structure of microbial community in the rhizosphere changed significantly as compared to the composition in the incubated soil. Jacobeae vulgaris as model plants growing in the soil where microbial diversity were decreased, had a higher biomass and higher amount of free base form of PAs? production, which indicates the reduction of soil microbial community in the rhizosphere shows significant feedback. Our study adds evidence that soil microbes may play a role in the evolution of plant secondary metabolites in plants.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+biome_info_1	root:Host-associated:Plants:Rhizosphere:Soil
+=========================================================================================
+=========================================================================================

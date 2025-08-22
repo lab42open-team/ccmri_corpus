@@ -1,0 +1,7 @@
+study_id	MGYS00001649
+study_name	Influence of carbon sources and concrete on microbially induced corrosion of carbon steel in subterranean groundwater environment
+study_abstract	Microbially induced corrosion of carbon steel was assessed in environment simulating deep geological repository of radioactive waste. A dense and diverse biofilm was formed on surfaces of steel in biotic systems without concrete. Addition of nutrients changed the bacterial communities forming biofilm, increased corrosion rate and changed the properties of corrosion products i.e. composition and resistance. Presence of concrete altered the corrosion behaviour of steel and hindered the biofilm formation on steel. The corrosion rate was consistently radically decreased, as the properties of the corrosion product, were different from those in the other systems.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+=========================================================================================

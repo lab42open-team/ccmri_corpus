@@ -1,0 +1,8 @@
+study_id	MGYS00005148
+study_name	Two metagenomes from outflow channels of Lost Hammer ultrasaline, perennial spring from Canadian High Arctic.
+study_abstract	Characterization of microorganisms that thrive in extreme habitats, often called extremophiles, enable us to understand how biology functions at the frontiers of life. This knowledge allows us to model the potential habitability of environments in Solar System bodies such as Mars and Jupiter's icy moon Europa, as well as understand the long-term evolution and fate of microbial life on Earth. The samples for this study were collected from immediate surroundings of a cold, hypersaline spring in the Canadian Arctic as planetary analogue for Europa.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005295
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

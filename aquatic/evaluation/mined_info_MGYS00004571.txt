@@ -1,0 +1,7 @@
+study_id	MGYS00004571
+study_name	PCE/TCE dechlorinating microbial community and dehalogenase genes from Wonju Stream, South Korea
+study_abstract	Groundwater at an industrial complex in Wonju remains contaminated with TCE despite several attempts at remediation over the last 15 years. Since the microbial dechlorination intermediates cis-DCE and VC were detected in the down-stream groundwater, we investigated whether the indigenous microbial communities could convert chloroethenes to ethene making bioremediation potentially feasible. Pyrosequencing of the 16S rRNA genes showed that Geobacter, Desulfuromonas, and Dehalococcoides populations grew significantly during the time PCE and TCE were converted to ethene. Most 16S rRNA sequences of Dehalococcoides spp. were phylogenetically close to known Dehalococcoides sp. strains, however about 10% of sequences were quite distant from the previously characterized Dehalococcoides sp. (97% or less sequence identity). Bellininea and Longilinea populations, which belong to Chloroflexi, also grew during the dechlorination phase.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

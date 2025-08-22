@@ -1,0 +1,7 @@
+study_id	MGYS00005725
+study_name	Shotgun metagenome sequences of Anthelia biocrust samples.
+study_abstract	Samples of biocrust (~200 mg from uppermost 3 mm) dominated by the liverwort Anthelia jurkatzkana from various locations in Iceland. DNA extracted with DNeasy Power Soil kit. Illumina Nextera XT shotgun libraries prepared and sequenced 2x75b on MiSeq.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

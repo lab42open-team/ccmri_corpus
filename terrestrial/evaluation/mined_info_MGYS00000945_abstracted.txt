@@ -1,0 +1,12 @@
+study_id	MGYS00000945
+study_name	Terranova Bay soil Metagenome
+study_abstract	Achievement of a background research through the preliminary study on the terrestrial biodiversity in Victoria Land for the long-term monitoring by climate change and human activity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	25799273
+publication_nr_0_pubmed_abstract	Given the diminished role of biotic interactions in soils of continental Antarctica, abiotic factors are believed to play a dominant role in structuring of microbial communities. However, many ice-free regions remain unexplored, and it is unclear which environmental gradients are primarily responsible for the variations among bacterial communities. In this study, we investigated the soil bacterial community around Terra Nova Bay of Victoria Land by pyrosequencing and determined which environmental variables govern the bacterial community structure at the local scale. Six bacterial phyla, Actinobacteria, Proteobacteria, Acidobacteria, Chloroflexi, Cyanobacteria, and Bacteroidetes, were dominant, but their relative abundance varied greatly across locations. Bacterial community structures were affected little by spatial distance, but structured more strongly by site, which was in accordance with the soil physicochemical compositions. At both the phylum and species levels, bacterial community structure was explained primarily by pH and water content, while certain earth elements and trace metals also played important roles in shaping community variation. The higher heterogeneity of the bacterial community structure found at this site indicates how soil bacterial communities have adapted to different compositions of edaphic variables under extreme environmental conditions. Taken together, these findings greatly advance our understanding of the adaption of soil bacterial populations to this harsh environment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25799273
+publication_nr_0_title	Highly heterogeneous soil bacterial communities around Terra Nova Bay of Northern Victoria Land, Antarctica.
+publication_nr_0_publication_year	2015
+=========================================================================================

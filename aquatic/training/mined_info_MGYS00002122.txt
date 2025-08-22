@@ -1,0 +1,7 @@
+study_id	MGYS00002122
+study_name	PETROMAKS_E12
+study_abstract	The aim of the study was to asses biodegradation efficiency of dispersed oil of two Norwegian seawater sources. One source of seawater used in the study was local (Trondheimsfjord), while the other source was Svalbard seawater (Van Mijenfjord). The biodegradation experiment was conducted at 0-2C over the period of 64 days.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Oil-contaminated
+=========================================================================================
+=========================================================================================

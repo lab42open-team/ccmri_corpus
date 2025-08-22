@@ -1,0 +1,7 @@
+study_id	MGYS00004460
+study_name	seawater bacterial community Raw sequence reads
+study_abstract	We report the sediment derived dissolved organic matter degradation in incubation experiment with the overlying seawater, shifts in microbial community structure during the incubation were investigated. Microbial genomic DNA was extracted from the polycarbonate membranes (microbial cells filtered) and the 16S rRNA gene sequences (v3+v4) were amplified by PCR.We classified the OTUs based on their phylogenetic affiliations and determined their relative proportions on the total number of sequencing reads.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002541
+study_name	16S rRNA amplicon from marine Bacteria Raw sequence reads
+study_abstract	The contribution of different bacterial phylotypes to the ocean biogeochemical cycles depends on their activity and biomass. However, little is known about active bacteria in the deep ocean, the largest habitat on Earth.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

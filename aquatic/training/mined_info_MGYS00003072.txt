@@ -1,0 +1,7 @@
+study_id	MGYS00003072
+study_name	Whale fall
+study_abstract	Deep-sea whale falls create sulfidic habitats of which microbial structure is poorly evaluated. We sampled the sediment in the whale fall area and targeted the V9 of the 18S SSU to determine the protistan community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

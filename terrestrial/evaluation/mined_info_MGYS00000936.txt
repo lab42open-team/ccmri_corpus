@@ -1,0 +1,7 @@
+study_id	MGYS00000936
+study_name	1-1-start Metagenome
+study_abstract	First genome sequencing targeting archaea and bacteria in soil treatment system. Sample collected from the first sampling layer of Column 1 of Soil Aquifer Treatment system at Day 0.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

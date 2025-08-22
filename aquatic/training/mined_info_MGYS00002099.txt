@@ -1,0 +1,7 @@
+study_id	MGYS00002099
+study_name	Archaeal Raw sequence reads
+study_abstract	Abstract: Archaeal is very important in the nitrogen cycle.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

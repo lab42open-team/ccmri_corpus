@@ -1,0 +1,12 @@
+study_id	MGYS00004202
+study_name	Bayside Harbour, NS, Canada (plankton SSU library 454 sequencing)
+study_abstract	
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	24800821
+publication_nr_0_pubmed_abstract	Large-scale high-throughput sequencing techniques are rapidly becoming popular methods to profile complex communities and have generated deep insights into community biodiversity. However, several technical problems, especially sequencing artifacts such as nucleotide calling errors, could artificially inflate biodiversity estimates. Sequence filtering for artifact removal is a conventional method for deleting error-prone sequences from high-throughput sequencing data. As rare species represented by low-abundance sequences in datasets may be sensitive to artifact removal process, the influence of artifact removal on rare species recovery has not been well evaluated in natural complex communities. Here we employed both internal (reliable operational taxonomic units selected from communities themselves) and external (indicator species spiked into communities) references to evaluate the influence of artifact removal on rare species recovery using 454 pyrosequencing of complex plankton communities collected from both freshwater and marine habitats. Multiple analyses revealed three clear patterns: 1) rare species were eliminated during sequence filtering process at all tested filtering stringencies, 2) more rare taxa were eliminated as filtering stringencies increased, and 3) elimination of rare species intensified as biomass of a species in a community was reduced. Our results suggest that cautions be applied when processing high-throughput sequencing data, especially for rare taxa detection for conservation of species at risk and for rapid response programs targeting non-indigenous species. Establishment of both internal and external references proposed here provides a practical strategy to evaluate artifact removal process. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24800821
+publication_nr_0_title	Influence of artifact removal on rare species recovery in natural complex communities using high-throughput sequencing.
+publication_nr_0_publication_year	2014
+=========================================================================================

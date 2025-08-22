@@ -1,0 +1,7 @@
+study_id	MGYS00002659
+study_name	Bacteria exposure experiment North Sea
+study_abstract	Bacterial sequencing (V3-V4 16S rDNA region) of plastic debris exposed for 5 or 10 months at the North Sea environment
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

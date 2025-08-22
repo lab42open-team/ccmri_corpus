@@ -1,0 +1,12 @@
+study_id	MGYS00004285
+study_name	zooplankton environmental sample Metagenome
+study_abstract	COI sequences of Zooplankton in Lake Tai Metagenome
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28496194
+publication_nr_0_pubmed_abstract	Communities of zooplankton, a critical portion of aquatic ecosystems, can be adversely affected by contamination resulting from human activities. Understanding the influence of environmental change on zooplankton communities under field-conditions is hindered by traditional labor-intensive approaches that are prone to taxonomic and enumeration mistakes. Here, metabarcoding of cytochrome c oxidase I (COI) region of mitochondrial DNA was used to characterize the genetic diversity of zooplankton. The species composition of zooplankton communities determined by metabarcoding was consistent with the results based on the traditional morphological approach. The spatial distribution of common species (frequency of occurrence &gt;10 samples) by metabarcoding exhibited good agreement with morphological data. Furthermore, metabarcoding can clearly distinguish the composition of the zooplankton community between lake and river ecosystems. In general, rotifers were more abundant in riverine environments than lakes and reservoirs. Finally, the sequence read number of different taxonomic groups using metabarcoding was positively correlated with the zooplankton biomass inferred by density and body length of zooplankton. Overall, the utility of metabarcoding for taxonomic profiling of zooplankton communities was validated by the morphology-based method on a large ecological scale. Metabarcoding of COI could be a powerful and efficient biomonitoring tool to protect local aquatic ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28496194
+publication_nr_0_title	Zooplankton Community Profiling in a Eutrophic Freshwater Ecosystem-Lake Tai Basin by DNA Metabarcoding.
+publication_nr_0_publication_year	2017
+=========================================================================================

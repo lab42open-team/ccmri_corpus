@@ -1,0 +1,7 @@
+study_id	MGYS00005961
+study_name	metagenomics of Laguna Verde micribialites
+study_abstract	metagenomics of Laguna Verde micribialites
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Saline
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004452
+study_name	Marine sediment microbial communities in the presence of macrophytes
+study_abstract	In this study we examined the sediment microbial communities in the absence and presence of two marine macrophytes (Zostera muelleri - Zm, and Caulerpa taxifolia - Ct), and at low (L) and high (H) densities of the macrophytes.Three independent and randomly obtained samples were taken from each of the five treatment groups (absent, Zm-L, Zm-H, Ct-L, Zm-H), genomic DNA extracted and PCR conducted targeting the V4 region of the 16S gene. PCR amplicons were sequenced using Illumina MiSeq 2x250 bp, with paired-end sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

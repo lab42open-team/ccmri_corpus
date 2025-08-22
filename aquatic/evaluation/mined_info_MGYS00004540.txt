@@ -1,0 +1,7 @@
+study_id	MGYS00004540
+study_name	Fungal diversity in Sanya mangrove sediments, China
+study_abstract	This study aims to investigate the diversity pattern and driving factors of fungi in mangrove sediments from Sanya, China.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Mangrove swamp
+=========================================================================================
+=========================================================================================

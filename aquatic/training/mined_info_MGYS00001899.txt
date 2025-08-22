@@ -1,0 +1,7 @@
+study_id	MGYS00001899
+study_name	Benguela Upwelling sediments metagenome study
+study_abstract	Benguela Upwelling sediments metagenome study
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

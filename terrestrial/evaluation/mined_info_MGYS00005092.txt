@@ -1,0 +1,7 @@
+study_id	MGYS00005092
+study_name	Characterization of bacterial communities in soil under no-tillage practices with contrasting fertilization strategies
+study_abstract	Long term experiment in Argentina.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002734
+study_name	Seasonal and spatial diversity of bacterial communities in marine sediments of Ningbo Xiangshan Coastal Ocean
+study_abstract	With the rapid development of social economy, East China Sea has suffered from excess nutrient emissions, organic pollutants and heavy metals, and formed a complex marine ecological environment in the past decades. The bacterial biogeographic pattern in marine sediments can reflect the time variation and biological processes of the local ecological environment quickly and accurately. In this study, we collected sediment samples of the two seasons of winter and summer in coastal area of East China Sea at 7 stations from the near to the distant for investigating bacterial community with 16S rRNA gene high-throughput sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

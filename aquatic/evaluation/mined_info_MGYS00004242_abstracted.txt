@@ -1,0 +1,12 @@
+study_id	MGYS00004242
+study_name	Salt Marsh Sediments Raw sequence reads
+study_abstract	A study looking at the effects of sediment depth and nitrogen enrichment on bacterial communities
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+=========================================================================================
+publication_nr_0_pubmed_id	29483902
+publication_nr_0_pubmed_abstract	Salt marshes provide many key ecosystem services that have tremendous ecological and economic value. One critical service is the removal of fixed nitrogen from coastal waters, which limits the negative effects of eutrophication resulting from increased nutrient supply. Nutrient enrichment of salt marsh sediments results in higher rates of nitrogen cycling and, commonly, a concurrent increase in the flux of nitrous oxide, an important greenhouse gas. Little is known, however, regarding controls on the microbial communities that contribute to nitrous oxide fluxes in marsh sediments. To address this disconnect, we generated profiles of microbial communities and communities of micro-organisms containing specific nitrogen cycling genes that encode several enzymes (<i>amoA, norB, nosZ)</i> related to nitrous oxide flux from salt marsh sediments. We hypothesized that communities of microbes responsible for nitrogen transformations will be structured by nitrogen availability. Taxa that respond positively to high nitrogen inputs may be responsible for the elevated rates of nitrogen cycling processes measured in fertilized sediments. Our data show that, with the exception of ammonia-oxidizing archaea, the community composition of organisms involved in the production and consumption of nitrous oxide was altered under nutrient enrichment. These results suggest that previously measured rates of nitrous oxide production and consumption are likely the result of changes in community structure, not simply changes in microbial activity. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29483902
+publication_nr_0_title	Community Composition of Nitrous Oxide-Related Genes in Salt Marsh Sediments Exposed to Nitrogen Enrichment.
+publication_nr_0_publication_year	2018
+=========================================================================================

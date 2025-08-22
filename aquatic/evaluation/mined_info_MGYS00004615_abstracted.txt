@@ -1,0 +1,12 @@
+study_id	MGYS00004615
+study_name	mcrA singapore mangrove Raw sequence reads
+study_abstract	Spatial variations of methanogenic communities in the tropical mangroves
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Mangrove swamp
+=========================================================================================
+publication_nr_0_pubmed_id	27684479
+publication_nr_0_pubmed_abstract	Methane production by methanogens in mangrove sediments is known to contribute significantly to global warming, but studies on the shift of methanogenic community in response to anthropogenic contaminations were still limited. In this study, the effect of anthropogenic activities in the mangrove sediments along the north and south coastlines of Singapore were investigated by pyrosequencing of the mcrA gene. Our results showed that hydrogenotrophic, acetoclastic and methylotrophic methanogens coexist in the sediments. The predominance of the methylotrophic Methanosarcinales reflects the potential for high methane production as well as the possible availability of low acetate and high methylated C-1 compounds as substrates. A decline in the number of acetoclastic/methylotrophic methanogens in favor of hydrogenotrophic methanogens was observed along a vertical profile in Sungei Changi, which was contaminated by heavy metals. The diversity of methanogens in the various contaminated stations was significantly different from that in a pristine St. John's Island. The spatial variation in the methanogenic communities among the different stations was more distinct than those along the vertical profiles at each station. We suggest that the overall heterogeneity of the methanogenic communities residing in the tropical mangrove sediments might be due to the accumulated effects of temperature and concentrations of nitrate, cobalt, and nickel. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27684479
+publication_nr_0_title	Spatial Variations of the Methanogenic Communities in the Sediments of Tropical Mangroves.
+publication_nr_0_publication_year	2016
+=========================================================================================

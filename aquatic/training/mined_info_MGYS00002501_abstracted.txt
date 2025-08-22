@@ -1,0 +1,12 @@
+study_id	MGYS00002501
+study_name	Caspian Sea Sediment - 16S Survey Targeted Locus (Loci)
+study_abstract	The Caspian Sea is one of the most polluted seas in the world due to industrial and agricultural effluents as well as extraction of oil and gas reserves. Microbial communities can impact the fate of contaminants and nutrients. However, insight into the microbial ecology of the Caspian Sea significantly lags behind other marine systems. Here we describe the microbial diversity of sediments collected from three sampling stations in the Caspian Sea. This study provides a baseline assessment that may serve as a point of reference as this system changes or as remediation efforts are initiated to reduce pollution.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	25764536
+publication_nr_0_pubmed_abstract	The Caspian Sea is heavily polluted due to industrial and agricultural effluents as well as extraction of oil and gas reserves. Microbial communities can influence the fate of contaminants and nutrients. However, insight into the microbial ecology of the Caspian Sea significantly lags behind other marine systems. Here we describe microbial biomass, diversity and composition in sediments collected from three sampling stations in the Caspian Sea. Illumina sequencing of 16S rRNA genes revealed the presence of a number of known bacterial and archaeal heterotrophs suggesting that organic carbon is a primary factor shaping microbial communities. Surface sediments collected from bottom waters with low oxygen levels were dominated by Gammaproteobacteria while surface sediments collected from bottom waters under hypoxic conditions were dominated by Deltaproteobacteria, specifically sulfate-reducing bacteria. Thaumarchaeota was dominant across all surface sediments indicating that nitrogen cycling in this system is strongly influenced by ammonia-oxidizing archaea. This study provides a baseline assessment that may serve as a point of reference as this system changes or as the efficacy of new remediation efforts are implemented. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25764536
+publication_nr_0_title	Microbial community composition and diversity in Caspian Sea sediments.
+publication_nr_0_publication_year	2015
+=========================================================================================

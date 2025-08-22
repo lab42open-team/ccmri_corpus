@@ -1,0 +1,7 @@
+study_id	MGYS00002190
+study_name	Microbial biogeography of French caves
+study_abstract	Diversity comparison of four pristine caves with five anthropized caves in Dordogne region (France).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Deep subsurface
+=========================================================================================
+=========================================================================================

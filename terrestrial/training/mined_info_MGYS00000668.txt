@@ -1,0 +1,7 @@
+study_id	MGYS00000668
+study_name	Soil Mesocosm Synthetic Targeted Locus
+study_abstract	Soil metagenome analysis from a artificial tree experiment analyzing tree species identity and diversity, as well leaf littereffects on soil bacterial communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

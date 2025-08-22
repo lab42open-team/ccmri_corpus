@@ -1,0 +1,12 @@
+study_id	MGYS00001945
+study_name	seawater sample Metagenome
+study_abstract	Ocean Acidification: microbes as sentinels of adaptive responses to multiple stressors: contrasting estuarine and open ocean environments Seawater samples collected from the Gulf of Mexico
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	27487207
+publication_nr_0_pubmed_abstract	Bacteria of the SAR11 clade constitute up to one half of all microbial cells in the oxygen-rich surface ocean. SAR11 bacteria are also abundant in oxygen minimum zones (OMZs), where oxygen falls below detection and anaerobic microbes have vital roles in converting bioavailable nitrogen to N2 gas. Anaerobic metabolism has not yet been observed in SAR11, and it remains unknown how these bacteria contribute to OMZ biogeochemical cycling. Here, genomic analysis of single cells from the world's largest OMZ revealed previously uncharacterized SAR11 lineages with adaptations for life without oxygen, including genes for respiratory nitrate reductases (Nar). SAR11 nar genes were experimentally verified to encode proteins catalysing the nitrite-producing first step of denitrification and constituted ~40% of OMZ nar transcripts, with transcription peaking in the anoxic zone of maximum nitrate reduction activity. These results link SAR11 to pathways of ocean nitrogen loss, redefining the ecological niche of Earth's most abundant organismal group. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27487207
+publication_nr_0_title	SAR11 bacteria linked to ocean anoxia and nitrogen loss.
+publication_nr_0_publication_year	2016
+=========================================================================================

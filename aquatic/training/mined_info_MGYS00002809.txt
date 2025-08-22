@@ -1,0 +1,7 @@
+study_id	MGYS00002809
+study_name	Microbial eukaryotes
+study_abstract	Little is known about the taxonomic and phylogenetic diversities, and the relative importance of historic processes and environmental gradients underlying the current diversity and community assembly, of single-celled eukaryotes in marine benthic habitats. By pyrosequencing ribosomal RNA genes and characterizing multiple environmental factors, we investigated temporal and spatial patterns of a- and -diversities of microeukaryotes in near-surface sediments of three basins of the Yellow Sea Large Marine Ecosystem.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Benthic
+=========================================================================================
+=========================================================================================

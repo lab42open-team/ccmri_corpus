@@ -1,0 +1,7 @@
+study_id	MGYS00006087
+study_name	European grassland soils subjected to multiple disturbances
+study_abstract	Sequencing microbial communities from multiple European grassland soils subjected to 4 different lab perturbation regimes- control, heat, drought, or flooding.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

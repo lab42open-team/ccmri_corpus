@@ -1,0 +1,7 @@
+study_id	MGYS00000642
+study_name	Geologic and Hydrologic Controls on the Distribution, Diversity, and Activity of Subsurface Microbial Life Hosted in Gabbros and Peridotites in the Samail Ophiolite, Oman
+study_abstract	This study utilizes shotgun metagenomic sequencing to define microbial community composition, diversity, and function across a broad range of measured geochemical conditions observed in serpentinite aquifers to elucidate geochemical and lithological controls on the energy availability and productivity in aquifers undergoing low-temperature water/rock reaction.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

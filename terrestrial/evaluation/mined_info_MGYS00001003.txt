@@ -1,0 +1,7 @@
+study_id	MGYS00001003
+study_name	16s rRNA profiling of Park Grass microbial community
+study_abstract	16s rRNA amplicon sequencing of DNA isolated from the Park Grass soil
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

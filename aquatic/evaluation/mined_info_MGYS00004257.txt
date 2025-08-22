@@ -1,0 +1,7 @@
+study_id	MGYS00004257
+study_name	Characteristics of bacterial communities in the deep sediment Lake Baikal from the regions with oil and gases discharging
+study_abstract	Using the method of massively parallel sequencing (Roche 454 platform used) studied the diversity and abundance of bacterial communities in methane hydrate- and oil bearing sediments, c different component composition of pore water in six districts of Lake Baikal.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

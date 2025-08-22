@@ -1,0 +1,7 @@
+study_id	MGYS00002783
+study_name	Water and Sediment samples Targeted loci environmental
+study_abstract	Water and Sediments samples from multiple locations in Panama
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

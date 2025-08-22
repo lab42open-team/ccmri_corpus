@@ -1,0 +1,8 @@
+study_id	MGYS00005371
+study_name	Estuarine microbial communities from the Columbia River estuary - Ebb tide non-ETM metaG S.743 metagenome
+study_abstract	Sequencing of microbial communities from the Columbia River estuary to analyze effect of nutrient fluxes
+study_origination	HARVESTED
+associated_study_0	MGYS00005370
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00005075
+study_name	NEON Surface Water Microbe Marker Gene Sequences - 2014
+study_abstract	This study provides the sequence data for the NEON data product, Surface water microbe marker gene sequences (NEON.DP1.20282). The goal of this project is to track changes in the diversity and composition of bacteria, archaea and fungi in planktonic aquatic ecosystems through space and time. NEON collects water column microbes from various depths at numerous sites distributed across the United States. Total genomic DNA is extracted and the 16S and ITS regions of the rRNA cistron are sequenced using high-throughput methods. For additional details and data, visit the NEON Data Portal at http://data.neonscience.org.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

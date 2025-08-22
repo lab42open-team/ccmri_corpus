@@ -1,0 +1,10 @@
+study_id	MGYS00003852
+study_name	Examination of Microbial Communities through a Freshwater/saltwater Transition Zone in Cenotes, Yucatan, Mexico
+study_abstract	We have groundwater samples from karst sinkholes (cenotes) from Yucatan Peninsula, Mexico. Since the groundwater is permanently stratified, we have samples from fresh water, saline water, and the fresh-saline water interfaces from three different cenotes plus a control site that is an abandoned drinking water well at a hotel territory. Our three cenotes differ by depth (20-150 m), the amount carbon input from organic matter, light input, and proximity to the coast (increased influence from marine as well as anthropogenic sources). We have samples from the cenotes Xcolac, Calica and the hotel well from both dry and rainy seasons. In addition, we have dry season sediment samples from cenotes Xcolac and Calica.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

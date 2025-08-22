@@ -1,0 +1,12 @@
+study_id	MGYS00001010
+study_name	Haerbin black soil Genome sequencing
+study_abstract	Black soil different fertilizer
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	28607352
+publication_nr_0_pubmed_abstract	Long-term use of inorganic nitrogen (N) fertilization has greatly influenced the bacterial community in black soil of northeast China. It is unclear how N affects the bacterial community in two successive crop seasons in the same field for this soil type. We sampled soils from a long-term fertilizer experimental field in Harbin city with three N gradients. We applied sequencing and quantitative PCR targeting at the 16S rRNA gene to examine shifts in bacterial communities and test consistent shifts and driving-factors bacterial responses to elevated N additions. N addition decreased soil pH and bacterial 16S rDNA copy numbers, and increased soil N and crop yield. N addition consistently decreased bacterial diversity and altered bacterial community composition, by increasing the relative abundance of Proteobacteria, and decreasing that of Acidobacteria and Nitrospirae in both seasons. Consistent changes in the abundant classes and genera, and the structure of the bacterial communities across both seasons were observed. Our results suggest that increases in N inputs had consistent effects on the richness, diversity and composition of soil bacterial communities across the crop seasons in two continuous years, and the N addition and the subsequent edaphic changes were important factors in shaping bacterial community structures. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28607352
+publication_nr_0_title	Consistent effects of nitrogen fertilization on soil bacterial communities in black soils for two crop seasons in China.
+publication_nr_0_publication_year	2017
+=========================================================================================

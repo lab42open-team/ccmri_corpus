@@ -1,0 +1,7 @@
+study_id	MGYS00001528
+study_name	Sedimentary ancient DNA over a period of last ~14,500 years
+study_abstract	Biodiversity of Eukaryotes was described using universal phylogenetic marker gene with a well-preserved sediment core over last post-glacial period - a period of last ~14,500 years in North-Eastern Europe. Sedimentary ancient DNA (sedaDNA) was extracted from the minuscule sediment samples with ~150 year intervals step and amplified at a low amplification level from each sub-sample.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

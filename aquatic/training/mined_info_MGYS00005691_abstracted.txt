@@ -1,0 +1,13 @@
+study_id	MGYS00005691
+study_name	Metagenomic analysis of Kirishima hot springs
+study_abstract	Metagenomic sequencing analysis of the 9 hot springs in the Kirishima region in Kyushu's Kagoshima prefecture.
+study_origination	HARVESTED
+associated_study_0	MGYS00005690
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+publication_nr_0_pubmed_id	30619848
+publication_nr_0_pubmed_abstract	Diverse microorganisms specifically inhabit extreme environments, such as hot springs and deep-sea hydrothermal vents. To test the hypothesis that the microbial community structure is predictable based on environmental factors characteristic of such extreme environments, we conducted correlation analyses of microbial taxa/functions and environmental factors using metagenomic and 61 types of physicochemical data of water samples from nine hot springs in the Kirishima area (Kyusyu, Japan), where hot springs with diverse chemical properties are distributed in a relatively narrow area. Our metagenomic analysis revealed that the samples can be classified into two major types dominated by either phylum Crenarchaeota or phylum Aquificae. The correlation analysis showed that Crenarchaeota dominated in nutrient-rich environments with high concentrations of ions and total carbons, whereas Aquificae dominated in nutrient-poor environments with low ion concentrations. These environmental factors were also important explanatory variables in the generalized linear models constructed to predict the abundances of Crenarchaeota or Aquificae. Functional enrichment analysis of genes also revealed that the separation of the two major types is primarily attributable to genes involved in autotrophic carbon fixation, sulfate metabolism and nitrate reduction. Our results suggested that Aquificae and Crenarchaeota play a vital role in the Kirishima hot spring water ecosystem through their metabolic pathways adapted to each environment. Our findings provide a basis to predict microbial community structures in hot springs from environmental parameters, and also provide clues for the exploration of biological resources in extreme environments. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30619848
+publication_nr_0_title	The Relationship Between Microbial Community Structures and Environmental Parameters Revealed by Metagenomic Analysis of Hot Spring Water in the Kirishima Area, Japan.
+publication_nr_0_publication_year	2018
+=========================================================================================

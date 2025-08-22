@@ -1,0 +1,12 @@
+study_id	MGYS00000689
+study_name	Mechanistic insights beyond metabolic consequences link into microbial reprogramming to poly-aromatic hydrocarbons
+study_abstract	PAH-contaminated soil from Lugones, Asturias, Spain.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	22832345
+publication_nr_0_pubmed_abstract	Microbial metabolism in aromatic-contaminated environments has important ecological implications, and obtaining a complete understanding of this process remains a relevant goal. To understand the roles of biodiversity and aromatic-mediated genetic and metabolic rearrangements, we conducted 'OMIC' investigations in an anthropogenically influenced and polyaromatic hydrocarbon (PAH)-contaminated soil with (Nbs) or without (N) bio-stimulation with calcium ammonia nitrate, NH(4)NO(3) and KH(2)PO(4) and the commercial surfactant Iveysol, plus two naphthalene-enriched communities derived from both soils (CN2 and CN1, respectively). Using a metagenomic approach, a total of 52, 53, 14 and 12 distinct species (according to operational phylogenetic units (OPU) in our work equivalent to taxonomic species) were identified in the N, Nbs, CN1 and CN2 communities, respectively. Approximately 10 out of 95 distinct species and 238 out of 3293 clusters of orthologous groups (COGs) protein families identified were clearly stimulated under the assayed conditions, whereas only two species and 1465 COGs conformed to the common set in all of the mesocosms. Results indicated distinct biodegradation capabilities for the utilisation of potential growth-supporting aromatics, which results in bio-stimulated communities being extremely fit to naphthalene utilisation and non-stimulated communities exhibiting a greater metabolic window than previously predicted. On the basis of comparing protein expression profiles and metagenome data sets, inter-alia interactions among members were hypothesised. The utilisation of curated databases is discussed and used for first time to reconstruct 'presumptive' degradation networks for complex microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/22832345
+publication_nr_0_title	Metaproteogenomic insights beyond bacterial response to naphthalene exposure and bio-stimulation.
+publication_nr_0_publication_year	2013
+=========================================================================================

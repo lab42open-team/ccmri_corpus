@@ -1,0 +1,7 @@
+study_id	MGYS00004454
+study_name	Localized impact of aquaculture effluent on Red Sea coral reef water nutrients and microorganisms
+study_abstract	We examined the impact of an aquaculture effluent canal in Al Lith, Saudi Arabia on the nutrients and picoplankton community overlying coral reefs in the Red Sea. Across 24 sites representing 0 21 km from the effluent, we measured nutrient concentrations, quantified microbial cell abundances, and utilized high-throughput sequencing of bacterial and archaeal small subunit ribosomal RNA (SSU rRNA) to examine microbial community composition.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+=========================================================================================

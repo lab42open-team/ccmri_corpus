@@ -1,0 +1,12 @@
+study_id	MGYS00003013
+study_name	Microbial diversity in the Tongyeong-Geoje coastal area of Korea
+study_abstract	Investigate the potential interactions among the bacterial species, phytoplankton, and environmental parameters
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+publication_nr_0_pubmed_id	31235719
+publication_nr_0_pubmed_abstract	To investigate the interactions between bacterial species in relation to the biotic and abiotic environmental fluctuations, free-living (FL), nanoparticle-associated (NP), and microparticle-associated (MP) bacterial community compositions (BCCs) were analyzed. A total of 267 samples were collected from July to December 2016 in the dynamic and shallow southern coastal water of Korea. The variations in BCC mostly depended on planktonic size fraction. Network analysis revealed water depth-dependent co-occurrence patterns of coastal bacterial communities. Higher interspecies connectivity was observed within FL bacteria than NP/MP bacteria, suggesting that FL bacteria with a streamlined genome may need other bacterial metabolites for survival, while the NP/MP copiotrophs may have the self-supporting capacity to produce the vital nutrients. The analysis of topological roles of individual OTUs in the network revealed that several groups of metabolically versatile bacteria (the marine Roseobacters, Flavobacteriales, Desulfobacterales, and SAR406 clade) acted as module hubs in different water depth. In conclusion, interspecies interactions dominated in FL bacteria, compared to NP and MP bacteria; modular structures of bacterial communities and keystone species strongly depended on the water depth-derived environmental factors. Furthermore, the multifunctional, versatile FL bacteria could play pivotal roles in dynamic shallow coastal ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31235719
+publication_nr_0_title	The water depth-dependent co-occurrence patterns of marine bacteria in shallow and dynamic Southern Coast, Korea.
+publication_nr_0_publication_year	2019
+=========================================================================================

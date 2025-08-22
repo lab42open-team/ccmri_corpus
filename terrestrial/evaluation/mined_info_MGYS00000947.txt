@@ -1,0 +1,7 @@
+study_id	MGYS00000947
+study_name	Qiyang soil Metagenome
+study_abstract	16S rRNA Metagenome in soil
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004600
+study_name	coastal sediment Raw sequence reads
+study_abstract	Diversity of Rhodopirellula and related planctomycetes. This study investigates the diversity of Rhodopirellula and related planctomycetes in an intertidal sediment of Sylt island, Germany, employing carB gene, coding for the large subunit of carbamoylphosphate synthetase, as a marker gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

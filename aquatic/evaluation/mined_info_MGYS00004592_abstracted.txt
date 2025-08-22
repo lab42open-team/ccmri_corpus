@@ -1,0 +1,12 @@
+study_id	MGYS00004592
+study_name	Marine bacterium Metagenome
+study_abstract	Analyze the potential utilization of EPS
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	26571122
+publication_nr_0_pubmed_abstract	Most marine bacteria produce exopolysaccharides (EPS), and bacterial EPS represent an important source of dissolved organic carbon in marine ecosystems. It was proposed that bacterial EPS rich in uronic acid is resistant to mineralization by microbes and thus has a long residence time in global oceans. To confirm this hypothesis, bacterial EPS rich in galacturonic acid was isolated from Alteromonas sp. JL2810. The EPS was used to amend natural seawater to investigate the bioavailability of this EPS by native populations, in the presence and absence of ammonium and phosphate amendment. The data indicated that the bacterial EPS could not be completely consumed during the cultivation period and that the bioavailability of EPS was not only determined by its intrinsic properties, but was also determined by other factors such as the availability of inorganic nutrients. During the experiment, the humic-like component of fluorescent dissolved organic matter (FDOM) was freshly produced. Bacterial community structure analysis indicated that the class Flavobacteria of the phylum Bacteroidetes was the major contributor for the utilization of EPS. This report is the first to indicate that Flavobacteria are a major contributor to bacterial EPS degradation. The fraction of EPS that could not be completely utilized and the FDOM (e.g., humic acid-like substances) produced de novo may be refractory and may contribute to the carbon storage in the oceans. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26571122
+publication_nr_0_title	The Fate of Marine Bacterial Exopolysaccharide in Natural Marine Microbial Communities.
+publication_nr_0_publication_year	2015
+=========================================================================================

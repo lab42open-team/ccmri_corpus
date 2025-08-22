@@ -1,0 +1,10 @@
+study_id	MGYS00003868
+study_name	Marine CDOM accumulation during a coastal Arctic mesocosm experiment: No response to elevated pCO2 levels
+study_abstract	Metagenome and transcriptome of filtered sea water samples from mesocosms under different CO2 partial pressure. CO2 pressures were increased in multiple mesocosms and samples within each were taken during an elongated period of time.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Pelagic
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

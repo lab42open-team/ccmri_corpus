@@ -1,0 +1,8 @@
+study_id	MGYS00004680
+study_name	Bacterial ecology of sponges from Irish Waters
+study_abstract	The bacterial communities associated with the marine sponges Raspailia ramosa and Stelligera stuposa, collected from Irish Waters, were examined through 454 sequencing and analysis of the V1-V3 region of the 16S genes amplified from sponge metagenomic DNA
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Host-associated:Porifera
+=========================================================================================
+=========================================================================================

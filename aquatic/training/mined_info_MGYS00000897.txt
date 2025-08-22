@@ -1,0 +1,7 @@
+study_id	MGYS00000897
+study_name	Puerto Morelos summer
+study_abstract	Metagenome of coral rubble in Puerto Morelos, Quintana Roo. Mexico.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00000621
+study_name	Soil Metagenome
+study_abstract	Effects of functionalized multi-walled carbon nanotubes on soil bacterial community composition.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	25825905
+publication_nr_0_pubmed_abstract	Carbon nanotubes (CNTs) are widely used in industry, but their environmental impacts on soil microbial communities are poorly known. In this paper, we compare the effect of both raw and acid treated or functionalized (fCNTs) multi-walled carbon nanotubes (MWCNTs) on soil bacterial communities, applying different concentrations of MWCNTs (0 myg/g, 50 myg/g, 500 myg/g and 5000 myg/g) to a soil microcosm system. Soil DNA was extracted at 0, 2 and 8 weeks and the V3 region of the 16S rRNA gene was PCR-amplified and sequenced using paired-end Illumina bar-coded sequencing. The results show that bacterial diversity was not affected by either type of MWCNT. However, overall soil bacterial community composition, as illustrated by NMDS, was affected only by fMWCNT at high concentrations. This effect, detectable at 2 weeks, remained equally strong by 8 weeks. In the case of fMWCNTs, overall changes in relative abundance of the dominant phyla were also found. The stronger effect of fMWCNTs could be explained by their intrinsically acidic nature, as the soil pH was lower at higher concentrations of fMWCNTs. Overall, this study suggests that fMWCNTs may at least temporarily alter microbial community composition on the timescale of at least weeks to months. It appears, by contrast, that raw MWCNTs do not affect soil microbial community composition. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25825905
+publication_nr_0_title	Effects of functionalized and raw multi-walled carbon nanotubes on soil bacterial community composition.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000548
+study_name	16S V3-V4 metagenome from four Danube water samples
+study_abstract	Water samples have been collected at four sites in Croatia/Serbia onthe Danube river. Analysis of the samples' 16S metagenomes should provide an indication how the bacterial community changes going from a relatively clean site to more pulluted sites close to industrial areas.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004709
+study_name	Structure and function of picoplankton and virus communities along zonal gradients in the South Pacific Ocean
+study_abstract	Picoplankton (0.2-2.7 µm fraction) and virus (<0.22 µm fraction) samples were obtained on the BiG-RAPA (Biogeochemical Gradients Role in Arranging Planktonic Assemblages) expedition in the late austral spring of 2010. Additional samples obtained during this expedition include whole community biomass (>0.22 µm fraction) samples that profile a deep (150 m) subsurface chlorophyll maximum in the South Pacific Gyre. High throughput, short read, shotgun sequencing was used to produce metagenomic data from the extracted DNA of these samples. These data enable the assessment of how picoplankton and viral populations are structured along strong physical and chemical gradients on a zonal transect from the upwelling along the western coast of South America to the oligotrophic gyre in the South Pacific.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

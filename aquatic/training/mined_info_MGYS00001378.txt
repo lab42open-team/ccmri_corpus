@@ -1,0 +1,8 @@
+study_id	MGYS00001378
+study_name	Molecular study on haloarchaea producing industerially important enzymes
+study_abstract	Samples collected from soda lakes in wadi al natrun ,egypt to study microbial diversity and isolated DNA directly from environment to study molecular compositionof haloalkilophilic archaea producing important enzymes.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002043
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001447
+study_name	Samples from salt marshes in the south of England
+study_abstract	Samples were collected from natural and realigned sites, and during Summer and Winter.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

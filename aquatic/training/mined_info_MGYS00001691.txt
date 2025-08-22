@@ -1,0 +1,7 @@
+study_id	MGYS00001691
+study_name	Temporal dynamics and diversity of Legionella community in cooling tower water
+study_abstract	The persistence and abundance of Legionella species in man-made freshwater systems constitutes a public health concern. Cooling towers are the main source of legionellosis outbreaks. These outbreaks are mostly associated with L. pneumophila and its monitoring in freshwater environments is of high relevance. In this study, a developed Legionella genus-specific Illumina-based approach targeting the 16S rRNA gene was applied to a set of cooling tower water samples monthly sampled from January 2013 to December 2014 in order to provide accurate identification and precise detection and quantification of Legionella species, including the most clinically relevant L. pneumophila
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001719
+study_name	Biogeography of tropical riverine bacterioplankton communities determined by deep sequencing of 16S rRNA gene
+study_abstract	Riverine systems are intimately coupled with and shaped by the characteristics of their watershed, yet we know little about the effect of these connections to bacterioplankton communities. Here, we characterise water samples collected on the basis of dominant watershed land-use types observed along the tropical riverine system using 16S rRNA gene Illumina MiSeq sequencing. Three types of samples were analysed with different land-use types: pristine, urban and agricultural. Bacterioplankton communities were greatly discriminated by watershed land-use types rather than environmental or climate characteristics. Watershed land-use promoted allochtonous bacterial sequences, eutrophication-linked bacterial sequences, extinction and stress to indigenous bacterioplankton taxa. Despite the considerable variation across watershed land-use types, total bacterioplankton richness was greatly contributed by among-site richness than within-site richness. Bacterioplankton taxa showed a remarkable stability over time irrespective of climatic perturbations emphasizing the possibility of being temporally predictable.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

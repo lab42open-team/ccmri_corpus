@@ -1,0 +1,7 @@
+study_id	MGYS00002389
+study_name	It was verified the impact of irrigation treatments (wet, optimal, dry and very dry) and three potato cultivars on soil microbial community.
+study_abstract	The water management was classified into four soil water matric potential mean: -15 kPa (Wet), -25 kPa (Optimal), -30 kPa (Dry) and -45 kPa (Very Dry). The three potato cultivars used were Goldrush (most cultivated mid-season variety in Quebec), Envol (popular early variety), and Red Maria (mid-late to late variety).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Crop
+=========================================================================================
+=========================================================================================

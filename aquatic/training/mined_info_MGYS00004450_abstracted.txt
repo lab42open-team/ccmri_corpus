@@ -1,0 +1,12 @@
+study_id	MGYS00004450
+study_name	ASU barcoding in 5 regional seas
+study_abstract	Metabarcoding of metazoan taxa collected in Artificial Substrate Units in 5 regional seas.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	30271554
+publication_nr_0_pubmed_abstract	In a world of declining biodiversity, monitoring is becoming crucial. Molecular methods, such as metabarcoding, have the potential to rapidly expand our knowledge of biodiversity, supporting assessment, management, and conservation. In the marine environment, where hard substrata are more difficult to access than soft bottoms for quantitative ecological studies, Artificial Substrate Units (ASUs) allow for standardized sampling. We deployed ASUs within five regional seas (Baltic Sea, Northeast Atlantic Ocean, Mediterranean Sea, Black Sea, and Red Sea) for 12-26 months to measure the diversity and community composition of macroinvertebrates. We identified invertebrates using a traditional approach based on morphological characters, and by metabarcoding of the mitochondrial cytochrome oxidase I (COI) gene. We compared community composition and diversity metrics obtained using the two methods. Diversity was significantly correlated between data types. Metabarcoding of ASUs allowed for robust comparisons of community composition and diversity, but not all groups were successfully sequenced. All locations were significantly different in taxonomic composition as measured with both kinds of data. We recovered previously known regional biogeographical patterns in both datasets (e.g., low species diversity in the Black and Baltic Seas, affinity between the Bay of Biscay and the Mediterranean). We conclude that the two approaches provide complementary information and that metabarcoding shows great promise for marine monitoring. However, until its pitfalls are addressed, the use of metabarcoding in monitoring of rocky benthic assemblages should be used in addition to classical approaches rather than instead of them. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30271554
+publication_nr_0_title	A comparative analysis of metabarcoding and morphology-based identification of benthic communities across different regional seas.
+publication_nr_0_publication_year	2018
+=========================================================================================

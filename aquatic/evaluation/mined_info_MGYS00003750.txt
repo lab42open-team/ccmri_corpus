@@ -1,0 +1,10 @@
+study_id	MGYS00003750
+study_name	Defining seasonal marine microbial community dynamics
+study_abstract	In order to facilitate conservation of biological diversity we require comprehensive knowledge of the microbial ecology of an ecosystem. As the vast majority of microbes are not readily culturable, we must use molecular tools to investigate their diversity and function in marine ecosystem. However, it is still difficult to understand their role in ecological processes. Here we present a study to characterize changes in the diversity and metabolic activity of the heterotrophic bacterial community over an annual cycle in the Western English Channel. For this purpose, surface water samples were collected from the sampling station, L4, every week for a year. The respiration rate of the heterotrophic microbial community was determined from the decrease in dissolved oxygen content of the less than 0.8m size-fraction of the sea water. We are currently analyzing captured DNA using 16S rRNA amplicon and shotgun metagenomic pyrosequencing to determine the diversity and functional profile of the active bacteria in order to characterize annual changes in the active bacterial community. This dataset sits within the larger framework of the Western English Channel bacterial diversity time series (2003-2009) and the seasonal metagenomic and metatranscriptomic studies associated with this site. We demonstrate that respiration rates are characterized by specific microbial diversity and function at different times of year, highlighting seasonal fluctuation in this ecosystem.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

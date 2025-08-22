@@ -1,0 +1,7 @@
+study_id	MGYS00000956
+study_name	Soil Genome sequencing
+study_abstract	The microdiversity of soil
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

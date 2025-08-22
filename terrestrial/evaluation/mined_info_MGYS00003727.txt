@@ -1,0 +1,7 @@
+study_id	MGYS00003727
+study_name	The study aims to study the transcriptional response of soil communities to the artificial pollution with toluene
+study_abstract	This study project for a complete characterization and interpretation of the functional response of local microbial communities present in different type soils upon contamination of toluene.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Clay
+=========================================================================================
+=========================================================================================

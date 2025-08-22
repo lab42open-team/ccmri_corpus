@@ -1,0 +1,7 @@
+study_id	MGYS00004307
+study_name	Impact of offshore oil drilling operations on the diversity of marine benthic Foraminifera - Raw sequence reads
+study_abstract	Environmental impacts from offshore oil and gas activities are currently partly determined by measuring changes in macro-infaunal diversity determined using microscopy. In this study, we evaluated the applicability of using foraminiferal-specific metabarcoding (i.e. high-throughput sequencing of foraminiferal environmental DNA marker sequences). Sediment samples were collected along distance gradients from two oil platform wellheads (WHs) off Taranaki (New Zealand) and their physico-chemical properties, foraminiferal environmental DNA/RNA, and macro-infaunal composition analysed.Our results suggest that foraminiferal metabarcoding may provide a more accurate assessment of the conditions of environmental communities at the time of sampling than current methods based on morphological examination. These data highlight the potential of foraminiferal metabarcoding as an effective asset to existing monitoring techniques.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Benthic
+=========================================================================================
+=========================================================================================

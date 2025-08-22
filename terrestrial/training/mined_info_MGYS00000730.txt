@@ -1,0 +1,7 @@
+study_id	MGYS00000730
+study_name	Bamboo invaded forest soil Metagenome
+study_abstract	To better understand the impacts of moso bamboo invasion on the phylogenetic structure and diversity of the soil bacterial communities in moso bamboo forest, adjacent Japanese cedar plantation and bamboo-invaded transition zone.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

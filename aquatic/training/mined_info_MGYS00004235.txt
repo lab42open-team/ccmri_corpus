@@ -1,0 +1,7 @@
+study_id	MGYS00004235
+study_name	Foraminifera 18S rDNA and rRNA diversity for fish farms biomonitoring
+study_abstract	Both 18S ribosomal DNA and RNA taxonomic markers were sequenced to investigate the response of benthic foraminiferal communities to environmental gradients related to the presence of salmon fish farms in two Scotland fjords. For both DNA and RNA extractions performed on 45 sediment samples and cDNA synthesis for RNA, we PCR amplified the 37f hypervariable region of the foramnifera using tagged PCR primers prior to library preparation (TruSeq) and MiSeq paired-end sequencing. The combinations of tagged primers are contained in the paried reads and could be used to assign the sequences the their sample of origin.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

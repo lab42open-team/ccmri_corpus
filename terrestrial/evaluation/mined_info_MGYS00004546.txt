@@ -1,0 +1,7 @@
+study_id	MGYS00004546
+study_name	Soil microbial communities in agricultural soils of Argentina
+study_abstract	In this project we study soil bacterial and fungal communities under long-term agricultural management with contrasting fertilization, tillage and crop rotation practices.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

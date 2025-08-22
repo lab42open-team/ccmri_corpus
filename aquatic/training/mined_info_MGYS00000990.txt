@@ -1,0 +1,7 @@
+study_id	MGYS00000990
+study_name	Minor impacts of reduced pH on bacterial biofilms on settlement tiles along natural pH gradients at two CO2 seeps in Papua New Guinea
+study_abstract	To study the effect of reduced pH on bacterial biofilms on tropical coral reefs, settlement tiles were deployed along pH gradients in December 2011 at two reefs in Papua New Guinea which hosted hydrothermal CO2 seeps. This ENA entry contains the sequences from biofilm samples from the lower side of eight settlement tiles (4 per reef) that were sampled 5 and 13 months after deployment. These samples covered pH values between 8.0 and 7.6 and constitute a subset of a larger pool of samples from the settlement tiles that was analyzed with ARISA only. The bacterial biofilm consisted predominantly of Alpha-, Gamma- and Deltaproteobacteria, as well as Cyanobacteria, Flavobacteriia and Cytophaga. Bacterial biofilm composition was heterogeneous with approximately 20% shared operational taxonomic units between samples. Among the observed environmental parameters, pH only had a very weak effect on community composition (R? ~ 1%, based on ARISA) and did not affect community richness and evenness.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+=========================================================================================

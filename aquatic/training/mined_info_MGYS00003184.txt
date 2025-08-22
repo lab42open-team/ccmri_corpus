@@ -1,0 +1,7 @@
+study_id	MGYS00003184
+study_name	Kallisti Limnes subsea pools Metagenome Study
+study_abstract	Metagenome studies of the Kallisti Limnes, carbon dioxide-accumulating subsea pools
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002429
+study_name	Microbial populations of Lascauxs Apse in relation to collembola and black stains on cave walls.
+study_abstract	In the Apse of Lascaux Cave (France), the microorganisms of black stains and unstained parts of wall cave were identified with Illumina technology using three genes markers of microbial diversity were analyzed, the 16S rRNA genes specific for bacteria, the 18S rRNA genes specific for micro-eukaryotes and the second internal transcribed spacer (ITS2) specific for fungi.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Deep subsurface
+=========================================================================================
+=========================================================================================

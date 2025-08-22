@@ -1,0 +1,8 @@
+study_id	MGYS00000991
+study_name	Arctic Ocean metagenomes from HLY1502
+study_abstract	Arctic Ocean metagenomes sampled aboard CGC Healy during the 2015 GEOTRACES Arctic research cruise
+study_origination	SUBMITTED
+associated_study_0	MGYS00002040
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

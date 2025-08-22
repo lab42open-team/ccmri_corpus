@@ -1,0 +1,7 @@
+study_id	MGYS00000397
+study_name	Port Hacking Time Series
+study_abstract	Compare taxonomic and functional composition of coastal marine bacterioplankton over time
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+=========================================================================================
+=========================================================================================

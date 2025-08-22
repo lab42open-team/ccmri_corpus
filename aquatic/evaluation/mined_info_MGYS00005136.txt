@@ -1,0 +1,7 @@
+study_id	MGYS00005136
+study_name	Metatranscriptome of an algal bloom from St Helena Bay on the west coast of South Africa
+study_abstract	The aim of this project is to investigate changes in gene expression specifically genes linked to PCD the duration of an algal bloom event. The study was motivated by the paucity of knowledge in changes in microbial complexity in algal blooms and by the lack of empirical evidence of PCD from field and natural environments such as algal blooms. Despite the progress made, algal blooms remain poorly understood, specifically why a particular taxa proliferates to dominate the bloom remains a challenge and a call for species specific information has been made. Concomitant to documenting the changes in microbial diversity and environment conditions during an algal bloom, changes in gene expression in relation to PCD will also be assessed to provide a contextual understanding of PCD during a bloom event.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

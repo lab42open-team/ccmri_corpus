@@ -1,0 +1,7 @@
+study_id	MGYS00003085
+study_name	Marine metagenome ICM_LCR
+study_abstract	The LACAr cooperative project: microbial diversity in coastal systems along a latitudinal gradient from South Atlantic to the Caribbean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

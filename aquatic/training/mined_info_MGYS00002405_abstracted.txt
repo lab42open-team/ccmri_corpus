@@ -1,0 +1,12 @@
+study_id	MGYS00002405
+study_name	Polymetallic nodule field Targeted loci environmental
+study_abstract	Abyssal sediments, polymetallic nodules, and water-column samples were collected from the UKSRL1 claim area within the Clarion-Clipperton fracture zone in the Pacific Ocean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	27868387
+publication_nr_0_pubmed_abstract	Concentrated seabed deposits of polymetallic nodules, which are rich in economically valuable metals (e.g., copper, nickel, cobalt, manganese), occur over vast areas of the abyssal Pacific Ocean floor. Little is currently known about the diversity of microorganisms inhabiting abyssal habitats. In this study, sediment, nodule, and water column samples were collected from the Clarion-Clipperton Zone of the Eastern North Pacific. The diversities of prokaryote and microeukaryote communities associated with these habitats were examined. Microbial community composition and diversity varied with habitat type, water column depth, and sediment horizon. Thaumarchaeota were relatively enriched in the sediments and nodules compared to the water column, whereas Gammaproteobacteria were the most abundant sequences associated with nodules. Among the Eukaryota, rRNA genes belonging to the Cryptomonadales were relatively most abundant among organisms associated with nodules, whereas rRNA gene sequences deriving from members of the Alveolata were relatively enriched in sediments and the water column. Nine operational taxonomic unit (OTU)s were identified that occur in all nodules in this dataset, as well as all nodules found in a study 3000-9000 km from our site. Microbial communities in the sediments had the highest diversity, followed by nodules, and then by the water column with &lt;1/3 the number of OTUs as in the sediments. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27868387
+publication_nr_0_title	Polymetallic nodules, sediments, and deep waters in the equatorial North Pacific exhibit highly diverse and distinct bacterial, archaeal, and microeukaryotic communities.
+publication_nr_0_publication_year	2017
+=========================================================================================

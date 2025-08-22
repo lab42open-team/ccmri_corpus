@@ -1,0 +1,7 @@
+study_id	MGYS00003004
+study_name	Submarine Ligurian Canyons Water Prokaryotic and Protist Communities
+study_abstract	Planktonic prokaryote communities in a submarine canyon system in the Ligurian Sea (NW Mediterranean)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

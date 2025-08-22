@@ -1,0 +1,8 @@
+study_id	MGYS00000713
+study_name	Wisconsin, Continuous corn soil metagenome reference core Project
+study_abstract	none provided
+study_origination	HARVESTED
+associated_study_0	MGYS00002068
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

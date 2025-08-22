@@ -1,0 +1,7 @@
+study_id	MGYS00000669
+study_name	Organic Farm Targeted Locus
+study_abstract	16S rDNA bacterial tag-encoded FLX amplicon pyrosequencing based on soil surface samples collected from the first certified organic farm (Tune Farm) in Alabama.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

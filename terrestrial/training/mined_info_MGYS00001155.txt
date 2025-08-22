@@ -1,0 +1,8 @@
+study_id	MGYS00001155
+study_name	Bacterial diversity in various environments such as cultivated soil, alpine soil, semi-arid soil
+study_abstract	For cultivated soil, alpine soil, semi-arid soil, samples were taken in the field in 2012 and 2013. They were soil micro-samples as they all weighed between 70 and 150 mg.Samples labelled xb or a (69 samples) come from an alpine soil. They were taken along a 80-m long transect in La Vanoise Park (France). The transect was sampled twice in 2012 and 2013. Samples labelled GMV1 to GMV23 come from a 10-m long transect in Widou (Senegal) were the soil is semi-arid. Samples labelled LD1 to LD22 come from a 2-m long transect in a cultivated soil near Lyon.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002069
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

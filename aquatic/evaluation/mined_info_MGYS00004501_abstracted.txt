@@ -1,0 +1,12 @@
+study_id	MGYS00004501
+study_name	seawater metagenome Genome sequencing and assembly
+study_abstract	particle-attached and free-living bacteria
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	32166910
+publication_nr_0_pubmed_abstract	Microbially mediated decomposition of particulate organic carbon (POC) is a central component of the oceanic carbon cycle, controlling the flux of organic carbon from the surface ocean to the deep ocean. Yet, the specific microbial taxa responsible for POC decomposition and degradation in the deep ocean are still unknown. To target the active microbial lineages involved in these processes, <sup>13</sup> C-labeled particulate organic matter (POM) was used as a substrate to incubate particle-attached (PAM) and free-living microbial (FLM) assemblages from the epi- and bathypelagic zones of the New Britain Trench (NBT). By combining DNA stable-isotope probing and Illumina Miseq high-throughput sequencing of bacterial 16S rRNA gene, we identified 14 active bacterial taxonomic groups that implicated in the decomposition of <sup>13</sup> C-labeled POM at low and high pressures under the temperature of 15C. Our results show that both PAM and FLM were able to decompose POC and assimilate the released DOC. However, similar bacterial taxa in both the PAM and FLM assemblages were involved in POC decomposition and DOC degradation, suggesting the decoupling between microbial lifestyles and ecological functions. Microbial decomposition of POC and degradation of DOC were accomplished primarily by particle-attached bacteria at atmospheric pressure and by free-living bacteria at high pressures. Overall, the POC degradation rates were higher at atmospheric pressure (0.1 MPa) than at high pressures (20 and 40 MPa) under 15C. Our results provide direct evidence linking the specific particle-attached and free-living bacterial lineages to decomposition and degradation of diatomic detritus at low and high pressures and identified the potential mediators of POC fluxes in the epi- and bathypelagic zones. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32166910
+publication_nr_0_title	DNA stable-isotope probing reveals potential key players for microbial decomposition and degradation of diatom-derived marine particulate matter.
+publication_nr_0_publication_year	2020
+=========================================================================================

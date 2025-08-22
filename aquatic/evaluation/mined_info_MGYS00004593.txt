@@ -1,0 +1,7 @@
+study_id	MGYS00004593
+study_name	Ammonia monooxygenase biogeography and sequence diversity in the Cape Fear Estuary
+study_abstract	This project is focused on exploring the spatial and temporal distribution of microbes involved in nitrification within the sediments of the Cape Fear Estuary. 454 Sequencing of both bacterial and archaeal amoA genes was conducted with DNA extracts obtained from estaurine surface sediment samples. Spatial patterns were evaluated by collecting sediment along the salinity gradient of the estuary. Temporal patterns were evaluated by collecting sediment samples seasonal over a three year period. The interaction of community composition with environmental conditions was evaluated using in situ sediment transplant experiments within the estuary, where sediment bundles were moved from one location in the estuary to another and changes in the microbial community were observed over time following transplantation. These data are relevant to understanding the diversity and distribution of microbes involved in microbial nitrogen cycling and how the diversity of these functional groups interact with environmental conditions within an estuary.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

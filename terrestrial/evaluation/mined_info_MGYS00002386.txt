@@ -1,0 +1,7 @@
+study_id	MGYS00002386
+study_name	differential metatranscriptomics of bulk soil and compost
+study_abstract	3 bulk soil samples and 3 compost samples have been sequenced to determine the functional differences of the microbial communities.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam
+=========================================================================================
+=========================================================================================

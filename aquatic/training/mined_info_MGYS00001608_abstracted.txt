@@ -1,0 +1,13 @@
+study_id	MGYS00001608
+study_name	Subseafloor microbes at Mid-Cayman Rise
+study_abstract	Two new vent-systems on the Mid-Cayman Rise each exhibit novel geologic settings and distinctively hydrogen-rich vent fluid compositions. We have determined and compared the chemistry, energy landscape, abundance, community composition, diversity, and function of microbes in venting fluids from both sites: Piccard, the world?s deepest vent site-site, hosted in mafic rocks, and Von Damm, an adjacent, ultramafic-influenced system.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002031
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents
+=========================================================================================
+publication_nr_0_pubmed_id	26663423
+publication_nr_0_pubmed_abstract	Warm fluids emanating from hydrothermal vents can be used as windows into the rocky subseafloor habitat and its resident microbial community. Two new vent systems on the Mid-Cayman Rise each exhibits novel geologic settings and distinctively hydrogen-rich vent fluid compositions. We have determined and compared the chemistry, potential energy yielding reactions, abundance, community composition, diversity, and function of microbes in venting fluids from both sites: Piccard, the world's deepest vent site, hosted in mafic rocks; and Von Damm, an adjacent, ultramafic-influenced system. Von Damm hosted a wider diversity of lineages and metabolisms in comparison to Piccard, consistent with thermodynamic models that predict more numerous energy sources at ultramafic systems. There was little overlap in the phylotypes found at each site, although similar and dominant hydrogen-utilizing genera were present at both. Despite the differences in community structure, depth, geology, and fluid chemistry, energetic modelling and metagenomic analysis indicate near functional equivalence between Von Damm and Piccard, likely driven by the high hydrogen concentrations and elevated temperatures at both sites. Results are compared with hydrothermal sites worldwide to provide a global perspective on the distinctiveness of these newly discovered sites and the interplay among rocks, fluid composition and life in the subseafloor. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26663423
+publication_nr_0_title	Subseafloor microbial communities in hydrogen-rich vent fluids from hydrothermal systems along the Mid-Cayman Rise.
+publication_nr_0_publication_year	2016
+=========================================================================================

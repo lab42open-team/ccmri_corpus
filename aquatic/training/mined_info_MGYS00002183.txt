@@ -1,0 +1,7 @@
+study_id	MGYS00002183
+study_name	Bacteria in domestic water-storage containers with or without mosquito larvae
+study_abstract	In this study, bacteria in domestic water-storage containers in an Indian village were analysed. Bacteria were identified by 16S rRNA gene amplicon sequencing and identified bacteria were correlated to the presence of vector mosquitoes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water
+=========================================================================================
+=========================================================================================

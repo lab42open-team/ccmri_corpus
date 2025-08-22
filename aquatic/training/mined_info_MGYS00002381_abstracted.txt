@@ -1,0 +1,12 @@
+study_id	MGYS00002381
+study_name	rDNA amplicon sequencing of Western North Atlantic microbial community
+study_abstract	Targeted amplicon sequencing of the 16S V4 and 18S V4 rRNA genes from microplankton DNA collected via filtration of seawater. Samples obtained from 24 sampling stations across the Western North Atlantic as part of work conducted for NSF Award #1350710: "Method Development for High-Resolution Underway N2 Fixation Measurements", with the goal of characterizing the marine microplankton community and relating community structure to measured productivity and nitrogen fixation rates.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	31439897
+publication_nr_0_pubmed_abstract	Despite generally low primary productivity and diatom abundances in oligotrophic subtropical gyres, the North Atlantic Subtropical Gyre (NASG) exhibits significant diatom-driven carbon export on an annual basis. Subsurface pulses of nutrients likely fuel brief episodes of diatom growth, but the exact mechanisms utilized by diatoms in response to these nutrient injections remain understudied within near-natural settings. Here we simulated delivery of subsurface nutrients and compare the response among eukaryotic phytoplankton using a combination of physiological techniques and metatranscriptomics. We show that eukaryotic phytoplankton groups exhibit differing levels of transcriptional responsiveness and expression of orthologous genes in response to release from nutrient limitation. In particular, strategies for use of newly delivered nutrients are distinct among phytoplankton groups. Diatoms channel new nitrate to growth-related strategies while physiological measurements and gene expression patterns of other groups suggest alternative strategies. The gene expression patterns displayed here provide insights into the cellular mechanisms that underlie diatom subsistence during chronic nitrogen-depleted conditions and growth upon nutrient delivery that can enhance carbon export from the surface ocean. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31439897
+publication_nr_0_title	Strategies among phytoplankton in response to alleviation of nutrient stress in a subtropical gyre.
+publication_nr_0_publication_year	2019
+=========================================================================================

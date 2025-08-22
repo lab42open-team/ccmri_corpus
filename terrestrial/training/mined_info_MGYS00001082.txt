@@ -1,0 +1,7 @@
+study_id	MGYS00001082
+study_name	Acidic northern peatland Transcriptome or Gene expression
+study_abstract	Northern peatlands play an extraordinary role in the global carbon balance. The most extensive type of these ecosystems is represented by Sphagnum-dominated acidic peatlands, which are inhabited by microorganisms whose degradation capabilities remain poorly understood. We attempted to identify microorganisms involved in degradation of cellulose, xylan, and pectin, which are the major components of Sphagnum-derived litter, and chitin, which is derived from exoskeletons of peat-inhabiting arthropods.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

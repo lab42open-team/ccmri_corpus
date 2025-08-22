@@ -1,0 +1,7 @@
+study_id	MGYS00003168
+study_name	Microbial indicators of anthropogenic marine pollution identified by 16S and 18S metagenomic library analysis
+study_abstract	Microbial indicators of anthropogenic marine pollution identified by 16S and 18S metagenomic library analysis. Research supported by FP7 European Project Winning Applications of nanoTEchnology for Resolutive hydropurification WATER (Grant Agreement n 316082).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

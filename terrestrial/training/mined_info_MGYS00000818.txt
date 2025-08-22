@@ -1,0 +1,7 @@
+study_id	MGYS00000818
+study_name	Hydrocarbon polluted soil Targeted Locus (Loci)
+study_abstract	The aim of the study was to determine the microbial diversity in soil from a landfarming site amended with hydrocarbon contaminants. To determine the microbial diversity amplicon pyrosequencing was used of different regions of the 16S rRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

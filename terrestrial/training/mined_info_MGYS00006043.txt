@@ -1,0 +1,7 @@
+study_id	MGYS00006043
+study_name	Metagenomic study of oil sludge contaminated soil
+study_abstract	Soil sample has been aseptically collected from Group gathering station(GGS) at Gourisagar, Sivasagar of ONGC(Oil and Natural Gas Corporation), Assam, India. The site from which the soil sample was collected was being contaminated/dumped with crude oil sludge for a very long time(Approximately more than 5 years). The collected soil sample was subjected to metagenomic sequencing and the data obtained will be used for ascertaining how chronic exposure to hydrocarbons will affect the soil microorganisms.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

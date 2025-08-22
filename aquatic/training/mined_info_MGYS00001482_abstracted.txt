@@ -1,0 +1,22 @@
+study_id	MGYS00001482
+study_name	Metatranscriptome sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes.
+study_abstract	Metatranscriptome sequencing from different depths to retain small cell size (Bacteria Organisms). The RNA was extracted and submitted to high throughput sequencing.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000410
+associated_study_1	MGYS00002008
+associated_study_2	MGYS00002392
+associated_study_3	MGYS00006075
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	30533726
+publication_nr_0_pubmed_abstract	The Tara Oceans Consortium has published various metagenomes of marine environmental samples. Here, we report a contig of 2.6 Mbp from the assembly of a sample collected near the Marquesas Islands in the Pacific Ocean, covering a nearly complete novel verrucomicrobial genome. We propose the name "<i>Candidatus</i> Moanabacter tarae" for the corresponding bacterium. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30533726
+publication_nr_0_title	Draft Genome Sequence of "<i>Candidatus</i> Moanabacter tarae," Representing a Novel Marine Verrucomicrobial Lineage.
+publication_nr_0_publication_year	2018
+publication_nr_1_pubmed_id	29523891
+publication_nr_1_pubmed_abstract	Aerobic anoxygenic phototrophs (AAnPs) are common in marine environments and are associated with photoheterotrophic activity. To date, AAnPs that possess the potential for carbon fixation have not been identified in the surface ocean. Using the Tara Oceans metagenomic dataset, we have identified draft genomes of nine bacteria that possess the genomic potential for anoxygenic phototrophy, carbon fixation via the Calvin-Benson-Bassham cycle, and the oxidation of sulfite and thiosulfate. Forming a monophyletic clade within the Alphaproteobacteria and lacking cultured representatives, the organisms compose minor constituents of local microbial communities (0.1-1.0%), but are globally distributed, present in multiple samples from the North Pacific, Mediterranean Sea, the East Africa Coastal Province, and the Atlantic. This discovery may require re-examination of the microbial communities in the oceans to understand and constrain the role this group of organisms may play in the global carbon cycle. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29523891
+publication_nr_1_title	Potential for primary productivity in a globally-distributed bacterial phototroph.
+publication_nr_1_publication_year	2018
+=========================================================================================

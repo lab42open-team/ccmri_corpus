@@ -1,0 +1,12 @@
+study_id	MGYS00001539
+study_name	Marine water Metagenome
+study_abstract	Examine viral communities in ballast and harbor waters
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	27912057
+publication_nr_0_pubmed_abstract	The intestinal microbiota influence neurodevelopment, modulate behavior, and contribute to neurological disorders. However, a functional link between gut bacteria and neurodegenerative diseases remains unexplored. Synucleinopathies are characterized by aggregation of the protein Alfa-synuclein (AlfaSyn), often resulting in motor dysfunction as exemplified by Parkinson's disease (PD). Using mice that overexpress AlfaSyn, we report herein that gut microbiota are required for motor deficits, microglia activation, and AlfaSyn pathology. Antibiotic treatment ameliorates, while microbial re-colonization promotes, pathophysiology in adult animals, suggesting that postnatal signaling between the gut and the brain modulates disease. Indeed, oral administration of specific microbial metabolites to germ-free mice promotes neuroinflammation and motor symptoms. Remarkably, colonization of AlfaSyn-overexpressing mice with microbiota from PD-affected patients enhances physical impairments compared to microbiota transplants from healthy human donors. These findings reveal that gut bacteria regulate movement disorders in mice and suggest that alterations in the human microbiome represent a risk factor for PD. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27912057
+publication_nr_0_title	Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease.
+publication_nr_0_publication_year	2016
+=========================================================================================

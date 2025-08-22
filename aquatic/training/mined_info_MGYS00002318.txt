@@ -1,0 +1,7 @@
+study_id	MGYS00002318
+study_name	EMG produced TPA metagenomics assembly of the Hot Lake Unicyanobacterial Consortia (microbial mat metagenome) data set.
+study_abstract	The microbial mat metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA283228. This project includes samples from the following biomes: Environmental, Aquatic, Non-marine Saline and Alkaline, Hypersaline, Microbial mats.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Microbial mats
+=========================================================================================
+=========================================================================================

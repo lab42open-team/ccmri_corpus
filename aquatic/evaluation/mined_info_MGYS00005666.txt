@@ -1,0 +1,8 @@
+study_id	MGYS00005666
+study_name	CH09 Metavirome
+study_abstract	Generation of a metavirome from the CH09 hotspring in Yellowstone National Park for the identification of a virus infecting a Nanoarchaea.
+study_origination	HARVESTED
+associated_study_0	MGYS00005665
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000978
+study_name	Agricultural soil Targeted Locus (Loci)
+study_abstract	Bacterial community structures
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

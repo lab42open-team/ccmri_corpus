@@ -1,0 +1,13 @@
+study_id	MGYS00004480
+study_name	Bacteria community in the southern East China Sea
+study_abstract	Bacterial 16S rDNA sequences in the southern East China Sea
+study_origination	HARVESTED
+associated_study_0	MGYS00004490
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	29703955
+publication_nr_0_pubmed_abstract	The importance of biodiversity effects on ecosystem functioning across trophic levels, especially via predatory-prey interactions, is receiving increased recognition. However, this topic has rarely been explored for marine microbes, even though microbial biodiversity contributes significantly to marine ecosystem function and energy flows. Here we examined diversity and biomass of bacteria (prey) and nanoflagellates (predators), as well as their effects on trophic transfer efficiency in the East China Sea. Specifically, we investigated: (i) predator diversity effects on prey biomass and trophic transfer efficiency (using the biomass ratio of predator/prey as a proxy), (ii) prey diversity effects on predator biomass and trophic transfer efficiency, and (iii) the relationship between predator and prey diversity. We found higher prey diversity enhanced both diversity and biomass of predators, as well as trophic transfer efficiency, which may arise from more balanced diet and/or enhanced niche complementarity owing to higher prey diversity. By contrast, no clear effect was detected for predator diversity on prey biomass and transfer efficiency. Notably, we found prey diversity effects on predator-prey interactions; whereas, we found no significant diversity effect on biomass within the same trophic level. Our findings highlight the importance of considering multi-trophic biodiversity effects on ecosystem functioning in natural ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29703955
+publication_nr_0_title	Predator and prey biodiversity relationship and its consequences on marine ecosystem functioning-interplay between nanoflagellates and bacterioplankton.
+publication_nr_0_publication_year	2018
+=========================================================================================

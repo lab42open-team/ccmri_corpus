@@ -1,0 +1,7 @@
+study_id	MGYS00000791
+study_name	Pig farm & soil Targeted Locus (Loci)
+study_abstract	16S amplicon sequencing of pig and farm soil from Wenzhou, China. GBPM (A1) swine manure 2013-01-04 Wenzhou, China pig farm (adult pig) GSPM (A2) swine manure 2013-01-04 Wenzhou, China pig farm (juvenile pig) ABPM (A3) swine manure 2013-01-04 Wenzhou, China pig farm (adult pig) ASPM (A4) swine manure 2013-01-04 Wenzhou, China pig farm (juvenile pig) GPMS (A7) soil 2013-01-09 Wenzhou, China test field APMS (A8) soil 2013-01-09 Wenzhou, China test field
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

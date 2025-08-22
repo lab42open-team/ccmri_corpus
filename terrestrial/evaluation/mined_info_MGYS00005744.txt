@@ -1,0 +1,7 @@
+study_id	MGYS00005744
+study_name	Soil fungal diversity along elevation gradients
+study_abstract	The goal of this study was to understand the diversity of soil fungi across elevational gradients and to disentangle the direct and indirect effects of climate conditions, plant communities and soil properties on soil fungal richness. This study was conducted in cool-temperate and sub-alpine forests in the University of Tokyo Chichibu Forest in central Japan. We used amplicon-based sequencing of ITS2 region (fITS7/ITS4) to characterize the soil fungal community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

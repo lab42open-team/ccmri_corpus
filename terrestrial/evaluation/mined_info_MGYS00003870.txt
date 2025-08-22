@@ -1,0 +1,10 @@
+study_id	MGYS00003870
+study_name	Temple TX native exotic precip study
+study_abstract	Bacterial biodiversity between native and novel exotic-dominated communities exposed to irrigation treatment In many systems, novel exotic-dominated plant communities are replacing native plant communities. We experimentally compared species diversity decline between nine-species grassland communities under field conditions to test whether bacterial diversity differed between communities containing all exotic or all native plant species, using a pool of 40 plant species. Mixtures (64) were established with equal functional group proportions using a paired species approach that controlled for phylogeny and growth form between pairs of native and exotic plant species. Origin (native vs. exotic) was crossed with summer irrigation treatments. Here we examine weather changes in climate, plant biomass and plant diversity affect bacterial community composition. Aboveground biomass was greater in exotic than native plots, and this difference was larger in mixtures than in monocultures. Plant species diversity declined more in exotic than native plant communities. Using 16S rDNA, we will determine if soil microbial communities are sensitive to changes in irrigation and plant communities, or if soil microbial communities are resilient, resulting in minimal changes in soil bacterial community composition.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

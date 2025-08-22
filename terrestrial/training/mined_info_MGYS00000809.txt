@@ -1,0 +1,8 @@
+study_id	MGYS00000809
+study_name	Wetland samples Metagenome
+study_abstract	To explore the microbial community composition and function in wetlands
+study_origination	HARVESTED
+associated_study_0	MGYS00002305
+biome_info_0	root:Environmental:Terrestrial:Soil:Wetlands
+=========================================================================================
+=========================================================================================

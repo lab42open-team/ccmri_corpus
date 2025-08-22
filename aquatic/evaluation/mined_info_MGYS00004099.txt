@@ -1,0 +1,7 @@
+study_id	MGYS00004099
+study_name	Coastal Marine Environment Targeted loci environmental
+study_abstract	Marine protist samples were taken from Tolo Harbour in Hong Kong, before during and after a severe hypoxic episode.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

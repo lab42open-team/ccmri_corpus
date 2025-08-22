@@ -1,0 +1,13 @@
+study_id	MGYS00001432
+study_name	Metagenomic, Metatranscriptomic and Metviriomic analysis of samples collected at four time points during a single day at the Gulf of Aqaba in the Red Sea.
+study_abstract	To gain knowledge about the abundance of phage-harbored metabolic genes and the extent to which they are expressed in the marine environment, and to detect changes in viral and host populations as well as variations in gene expression, four samples were collected from the Gulf of Aqaba in the Rea Sea. gDNA, vDNA and RNA was collected in 2012 at four different time points over 24 hours. Using a unique approach, no amplification or enrichment methods were applied to any of the fractions prior to sequencing in order to limit sample-specific biases.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002044
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28457865
+publication_nr_0_pubmed_abstract	Marine group II Euryarchaeota (MG-II) are among the most abundant microbes in oceanic surface waters [1-4]. So far, however, representatives of MG-II have not been cultivated, and no viruses infecting these organisms have been described. Here, we present complete genomes for three distinct groups of viruses assembled from metagenomic sequence datasets highly enriched for MG-II. These novel viruses, which we denote magroviruses, possess double-stranded DNA genomes of 65 to 100 kilobases in size that encode a structural module characteristic of head-tailed viruses and, unusually for archaeal and bacterial viruses, a nearly complete replication apparatus of apparent archaeal origin. The newly identified magroviruses are widespread and abundant and therefore are likely to be major ecological agents. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28457865
+publication_nr_0_title	Novel Abundant Oceanic Viruses of Uncultured Marine Group II Euryarchaeota.
+publication_nr_0_publication_year	2017
+=========================================================================================

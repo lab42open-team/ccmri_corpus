@@ -1,0 +1,8 @@
+study_id	MGYS00001161
+study_name	Kansas, Cultivated corn soil metagenome reference core Project
+study_abstract	none provided
+study_origination	HARVESTED
+associated_study_0	MGYS00002048
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

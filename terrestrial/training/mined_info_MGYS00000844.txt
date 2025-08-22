@@ -1,0 +1,7 @@
+study_id	MGYS00000844
+study_name	Metagenome sequencing of Prokaryotic Microbiota from Saline Desert Soil of Little Rann of Kutch, Gujarat, India
+study_abstract	Sample was collected from different area of kutch Runn like Farasi, Near Salt Agar, Zinzewaea, Vacheradad. Physical properties: Sample was salty, moist with fine silt, brown in color.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

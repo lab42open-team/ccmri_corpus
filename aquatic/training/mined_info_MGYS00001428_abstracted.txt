@@ -1,0 +1,12 @@
+study_id	MGYS00001428
+study_name	Marine eukaryotic metatranscriptomes
+study_abstract	Metatranscriptome data
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28092920
+publication_nr_0_pubmed_abstract	The Southern Ocean houses a diverse and productive community of organisms. Unicellular eukaryotic diatoms are the main primary producers in this environment, where photosynthesis is limited by low concentrations of dissolved iron and large seasonal fluctuations in light, temperature and the extent of sea ice. How diatoms have adapted to this extreme environment is largely unknown. Here we present insights into the genome evolution of a cold-adapted diatom from the Southern Ocean, Fragilariopsis cylindrus, based on a comparison with temperate diatoms. We find that approximately 24.7 per cent of the diploid F. cylindrus genome consists of genetic loci with alleles that are highly divergent (15.1 megabases of the total genome size of 61.1 megabases). These divergent alleles were differentially expressed across environmental conditions, including darkness, low iron, freezing, elevated temperature and increased CO<sub>2</sub>. Alleles with the largest ratio of non-synonymous to synonymous nucleotide substitutions also show the most pronounced condition-dependent expression, suggesting a correlation between diversifying selection and allelic differentiation. Divergent alleles may be involved in adaptation to environmental fluctuations in the Southern Ocean. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28092920
+publication_nr_0_title	Evolutionary genomics of the cold-adapted diatom Fragilariopsis cylindrus.
+publication_nr_0_publication_year	2017
+=========================================================================================

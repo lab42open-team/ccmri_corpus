@@ -1,0 +1,7 @@
+study_id	MGYS00004323
+study_name	Bacterial community of river sediment enriched with polycyclic aromatic hydrocarbons
+study_abstract	16S rRNA gene amplicons (454-pyrosequencing) raw sequence reads of Chao Phraya River sediment enriched with polycyclic aromatic hydrocarbons. This study aimed to assess the biodegradation of mixed PAHs by indigenous bacteria in river sediment.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

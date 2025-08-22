@@ -1,0 +1,10 @@
+study_id	MGYS00003599
+study_name	EMG produced TPA metagenomics assembly of the Coral microbial communities from La Bocana,Puerto Morelos, Mexico - Diploria C A metagenome metagenome (coral metagenome) data set.
+study_abstract	The coral metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA364874. This project includes samples from the following biomes: Host-associated, Invertebrates, Cnidaria, Coral.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

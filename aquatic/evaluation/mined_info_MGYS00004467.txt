@@ -1,0 +1,7 @@
+study_id	MGYS00004467
+study_name	Impacts of crude oil and chemical dispersant exposure on marine microbial biofilm formation and steel corrosion
+study_abstract	The release of hydrocarbons and dispersants in the marine environment may place at risk the preservation of historic steel shipwrecks on the seafloor. In this study, we exposed steel biofilm communities to crude oil and dispersants and monitored compositional and functional changes after exposure, and the impact of oil exposure on steel corrosion processes.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+=========================================================================================

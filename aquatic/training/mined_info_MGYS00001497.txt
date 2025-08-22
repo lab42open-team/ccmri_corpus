@@ -1,0 +1,7 @@
+study_id	MGYS00001497
+study_name	Soda Lakes Metagenome
+study_abstract	The objective of this study was to explore the microbial diversity within the soda lakes in Kenya. Soda lakes represent some of the extreme but highly productive environments on earth. The microbial diversity on these environments is of interest in biotechnological applications. The data presented here give the first detailed study of the microbial taxa resident within lakes Magadi, Elmenteita, Crater Lake Sonachi and Bogoria in Kenya
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Sediment
+=========================================================================================
+=========================================================================================

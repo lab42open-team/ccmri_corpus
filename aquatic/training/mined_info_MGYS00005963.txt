@@ -1,0 +1,7 @@
+study_id	MGYS00005963
+study_name	Metagenomics of Diamante Hot Spring
+study_abstract	Metagenomics of Diamante Hot Spring
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

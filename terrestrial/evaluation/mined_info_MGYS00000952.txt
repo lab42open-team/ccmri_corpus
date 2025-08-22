@@ -1,0 +1,7 @@
+study_id	MGYS00000952
+study_name	Stordalen mire environmental genomics 2 Targeted Locus (Loci)
+study_abstract	Further to a previous submission SRP030775, more community composition analyses of Stordalen Mire''s thaw gradient.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

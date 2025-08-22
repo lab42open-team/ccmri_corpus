@@ -1,0 +1,7 @@
+study_id	MGYS00001885
+study_name	Temperature and nutrients as drivers of microbially mediated arsenic oxidation and removal from Acid Mine Drainage
+study_abstract	Temperature and nutrients as drivers of microbially mediated arsenic oxidation and removal from Acid Mine Drainage
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Acid Mine Drainage
+=========================================================================================
+=========================================================================================

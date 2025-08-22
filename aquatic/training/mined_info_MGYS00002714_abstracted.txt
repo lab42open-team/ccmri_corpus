@@ -1,0 +1,12 @@
+study_id	MGYS00002714
+study_name	ocean bacteria Metagenomic assembly
+study_abstract	Bacterial DNA was isolated from two water samples: 1 location in the Bering Strait from the chlorophyll max layer (7m depth) and 1 location in the Chukchi Sea from bottom water (55m depth). The samples were collected with the purpose of sequencing the metagenome to serve as a protein identification database for a metaproteomics study.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	31492961
+publication_nr_0_pubmed_abstract	We examined metaproteome profiles from two Arctic microbiomes during 10-day shipboard incubations to directly track early functional and taxonomic responses to a simulated algal bloom and an oligotrophic control. Using a novel peptide-based enrichment analysis, significant changes (p-value &lt; 0.01) in biological and molecular functions associated with carbon and nitrogen recycling were observed. Within the first day under both organic matter conditions, Bering Strait surface microbiomes increased protein synthesis, carbohydrate degradation, and cellular redox processes while decreasing C1 metabolism. Taxonomic assignments revealed that the core microbiome collectively responded to algal substrates by assimilating carbon before select taxa utilize and metabolize nitrogen intracellularly. Incubations of Chukchi Sea bottom water microbiomes showed similar, but delayed functional responses to identical treatments. Although 24 functional terms were shared between experimental treatments, the timing, and degree of the remaining responses were highly variable, showing that organic matter perturbation directs community functionality prior to alterations to the taxonomic distribution at the microbiome class level. The dynamic responses of these two oceanic microbial communities have important implications for timing and magnitude of responses to organic perturbations within the Arctic Ocean and how community-level functions may forecast biogeochemical gradients in oceans. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31492961
+publication_nr_0_title	Metaproteomics reveal that rapid perturbations in organic matter prioritize functional restructuring over taxonomy in western Arctic Ocean microbiomes.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00000806
+study_name	Soil bacterial diversity Metagenome
+study_abstract	Assess the influence of fire burning on the community structure of soil bacteria community
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	26787458
+publication_nr_0_pubmed_abstract	Effects of fire on biogeochemical cycling in terrestrial ecosystem are widely acknowledged, while few studies have focused on the bacterial community under the disturbance of long-term frequent prescribed fire. In this study, three treatments (burning every two years (B2), burning every four years (B4) and no burning (B0)) were applied for 38 years in an Australian wet sclerophyll forest. Results showed that bacterial alpha diversity (i.e. bacterial OTU) in the top soil (0-10 cm) was significantly higher in the B2 treatment compared with the B0 and B4 treatments. Non-metric multidimensional analysis (NMDS) of bacterial community showed clear separation of the soil bacterial community structure among different fire frequency regimes and between the depths. Different frequency fire did not have a substantial effect on bacterial composition at phylum level or bacterial 16S rRNA gene abundance. Soil pH and C:N ratio were the major drivers for bacterial community structure in the most frequent fire treatment (B2), while other factors (EC, DOC, DON, MBC, NH4(+), TC and TN) were significant in the less frequent burning and no burning treatments (B4 and B0). This study suggested that burning had a dramatic impact on bacterial diversity but not abundance with more frequent fire. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26787458
+publication_nr_0_title	Long term repeated fire disturbance alters soil bacterial diversity but not the abundance in an Australian wet sclerophyll forest.
+publication_nr_0_publication_year	2016
+=========================================================================================

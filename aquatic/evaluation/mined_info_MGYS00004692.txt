@@ -1,0 +1,10 @@
+study_id	MGYS00004692
+study_name	Microbial diversity and skin mucosal microbiota in farmed Atlantic salmon with ulcerative disorders, raw sequence reads
+study_abstract	The Norwegian aquaculture of Atlantic salmon Salmo salar is hampered by ulcerative disorders associated with bacterial infections. Studying the composition of microbial communities on skin mucus, and how the microbiota is structured in ulcers will enhance our understanding of ulcer etiology. To achieve this we used seawater farmed Atlantic salmon and sampled the base and edge of ulcers at the end of winter (April) and at the end of summer (September), in addition to skin-mucus of healthy individuals. In order to assess microbiota associated to the host and to get a better insight into the environmental ecology we additionally sampled the seawater column and sediment layer underneath the farm facility in addition to the distal intestine of Atlantic salmon.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Aquaculture
+biome_info_1	root:Environmental:Aquatic:Marine:Sediment
+biome_info_2	root:Host-associated:Fish:Digestive system:Intestine
+biome_info_3	root:Host-associated:Fish:Skin
+=========================================================================================
+=========================================================================================

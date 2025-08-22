@@ -1,0 +1,12 @@
+study_id	MGYS00004254
+study_name	Red Sea sediment 2011 Targeted Locus (Loci)
+study_abstract	This study is to determine the eukaryotic microbial community structure in the sediment of Red Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	24575081
+publication_nr_0_pubmed_abstract	A hypoxic/suboxic brine pool at a depth of about 850 m was discovered near the Thuwal cold seeps in the Red Sea. Filled with high concentrations of hydrogen sulfide and ammonia, such a brine pool might limit the spread of eukaryotic organisms. Here, we compared the communities of the eukaryotic microbes in a microbial mat, sediments and water samples distributed in 7 sites within and adjacent to the brine pool. Taxonomic classification of the pyrosequenced 18S rRNA amplicon reads showed that fungi highly similar to the species identified along the Arabic coast were almost ubiquitous in the water and sediment samples, supporting their wide distribution in various environments. The microbial mat displayed the highest species diversity and contained grazers and a considerable percentage of unclassified species. Phylogeny-based methods revealed novel lineages representing a majority of the reads from the interface between the sea water and brine pool. Phylogenetic relationships with more reference sequences suggest that the lineages were affiliated with novel Alveolata and Euglenozoa inhabiting the interface where chemosynthetic prokaryotes are highly proliferative due to the strong chemocline and halocline. The brine sediments harbored abundant species highly similar to invertebrate gregarine parasites identified in different oxygen-depleted sediments. Therefore, the present findings support the uniqueness of some microbial eukaryotic groups in this cold seep brine system. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24575081
+publication_nr_0_title	Diversity and distribution of eukaryotic microbes in and around a brine pool adjacent to the Thuwal cold seeps in the Red Sea.
+publication_nr_0_publication_year	2014
+=========================================================================================

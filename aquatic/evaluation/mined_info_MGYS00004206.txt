@@ -1,0 +1,7 @@
+study_id	MGYS00004206
+study_name	Santa Barbara Channel cruise SBDOM11 bacterioplankton 16S rDNA
+study_abstract	This sample includes environmental bacterioplankton DNA from the SBDOM11 cruise in the Santa Barbara Channel, California, USA, in May 2011, as well as associated experimental samples from remineralization bioassays. This project traced the bacterial response to the DOM produced by an upwelling-driven phytoplankton bloom, from recently upwelled water through the onset of nutrient stress.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

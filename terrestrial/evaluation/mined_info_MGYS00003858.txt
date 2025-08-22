@@ -1,0 +1,10 @@
+study_id	MGYS00003858
+study_name	Spatial scale drives patterns in soil bacterial diversity.
+study_abstract	Most soil processes, including microbial diversity and CO2 efflux, are extremely variable across spatial scales. The destructive and labor-intensive nature of traditional soil sampling and processing methods have hampered broad investigation of spatial heterogeneity in soil function. We collected microsamples of soil (&lt;3 g each) that provided enough material for DNA extraction to characterize the microbial community while reducing sample processing time that can result in DNA degradation and will dramatically enhance the spatial resolution of the of the diversity metrics. We collected twenty-five soil samples (0.7 cm dia X 5 cm deep) in a 10x10 cm grid at five points along a 36 m transect in each of six 36 x 20 m plots representing a low-diversity perennial grassland dominated by Panicum virgatum (fertilized and unfertilized treatments). The aim is to correlate microbial community structure with abiotic factors, which will help build a mechanistic understanding of feedbacks between soil microbes and ecosystem C fluxes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

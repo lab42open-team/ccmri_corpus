@@ -1,0 +1,7 @@
+study_id	MGYS00001715
+study_name	Assessment of community structures along the depth profile of an alpine snowpack in winter and at snowmelt
+study_abstract	In this study, we assessed the hypothesis whether microbial communities in an alpine snowpack in Switzerland would change between two seasons (winter and snowmelt). We characterised physical-and chemical changes of the snowpack along the two seasons, and combined it with the assessment of the microbial community structure. Bacterial community composition was investigated through Illumina sequences of the variable regions V3 /V4 of the 16S rRNA gene. Our results showed a pronounced shift of bacterial community structures during the seasons. In winter, less diverse, but more evenly distributed communities were found throughout the entire snowpack. At snowmelt, higher diversity, and richness of bacterial OTUs was detected. Bacterial taxa inhabiting the snow change from spore forming-psychrophilic organisms (eg. Firmicutes) in winter to a more varied composition of ubiquitous heterotrophy (i.e. Betaproteobacteria) at snowmelt.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice
+=========================================================================================
+=========================================================================================

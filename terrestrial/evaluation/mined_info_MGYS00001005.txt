@@ -1,0 +1,10 @@
+study_id	MGYS00001005
+study_name	Fungi Metagenome
+study_abstract	Biodiversity and climate change in european forests
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+=========================================================================================

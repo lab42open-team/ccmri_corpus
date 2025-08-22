@@ -1,0 +1,7 @@
+study_id	MGYS00004614
+study_name	srb of salt marshes Targeted loci environmental
+study_abstract	To investigate on the changes in the diversity, abundance and community structure of sulfate-reducing bacteria along a plant successional gradient in coastal salt marshes of China
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+=========================================================================================
+=========================================================================================

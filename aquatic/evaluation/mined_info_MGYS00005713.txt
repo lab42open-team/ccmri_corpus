@@ -1,0 +1,7 @@
+study_id	MGYS00005713
+study_name	Microbial community 16S rRNA from Fram Strait water samples PS85 2014
+study_abstract	Several depths of the full water column of two stations (HGIV and N4) were sequenced in order to correlate the communities of the Fram Strait water column at HAUSGARTEN with benthic communities. DNA from CTD samples was extracted and the v3v4 region of the 16S rRNA was sequenced with Illumina MiSeq.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

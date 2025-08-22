@@ -1,0 +1,7 @@
+study_id	MGYS00001656
+study_name	Universal metabarcoding of pico- mesoplankton reveals seasonal dynamics and a bacterial bloom
+study_abstract	Most studies of biodiversity focus on either macroscopic or microbial communities, with little or no simultaneous study of eukaryotes and prokaryotes. We tested whether a universal metabarcoding approach could be used to study the total diversity and temporal dynamics of aquatic pico- to mesoplankton communities in a shallow temperate lake. The approach revealed significant changes in the relative abundance of eukaryotic and prokaryotic plankton communities over a period of three months. These patterns, based on sequencing reads, fit with counts using traditional methods. We also witnessed the bloom of a conditionally rare bacterial taxon belonging to Arcicella, a genus that has been largely overlooked in freshwaters. Our data demonstrate the potential of universal metabarcoding as a complement to traditional studies of plankton communities, and for long-term monitoring across a broad range of organisms.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

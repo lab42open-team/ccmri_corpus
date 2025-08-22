@@ -1,0 +1,12 @@
+study_id	MGYS00004530
+study_name	pyrosequencing Raw sequence reads of deep-sea Archaea
+study_abstract	water-sediment interface in the slope Mariana Trench
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Abyssal plane
+=========================================================================================
+publication_nr_0_pubmed_id	30519228
+publication_nr_0_pubmed_abstract	The benthic boundary layer (BBL) is the part of the water column that is situated near to the sediment surface, where active oceanic biogeochemical cycling occurs. Archaea play an important role in mediating this cycling, however, their composition and diversity in the BBL remain largely unknown. We investigated the community composition and abundance of both particle-attached (PA) and free-living (FL) archaea in the BBL on the slopes of the Mariana Trench using Illumina sequencing and quantitative PCR (qPCR), at both the DNA and RNA levels. Our results showed that Thaumarchaeota (&gt;90%) and Woesearchaeota (1-10%) dominated in all the BBL samples, and that the former was composed mainly of Marine Group I (MGI). A clear separation of PA and FL samples was observed, and they showed a high level of similarity to the subsurface sediments and the water column, respectively. No significant differences were detected in the archaeal communities located in the southern and northern slopes of the Mariana Trench, or between the levels of DNA and RNA. However, lower RNA/DNA ratios (estimated by qPCR) were found in the PA samples than in the FL samples, indicating higher transcriptional activities in the FL fractions. A distinct archaeal community structure was found in the middle of the trench when compared with samples collected at the same depth at other stations along the trench slopes. This indicates that a dynamic deep current might affect the distribution of organic matter on the slopes. Our study provides direct information regarding the archaeal communities in the BBL of the Mariana Trench. We suggest that this might promote further exploration of the ecological roles and microbial processes of such communities located in deep-sea ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30519228
+publication_nr_0_title	Particle-Attached and Free-Living Archaeal Communities in the Benthic Boundary Layer of the Mariana Trench.
+publication_nr_0_publication_year	2018
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002945
+study_name	SCS SEATS Raw sequence reads
+study_abstract	Marine Group II only dominated shallow water column (<75 m) at the central basin (SEATS) station and was replaced by the dominance of Marine Group I in deeper water, which has commonly been observed in global oceans.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28663746
+publication_nr_0_pubmed_abstract	Temperature, nutrients, and salinity are among the important factors constraining the distribution and abundance of microorganisms in the ocean. Marine Group II (MGII) belonging to Euryarchaeota commonly dominates the planktonic archaeal community in shallow water and Marine Group I (MGI, now is called Thaumarchaeota) in deeper water in global oceans. Results of quantitative PCR (qPCR) and 454 sequencing in our study, however, showed the dominance of MGII in planktonic archaea throughout the water column of the northeastern South China Sea (SCS) that is characterized by strong water mixing. The abundance of ammonia-oxidizing archaea (AOA) representing the main group of Thaumarchaeota in deeper water in the northeastern SCS was significantly lower than in other oceanic regions. Phylogenetic analysis showed that the top operational taxonomic units (OTUs) of the MGII occurring predominantly below 200 m depth may be unique in the northeastern SCS based on the observation that they are distantly related to known sequences (identity ranging from 90-94%). The abundance of MGII was also significantly correlated with total bacteria in the whole column, which may indicate that MGII and bacteria may have similar physiological or biochemical properties or responses to environmental variation. This study provides valuable information about the dominance of MGII over AOA in both shallow and deep water in the northeastern SCS and highlights the need for comprehensive studies integrating physical, chemical, and microbial oceanography. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28663746
+publication_nr_0_title	Marine Group II Dominates Planktonic Archaea in Water Column of the Northeastern South China Sea.
+publication_nr_0_publication_year	2017
+=========================================================================================

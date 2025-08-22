@@ -1,0 +1,12 @@
+study_id	MGYS00005718
+study_name	Picoplankton 18S rRNA gene sequences (V4 region, DNA and RNA) from Vertical Profiles (surface to 4000m depth) sampled during the Malaspina 2010 circumglobal expedition
+study_abstract	The study here includes 182 samples (91 DNA and 91 RNA) of the 18S (V4 region) from the Malaspina-2010 expedition. The samples were sequenced using Illumina MiSeq 2x250bp.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	31645670
+publication_nr_0_pubmed_abstract	Microbial eukaryotes are key components of the ocean plankton. Yet, our understanding of their community composition and activity in different water layers of the ocean is limited, particularly for picoeukaryotes (0.2-3 mym cell size). Here, we examined the picoeukaryotic communities inhabiting different vertical zones of the tropical and subtropical global ocean: surface, deep chlorophyll maximum, mesopelagic (including the deep scattering layer and oxygen minimum zones), and bathypelagic. Communities were analysed by high-tthroughput sequencing of the 18S rRNA gene (V4 region) as represented by DNA (community structure) and RNA (metabolism), followed by delineation of Operational Taxonomic Units (OTUs) at 99% similarity. We found a stratification of the picoeukaryotic communities along the water column, with assemblages corresponding to the sunlit and dark ocean. Specific taxonomic groups either increased (e.g., Chrysophyceae or Bicosoecida) or decreased (e.g., Dinoflagellata or MAST-3) in abundance with depth. We used the rRNA:rDNA ratio of each OTU as a proxy of metabolic activity. The highest relative activity was found in the mesopelagic layer for most taxonomic groups, and the lowest in the bathypelagic. Altogether, we characterize the change in community structure and metabolic activity of picoeukaryotes with depth in the global ocean, suggesting a hotspot of activity in the mesopelagic. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31645670
+publication_nr_0_title	Marked changes in diversity and relative activity of picoeukaryotes with depth in the world ocean.
+publication_nr_0_publication_year	2020
+=========================================================================================

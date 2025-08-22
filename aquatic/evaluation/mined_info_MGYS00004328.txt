@@ -1,0 +1,7 @@
+study_id	MGYS00004328
+study_name	Taxonomic composition of microbial communities in coastal Arctic sediments
+study_abstract	The taxonomic composition of microbial communities was examined in two sediment cores taken off the coast of Alaska in the Beaufort Sea in 2009. One of the cores (PC10) had low methane concentrations while the deep depths of the other core (PC12) had high concentrations. To examine community composition, variable regions V6-V8 of 16S rRNA genes were amplified using primers 926F and 1392R and the products were sequenced by pyrosequencing. The analyses indicated that bacteria made up >95% of all sequences while eukaryotes contributed about 3% of the total. Less than 1% of all sequences could be assigned to archaea. Archaea were relatively more abundant in the methane-rich core than in the methane-poor core. Deltaproteobacteria were most abundant in the surface layer of both cores, then decrease in relative abundance as depth increased.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00006214
+study_name	Baterial 16S rRNA amplicon sequencing data from Tengger desert
+study_abstract	Bacterial amplicon libraries were prepared by amplifying the V3-V4 variable regions of the 16S rRNA genes with the primer pair of 341F and 805R. 23 soil samples, with or without agricultural reclamation, were collected from the Tengger desert. CON, the soil collected from the open field without agricultural management, the control; PLT, the soil collected from the site 10 cm apart from the planta; FTL, the soil collected from the site on the fertilization furrow, 50 cm apart from the planta.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

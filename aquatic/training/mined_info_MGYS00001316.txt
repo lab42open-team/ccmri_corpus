@@ -1,0 +1,7 @@
+study_id	MGYS00001316
+study_name	A metagenomics study of two north sea communities.
+study_abstract	A metagenomics study of two north sea communities.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

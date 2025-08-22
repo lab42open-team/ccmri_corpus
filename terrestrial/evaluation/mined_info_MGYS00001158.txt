@@ -1,0 +1,7 @@
+study_id	MGYS00001158
+study_name	Chernobyl soils Targeted Locus (Loci)
+study_abstract	High throughput pyrosequencing was used to get a comprehensive picture of the phylogenetic diversity of Bacteria and Archae in radionuclides-contaminated and control soils collected in the trench T22 area, within the Chernobyl exclusion zone.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

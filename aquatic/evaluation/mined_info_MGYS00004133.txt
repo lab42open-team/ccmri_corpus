@@ -1,0 +1,7 @@
+study_id	MGYS00004133
+study_name	Meiobenthos nSSU metagenetic meiobenthic data
+study_abstract	nSSU meiobenthic diversity - nSSU meiobenthic samples from UK, EU and Gambia from 454 GS FLX.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

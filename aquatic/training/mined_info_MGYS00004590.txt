@@ -1,0 +1,8 @@
+study_id	MGYS00004590
+study_name	13C methanol SIP (WCO station L4)
+study_abstract	Methanol is a biochemically active, volatile organic compound that plays an important role in tropospheric oxidant photochemistry. It has recently been suggested that the global ocean, where surface methanol concentrations are in the ~30-400 nM range, is a net sink for atmospheric methanol. In the marine environment, this (and other) one-carbon compound is used as an energy and carbon source by bacteria known as methylotrophs. So far, little is known about the identity of the active methanol oxidisers in marine habitats. In this study, Stable Isotope Probing using 13C labelled methanol was combined with 16S rRNA and functional gene amplicon sequencing as well as metagenome sequencing to identify methylotrophic bacteria that are responsible for methanol assimilation in samples obtained from the Western Channel Observatory station L4.
+study_origination	HARVESTED
+associated_study_0	MGYS00004591
+biome_info_0	root:Environmental:Aquatic:Marine:Neritic zone
+=========================================================================================
+=========================================================================================

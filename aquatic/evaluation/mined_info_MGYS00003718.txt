@@ -1,0 +1,7 @@
+study_id	MGYS00003718
+study_name	Lane 6 Analysis
+study_abstract	Negative control lane for ancient DNA taken from core MV1012 46.9
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

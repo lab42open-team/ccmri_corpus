@@ -1,0 +1,7 @@
+study_id	MGYS00002565
+study_name	Extracellular DNA marine sediment Targeted Locus (Loci)
+study_abstract	To assess the diversity of eukaryotes in Red Sea sediments via amplicon sequencing of extracellular DNA.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

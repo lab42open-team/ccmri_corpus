@@ -1,0 +1,7 @@
+study_id	MGYS00004456
+study_name	Freshwater sediment Raw sequence reads
+study_abstract	The study aims to find out the changes in microbial community structure of anode biofilm and sediment in sediment microbial fuel cells. The samples include original freshwater sediment that used in SMFCs and anode biofilm of SMFCs in which worms were observed or not.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

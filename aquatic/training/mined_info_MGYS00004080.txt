@@ -1,0 +1,7 @@
+study_id	MGYS00004080
+study_name	Marine sediment metagenome ICM_DSE
+study_abstract	Using 454 sequencing technology to explore eukaryotes diversity in the polar deep-sea sediments.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

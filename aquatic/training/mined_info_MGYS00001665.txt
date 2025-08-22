@@ -1,0 +1,7 @@
+study_id	MGYS00001665
+study_name	Metatranscriptomes from Blanes Bay, Barcelona, mesocosm experiments
+study_abstract	Water from Blanes Bay was incubated for nine days in mesocosms. The water was treated with nutrients (NO3, PO4, SiO4; NA and NB samples) and acidified using CO2 (KA and KB samples). RNA after stable RNA depletion and poly-T depletion was Illumina sequenced.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone
+=========================================================================================
+=========================================================================================

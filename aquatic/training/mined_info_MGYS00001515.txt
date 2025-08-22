@@ -1,0 +1,7 @@
+study_id	MGYS00001515
+study_name	Plasmidomes of aerobic biofilm under long-term oxytetracycline exposure
+study_abstract	Aerobic biofilm was exposed to oxytetracycline with gradually increased concentration from 0mg/L to 5mg/L and 25mg/L. Plasmid of the aerobic biofim bacteria from different exposure stages was extracted and sequenced by using illumina Hiseq sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+=========================================================================================

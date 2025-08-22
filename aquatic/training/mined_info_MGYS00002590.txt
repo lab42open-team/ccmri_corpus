@@ -1,0 +1,7 @@
+study_id	MGYS00002590
+study_name	This workpackage details only the prokaryote (Archaea and Bacteria) analyses for the MicroPolar project.
+study_abstract	DNA and cDNA (derived from total RNA) were amplified with primers for Illumina sequencing of the 16S rDNA gene.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

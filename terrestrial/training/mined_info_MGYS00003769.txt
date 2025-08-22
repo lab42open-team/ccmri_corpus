@@ -1,0 +1,10 @@
+study_id	MGYS00003769
+study_name	Chu Changbai mountain soil
+study_abstract	We have collected 24 soil samples in different elevations in Changbai Mountain, northeastern China, and investigated the distributions of microbial communities and functions along elevation. Climate warming often results in increased forest fire. We have collected 60 soil samples in Greater Khingan Mountains, northern China, and investigated microbial response to forest fire and microbial succession after post-fire.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

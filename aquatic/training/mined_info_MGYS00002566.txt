@@ -1,0 +1,7 @@
+study_id	MGYS00002566
+study_name	Uncultured eukaryotes Targeted Locus (Loci)
+study_abstract	Tracking environmental selection of marine microbial eukaryotes using 18S rRNA genes and 18S rRNA in the Gulf of Maine
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

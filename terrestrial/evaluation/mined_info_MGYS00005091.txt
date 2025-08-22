@@ -1,0 +1,8 @@
+study_id	MGYS00005091
+study_name	Organic management on soil bacteria, comparison of different type of soils in Buenos Aires, Argentina
+study_abstract	Evaluation of organic management in soil bacteria, comparison of different type of soils in Buenos Aires, Argentina
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+biome_info_1	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

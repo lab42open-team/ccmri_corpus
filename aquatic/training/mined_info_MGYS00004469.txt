@@ -1,0 +1,7 @@
+study_id	MGYS00004469
+study_name	Effect of climate-change induced glacier melting on the benthic prokaryotic diversity in the West Antarctic Peninsula
+study_abstract	West Antarctic Peninsula (WAP) is recognized as one of the fastest warming area on Earth. Climate change and the consequent warming of the oceans has reduced the polar icecaps resulting in a change of the regulation of the biological pump, with altered conditions of primary production and nutrient cycling and circulation. Moreover, the increased melting of coastal glacier and scouring events may have a strong impact on local communities, potentially affecting the local biodiversity and ecosystem functioning. We investigated community structure and diversity of benthic prokaryotes in a fast warming region of the WAP.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004146
+study_name	Active picoeukaryotes in the Eastern Mediterranean Sea
+study_abstract	Response of active picoeukaryotes to the deposition of Saharan dust and European aerosols in the Eastern Mediterranean Sea revealed by 454 pyrosequencing
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

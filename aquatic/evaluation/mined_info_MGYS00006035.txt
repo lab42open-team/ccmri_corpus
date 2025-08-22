@@ -1,0 +1,7 @@
+study_id	MGYS00006035
+study_name	Analyses of biofilms in drainage water during the construction phase of the Koralm railway tunnel
+study_abstract	During the construction phase of the Koralm railway tunnel several samples from different sites were analysed for the presence of microbes. 16S rDNA amplicon sequencing and subsequent microbial profiling revealed the presence of bacterial consortia typical for the deep continental subsurface dominated by autotrophs, methanotrophs and methylotrophs. Reference: Koraimann G.; Bischof K. (2022) Characterisation of microbial biofilms from tunnel drainage water. Geomechanics and Tunnelling. 15 (2022), No. 4
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002735
+study_name	eDNA_Subseafloor
+study_abstract	PMA-DNA study of subseafloor sediment
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30564217
+publication_nr_0_pubmed_abstract	Extracellular DNA has been reported to comprise a large fraction of total DNA in near-seafloor sediment. However, the potential effect of extracellular DNA, arising from dead or moribund cells, on sequencing surveys is a critical concern that has largely not been addressed for marine sedimentary habitats. To address this concern, we interrogated freshly collected Arctic and Pacific sediment for extracellular 16S rRNA genes using the photoactive DNA-binding dye Propidium Monoazide. Significant differences between relative abundances of total (intracellular + extracellular) Bacterial 16S rRNA genes and relative abundances of intracellular Bacterial 16S rRNA genes are only detected in three of twelve shallow [10 cm below seafloor (cmbsf)] samples. Relative abundances of total Bacterial 16S rRNA genes are statistically indistinguishable from relative abundances of intracellular Bacterial 16S rRNA genes in all interrogated samples from depths greater than 10 cmbsf. 16S rRNA gene sequencing shows that even where significantly higher abundances of extracellular genes are detected, they have little or no influence on prokaryote community composition. Taxon-level analyses suggest that extracellular DNA, arising from <i>in situ</i> death, may be sourced from different organisms in sediment of different ages. However, the overall effect of extracellular genes on sequencing surveys of marine sedimentary prokaryotes is minimal. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30564217
+publication_nr_0_title	Minimal Influence of Extracellular DNA on Molecular Surveys of Marine Sedimentary Communities.
+publication_nr_0_publication_year	2018
+=========================================================================================

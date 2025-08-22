@@ -1,0 +1,7 @@
+study_id	MGYS00001957
+study_name	soil microbiota in 2 different forest
+study_abstract	soil microbiota in 2 different forest
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

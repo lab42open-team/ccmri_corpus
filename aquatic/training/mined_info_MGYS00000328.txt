@@ -1,0 +1,7 @@
+study_id	MGYS00000328
+study_name	Marine microbial indicators in coastal areas: a metagenomic approach
+study_abstract	The present project proposes to conduct a thorough investigation of the heterotrophic bacterial communities of different sites of the Gulf of Naples, encompassing different ecological conditions, in order to find microbiological indicators of ecological status.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

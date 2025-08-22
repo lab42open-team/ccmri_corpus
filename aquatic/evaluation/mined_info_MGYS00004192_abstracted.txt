@@ -1,0 +1,12 @@
+study_id	MGYS00004192
+study_name	L''Atalante sediment - Microbial Metagenome
+study_abstract	SSU 16S pyrosequencing project of the microbial metagenome of a DHAB sediment (L''Atalante) from the Eastern Mediterranean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	24523277
+publication_nr_0_pubmed_abstract	Deep hypersaline anoxic basins (DHABs) of the Mediterranean Sea are among the most extreme ecosystems on Earth and host abundant, active and diversified prokaryotic assemblages. However, factors influencing biodiversity and ecosystem functioning are still largely unknown. We investigated, for the first time, the impact of viruses on the prokaryotic assemblages and dynamics of extracellular DNA pool in the sediments of La Medee, the largest DHAB found on Earth. We also compared, in La Medee and L'Atalante sediments, the diversity of prokaryotic 16S rDNA sequences contained in the extracellular DNA released by virus-induced prokaryotic mortality. We found that DHAB sediments are hot-spots of viral infections, which largely contribute to the release of high amounts of extracellular DNA. DNase activities in DHAB sediments were much higher than other extracellular enzymatic activities, suggesting that extracellular DNA released from killed prokaryotes can be the most suitable trophic resource for benthic prokaryotes. Preserved extracellular DNA pools, which contained novel and diversified gene sequences, were very similar between the DHABs but dissimilar from the respective microbial DNA pools. We conclude that the strong viral impact in DHAB sediments influences the genetic composition of extracellular DNA, which can preserve the signatures of present and past infections. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24523277
+publication_nr_0_title	Extracellular DNA can preserve the genetic signatures of present and past viral infection events in deep hypersaline anoxic basins.
+publication_nr_0_publication_year	2014
+=========================================================================================

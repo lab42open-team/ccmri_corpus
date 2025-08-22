@@ -1,0 +1,12 @@
+study_id	MGYS00000807
+study_name	Permafrost soil Metagenome
+study_abstract	Sequencing of ITS hypervariable region to unravel fungal diversity in Siberian Arctic soil
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+publication_nr_0_pubmed_id	24335828
+publication_nr_0_pubmed_abstract	Cryoturbation, the burial of topsoil material into deeper soil horizons by repeated freeze-thaw events, is an important storage mechanism for soil organic matter (SOM) in permafrost-affected soils. Besides abiotic conditions, microbial community structure and the accessibility of SOM to the decomposer community are hypothesized to control SOM decomposition and thus have a crucial role in SOM accumulation in buried soils. We surveyed the microbial community structure in cryoturbated soils from nine soil profiles in the northeastern Siberian tundra using high-throughput sequencing and quantification of bacterial, archaeal and fungal marker genes. We found that bacterial abundances in buried topsoils were as high as in unburied topsoils. In contrast, fungal abundances decreased with depth and were significantly lower in buried than in unburied topsoils resulting in remarkably low fungal to bacterial ratios in buried topsoils. Fungal community profiling revealed an associated decrease in presumably ectomycorrhizal (ECM) fungi. The abiotic conditions (low to subzero temperatures, anoxia) and the reduced abundance of fungi likely provide a niche for bacterial, facultative anaerobic decomposers of SOM such as members of the Actinobacteria, which were found in significantly higher relative abundances in buried than in unburied topsoils. Our study expands the knowledge on the microbial community structure in soils of Northern latitude permafrost regions, and attributes the delayed decomposition of SOM in buried soils to specific microbial taxa, and particularly to a decrease in abundance and activity of ECM fungi, and to the extent to which bacterial decomposers are able to act as their functional substitutes. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24335828
+publication_nr_0_title	Distinct microbial communities associated with buried soils in the Siberian tundra.
+publication_nr_0_publication_year	2014
+=========================================================================================

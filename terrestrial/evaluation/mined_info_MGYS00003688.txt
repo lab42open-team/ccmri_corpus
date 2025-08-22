@@ -1,0 +1,10 @@
+study_id	MGYS00003688
+study_name	Myrold Oregon transect
+study_abstract	OTTER. The Oregon transect consists of sites that follow a gradient of net primary productivity from the highest productivity forests in the world (coastal Sitka spruce) to semi-arid juniper woodlands (Fig. 1). This gradient represents the range of net primary productivity found in North America (Runyan et al., 1994). In addition to differences in productivity and vegetation composition, these sites also display a range of soil types. Extensive metadata are available for these sites (Gholz, 1982; Myrold et al., 1989; Runyan et al., 1994; Stark and Hart, 1997; daac.ornl.gov), but no information is available on the microbial communities of these soils. A total of 6 sites will be studied, with 3, 30-by-30 m plots established at each site to provide some information about within site variability, which will result in 18 samples for analysis.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

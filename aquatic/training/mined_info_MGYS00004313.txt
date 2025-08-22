@@ -1,0 +1,7 @@
+study_id	MGYS00004313
+study_name	the under-explored coal gangue and the adjacent acid mine drainage creek soil Raw sequence reads
+study_abstract	Microbial communities inhabiting the acid mine drainage (AMD) have been extensively studied. However, the microbial communities in the coal gangue that may generate the AMD and function as the seed bank of microbiota for AMD-related environments are still under-explored. In this study, we characterized the microbial communities within these under-explored extreme habitats and compared with those in the downstream AMD creek. In addition, the interplay between the microbiota and the environmental parameters was statistically investigated.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00005743
+study_name	Subseafloor microbiome project
+study_abstract	A massive amount of microbial cells are present in the global subseafloor environment down to several kilometers below the seafloor. However, their diversity, quantity and biogeography have been largely unknown. In this project, we extracted, amplified DNA from the subseafloor microbiome by a consistent method for comparing microbial communities in different depths and sampling locations. Subsequently, we sequenced a partial sequence of 16S rRNA gene. The analyses of microbial compositions as well as correlation analysis with various environmental meta data will provide the information about the environmental factor controlling or constraining microbial composition.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00005276
+study_name	Marine subseafloor sediment microbial communities, sample from White Oak River Estuary, NC, USA 14E metagenome
+study_abstract	
+study_origination	HARVESTED
+associated_study_0	MGYS00005275
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000790
+study_name	Forest soil Metagenome AOA amoA gene library
+study_abstract	Compare AOA amoA community composition in forest soils of different pH
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

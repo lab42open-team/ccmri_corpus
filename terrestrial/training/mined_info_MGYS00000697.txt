@@ -1,0 +1,7 @@
+study_id	MGYS00000697
+study_name	Antarctic Soil Hypolithic Samples Metagenome
+study_abstract	The surface of hyperarid deserts is often paved with quartz rocks. These rocks are colonized by assemblages of photosynthetic microbial communities. Members of these communities, called hypoliths, are expected to represent a significant input source of Carbon and Nitrogen within this desert and other depauperate environs. The development and assembly mechanisms for these communities is yet to be fully understood. Here we aim to investigate hypolith assembly and development patterns.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

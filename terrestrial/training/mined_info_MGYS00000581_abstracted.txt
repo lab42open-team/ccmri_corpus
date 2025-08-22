@@ -1,0 +1,12 @@
+study_id	MGYS00000581
+study_name	Virus diversity in Namib Desert soils
+study_abstract	The taxonomic composition of soil viruses along the Namib Desert aridity gradient was assessed using deep sequencing of metavirome libraries extracted from surface soils. Soil physicochemical data were used to determine influences, if any, on the observed soil-specific taxonomic compositions of virus communities.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand:Desert
+=========================================================================================
+publication_nr_0_pubmed_id	28082503
+publication_nr_0_pubmed_abstract	The Namib Desert in southwest Africa is hyperarid and composed of distinct microbial communities affected by a longitudinal aridity gradient. Here, we report four soil metaviromes from the Namib Desert, assessed using deep sequencing of metavirome libraries prepared from DNA extracted from gravel plain surface soils. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28082503
+publication_nr_0_title	Metaviromes of Extracellular Soil Viruses along a Namib Desert Aridity Gradient.
+publication_nr_0_publication_year	2017
+=========================================================================================

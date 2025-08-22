@@ -1,0 +1,12 @@
+study_id	MGYS00002554
+study_name	Nutrient addition mesocosm experiment Targeted Locus (Loci)
+study_abstract	Amplicon sequencing of environmental planktonic organisms to assess the interactions during a nutrient addition experiments.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+publication_nr_0_pubmed_id	31822687
+publication_nr_0_pubmed_abstract	Global ocean expeditions have provided minimum estimates of ocean's prokaryote diversity, supported by apparent asymptotes in the number of prokaryotes with sampling effort, of about 40,000 species, representing &lt;1% of the species cataloged in the Earth Microbiome Project, despite being the largest habitat in the biosphere. Here we demonstrate that the abundance of prokaryote OTUs follows a scaling that can be represented by a power-law distribution, and as a consequence, we demonstrate, mathematically and through simulations, that the asymptote of rarefaction curves is an apparent one, which is only reached with sample sizes approaching the entire ecosystem. We experimentally confirm these findings using exhaustive repeated sampling of a prokaryote community in the Red Sea and the exploration of global assessments of prokaryote diversity in the ocean. Our findings indicate that, far from having achieved a thorough sampling of prokaryote species abundance in the ocean, global expeditions provide just a start for this quest as the richness in the global ocean is much larger than estimated. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31822687
+publication_nr_0_title	Scaling of species distribution explains the vast potential marine prokaryote diversity.
+publication_nr_0_publication_year	2019
+=========================================================================================

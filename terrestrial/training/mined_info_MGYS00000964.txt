@@ -1,0 +1,7 @@
+study_id	MGYS00000964
+study_name	Bacteria Metagenome
+study_abstract	The aim of our survey is to detect patterns in bacterial community composition related to different soil management, consisting in a combination of tillage practice (conventional tillage and reduced tillage) and crop residue management (residue retaining and residue removal.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

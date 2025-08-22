@@ -1,0 +1,7 @@
+study_id	MGYS00006112
+study_name	16S amplicon sequences of Crete soil meta genomes
+study_abstract	Comparison of soil community structure and functional composition across Crete's vegetation types and ecological zones.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

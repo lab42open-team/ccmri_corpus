@@ -1,0 +1,7 @@
+study_id	MGYS00004549
+study_name	Metagenomics of Pozo Bravo microbial mats
+study_abstract	Microbial mats from Pozo Bravo Lake were sequenced and analyzed
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+=========================================================================================

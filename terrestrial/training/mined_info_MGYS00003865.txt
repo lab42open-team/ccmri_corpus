@@ -1,0 +1,7 @@
+study_id	MGYS00003865
+study_name	Laboratory Directed Research and Development Biological Carbon Sequestration
+study_abstract	Californian_Grassland_soil_incubated_with_pyrolized_plant_material. LDRD biosequestration research: (1) to understand the mechanisms of soil carbon stabilization and how to influence them; (2) to understand how to enhance or influence different means of biologically capturing CO2 in ecological and industrial environments; and (3) to understand and evaluate strategies to increase sequestration of atmospheric carbon and minimize loss of already sequestered carbon. The context for this action is the understanding that sequestering carbon through biological capture of CO2 and stabilization in soils is one of the approaches being considered for reduction of atmospheric carbon loads. Soils are a promising reservoir for sequestration, because soil organic carbon residence times are up to tens of thousands of years, and soil carbon is less vulnerable to disturbance than is above ground biomass.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

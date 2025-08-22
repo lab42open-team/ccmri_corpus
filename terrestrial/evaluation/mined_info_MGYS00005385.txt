@@ -1,0 +1,7 @@
+study_id	MGYS00005385
+study_name	Soil fungal communities of Chilean temperate rainforests
+study_abstract	Soil fungal communities of Chilean temperate rainforests were elucidated by Illumina MiSeq sequencing of the ITS2 region.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

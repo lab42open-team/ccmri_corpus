@@ -1,0 +1,7 @@
+study_id	MGYS00004367
+study_name	Microbial eukaryote 454 Roche sequencing in estuarine ecosystems
+study_abstract	Using 454 Roche sequencing of the 18S nSSU taxonomy marker, we investigate which of the focal natural drivers are most strongly associated with microbial metazoan and sampled protist diversity across the full salinity gradient of estuarine ecosystems. The data cover two geographically proximate estuaries (Thames and Mersey, UK) with contrasting histories of anthropogenic stress.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000907
+study_name	Amplicon pyrosequencing and development of new Real-time specific assays reveal Phytophthora species diversity in Holm Oak in eastern Spain
+study_abstract	Oak decline in non calcareus soils in south-western Spain has been associated with Phytophthora cinnamomi for decades. However, other Phytophthora species such as P. quercina and P. psychrophila have been associated with Quercus decline in the eastern part of Spain where calcareous soils are predominant. With the aim of investigating the involvement of Phytophthora spp. in oak decline in eastern Spain, two forests in different geographical areas were selected as sampling sites: the Natural Park Carrascar de la Font Roja (Alicante) and the Natural Park Tinenca de Benifassa (Castellon). Soil samples were analyzed in parallel by isolation using baiting methods and by amplicon massive sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

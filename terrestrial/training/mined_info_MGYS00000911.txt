@@ -1,0 +1,7 @@
+study_id	MGYS00000911
+study_name	Bacterial and archaeal communities in mangrove sediments under oil contamination and nitrate stimulation
+study_abstract	We want to reveal bacterial shift in mangrove soils under oil contamination and nitrate stimulation
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

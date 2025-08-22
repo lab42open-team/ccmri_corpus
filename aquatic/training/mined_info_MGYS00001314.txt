@@ -1,0 +1,7 @@
+study_id	MGYS00001314
+study_name	Marine sediment from Gulf of Mexico
+study_abstract	After the Deepwater Horizon oil spill in the Gulf of Mexico changes were detected in the microbial communities. There’s a little information about the microbial communities from southern regions of the Gulf of Mexico and it important to know its structure in case of future ecological disasters. In this study we take samples from marine sediments and analyzed it using shotgun sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+=========================================================================================
+=========================================================================================

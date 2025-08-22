@@ -1,0 +1,12 @@
+study_id	MGYS00004236
+study_name	sediment metagenome Raw sequence reads
+study_abstract	This study demonstrated that Dehalococcoides could be employed as a promising biomarker to test the present of organohalides in wastestreams or other environmental samples.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28919889
+publication_nr_0_pubmed_abstract	The massive production and improper disposal of organohalides resulted in worldwide contamination in soil and water. However, their environmental survey based on chromatographic methods was hindered by challenges in testing the extremely wide variety of organohalides. <i>Dehalococcoides</i> as obligate organohalide-respiring bacteria exclusively use organohalides as electron acceptors to support their growth, of which the presence could be coupled with organohalides and, therefore, could be employed as a biomarker of the organohalide pollution. In this study, <i>Dehalococcoides</i> was screened in various samples of bioreactors and subsurface environments, showing the wide distribution of <i>Dehalococcoides</i> in sludge and sediment. Further laboratory cultivation confirmed the dechlorination activities of those <i>Dehalococcoides</i>. Among those samples, <i>Dehalococcoides</i> accounting for 1.8% of the total microbial community was found in an anaerobic granular sludge sample collected from a full-scale bioreactor treating petroleum wastewater. Experimental evidence suggested that the influent wastewater in the bioreactor contained bromomethane which support the growth of <i>Dehalococcoides</i>. This study demonstrated that <i>Dehalococcoides</i> could be employed as a promising biomarker to test the present of organohalides in wastestreams or other environmental samples. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28919889
+publication_nr_0_title	<i>Dehalococcoides</i> as a Potential Biomarker Evidence for Uncharacterized Organohalides in Environmental Samples.
+publication_nr_0_publication_year	2017
+=========================================================================================

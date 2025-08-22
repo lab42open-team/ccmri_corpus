@@ -1,0 +1,8 @@
+study_id	MGYS00005053
+study_name	Comparative metagenome analysis of normal and arsenic contaminated soils from ballia district, Uttar Pradesh, India
+study_abstract	Metagenome of normal soil and arsenic contaminated soil of different agricultural field from Ballia district, Uttar Pradesh, India
+study_origination	SUBMITTED
+associated_study_0	MGYS00006118
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

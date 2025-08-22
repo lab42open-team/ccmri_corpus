@@ -1,0 +1,12 @@
+study_id	MGYS00002940
+study_name	Xylophaga in situ Eclusion Experiment
+study_abstract	We tested the effect of the presence of Xylophaga sp. on the microbial community and on the hydrogen sulfide concentration during a 85 days experiment at 500m deep. We validate the ability of wood falls microbial community to produce a significant amount of hydrogen sulfide in the absence of Xylophaga sp. during the first months of wood falls colonization
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28984846
+publication_nr_0_pubmed_abstract	Wood-fall ecosystems host chemosynthetic bacteria that use hydrogen sulfide as an electron donor. The production of hydrogen sulfide from decaying wood in the deep-sea has long been suspected to rely on the activity of wood-boring bivalves, Xylophaga spp. However, recent mesocosm experiments have shown hydrogen sulfide production in the absence of wood borers. Here, we combined in situ chemical measurements, amplicon sequencing and metagenomics to test whether the presence of Xylophaga spp.-affected hydrogen sulfide production and wood microbial community assemblages. During a short-term experiment conducted in a deep-sea canyon, we found that wood-fall microbial communities could produce hydrogen sulfide in the absence of Xylophaga spp. The presence of wood borers had a strong impact on the microbial community composition on the wood surface but not in the wood centre, where communities were observed to be homogeneous among different samples. When wood borers were excluded, the wood centre community did not have the genetic potential to degrade cellulose or hemicellulose but could use shorter carbohydrates such as sucrose. We conclude that wood centre communities produce fermentation products that can be used by the sulfate-reducing bacteria detected near the wood surface. We thus demonstrate that microorganisms alone could establish the chemical basis essential for the recruitment of chemolithotrophic organisms in deep-sea wood falls. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28984846
+publication_nr_0_title	Bacteria alone establish the chemical basis of the wood-fall chemosynthetic ecosystem in the deep-sea.
+publication_nr_0_publication_year	2018
+=========================================================================================

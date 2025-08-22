@@ -1,0 +1,12 @@
+study_id	MGYS00000608
+study_name	Metagenomic analysis of microbial diversity of Tuva hot water spring
+study_abstract	Molecular approaches used to analyze the microbial diversity allow the study of uncultivable microorganisms and contribute towards our understanding of the microbial world. In our study, total community DNA was isolated from environmental water sample by manual and kit based methods. Here, we use Ion-torrent PGM platform to sequence metagenome. Analysis of the community DNA revealed that the phyla Firmicutes and Proteobacteria were the most abundant. Moreover, unclassified sequences also found in this metagenome indicate there are possibilities of getting novel organisms.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+publication_nr_0_pubmed_id	26484204
+publication_nr_0_pubmed_abstract	Here, we report metagenome from the Tuwa hot spring, India using shotgun sequencing approach. Metagenome consisted of 541,379 sequences with 98.7 Mbps size with 46% G + C content. Metagenomic sequence reads were deposited into the EMBL database under accession number ERP009321. Community analysis presented 99.1% sequences belong to bacteria, 0.3% of eukaryotic origin, 0.2% virus derived and 0.05% from archea. Unclassified and unidentified sequences were 0.4% and 0.07% respectively. A total of 22 bacterial phyla include 90 families and 201 species were observed in the hot spring metagenome. Firmicutes (97.0%), Proteobacteria (1.3%) and Actinobacteria (0.4%) were reported as dominant bacterial phyla. In functional analysis using Cluster of Orthologous Group (COG), 21.5% drops in the poorly characterized group. Using subsystem based annotation, 4.0% genes were assigned for stress responses and 3% genes were fit into the metabolism of aromatic compounds. The hot spring metagenome is very rich with novel sequences affiliated to unclassified and unidentified lineages, suggesting the potential source for novel microbial species and their products. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26484204
+publication_nr_0_title	Deciphering the microbiota of Tuwa hot spring, India using shotgun metagenomic sequencing approach.
+publication_nr_0_publication_year	2015
+=========================================================================================

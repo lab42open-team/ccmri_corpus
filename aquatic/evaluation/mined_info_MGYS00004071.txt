@@ -1,0 +1,7 @@
+study_id	MGYS00004071
+study_name	surface sediment Raw sequence reads
+study_abstract	The study of this paper was to characterize the characterization of depth-related microbial communities and their potential functions in the sediment ecosystem of the East China Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

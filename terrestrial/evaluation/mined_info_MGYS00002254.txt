@@ -1,0 +1,7 @@
+study_id	MGYS00002254
+study_name	Immediate transcriptional response of microbial communities present in soil to the presence of toluene and Pseudomonas veronii inoculation
+study_abstract	This study project for a complete characterization and interpretation of the functional response of local microbial communities present in different type soils upon contamination of toluene.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

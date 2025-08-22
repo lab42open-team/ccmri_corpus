@@ -1,0 +1,12 @@
+study_id	MGYS00002665
+study_name	16S Amplicon Data from an Antarctic Cold Seep
+study_abstract	Benthic fauna from a high Antarctic cold seep
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Cold seeps
+=========================================================================================
+publication_nr_0_pubmed_id	32693727
+publication_nr_0_pubmed_abstract	Antarctica is estimated to contain as much as a quarter of earth's marine methane, however we have not discovered an active Antarctic methane seep limiting our understanding of the methane cycle. In 2011, an expansive (70 m x 1 m) microbial mat formed at 10 m water depth in the Ross Sea, Antarctica which we identify here to be a high latitude hydrogen sulfide and methane seep. Through 16S rRNA gene analysis on samples collected 1 year and 5 years after the methane seep formed, we identify the taxa involved in the Antarctic methane cycle and quantify the response rate of the microbial community to a novel input of methane. One year after the seep formed, ANaerobic MEthane oxidizing archaea (ANME), the dominant sink of methane globally, were absent. Five years later, ANME were found to make up to 4% of the microbial community, however the dominant member of this group observed (ANME-1) were unexpected considering the cold temperature (-1.8C) and high sulfate concentrations (greater than 24 mM) present at this site. Additionally, the microbial community had not yet formed a sufficient filter to mitigate the release of methane from the sediment; methane flux from the sediment was still significant at 3.1 mmol CH<sub>4</sub> m<sup>-2</sup> d<sup>-1</sup>. We hypothesize that this 5 year time point represents an early successional stage of the microbiota in response to methane input. This study provides the first report of the evolution of a seep system from a non-seep environment, and reveals that the rate of microbial succession may have an unrealized impact on greenhouse gas emission from marine methane reservoirs. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32693727
+publication_nr_0_title	Riddles in the cold: Antarctic endemism and microbial succession impact methane cycling in the Southern Ocean.
+publication_nr_0_publication_year	2020
+=========================================================================================

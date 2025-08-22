@@ -1,0 +1,12 @@
+study_id	MGYS00002960
+study_name	Archaea
+study_abstract	archaea communitites
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30557300
+publication_nr_0_pubmed_abstract	Studies about the composition and diversity of microbial community in the Rare Earth Elements-rich muds are limited. In this research, we conducted a characterization for the composition and diversity of bacterial and archaeal communities from rare earth elements-rich gravity core sediment at approximately 4800 meters deep in the Indian Ocean by Illumina high-throughput sequencing targeting 16S rRNA genes. The results showed that the most abundant bacteria were Proteobacteria, followed by Firmicutes and Actinobacteria. Amongst Proteobacteria, Gammaproteobacteria are present in all sections of this sediment core accounted for a particularly large proportion of bacterial sequences. Candidatus Nitrosopumilus, with a higher relative abundance in our samples, belongs to Thaumarchaeota. This is the first report on the composition and diversity of rare earth elements-rich muds microbial communities in the Indian Ocean deep sea. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30557300
+publication_nr_0_title	Microbial community composition and diversity in the Indian Ocean deep sea REY-rich muds.
+publication_nr_0_publication_year	2018
+=========================================================================================

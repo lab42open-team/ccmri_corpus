@@ -1,0 +1,7 @@
+study_id	MGYS00001457
+study_name	Bacterial community during the Austral summer in the Amundsen Sea Polynya, Antarctica
+study_abstract	454-pyrosequencing (16S rDNA) dataset of bacterial community in the Amundsen Sea Polynya from the ASPIRE research expedition in Antarctica during the Austral summer 2010-2011. In situ and experimental incubation samples are included in this dataset.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

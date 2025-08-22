@@ -1,0 +1,7 @@
+study_id	MGYS00004382
+study_name	Targeted loci sequencing of anaerobic benzene-degrading enrichment cultures
+study_abstract	This project aims to characterize the microbial community of anaerobic benzene-degrading cultures originating from different subsurface environments. In this project, we used 454-based DNA amplicon sequencing targeting v6-v8 region of 16S rRNA genes.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Deep subsurface
+=========================================================================================
+=========================================================================================

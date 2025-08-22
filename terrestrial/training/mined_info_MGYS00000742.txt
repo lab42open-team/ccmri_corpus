@@ -1,0 +1,7 @@
+study_id	MGYS00000742
+study_name	PCP contaminated soil samples Metagenome
+study_abstract	The main objective of the project was to compare the diversity of soil bacterial communities estimated using the Ion Torrent PGM or a new framework based on DGGE profiling. Two differently textured soils were divided into 4 subsamples. For each soil, three subsamples were contaminated with pentachlorophenol at concentrations of 300, 900 and 3000 mg/kg.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

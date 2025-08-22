@@ -1,0 +1,12 @@
+study_id	MGYS00001343
+study_name	Taxonomic and functional diversity of the virus community from a South African thermal spring
+study_abstract	The virus community composition and functional gene content from a South African hot spring (Brandvlei)was analyzed through a shotgun metagenomics approach.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+publication_nr_0_pubmed_id	29156552
+publication_nr_0_pubmed_abstract	The current view of virus diversity in terrestrial hot springs is limited to a few sampling sites. To expand our current understanding of hot spring viral community diversity, this study aimed to investigate the first African hot spring (Brandvlei hot spring; 60 C, pH 5.7) by means of electron microscopy and sequencing of the virus fraction. Microscopy analysis revealed a mixture of regular- and 'jumbo'-sized tailed morphotypes (<i>Caudovirales</i>), lemon-shaped virions (<i>Fuselloviridae-</i>like; salterprovirus-like) and pleiomorphic virus-like particles. Metavirome analysis corroborated the presence of His1-like viruses and has expanded the current clade of salterproviruses using a polymerase B gene phylogeny. The most represented viral contig was to a cyanophage genome fragment, which may underline basic ecosystem functioning provided by these viruses. Furthermore, a putative <i>Gemmata</i>-related phage was assembled with high coverage, a previously undocumented phage-host association. This study demonstrated that a moderately thermophilic spring environment contained a highly novel pool of viruses and should encourage future characterization of a wider temperature range of hot springs throughout the world. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29156552
+publication_nr_0_title	Diversity of dsDNA Viruses in a South African Hot Spring Assessed by Metagenomics and Microscopy.
+publication_nr_0_publication_year	2017
+=========================================================================================

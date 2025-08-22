@@ -1,0 +1,7 @@
+study_id	MGYS00000628
+study_name	Metagenome sequencing of DNA-SIP heavy fractions
+study_abstract	Soil from the former coking plant in Neuves-Maisons (France) was amended with 13C-phenanthrene, in two conditions, namely bare soil or planted with ryegrass. After ten days, DNA was extracted from soil and separated on cesium chloride gradient. Fractions containing 13C-labeled DNA were sequenced using PE250 MiSeq technology.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Mine
+=========================================================================================
+=========================================================================================

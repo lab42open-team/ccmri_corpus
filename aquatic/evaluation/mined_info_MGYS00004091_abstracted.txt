@@ -1,0 +1,12 @@
+study_id	MGYS00004091
+study_name	uncultured eukaryote Raw sequence reads
+study_abstract	This study aims to reveal eukaryotic diversity in sediments from the South China Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	31218846
+publication_nr_0_pubmed_abstract	Protists are pivotal components of marine ecosystems in terms of their high diversity, but protist communities have been poorly explored in benthic environments. Here, we investigated protist diversity and community assembly in surface sediments in the South China Sea (SCS) at a basin scale. Pyrosequencing of 18S rDNA was performed for a total of six samples taken from the surface seafloor at water depths ranging from 79 to 2,939 m. We found that Cercozoa was the dominant group, accounting for an average of 39.9% and 25.3% of the reads and operational taxonomic units (OTUs), respectively. The Cercozoa taxa were highly diverse, comprising 14 phylogenetic clades, six of which were affiliated with unknown groups belonging to Filosa and Endomyxa. Fungi were also an important group in both read- (18.1% on average) and OTU-derived (9.3% on average) results. Moreover, the turnover patterns of the protist communities were differently explained by species sorting (53.3%), dispersal limitation (33.3%), mass effects (0%), and drift (13.3%). In summary, our findings show that the basin-wide protist communities in the surface sediments of the SCS are primarily dominated by Cercozoa and are mainly assembled by species sorting and dispersal limitation. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31218846
+publication_nr_0_title	Protist diversity and community assembly in surface sediments of the South China Sea.
+publication_nr_0_publication_year	2019
+=========================================================================================

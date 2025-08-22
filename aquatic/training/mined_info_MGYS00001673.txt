@@ -1,0 +1,7 @@
+study_id	MGYS00001673
+study_name	Bacterial community characterisation and pathogen profiling in a cooling tower system using an Illumina-based approach
+study_abstract	The increasing level of human exposure to freshwater systems requires effective water quality monitoring and surveillance to reduce health risks linked to contaminated environments with pathogenic waterborne and water-based bacteria. Despite the considerable advantages of sequence-based molecular techniques, the usefulness and potential for implementation of next-generation sequencing in environmental research and routine environmental diagnostics has not be thoroughly evaluated and assessed. In this study, a Illumina MiSeq-based approach, targeting the 16S rRNA gene V4-V5 regions was applied to cooling tower water samples monthly collected from January 2013 to December 2014, in order to characterise the temporal dynamics and structure of the bacterial community as well as to detect the main potentially pathogenic bacterial genera.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater
+=========================================================================================
+=========================================================================================

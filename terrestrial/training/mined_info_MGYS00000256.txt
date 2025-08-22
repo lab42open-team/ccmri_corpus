@@ -1,0 +1,7 @@
+study_id	MGYS00000256
+study_name	Rainforest Soil
+study_abstract	Many natural ecosystems are efficiently degrading lignocellulose and harbor enzymes that could potentially be harnessed for the production of next generation biofuels from plant biomass. We have used shotgun metagenome sequencing to provide a survey of the microbial community and potential metabolic pathways present in the tropical rain forest soil of Puerto Rico. Wet tropical forest soils are some of the most productive and diverse terrestrial ecosystems on earth. These soils are characterized by high iron concentrations and regular fluctuations between oxic and anoxic conditions on a scale of days to weeks. These dynamic conditions suggest that bacterial and archaeal processes are more important in this type of environment than in other ecosystems.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+=========================================================================================

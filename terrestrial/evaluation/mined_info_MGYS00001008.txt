@@ -1,0 +1,7 @@
+study_id	MGYS00001008
+study_name	CK1/MNPK1/NPK1 Targeted Locus (Loci)
+study_abstract	The goal of present study is to examine what soil bacterial taxa were significantly affected by Cu amendments, and what taxa were the keystone organisms in Cu-contaminated soils using network analysis approach
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

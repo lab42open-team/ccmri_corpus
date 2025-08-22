@@ -1,0 +1,7 @@
+study_id	MGYS00002321
+study_name	EMG produced TPA metagenomics assembly of the freshwater metagenome Raw sequence reads (freshwater metagenome) data set.
+study_abstract	The freshwater metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA335374. This project includes samples from the following biomes: Environmental, Aquatic, Freshwater, Lake.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001611
+study_name	Microbial community structure in six deep crystalline bedrock fracture zones
+study_abstract	Bacterial and archaeal communities from six fracture zones from 180-2300 m depths in Outokumpu crystalline bedrock were characterized using high-throughput amplicon sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Rock-dwelling (subaerial biofilm)
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000539
+study_name	Diesel contamination of Antarctic soils and sediments
+study_abstract	Hydrocarbon contamination is a threat resulting from human activity in Antarctica because of the low degradation rate due to the cold climate conditions and the seasonal freezing and thawing of soil in summer ice-free areas like the Antarctic Peninsula. Hydrocarbons can accidentally reach soil and sediments and distribute underground, likely affecting the biota and causing changes in bacterial communities. Monitoring and study of the distribution of hydrocarbons and the consequent response of the microbiota helps in the design of bioremediation strategies and elaboration of contingency plans, both required by the Antarcic Treaty.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

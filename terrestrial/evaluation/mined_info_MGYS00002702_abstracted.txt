@@ -1,0 +1,12 @@
+study_id	MGYS00002702
+study_name	Metagenomic sequence from soil bacteria
+study_abstract	This data contains metagenomic 16S rDNA sequence of soil bacteria. 16S rDNA sequence was amplified according to illumina protocol. The aim of this project is to analyze bacterial flora.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	28701744
+publication_nr_0_pubmed_abstract	Massively parallel single-cell genome sequencing is required to further understand genetic diversities in complex biological systems. Whole genome amplification (WGA) is the first step for single-cell sequencing, but its throughput and accuracy are insufficient in conventional reaction platforms. Here, we introduce single droplet multiple displacement amplification (sd-MDA), a method that enables massively parallel amplification of single cell genomes while maintaining sequence accuracy and specificity. Tens of thousands of single cells are compartmentalized in millions of picoliter droplets and then subjected to lysis and WGA by passive droplet fusion in microfluidic channels. Because single cells are isolated in compartments, their genomes are amplified to saturation without contamination. This enables the high-throughput acquisition of contamination-free and cell specific sequence reads from single cells (21,000 single-cells/h), resulting in enhancement of the sequence data quality compared to conventional methods. This method allowed WGA of both single bacterial cells and human cancer cells. The obtained sequencing coverage rivals those of conventional techniques with superior sequence quality. In addition, we also demonstrate de novo assembly of uncultured soil bacteria and obtain draft genomes from single cell sequencing. This sd-MDA is promising for flexible and scalable use in single-cell sequencing. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28701744
+publication_nr_0_title	Massively parallel whole genome amplification for single-cell sequencing using droplet microfluidics.
+publication_nr_0_publication_year	2017
+=========================================================================================

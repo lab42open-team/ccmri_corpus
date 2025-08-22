@@ -1,0 +1,7 @@
+study_id	MGYS00005536
+study_name	Soil microbial diversity in the Maintenance of Exotic vs. Native Diversity experiment (depth study)
+study_abstract	Grasslands dominated by non-native species have replaced purely native-dominated areas in many parts of the world. This replacement has led to altered plant-plant interactions aboveground, but it is poorly understood how soil microbial communities differ between native and exotic plant communities. We tested how exotic vs. native plant species and summer irrigation affect bacterial and fungal community composition and diversity in a common garden experiment, Maintenance of Exotic vs. Native Diversity. In this study, the samples were taken at various soil depth: 0-10 cm, 10-30 cm, 30-60 cm, and 60-100 cm to assess if these changes are maintained in deeper soil layers.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004630
+study_name	seawater metagenome Raw sequence reads
+study_abstract	This project is to study the diversity of AAPB in Zhoushan sea area.AAPB belonging to the unclassified dominated the column, followed by Roseobacter ?The cluster analysis results by phylum ranked top was unclassified, then the Proteobacteria, Firmicutes followed, and finally the planctomycetes. The proportion of each class (clear classified phylum) of AAPB were clearly indicating that a-Proteobacteria remained dominant ,then ?-Proteobacteria and unclassified, -Proteobacteria and Bacilli possessed the same proportion,Planctomycetia and d- Proteobacteria occupied the minimum percentages. Obviously, in addition to the unclassified bacteria, Proteobacteria was absolute dominant member of AAPB?
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

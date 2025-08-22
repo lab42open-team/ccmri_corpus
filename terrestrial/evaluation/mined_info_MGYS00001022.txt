@@ -1,0 +1,7 @@
+study_id	MGYS00001022
+study_name	Cold desert Metagenome
+study_abstract	Targetted geno-diversity Of lipase genes in cold desert Of Drass (Ladakh, Jammu and Kashmir)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

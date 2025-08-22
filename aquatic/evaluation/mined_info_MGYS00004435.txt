@@ -1,0 +1,7 @@
+study_id	MGYS00004435
+study_name	Bacterial community diverisity
+study_abstract	Bacterial community diversity of seawater in East China Sea
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

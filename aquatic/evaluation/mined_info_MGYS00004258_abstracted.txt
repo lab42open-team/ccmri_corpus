@@ -1,0 +1,12 @@
+study_id	MGYS00004258
+study_name	Svalbard Targeted Locus (Loci)
+study_abstract	This study compared microbial communities in sediments in streams that drain glaciated and unglaciated catchments in Svalbard
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	32009726
+publication_nr_0_pubmed_abstract	Microbial eukaryotes are increasingly being recognised for their role in global biogeochemical cycles, yet very few studies have focussed on their distribution in high-latitude stream sediments, an important habitat which influences stream water nutrient chemistry. In this study, we present the first comparison of microbial eukaryotes from two different polar habitats by determining the abundance and taxonomic affiliation of 18S rRNA gene fragments recovered from four sediment samples in Svalbard: two from a glaciated catchment and two from an unglaciated permafrost-dominated catchment. Whilst there was no difference between the two catchments in terms of Rao's phylogenetic diversity (0.18+/-0.04, 1SD), the glaciated catchment samples had slightly higher richness (138-139) than the unglaciated catchment samples (67-106). At the phylum level, Ciliophora had the highest relative abundance in the samples from the glaciated catchment (32-63%), but only comprised 0-17% of the unglaciated catchment samples. Bacillariophyta was the most abundant phylum in one of the samples from the unglaciated catchment (43%) but phototrophic microbial eukaryotes only formed a minor component of the glaciated catchment samples (&lt;2%), suggesting that in these environments the microbial eukaryotes are predominantly heterotrophic (chemotrophic). This is in contrast to previously published data from Robertson Glacier, Canada where the relative abundance of chlorophyta (phototrophs) in three samples was 48-57%. The contrast may be due to differences in glacial hydrology and/or geology, highlighting the variation in microbial eukaryote communities between nominally similar environments. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32009726
+publication_nr_0_title	Diversity and abundance of microbial eukaryotes in stream sediments from Svalbard.
+publication_nr_0_publication_year	2017
+=========================================================================================

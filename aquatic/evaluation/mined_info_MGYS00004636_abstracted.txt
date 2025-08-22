@@ -1,0 +1,12 @@
+study_id	MGYS00004636
+study_name	Diazotroph Community Structure and Distribution in the Kuroshio Current along the Tokara Strait Raw sequence reads
+study_abstract	Diazotroph Community Structure and Distribution in the Kuroshio Current along the Tokara Strait
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29059241
+publication_nr_0_pubmed_abstract	In this study, we used 454-pyrosequencing to report the highly diverse diazotroph communities in the Kuroshio and its adjacent waters along a transect across the Tokara Strait, Japan. Terrestrial input from the islands resulted in a highly heterogeneous diazotroph community within a relatively small geographic region, which was presumably caused by the remarkably different responses of UCYN-A2, UCYN-C and Trichodesmium to the steep environmental gradient. On the other hand, most major cyanobacterial OTUs found in this study were also detected in an unpublished dataset from the upstream Kuroshio, which suggests transportation of diazotrophs by the Kuroshio in large geographic scale. A significant amount of UCYN-C was found in the Kuroshio and offshore stations, suggesting the importance of this potentially overlooked group in the western North Pacific Ocean (WNPO). Moreover, a novel sublineage of UCYN-B was defined, which was predominant in an oligotrophic water sample; and it was also found to be widely distributed in oceanic waters. In addition, the apparent increase in relative abundance of UCYN-A2 from offshore to near-shore water provides evidence for the earlier and under-debating view that UCYN-A2 prefers coastal conditions. Our report provides new knowledge for understanding the phylogeny and ecology of unicellular cyanobacterial diazotrophs in WNPO. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29059241
+publication_nr_0_title	Highly heterogeneous diazotroph communities in the Kuroshio Current and the Tokara Strait, Japan.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001634
+study_name	Phylogenetic identification of GO-reducing bacteria enriched from a coast
+study_abstract	This project conducted the phylogenetic identification of bacteria capable of respiration with an extracellular electron acceptor, graphene oxide (GO). GO is the oxidized form of graphene, a 2D honeycomb lattice of carbon. GO can be reduced to the reduced GO (rGO) by bacteria via extracellular electron transferring. Ant the rGO can facilitate the recovering electricity from bacteria. A variety of microorganisms potentially ability to reduce GO, while the reduction of GO was demonstrated by only Schewanella spp. This study enriched GO respiring bacteria from a coast, and identified the enriched GO respiring bacteria by pyrosequencing targeting V4 region of 16SrRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand
+=========================================================================================
+=========================================================================================

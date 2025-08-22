@@ -1,0 +1,7 @@
+study_id	MGYS00003081
+study_name	MiSeq 16S rRNA gene (prokaryotic 16S rRNA gene) sequences of 16 SCS sediments
+study_abstract	DNA from 16 SCS sediments have been extracted and amplified by 515F/909R primer pairs (for prokaryotic 16S rRNA gene). The prokaryotic communities of these 16 samples were obtained.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

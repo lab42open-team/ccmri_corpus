@@ -1,0 +1,9 @@
+study_id	MGYS00005668
+study_name	Geothermal fumarole subsurface microbial communities from Mt. Erebus, Antarctica
+study_abstract	Using metagenomic sequencing and binning techniques, we identified and enumerated members of the subsurface-associated microbial community in the high-elevation fumarolic sediments of Tramway Ridge
+study_origination	HARVESTED
+associated_study_0	MGYS00001474
+associated_study_1	MGYS00005667
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

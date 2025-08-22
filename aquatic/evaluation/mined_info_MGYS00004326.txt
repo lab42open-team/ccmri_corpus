@@ -1,0 +1,7 @@
+study_id	MGYS00004326
+study_name	Targeted analyses of Dehalococcoidetes (phylum Chloroflexi) diversity and community structures in marine subsurface sediments.
+study_abstract	Bacteria of the class Dehalococcoidetes (phylum Chloroflexi) are widely distributed in the subsurface and are especially prevalent in the deep marine subsurface. Nevertheless, little is known about the specific distributions of DEH, the extent of DEH diversity and the variability of DEH sub-group distributions at different sites and depths. Therefore, this study specifically examined the distribution and diversity of DEH through depths of various marine sediment cores by 454 pyrosequencing using newly designed 16S rRNA gene targeting primers to generate amplicons for sequencing. The data reveals Dehalococcoidetes diversity is more pronounced than previously recognized, and that distributions of Dehalococcoidetes changes through depths of marine sediments, suggesting varied metabolic properties in different sub-groups within this clade.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

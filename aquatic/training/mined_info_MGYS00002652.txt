@@ -1,0 +1,7 @@
+study_id	MGYS00002652
+study_name	Marine Water Column Samples Targeted loci environmental
+study_abstract	Surface water samples collected from locations within Mobile Bay out into the northern Gulf of Mexico shelf region off the coast of Alabama for examination of microbial eukaryotes. 20-24 L water samples were collected bi-monthly from July 2009- Dec 2011, prefiltered through a 150um mesh and eukaryotic fraction was collected on a 0.7um glass fiber filter. This data was used to explore spatial and temporal variation as well as impact of the Deepwater Horizon Oil Spill on this community.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

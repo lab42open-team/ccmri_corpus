@@ -1,0 +1,8 @@
+study_id	MGYS00004677
+study_name	Deep Sea Sponge and Seawater Targeted Locus (Loci)
+study_abstract	The microbiota of four individual deep water sponges, Lissodendoryx diversichela, Poecillastra compressa, Inflatella pellicula, and Stelletta normani, together with surrounding seawater were analysed by pyrosequencing of a region of the 16S rRNA gene common to Bacteria and Archaea. The microbial communities of L. diversichela, P. compressa and I. pellicula were typical of low microbial abundance (LMA) sponges while S. normani was found to have a community more typical of high microbial abundance (HMA) sponges. Analysis of the deep sea sponge microbiota revealed that the three LMA-like sponges shared a set of abundant OTUs that were distinct from those associated with sponges from shallow waters.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Host-associated:Porifera
+=========================================================================================
+=========================================================================================

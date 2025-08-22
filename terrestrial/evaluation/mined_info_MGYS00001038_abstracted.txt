@@ -1,0 +1,12 @@
+study_id	MGYS00001038
+study_name	Bacteria Metagenome
+study_abstract	To investigate how soil bacteria responsed to warming and precipitation.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	27446064
+publication_nr_0_pubmed_abstract	Soil microbial communities are influenced by climate change drivers such as warming and altered precipitation. These changes create abiotic stresses, including desiccation and nutrient limitation, which act on microbes. However, our understanding of the responses of microbial communities to co-occurring climate change drivers is limited. We surveyed soil bacterial and fungal diversity and composition after a 1-year warming and altered precipitation manipulation in the Tibetan plateau alpine grassland. In isolation, warming and decreased precipitation treatments each had no significant effects on soil bacterial community structure; however, in combination of both treatments altered bacterial community structure (p = 0.03). The main effect of altered precipitation specifically impacted the relative abundances of Bacteroidetes and Gammaproteobacteria compared to the control, while the main effect of warming impacted the relative abundance of Betaproteobacteria. In contrast, the fungal community had no significant response to the treatments after 1-year. Using structural equation modeling (SEM), we found bacterial community composition was positively related to soil moisture. Our results indicate that short-term climate change could cause changes in soil bacterial community through taxonomic shifts. Our work provides new insights into immediate soil microbial responses to short-term stressors acting on an ecosystem that is particularly sensitive to global climate change. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27446064
+publication_nr_0_title	Effects of Short-Term Warming and Altered Precipitation on Soil Microbial Communities in Alpine Grassland of the Tibetan Plateau.
+publication_nr_0_publication_year	2016
+=========================================================================================

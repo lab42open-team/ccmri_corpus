@@ -1,0 +1,7 @@
+study_id	MGYS00000464
+study_name	Denovo test of eDNA sample
+study_abstract	In this study we are going to establish the analyses of eDNA from sea water to identify macrofauna species from the North Sea.Instead of targeting single genes of taxa, we aim to sequence total DNA extracts. As a consequence, we expect to catch more diversity and to reduce the loss of information caused by unregularly binding of group specific primers.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

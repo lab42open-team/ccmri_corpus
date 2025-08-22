@@ -1,0 +1,7 @@
+study_id	MGYS00004505
+study_name	Tyne oil spill snorkels Raw sequence reads
+study_abstract	Bioelectrochemical bioremediation to accelerate hydrocarbon biodegradation in anoxic marine sediments, using "oil-spill snorkels". The snorkels (rods of conductive material) were positioned to create an electrochemical connection between the anoxic contaminated sediment and the oxic overlying water. In principle, the snorkel could take advantage of the capability of electro-active bacteria to anaerobically oxidize hydrocarbons with the snorkel serving as a respiratory electron acceptor.Fifty 16S rRNA amplicon libraries were generated representing microbial communities from the snorkel, no oil snorkel, control, no oil control and abiotic experiments at 175, 286 and 466 days during the incubation period, as well as from the initial sediments with and without oil (Time 0).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+=========================================================================================
+=========================================================================================

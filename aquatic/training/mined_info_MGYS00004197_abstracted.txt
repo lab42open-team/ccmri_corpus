@@ -1,0 +1,12 @@
+study_id	MGYS00004197
+study_name	SB Marine Metagenome
+study_abstract	The study of bacterial diversity. Marine metagenome from Malaysian coastal water.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+publication_nr_0_pubmed_id	24812226
+publication_nr_0_pubmed_abstract	The metagenomes of marine prokaryotes from coastal seawaters in Malaysia are reported in this study. The investigation of the microbial communities using 16S rRNA gene amplicon metagenomic sequencing revealed that majority of the bacteria in the seawater samples remain unclassified. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24812226
+publication_nr_0_title	Prevalence of unclassified bacteria in tropical coastal waters of malaysia revealed by metagenomic approach.
+publication_nr_0_publication_year	2014
+=========================================================================================

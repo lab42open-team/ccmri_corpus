@@ -1,0 +1,7 @@
+study_id	MGYS00005582
+study_name	Investigation of the bacterial microbiome of drinking water for poultry
+study_abstract	Samples of drinking water were collected from poultry houses to examine the drinking water bacterial microbiome and how this changes during the production cycle. Samples were collected for two consecutive production cycles from each six farms during the early, middle and late parts of the cycle. Water samples (1 litre) were transported to the laboratory on ice and filtered through a 0.22m cellulose acetate filters. These filters were then frozen until DNA was extracted from them using Qiagen Powersoil Pro kit (according to manufacturers instructions). The v4 region of the 16s rRNA gene was sequenced using an Illumina Miseq (250bp paired end reads).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water
+=========================================================================================
+=========================================================================================

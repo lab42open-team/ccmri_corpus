@@ -1,0 +1,7 @@
+study_id	MGYS00005734
+study_name	This study deals with 6 metagenomes of modified Winogradsky columns, enriched at 24 C and 28C. Furthermore three enrichment cultures are analysed, which are a mixed consortia of algae and bacteria.
+study_abstract	This study deals with the consequences of global change scenarious on stratified microbial communities of lake ecosystems
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

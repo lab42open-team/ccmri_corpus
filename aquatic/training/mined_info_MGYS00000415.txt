@@ -1,0 +1,7 @@
+study_id	MGYS00000415
+study_name	Analysis of sample SRA022106 from Southern Ocean Marine Metagenome ( J. Craig Venter Institute, submitted to NCBI on 28-JUL-2010)
+study_abstract	The comparative study of metagenomes arising from oceanic surface waters has attracted great interest in the scientific community. Recent studies have shown the association of microbial communities to environmental factors such as temperature, salinity and latitude. This project's main objectives are: (i) to perform a comparative study between two metagenomes from different environments (cold and warm waters), in order to establish the influence caused by abiotic factors on microbial community present at the collection site, (II) assess the diversity present in each data set (III) Linking genomic each set containing the respective biological pathways, (iv) Undertake comparisons between different sets and identify their commonalities and their differences (V) Expand the information obtained in this study with the literature data. 
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

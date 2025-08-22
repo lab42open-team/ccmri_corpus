@@ -1,0 +1,7 @@
+study_id	MGYS00001516
+study_name	Changes in the microbial community of an anammox consortium during adaptation to marine conditions revealed by 454 pyrosequencing
+study_abstract	The submitted dataset consists of pyrosequenced barcoded v4 16S rDNA amplicons representing freshwater anammox consortia that were adapted to salinities of 3 and 30 g/L NaCl. While adaption from 0 to 3 g/L salinity took 153 days, adaption from 3 to 30 g/L salinity took only 40 days, and no inhibition was observed. A major succession in the anammox community wasobserved at 3 g L-1 where the dominating population shifted from Ca. Brocadia fulgida to Ca. Kuenenia stuttgartiensis. The latter dominated at high salinity and seemed to be essential for the high (? 96%)ammonium and nitrite removal efficiencies achieved.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

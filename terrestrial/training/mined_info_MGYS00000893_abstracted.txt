@@ -1,0 +1,12 @@
+study_id	MGYS00000893
+study_name	DOB_RepEx Targeted Locus (Loci)
+study_abstract	Raw sequence data from fungal amplicons sequenced from soil samples collected in major Pinus biomes across North America.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	24587293
+publication_nr_0_pubmed_abstract	Recent advances in molecular approaches and DNA sequencing have greatly progressed the field of ecology and allowed for the study of complex communities in unprecedented detail. Next generation sequencing (NGS) can reveal powerful insights into the diversity, composition, and dynamics of cryptic organisms, but results may be sensitive to a number of technical factors, including molecular practices used to generate amplicons, sequencing technology, and data processing. Despite the popularity of some techniques over others, explicit tests of the relative benefits they convey in molecular ecology studies remain scarce. Here we tested the effects of PCR replication, sequencing depth, and sequencing platform on ecological inference drawn from environmental samples of soil fungi. We sequenced replicates of three soil samples taken from pine biomes in North America represented by pools of either one, two, four, eight, or sixteen PCR replicates with both 454 pyrosequencing and Illumina MiSeq. Increasing the number of pooled PCR replicates had no detectable effect on measures of Alfa- and Beta-diversity. Pseudo-Beta-diversity - which we define as dissimilarity between re-sequenced replicates of the same sample - decreased markedly with increasing sampling depth. The total richness recovered with Illumina was significantly higher than with 454, but measures of Alfa- and Beta-diversity between a larger set of fungal samples sequenced on both platforms were highly correlated. Our results suggest that molecular ecology studies will benefit more from investing in robust sequencing technologies than from replicating PCRs. This study also demonstrates the potential for continuous integration of older datasets with newer technology. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24587293
+publication_nr_0_title	Sequence depth, not PCR replication, improves ecological inference from next generation DNA sequencing.
+publication_nr_0_publication_year	2014
+=========================================================================================

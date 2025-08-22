@@ -1,0 +1,7 @@
+study_id	MGYS00004176
+study_name	Evaluation of filtration and DNA extraction methods for environmental DNA biodiversity assessments across multiple trophic levels.
+study_abstract	Methods evaluation for sample collection and nucleic acid extraction from multiple trophic levels simultaneously (i.e. bacteria, phytoplankton, zooplankton, vertebrates). Specifically, filter types and DNA extraction kits were evaluated for producing Illumina MiSeq reads for 12S, 16S and 18S amplicons from water samples collected in Monterey Bay California.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

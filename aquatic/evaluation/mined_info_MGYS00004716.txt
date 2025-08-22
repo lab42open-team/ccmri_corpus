@@ -1,0 +1,7 @@
+study_id	MGYS00004716
+study_name	METAGENOME ANALYSIS OF SABARMATI RIVER
+study_abstract	The Sabarmati river is one of the major west-flowing rivers in India. It originates in the Aravalli Range of the Udaipur District of Rajasthan and meets the Gulf of Khambhat of Arabian Sea.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Low land river systems
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002764
+study_name	Latitudinal diversity patterns of pelagic copepods in the Pacific using metagenetic analysis
+study_abstract	Latitudinal diversity patterns of pelagic copepods in the Pacific were investigated from 40?S to 68?N along 170?W using metagenetic analysis of nuclear large subunit ribosomal DNA.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

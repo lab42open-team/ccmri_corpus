@@ -1,0 +1,8 @@
+study_id	MGYS00002032
+study_name	EMG produced TPA metagenomics assembly of the Chinese Poyang Lake resistant genes from soil metagenome (Chinese Poyang Lake resistant genes from soil metagenome) data set
+study_abstract	The Chinese Poyang Lake resistant genes from soil metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB9412. This project includes samples from the following biomes : Freshwater.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000939
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

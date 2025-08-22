@@ -1,0 +1,7 @@
+study_id	MGYS00000355
+study_name	Southern Ocean Marine Metagenome
+study_abstract	Microbial communities from a marine environment. Sequences deposited into the Sequence Read Archive can be found using the Project data link.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

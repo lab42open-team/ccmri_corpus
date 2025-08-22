@@ -1,0 +1,7 @@
+study_id	MGYS00002281
+study_name	There are 3 zooplankton samples from 3 different ponds, we collected sample and use the fresh samples to do DNA extraction directly, then mix them with adjustment guided by the number of species within each of them. At last, use Hiseq-2599 PE-150 to do NGS work
+study_abstract	These 3 samples come from 3 different freshwater ponds. Our lab used the fresh sample to easy the DNA extraction pipeline. Our primary goal of this experiment is testing the mitochondrial metagenomic strategy in zooplankton, for phylogenetic diversity and molecular ecology research
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Pond
+=========================================================================================
+=========================================================================================

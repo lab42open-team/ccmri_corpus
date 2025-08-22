@@ -1,0 +1,7 @@
+study_id	MGYS00002387
+study_name	Investigation of the microbial diversity and metabolic function of microorganisms in dust as compared to soil in dust source regions.
+study_abstract	Deserts are known to be major sources of dust, which is transported as aerosols across regional and even transcontinental scales. Dust has been shown to have negative effects on human well-being, as it has been associated with inducing respiratory, allergic, and cardiovascular diseases. Dust particles are known to serve as carrier for microorganisms, such as fungal spores, viruses, bacteria, archaea, and protozoa. The aim of this study is to examine the microbial composition and metabolic potential of filter-, soil-dust-, and biocrusts samples collected on Barbados, on Cyprus, Sahara desert and during Air Quality and Climate Change in the Arabian Basin (AQABA) ship expedition leading through the Mediterranean Sea and around the Arabian Peninsula.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

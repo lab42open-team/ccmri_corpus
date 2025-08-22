@@ -1,0 +1,10 @@
+study_id	MGYS00004602
+study_name	soil bacteria and fungi Targeted loci environmental
+study_abstract	This study evaluated differences in community composition of all bacteria and fungi present in woody plant encroached streams and soils versus restored (woody plants removed) streams and soils
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+=========================================================================================

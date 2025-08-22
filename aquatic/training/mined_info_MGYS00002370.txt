@@ -1,0 +1,7 @@
+study_id	MGYS00002370
+study_name	Prospecting of extreme microbial ecosystems associated to minerals (microbialites, microbial mats and endoevaporites) in Puna, Wetlands and Salars of Argentina, Chile and Bolivia
+study_abstract	Puna wetlands and salars are unique extreme environments since they are located in high altitude saline deserts, largely influenced by volcanic activity. UV radiation, arsenic content, high salinity, and low dissolved oxygen content, together with extreme daily temperature fluctuations and oligotrophic conditions comprise an environment that recreates the early Earth and even extraterrestrial conditions.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Saline
+=========================================================================================
+=========================================================================================

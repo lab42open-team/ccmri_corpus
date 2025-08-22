@@ -1,0 +1,7 @@
+study_id	MGYS00001054
+study_name	Bacteria_NM_soil_plots
+study_abstract	The aim of our study was to (1) investigate the diversity of bacterial and fungal communities in a historically contaminated soil from a former coking plant site (Neuves-Maisons, France), (2) assess the impact of plant-assisted attenuation on microbial diversity, (3) characterize the temporal modifications of microbial diversity linked to edaphic parameters.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

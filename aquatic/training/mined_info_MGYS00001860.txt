@@ -1,0 +1,7 @@
+study_id	MGYS00001860
+study_name	Metagenomic study from hydrothermal sediments retrieved from Menez Gwen and Rainbow deep-sea vents.
+study_abstract	Metagenomic study from hydrothermal sediments retrieved from Menez Gwen and Rainbow deep-sea vents.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Sediment
+=========================================================================================
+=========================================================================================

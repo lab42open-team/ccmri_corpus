@@ -1,0 +1,7 @@
+study_id	MGYS00005040
+study_name	Bacterial communities in agricultural soils under contrasting agronomic managements and biomes of Argentina
+study_abstract	The aim of this study was to compare soil bacterial communities in agricultural lands attempted to soybean production in different regions of Argentina. Intensive and conservative management practices were evaluated in contemporary long-term field experiments carried out in three different locations of the rolling pampas region.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

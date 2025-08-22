@@ -1,0 +1,13 @@
+study_id	MGYS00002035
+study_name	EMG produced TPA metagenomics assembly of the Light-dependent microbial metabolisms drive carbon fluxes on glacier surfaces (Ecosystem functions in cryoconites) data set
+study_abstract	The Ecosystem functions in cryoconites Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB12327. This project includes samples from the following biomes : Freshwater.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000599
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+=========================================================================================
+publication_nr_0_pubmed_id	27128995
+publication_nr_0_pubmed_abstract	Biological processes on glacier surfaces affect glacier reflectance, influence surface energy budget and glacier response to climate warming, and determine glacier carbon exchange with the atmosphere. Currently, carbon balance of supraglacial environment is assessed as the balance between the activity of oxygenic phototrophs and the respiration rate of heterotrophic organisms. Here we present a metagenomic analysis of tiny wind-blown supraglacial sediment (cryoconite) from Baltoro (Pakistani Karakoram) and Forni (Italian Alps) glaciers, providing evidence for the occurrence in these environments of different and previously neglected metabolic pathways. Indeed, we observed high abundance of heterotrophic anoxygenic phototrophs, suggesting that light might directly supplement the energy demand of some bacterial strains allowing them to use as carbon source organic molecules, which otherwise would be respired. Furthermore, data suggest that CO<sub>2</sub> could be produced also by microbiologically mediated oxidation of CO, which may be produced by photodegradation of organic matter. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27128995
+publication_nr_0_title	Light-dependent microbial metabolisms drive carbon fluxes on glacier surfaces.
+publication_nr_0_publication_year	2016
+=========================================================================================

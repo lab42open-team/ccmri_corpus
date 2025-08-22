@@ -1,0 +1,12 @@
+study_id	MGYS00003126
+study_name	White sea picoplankton Metagenome
+study_abstract	Phototrophic picoeukaryotes are important constituents of marine ecosystems. The aim of this study was to determine the molecular diversity and community structure of phototrophic picoeukaryotes in the water and ice of the White Sea in different seasons.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28942559
+publication_nr_0_pubmed_abstract	The White Sea is a unique marine environment combining features of temperate and Arctic seas. The composition and abundance of photosynthetic picoeukaryotes (PPEs) were investigated in the land-fast ice of the White Sea, Russia, in March 2013 and 2014. High-throughput tag sequencing (Illumina MiSeq system) of the V4 region of the 18S rRNA gene was used to reveal the diversity of PPE ice community. The integrated PPE abundance varied from 11 x 10<sup>6</sup> cells/m<sup>2</sup> to 364 x 10<sup>6</sup> cells/m<sup>2</sup>; the integrated biomass ranged from 0.02 to 0.26 mg C/m<sup>2</sup>. The composition of sea-ice PPEs was represented by 16 algae genera belonging to eight classes and three super-groups. Chlorophyta, especially Mamiellophyceae, dominated among ice PPEs. The detailed analysis revealed the latent diversity of Micromonas and Mantoniella. Micromonas clade E2 revealed in the subarctic White Sea ice indicates that the area of distribution of this species is wider than previously thought. We suppose there exists a new Micromonas clade F. Micromonas clade C and Minutocellulus polymorphus were first discovered in the ice and extend the modern concept of sympagic communities' diversity generally and highlights the importance of further targeting subarctic sea ice for microbial study. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28942559
+publication_nr_0_title	Photosynthetic Picoeukaryotes in the Land-Fast Ice of the White Sea, Russia.
+publication_nr_0_publication_year	2018
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002521
+study_name	Gulf of Mexico open ocean Targeted Locus (Loci)
+study_abstract	Influence of dispersants on pelagic microbial oil degraders. Microbial communities from deep seawater at a natural hydrocarbon seep in the northern Gulf of Mexico were exposed to Macondo oil; dispersed oil; or dispersants in laboratory experiments.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26553985
+publication_nr_0_pubmed_abstract	During the Deepwater Horizon oil well blowout in the Gulf of Mexico, the application of 7 million liters of chemical dispersants aimed to stimulate microbial crude oil degradation by increasing the bioavailability of oil compounds. However, the effects of dispersants on oil biodegradation rates are debated. In laboratory experiments, we simulated environmental conditions comparable to the hydrocarbon-rich, 1,100 m deep plume that formed during the Deepwater Horizon discharge. The presence of dispersant significantly altered the microbial community composition through selection for potential dispersant-degrading Colwellia, which also bloomed in situ in Gulf deep waters during the discharge. In contrast, oil addition to deepwater samples in the absence of dispersant stimulated growth of natural hydrocarbon-degrading Marinobacter. In these deepwater microcosm experiments, dispersants did not enhance heterotrophic microbial activity or hydrocarbon oxidation rates. An experiment with surface seawater from an anthropogenically derived oil slick corroborated the deepwater microcosm results as inhibition of hydrocarbon turnover was observed in the presence of dispersants, suggesting that the microcosm findings are broadly applicable across marine habitats. Extrapolating this comprehensive dataset to real world scenarios questions whether dispersants stimulate microbial oil degradation in deep ocean waters and instead highlights that dispersants can exert a negative effect on microbial hydrocarbon degradation rates. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26553985
+publication_nr_0_title	Chemical dispersants can suppress the activity of natural oil-degrading microorganisms.
+publication_nr_0_publication_year	2015
+=========================================================================================

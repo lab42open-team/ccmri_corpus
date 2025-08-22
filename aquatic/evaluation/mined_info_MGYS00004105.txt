@@ -1,0 +1,7 @@
+study_id	MGYS00004105
+study_name	Eastern offshore environmental monitoring of Krishna Godavari Basin Bay of Bengal 2013-2016, Funded by: ONGC India
+study_abstract	Environmental monitoring of Krishna Godavari Basin Bay of Bengal
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

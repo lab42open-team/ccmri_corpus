@@ -1,0 +1,7 @@
+study_id	MGYS00001318
+study_name	Global Rivers
+study_abstract	Metagenomic analysis provides knowledge of the diversity and ecological function of the biota inhabiting rivers, whether or not they can be seen or cultured. Using MinION rapid sequencing and real time analysis of DNAs obtained from rivers, we demonstrate the utility and potential of this approach for monitoring for agricultural and industrial effects on the river biota, detecting pathogen diversity and progression through river systems, judging risk associated with water uses, and ultimately enhancing water quality.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Low land river systems
+=========================================================================================
+=========================================================================================

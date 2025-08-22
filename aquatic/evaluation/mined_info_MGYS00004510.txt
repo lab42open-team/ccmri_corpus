@@ -1,0 +1,7 @@
+study_id	MGYS00004510
+study_name	Variation in freshwater stream sediment community 16S rRNA profiles along an urbanization gradient
+study_abstract	We examined bacterial community change along an urbanization gradient in NE Ohio, USA to assess the effects on urbanization on bacterial community diversity.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

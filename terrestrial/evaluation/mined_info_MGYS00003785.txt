@@ -1,0 +1,10 @@
+study_id	MGYS00003785
+study_name	Exploring links between pH and bacterial community composition in soils from the Craibstone Experimental Farm.
+study_abstract	Soil pH effect on soil metagenome Craibstone, Scotland soil maintained at different pH levels (4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5) and harvested in 2006 and 2007
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00003981
+study_name	Microbial Community Assembly in Soybean
+study_abstract	Soybean has great economic and social importance for Brazil, and nitrogen, the most required nutrient by plants, is fully supplied by bacteria symbiosis. In order to guarantee the biological process maximization, it is necessary to inoculate strains of efficient and competitive bacteria, that accompany the technological development of new cultivars
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

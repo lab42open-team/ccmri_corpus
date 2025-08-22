@@ -1,0 +1,12 @@
+study_id	MGYS00000336
+study_name	Richmond Mine AMD Biofilm Samples Metagenome
+study_abstract	Richmond Mine acid mine drainage biofilm samples datasets (2006-2010). This project describes a population genomic study focused on determining the evolutionary rates in natural populations, and to correlate human disturbance to major evolutionary divergence events. Biofilm samples from acid mine drainage were taken in the period 2006-2010 at four locations in the Richmond Mine (Iron Mt., CA). Community genomic DNA was extracted and sequenced by either 454 or Illumina sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+publication_nr_0_pubmed_id	22539719
+publication_nr_0_pubmed_abstract	Few data are available on how quickly free-living microorganisms evolve. We analyzed biofilms collected from a well-defined acid mine drainage system over 9 years to investigate the processes and determine rates of bacterial evolution directly in the environment. Population metagenomic analyses of the dominant primary producer yielded the nucleotide substitution rate, which we used to show that proliferation of a series of recombinant bacterial strains occurred over the past few decades. The ecological success of hybrid bacterial types highlights the role of evolutionary processes in rapid adaptation within natural microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/22539719
+publication_nr_0_title	In situ evolutionary rate measurements show ecological success of recently emerged bacterial hybrids.
+publication_nr_0_publication_year	2012
+=========================================================================================

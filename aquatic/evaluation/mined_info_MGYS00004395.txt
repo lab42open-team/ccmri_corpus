@@ -1,0 +1,7 @@
+study_id	MGYS00004395
+study_name	coastal sediment diversity study
+study_abstract	The main objectives of the present study were the in-depth characterization of bacteria and archaea diversity and community distribution in the coastal sediments along a pollution gradient subject to costal anthropogenic disturbances and the riverine input.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

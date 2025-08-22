@@ -1,0 +1,12 @@
+study_id	MGYS00004363
+study_name	Sippewissett Salt Marsh tide pool sediment Targeted Locus (Loci)
+study_abstract	Bacterial community phylogenetic study in sediments of salt marsh
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	27014417
+publication_nr_0_pubmed_abstract	"Candidatus Achromatium palustre" was recently described as the first marine representative of the Achromatium spp. in the Thiotrichaceae - a sister lineage to the Chromatiaceae in the Gammaproteobacteria. Achromatium spp. belong to the group of large sulfur bacteria as they can grow to nearly 100 mym in size and store elemental sulfur (S(0)) intracellularly. As a unique feature, Achromatium spp. can accumulate colloidal calcite (CaCO3) inclusions in great amounts. Currently, both process and function of calcite accumulation in bacteria is unknown, and all Achromatium spp. are uncultured. Recently, three single-cell draft genomes of Achromatium spp. from a brackish mineral spring were published, and here we present the first draft genome of a single "Candidatus Achromatium palustre" cell collected in the sediments of the Sippewissett Salt Marsh, Cape Cod, MA. Our draft dataset consists of 3.6 Mbp, has a G + C content of 38.1 % and is nearly complete (83 %). The next closest relative to the Achromatium spp. genomes is Thiorhodovibrio sp. 907 of the family Chromatiaceae, containing phototrophic sulfide-oxidizing bacteria. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27014417
+publication_nr_0_title	Insights into the single cell draft genome of "Candidatus Achromatium palustre".
+publication_nr_0_publication_year	2016
+=========================================================================================

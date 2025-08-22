@@ -1,0 +1,10 @@
+study_id	MGYS00003861
+study_name	Myrold Alder Fir
+study_abstract	Replacement Series. This well-designed experiment was established in the mid-1980s to evaluate competition between various mixtures of red alder and Douglas-fir. Experimental plots were established at two locations in Oregon: the Cascade Head Experimental Forest, a high-productivity site in the Coast Range and Site 1 of the Oregon Transect, and the H.J. Andrews Experimental Forest, a low-productivity site in the western Cascade Mountains similar to Site 3 of the Oregon Transect and an NSF LTER site. Both sites were clear-cut and burned in 1984 (Knowe and Hibbs, 1996). Cascade Head was planted the following year and the H.J.Andrews was planted in 1987. Both sites were planted with a design consisting of a replacement series of red alder and Douglas-fir planted on a 10-by-10 grid at 3-m spacing. Of the several mixtures available, we will use the 100 percent red alder and 100percent Douglas-fir plots. Each mixture is replicated three times within a site in a randomized complete block design. These sites have been studied intensively and significant metadata is available, including some information about microbial communities (Boyle et al., 2008; Boyle-Yarwood et al. 2008; Selmants et al., 2005; Vermes and Myrold, 1992; Yarwood et al., 2010). A total of 12 plots (2 sites, with 3 blocks per site, with each block containing plots of 2 tree species) will be sampled.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

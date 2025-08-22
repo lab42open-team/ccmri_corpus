@@ -1,0 +1,13 @@
+study_id	MGYS00004678
+study_name	Sequences obtained from two sponge genera (Hyrtios, Aiolochroia), one zoanthid (Palythoa), and marine sediments. Metagenome
+study_abstract	Study of the diversity of bacteria present in sponges and marine sediment, by 16s rRNA gene sequencing
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+biome_info_1	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	25723107
+publication_nr_0_pubmed_abstract	Marine invertebrate-associated microbial communities are interesting examples of complex symbiotic systems and are a potential source of biotechnological products. In this work, pyrosequencing-based assessment from bacterial community structures of sediments, two sponges, and one zoanthid collected in the Mexican Caribbean was performed. The results suggest that the bacterial diversity at the species level is higher in the sediments than in the animal samples. Analysis of bacterial communities' structure showed that about two thirds of the bacterial diversity in all the samples belongs to the phyla Acidobacteria and Proteobacteria. The genus Acidobacterium appears to dominate the bacterial community in all the samples, reaching almost 80% in the sponge Hyrtios. Our evidence suggests that the sympatric location of these benthonic species may lead to common bacterial structure features among their bacterial communities. The results may serve as a first insight to formulate hypotheses that lead to more extensive studies of sessile marine organisms' microbiomes from the Mexican Caribbean. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25723107
+publication_nr_0_title	Acidobacteria appear to dominate the microbiome of two sympatric Caribbean Sponges and one Zoanthid.
+publication_nr_0_publication_year	2014
+=========================================================================================

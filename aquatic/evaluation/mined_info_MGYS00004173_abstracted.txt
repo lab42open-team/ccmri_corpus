@@ -1,0 +1,12 @@
+study_id	MGYS00004173
+study_name	Microbial eukaryotes in an Arctic under-ice spring bloom north of Svalbard.
+study_abstract	In this study, we investigated microbial eukaryote diversity and community compositional differences in an under-ice spring bloom north of Svalbard. Our mainobjectives were to: 1) Identify the community of microbial eukaryotes in two ice-coveredstations, 2) to unravel the influence of water masses of different characteristics and historyversus local processes on the composition of the microbial protist communities, and 3) tostudy the metabolically active fraction of the community by comparing inventories based onrRNA and the rRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28702000
+publication_nr_0_pubmed_abstract	Microbial eukaryotes can play prominent roles in the Arctic marine ecosystem, but their diversity and variability is not well known in the ice-covered ecosystems. We determined the community composition of microbial eukaryotes in an Arctic under-ice spring bloom north of Svalbard using metabarcoding of DNA and RNA from the hypervariable V4 region of 18S nrDNA. At the two stations studied, the photosynthetic biomass was dominated by protists &gt;3 mym and was concentrated in the upper 70-80 m, above the thermocline and halocline. Hierarchical cluster analyses as well as ordination analyses showed a distinct clustering of the microbial eukaryote communities according to a combination of water mass and local environmental characteristics. While samples collected in the surface mixed layer differed distinctly between the two sites, the deeper communities collected in Atlantic Water were fairly similar despite being geographically distant. The differentiation of the microbial eukaryote communities of the upper mixed water was probably driven by local development and advection, while the lack of such differentiation in the communities of Atlantic Water reflects the homogenizing effect of water currents on microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28702000
+publication_nr_0_title	Microbial Eukaryotes in an Arctic Under-Ice Spring Bloom North of Svalbard.
+publication_nr_0_publication_year	2017
+=========================================================================================

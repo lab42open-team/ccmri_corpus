@@ -1,0 +1,7 @@
+study_id	MGYS00000670
+study_name	High Arctic active layer and permafrost Targeted Locus (Loci)
+study_abstract	Samples of active layer and permafrost were collected at the McGill Arctic Research Station, Axel Heiberg Island, Nunavut, Canada. The total community genomic DNA was extracted using PowerSoil DNA Isolation Kit. The V4 region of the bacterial 16S rRNA gene and the D1/D2 region of the fungal LSU rRNA were amplified and sequenced on a 454 Life Sciences Genome Sequencer FLX using Titanium chemistry. Samples were collected at the McGill Arctic Research Station, Axel Heiberg Island, Nunavut, Canada. Active layer freezes and thaws every year. Active layer is underlain by permanently frozen soil (permafrost).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+=========================================================================================

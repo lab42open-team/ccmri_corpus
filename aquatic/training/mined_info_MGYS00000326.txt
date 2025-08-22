@@ -1,0 +1,7 @@
+study_id	MGYS00000326
+study_name	Metagenome of aerobic and anaerobic slice of north sea sediment at oystergrounds in scope of Nicycle programme
+study_abstract	Metagenome of aerobic and anaerobic slice of north sea sediment at oystergrounds in scope of Nicycle programme focussing on nitrifying microbial community. Especially on interaction between bacterial and archaeal nitrifyers in different marine environments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

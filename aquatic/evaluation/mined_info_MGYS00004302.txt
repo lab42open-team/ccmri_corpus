@@ -1,0 +1,7 @@
+study_id	MGYS00004302
+study_name	Metagenome microbial communities of bottom sediments of the Kara Sea
+study_abstract	Metagenomic analysis of the microbial community in the bottom sediments Kara Sea shelf Yenisei Gulf and Gyda Bay by pyrosequencing
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

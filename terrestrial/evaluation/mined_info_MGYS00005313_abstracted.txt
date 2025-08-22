@@ -1,0 +1,15 @@
+study_id	MGYS00005313
+study_name	Arable land and chronosequenced forest land soil from different depth Raw sequence reads
+study_abstract	Our study's aim was to investigate the vertical assembly of soil microbiomes at a fine scale during the successional development of restored ecosystems, and their contribution to soil ecosystem multi-nutrients cycling at subsurface profiles.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+publication_nr_1_pubmed_id	30131068
+publication_nr_1_pubmed_abstract	Soil microbiomes play an important role in the services and functioning of terrestrial ecosystems. However, little is known of their vertical responses to restoration process and their contributions to soil nutrient cycling in the subsurface profiles. Here, we investigated the community assembly of soil bacteria, archaea, and fungi along vertical (i.e., soil depths of 0-300 cm) and horizontal (i.e., distance from trees of 30-90 cm) profiles in a chronosequence of reforestation sites that represent over 30 years of restoration. In the superficial layers (0-80 cm), bacterial and fungal diversity decreased, whereas archaeal diversity increased with increasing soil depth. As reforestation proceeded over time, the vertical spatial variation in bacterial communities decreased, while that in archaeal and fungal communities increased. Vertical distributions of the soil microbiomes were more related to the variation in soil properties, while their horizontal distributions may be driven by a gradient effect of roots extending from the tree. Bacterial and archaeal beta-diversity were strongly related to multi-nutrient cycling in the soil, respectively, playing major roles in deep and superficial layers. Taken together, these results reveal a new perspective on the vertical and horizontal spatial variation in soil microbiomes at the fine scale of single trees. Distinct response patterns underpinned the contributions of soil bacteria, archaea, and fungi as a function of subsurface nutrient cycling during the reforestation of ex-arable land. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30131068
+publication_nr_1_title	Soil microbiomes with distinct assemblies through vertical soil profiles drive the cycling of multiple nutrients in reforested ecosystems.
+publication_nr_1_publication_year	2018
+=========================================================================================

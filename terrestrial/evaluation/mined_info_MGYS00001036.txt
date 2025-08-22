@@ -1,0 +1,7 @@
+study_id	MGYS00001036
+study_name	16S rRNA gene sequences from temperate soils Targeted Locus (Loci)
+study_abstract	Both climate and pH are key in determining soil archaeal community structure and diversity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

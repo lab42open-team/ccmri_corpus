@@ -1,0 +1,7 @@
+study_id	MGYS00003008
+study_name	Marine subseafloor sediment Targeted Locus (Loci)
+study_abstract	We propose to apply 454-based tag pyrosequencing to investigate how microbial communities change with depth, lithology, and porewater geochemistry in the sediment that underlies one of the highest productivity regions in the world ocean. To accomplish this goal, we propose to analyze extracted DNA from 16 samples taken in high resolution in conjunction with detailed porewater geochemistry. This dataset will provide an unprecedented insight into the microbial ecology of a highly productive open ocean site (35 cm/k.y) to a sediment depth of 750 m and an age of 2.1 Ma. We anticipate that through this use of next-generation sequencing technology in combination with biogeochemical and cell count data sets collected during IODP expedition 323, we will obtain significant insight into this previously uncharted ecosystem.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

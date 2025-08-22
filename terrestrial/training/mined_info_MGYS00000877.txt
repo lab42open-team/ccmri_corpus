@@ -1,0 +1,7 @@
+study_id	MGYS00000877
+study_name	Soil Metagenome after long-term green manure
+study_abstract	To study effect of long-term green manure
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

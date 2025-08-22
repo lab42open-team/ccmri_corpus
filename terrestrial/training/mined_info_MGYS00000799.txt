@@ -1,0 +1,7 @@
+study_id	MGYS00000799
+study_name	Agricultural field soil Metagenome
+study_abstract	To identify soil bacteria and fungal community assemblages associated with biodegradable mulch films. Samples collected from Knoxville, TN, Lubbock, TX, and Mount Vernon, WA.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

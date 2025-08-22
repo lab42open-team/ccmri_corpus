@@ -1,0 +1,7 @@
+study_id	MGYS00001443
+study_name	Comparison between samples obtained from Curua Una reservoir
+study_abstract	Three samples were collected from Curua Una reservoir to compare metagenomic features between samples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Low land river systems
+=========================================================================================
+=========================================================================================

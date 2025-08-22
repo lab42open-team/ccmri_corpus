@@ -1,0 +1,12 @@
+study_id	MGYS00002375
+study_name	Microbial diversity studies of Arabian Sea sediment
+study_abstract	Marine ecosystems are distinctive ecological niche, with a variety of microbes playing important roles in nutrient recycling and other ecological processes, thereby requiring a thorough exploration of their microflora. Similarly Arabian Sea sediments are hotspots for microbial diversity and therefore requires a detailed investigation. Bacterial diversity profiles of marine metagenome were brought to light by the present studies based on Illumina sequencing trageting the V3 regions of 16S rRNA gene, revealing the roles of different bacteria in nutrient cycling and organic matter degradation. The analysis also revealed the existence of many unknown sequences, indicating a large untapped bacterial diversity in these areas.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	31871968
+publication_nr_0_pubmed_abstract	This data is about the microbial community genome analysis of Arabian sea sediment by Illumina sequencing by targeting the hypervariable region V3 of 16S rRNA gene. The data analysis revealed the existence of numerous unknown sequences, indicating a large unexploited bacterial diversity in the area. The raw sequence data used for analysis is available in NCBI under the Sequence Read Archive (SRA) with the BioProject No. PRJNA397165 and SRA accession number SRP125840. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31871968
+publication_nr_0_title	Metagenomic data on bacterial diversity profiling of Arabian sea sediment by amplicon sequencing.
+publication_nr_0_publication_year	2020
+=========================================================================================

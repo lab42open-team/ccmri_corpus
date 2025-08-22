@@ -1,0 +1,12 @@
+study_id	MGYS00004304
+study_name	Hypersaline sapropels Targeted loci environmental
+study_abstract	The purpose of the present study was to describe and link the prokaryotic diversity in two disparate hypersaline sapropels (Transylvanian Basin, Central Romania), with nutrient and geochemical data in order to infer the role of the microbiome in their formation.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28733590
+publication_nr_0_pubmed_abstract	Present-day terrestrial analogue sites are crucial ground truth proxies for studying life in geochemical conditions close to those assumed to be present on early Earth or inferred to exist on other celestial bodies (e.g. Mars, Europa). Although hypersaline sapropels are border-of-life habitats with moderate occurrence, their microbiological and physicochemical characterization lags behind. Here, we study the diversity of life under low water activity by describing the prokaryotic communities from two disparate hypersaline sapropels (Transylvanian Basin, Romania) in relation to geochemical milieu and pore water chemistry, while inferring their role in carbon cycling by matching taxa to known taxon-specific biogeochemical functions. The polyphasic approach combined deep coverage SSU rRNA gene amplicon sequencing and bioinformatics with RT-qPCR and physicochemical investigations. We found that sapropels developed an analogous elemental milieu and harbored prokaryotes affiliated with fifty-nine phyla, among which the most abundant were Proteobacteria, Bacteroidetes and Chloroflexi. Containing thirty-two candidate divisions and possibly undocumented prokaryotic lineages, the hypersaline sapropels were found to accommodate one of the most diverse and novel ecosystems reported to date and may contribute to completing the phylogenetic branching of the tree of life. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28733590
+publication_nr_0_title	Hypersaline sapropels act as hotspots for microbial dark matter.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001711
+study_name	Marine eukaryote network revealed by high frequency temporal survey in the San Pedro Ocean Time-series station
+study_abstract	The short-term variability of microbial eukaryote assemblages were examined, from March to July, at surface water of the San Pedro Ocean Time-Series station (eastern North Pacific), by assessing the V4 region of the 18S rDNA with illumina Miseq.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

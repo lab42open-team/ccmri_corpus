@@ -1,0 +1,7 @@
+study_id	MGYS00004155
+study_name	Canada Basin Metagenome
+study_abstract	The Canada Basin is a deep oceanic basin within the Arctic Ocean. To investigate the bacterial diversity in seawater from the Canada Basin, water samples were collected from five stations in the Canada Basin during the 3rd Chinese Arctic Scientific Expedition in 2008. After pyrosequencing with a 454 Life Science GS-FLX sequencer, the V3 region of the 16S rRNA gene sequences were analyzed, the bacterial diversity of sea water from the Canada Basin was generally achieved.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

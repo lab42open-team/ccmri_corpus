@@ -1,0 +1,9 @@
+study_id	MGYS00004440
+study_name	soil metagenome Raw sequence reads
+study_abstract	Profiling of Contaminated Soils in a Typical Antimony Mining Site
+study_origination	HARVESTED
+associated_study_0	MGYS00004433
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+biome_info_1	root:Environmental:Terrestrial:Soil:Mine
+=========================================================================================
+=========================================================================================

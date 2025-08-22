@@ -1,0 +1,7 @@
+study_id	MGYS00002372
+study_name	UK coast natural seawater Genome sequencing
+study_abstract	the aim of the project is to determine the effect of plastics on marine bacterial community
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

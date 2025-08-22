@@ -1,0 +1,12 @@
+study_id	MGYS00004383
+study_name	Oxygen minimal zone Targeted loci environmental
+study_abstract	To study diversity of microbe community including bacteria, dizotrophs, and protist.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	28473720
+publication_nr_0_pubmed_abstract	Anthurium amnicola Dressler possesses a number of desirable and novel ornamental traits such as a purple-colored upright spathe, profuse flowering, and floral scent, some of which have been introgressed into modern Anthurium cultivars. As a first step in identifying genes associated with these traits, the transcriptome from root, leaf, spathe, and spadix from an accession of A. amnicola was assembled, resulting in 28,019 putative transcripts representing 19,458 unigenes. Genes involved in pigmentation, including those for the metabolism of chlorophyll and the biosynthesis of carotenoids, phenylpropanoids, and flavonoids were identified. The expression levels of one MYB transcription factor was highly correlated with naringenin 3-dioxygenase (F3H) and dihydroflavonol-4-reductase (DFR) in leaves, whereas a bHLH transcription factor was highly correlated with flavonoid 3'-monooxygenase (F3'H) and a DFR in spathes, suggesting that these two transcription factors might regulate flavonoid and anthocyanin synthesis in A. amnicola. Gene sequence and expression data from four major organs of A. amnicola provide novel basal information for understanding the genetic bases of ornamental traits and the determinants and evolution of form and function in the Araceae. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28473720
+publication_nr_0_title	Organ-specific transcriptome profiling of metabolic and pigment biosynthesis pathways in the floral ornamental progenitor species Anthurium amnicola Dressler.
+publication_nr_0_publication_year	2017
+=========================================================================================

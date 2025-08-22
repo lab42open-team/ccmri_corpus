@@ -1,0 +1,12 @@
+study_id	MGYS00003165
+study_name	the assembly of abundant and rare bacterioplankton subcommunities in three subtropical bays
+study_abstract	Contribution of selective and neutral processes to the assembly of abundant and rare bacterioplankton subcommunities
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+publication_nr_0_pubmed_id	29880912
+publication_nr_0_pubmed_abstract	Unraveling the relative importance of ecological processes regulating microbial community structure is a central goal in microbial ecology. Here, we used high-throughput sequencing to examine the relative contribution of selective and neutral processes in the assembly of abundant and rare subcommunities from three subtropical bays of China. We found that abundant and rare bacterial taxa were distinctly different in diversity, despite the similar biogeographic patterns and strong distance-decay relationships, but the dispersal of rare bacterial taxa was more limited than that of abundant taxa. Furthermore, the environmental (selective processes) and spatial (neutral processes) factors seemed to govern the assembly and biogeography of abundant and rare bacterial subcommunities, although both factors explained only a small fraction of variation within the rare subcommunity. More importantly, variation partitioning (based on adjusted R<sup>2</sup> in redundancy analysis) showed that spatial factors exhibited a slightly greater influence on both abundant and rare subcommunities compared to environmental selection; however, the abundant subcommunity had a much stronger response to spatial factors (17.3% of pure variance was explained) than that shown by the rare bacteria (3.5%). These results demonstrate that environmental selection and neutral processes explained the similar biogeographic patterns of abundant and rare subcommunities, but a large proportion of unexplained variation in the rare taxa (91.1%) implies that more complex assembly mechanisms may exist to shape the rare bacterial assemblages in the three subtropical bays. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29880912
+publication_nr_0_title	Biogeographic patterns of abundant and rare bacterioplankton in three subtropical bays resulting from selective and neutral processes.
+publication_nr_0_publication_year	2018
+=========================================================================================

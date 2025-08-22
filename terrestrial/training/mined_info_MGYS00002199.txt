@@ -1,0 +1,7 @@
+study_id	MGYS00002199
+study_name	Comparison of copper contaminated soils, with similar uncontaminated controls.
+study_abstract	Two sites of long-term copper polluted soil were sampled, along with nearby uncontaminated controls. All treatments were carried out and sampled in triplicate. A third site was samples at a copper mine, though the control site was of a dissimilar soil type and only single samples of each were taken.Marker taxa and gene functional groups will be identified between polluted and control soils.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002282
+study_name	Antarctic Snow Algae 2014/15 16S and 18S Illumina Seq of snow algae communities around Ryder Bay, Antarctica
+study_abstract	Antarctic Snow Algae 2014/15 16S and 18S Illumina Seq of snow algae communities around Ryder Bay, Antarctica. DNA extracted from green phase dominant and red phase dominant blooms on the snow surface. Field samples collected by Matt Davey (Univeristy of Cambridge, Department of Plant Sciences).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice
+=========================================================================================
+publication_nr_0_pubmed_id	30667072
+publication_nr_0_pubmed_abstract	Snow algae are found in snowfields across cold regions of the planet, forming highly visible red and green patches below and on the snow surface. In Antarctica, they contribute significantly to terrestrial net primary productivity due to the paucity of land plants, but our knowledge of these communities is limited. Here we provide the first description of the metabolic and species diversity of green and red snow algae communities from four locations in Ryder Bay (Adelaide Island, 68S), Antarctic Peninsula. During the 2015 austral summer season, we collected samples to measure the metabolic composition of snow algae communities and determined the species composition of these communities using metabarcoding. Green communities were protein-rich, had a high chlorophyll content and contained many metabolites associated with nitrogen and amino acid metabolism. Red communities had a higher carotenoid content and contained more metabolites associated with carbohydrate and fatty acid metabolism. Chloromonas, Chlamydomonas and Chlorella were found in green blooms but only Chloromonas was detected in red blooms. Both communities also contained bacteria, protists and fungi. These data show the complexity and variation within snow algae communities in Antarctica and provide initial insights into the contribution they make to ecosystem functioning. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30667072
+publication_nr_0_title	Snow algae communities in Antarctica: metabolic and taxonomic composition.
+publication_nr_0_publication_year	2019
+=========================================================================================

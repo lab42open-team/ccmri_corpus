@@ -1,0 +1,7 @@
+study_id	MGYS00000622
+study_name	Leaf litter and underneath soil Targeted Locus (Loci)
+study_abstract	Understanding the difference in bacterial community composition between leaf litter and underneath soil, and between tropical and temperate forests.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+=========================================================================================

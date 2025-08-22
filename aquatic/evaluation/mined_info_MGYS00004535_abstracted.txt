@@ -1,0 +1,12 @@
+study_id	MGYS00004535
+study_name	Microbial community in permeable intertidal sediment
+study_abstract	The microbial community in permeable intertidal sediment, Gloucester Point
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30687299
+publication_nr_0_pubmed_abstract	Subterranean estuaries (STEs) have been recognized as important ecosystems for the exchange of materials between the land and sea, but the microbial players of biogeochemical processes have not been well examined. In this study, we investigated the bacterial and archaeal communities within 10 cm depth intervals of a permeable sediment core (100 cm in length) collected from a STE located at Gloucester Point (GP-STE), VA, United States. High throughput sequencing of 16S rRNA genes and subsequent bioinformatics analyses were conducted to examine the composition, diversity, and potential functions of the sediment communities. The community composition varied significantly from the surface to a depth of 100 cm with up to 13,000 operational taxonomic units (OTUs) based on 97% sequence identities. More than 95% of the sequences consisted of bacterial OTUs, while the relative abundances of archaea, dominated by Crenarchaea, gradually increased with sediment core depth. Along the redox gradients of GP-STE, differential distribution of ammonia- and methane-oxidizing, denitrifying, and sulfate reducing bacteria was observed as well as methanogenic archaea based on predicted microbial functions. The aerobic-anaerobic transition zone (AATZ) had the highest diversity and abundance of microorganisms, matching with the predicted functional diversity. This indicates the AATZ as a hotspot of biogeochemical processes of STEs. The physical and geochemical gradients in different depths have attributed to vertical stratification of microbial community composition and function in the GP-STE. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30687299
+publication_nr_0_title	Vertical Stratification of Sediment Microbial Communities Along Geochemical Gradients of a Subterranean Estuary Located at the Gloucester Beach of Virginia, United States.
+publication_nr_0_publication_year	2018
+=========================================================================================

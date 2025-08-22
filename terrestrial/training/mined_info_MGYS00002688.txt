@@ -1,0 +1,8 @@
+study_id	MGYS00002688
+study_name	EMG produced TPA metagenomics assembly of the Acid sulfate soil microbial profile - pre-investigation (Acid sulfate soil microbial profile - pre-investigation) data set.
+study_abstract	The Acid sulfate soil microbial profile - pre-investigation Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJEB6384. This project includes samples from the following biomes: Environmental, Terrestrial, Soil.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000392
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

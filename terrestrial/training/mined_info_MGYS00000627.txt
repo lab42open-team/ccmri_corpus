@@ -1,0 +1,7 @@
+study_id	MGYS00000627
+study_name	Soil Carbon Content and Relative Abundance of High Affinity H2-Oxidizing Bacteria Predict Atmospheric H2 Soil Uptake Activity Better than Soil Microbial Community Composition
+study_abstract	We examined the microbial community structure based on ribotyping analysis as predictors for atmospheric H2 uptake rate in soil samples collected from different land-use types.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

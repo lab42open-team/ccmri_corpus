@@ -1,0 +1,7 @@
+study_id	MGYS00004125
+study_name	California Current System Long Term Ecological Research P1604 (CCS_LTER_P1604) Targeted loci environmental
+study_abstract	Using metabarcoding of 16S and 18S rRNA, we evaluate variability of prokaryotic and protistan communities in the water column and on particles collected in sediment traps across an inshore-offshore environmental gradient in the California Current System.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00004588
+study_name	Surface samples of the NW Pacific Ocean Targeted Locus (Loci)
+study_abstract	Diversity of DMS-producing dddP genes in the NW Pacific Ocean
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	25615446
+publication_nr_0_pubmed_abstract	Dimethyl sulfide (DMS) is a climatically active gas released into the atmosphere from oceans. It is produced mainly by bacterial enzymatic cleavage of dimethylsulfoniopropionate (DMSP), and six DMSP lyases have been identified to date. To determine the biogeographical distribution of bacteria relevant to DMS production, we investigated the diversity of dddP-the most abundant DMS-producing gene-in the northwestern Pacific Ocean using newly developed primers and the pyrosequencing method. Consistent with previous studies, the major dddP-containing bacteria in coastal areas were those belonging to the Roseobacter clade. However, genotypes closely related to the SAR116 group were found to represent a large portion of dddP-containing bacteria in the surface waters of the oligotrophic ocean. The addition of DMSP to a culture of the SAR116 strain Candidatus Puniceispirillum marinum IMCC1322 resulted in the production of DMS and upregulated expression of the dddP gene. Considering the large area of oligotrophic water and the wide distribution of the SAR116 group in oceans worldwide, we propose that these bacteria may play an important role in oceanic DMS production and biogeochemical sulfur cycles, especially via bacteria-mediated DMSP degradation. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25615446
+publication_nr_0_title	Pyrosequencing revealed SAR116 clade as dominant dddP-containing bacteria in oligotrophic NW Pacific Ocean.
+publication_nr_0_publication_year	2015
+=========================================================================================

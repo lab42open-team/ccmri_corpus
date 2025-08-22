@@ -1,0 +1,7 @@
+study_id	MGYS00000508
+study_name	Drain metagenome.
+study_abstract	Hair blocking drain was removed from a bathroom shower cubicle. Liquid surrounding the hair and hair were used for the total dna extraction.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Storm water:Drainage pipe biofilm
+=========================================================================================
+=========================================================================================

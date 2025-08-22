@@ -1,0 +1,7 @@
+study_id	MGYS00002110
+study_name	Metagenomic Analysis of soil microbial community of the western high land
+study_abstract	In this study soil was collected from the western high land of Saudi Arabia. The samples were analyzed using next generation sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

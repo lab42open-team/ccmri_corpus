@@ -1,0 +1,7 @@
+study_id	MGYS00002772
+study_name	Hydrate Ridge, OR - Deep sea cold seep ecosystem Targeted Locus (Loci)
+study_abstract	The goal of this study was to examine how various sources and scales of heterogeneity within a methane seep ecosystem off the coast of Oregon influenced microbial eukaryote community composition and diversity.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Cold seeps
+=========================================================================================
+=========================================================================================

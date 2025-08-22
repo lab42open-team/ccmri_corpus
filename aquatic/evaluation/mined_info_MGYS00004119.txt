@@ -1,0 +1,7 @@
+study_id	MGYS00004119
+study_name	Spatial variation of bacterioplankton in south Atlantic Bight
+study_abstract	The continental shelf ecosystem off the Georgia coast i.e., the South Atlantic Bight (SAB), is among the most productive marine environments that hosts many hard or live bottom areas and are homes to large number of phytoplankton, sponges, corals and many species of tropical and subtropical fishes. From the Georgia bank seaward, the coastal, shelf, slope and Gulf Stream waters represent a natural gradient of many environmental parameters, including decreased nutrients and increased salinity. Extensive efforts have surveyed the major macroorganisms in the region, however, little is known yet on the dynamics of bacteria, which are the major conduits in the energy and nutrient flow within the system. This study investigated the spatial and temporal dynamics of bacterioplankton community composition along transects from the coast bank of Georgia to Gulf Streams on the SAB.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

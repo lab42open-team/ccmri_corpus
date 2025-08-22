@@ -1,0 +1,7 @@
+study_id	MGYS00004324
+study_name	Temporal dynamics of bacterioplankton community in response to excessive nitrate loading in the oligotrophic coastal water
+study_abstract	Coastal ecosystems are receiving elevated inputs of nitrogen (N), primarily as nitrate, from anthropogenic sources. Bacterioplankton play important roles in marine N-cycle. Understanding how excessive N-loading affects marine bacterioplankton communities is critical for the insight into the biodiversity of marine ecosystems under the condition of eutrophic disturbance. In this study, the oligotrophic coastal water microcosms were perturbed with a certain nitrate level of 1.0 mg L-1 in two loading modes: 1) one-off loading (OL) with the level of 1.0 mg L-1 at the beginning; 2) periodic loading (PL) with the level of 0.125 mg L-1 every two days during 16 days.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

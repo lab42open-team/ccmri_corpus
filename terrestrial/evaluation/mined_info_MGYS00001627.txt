@@ -1,0 +1,7 @@
+study_id	MGYS00001627
+study_name	The effect of different loading rates of biochar on soil microbes
+study_abstract	Biochar and its applications in soil is involved in many aspects related to soil health and quality, for instance, chemical and physical changes in soil. However, the major aspect, which is still far from being understood and has so far received less attention than any other aspects, is the impact of biochar applications on soil microbes and how microorganisms in soil interact and adjust with biochar-modified soil environments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

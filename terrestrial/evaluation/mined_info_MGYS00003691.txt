@@ -1,0 +1,10 @@
+study_id	MGYS00003691
+study_name	Long Term Soil Productivity project
+study_abstract	The Long-Term Soil Productivity (LTSP) study was established to demonstrate how alteration of soil porosity and organic matter (two of the more alterable soil properties) would affect soil processes and site productivity throughout forest lands of North America. The experimental design is a 3 x 3 factorial with 3 levels of organic matter loss and 3 levels of soil compaction. The organic matter (OM) treatments include stem-only harvest, whole-tree harvest, and forest floor displacement to mineral soil. The compaction treatments include no compaction, light compaction (2 cm impression), and heavy compaction (4 cm impression). In BC, we have three replicate blocks in the Sub-Boreal Spruce (SBS) biogeoclimatic zone, three in the Boreal White and Black Spruce (BWBS) biogeoclimatic zone, three in the Interior Douglas-fir (IDF) biogeoclimatic zone on common, acidic forest soil, three in the IDF on sensitive calcareous soils, and two replicates have been installed in the Interior Cedar Hemlock (ICH) biogeoclimatic zone that complete an installation initiated by the USDA Forest Service in Idaho.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

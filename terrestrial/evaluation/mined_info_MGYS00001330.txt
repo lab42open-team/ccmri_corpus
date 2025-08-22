@@ -1,0 +1,7 @@
+study_id	MGYS00001330
+study_name	Soils collected from a petroleum hydrocarbon contaminated site in Greenland.
+study_abstract	Soils collected from a petroleum hydrocarbon contaminated site in Greenland.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004392
+study_name	Controls on microalgal community structures in cryoconite holes upon high Arctic glaciers, Svalbard
+study_abstract	Glaciers are known to harbor surprisingly complex ecosystems. On their surface, distinct cylindrical holes filled with meltwater and sediments are considered as hot spots for microbial life. The present project addresses possible biological interactions5 within the community of prokaryotic cyanobacteria and eukaryotic microalgae (microal- gae) and relations to their potential grazers, additional to their environmental controls.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+=========================================================================================

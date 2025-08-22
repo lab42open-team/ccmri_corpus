@@ -1,0 +1,10 @@
+study_id	MGYS00003780
+study_name	Catlin Arctic Survey 2010 L3
+study_abstract	The Catlin Arctic Surveys deployed an Explorer Team (years 2009, 2010, 2011) and Ice Base (years 2010, 2011), to examine sea ice thickness (addressing the rate of loss), and the phenomena of ocean acidification and thermohaline destabilisation (two key consequences of sea ice loss). The climate change-driven themes of the Catlin Arctic Surveys introduced each year (sea-ice loss, 2009, ocean acidification, 2010, thermohaline destabilisation, 2011) are inter-related, with potential global effects. These samples are from the 2010 expedition.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

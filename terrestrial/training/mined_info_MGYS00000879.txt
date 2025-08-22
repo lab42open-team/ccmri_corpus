@@ -1,0 +1,7 @@
+study_id	MGYS00000879
+study_name	Otumba arable soil Metagenome
+study_abstract	Soil microbial biomass has been determined since the mid 1970s by the chloroform fumigation incubation technique as proposed by Jenkinson and Powlson (1976). The microbial biomass C can be determined by subtracting the CO2 emitted from an unfumigated soil (mineralization of soil organic matter) from that emitted from a chloroform fumigated inoculated soil (mineralization of soil organic matter and killed soil microorganisms) and dividing the difference by a proportionality factor (kC 14 0.45). The question remained which microorganisms recolonized a fumigated soil. An arable soil was fumigated for one day with ethanol-free chloroform or left unfumigated and incubated aerobically after removal of the chloroform for 10 days. The bacterial population structures were determined in the fumigated and unfumigated soil after 0, 1, 5 and 10 days by means of 454 pyrosequencing of the 16S rRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

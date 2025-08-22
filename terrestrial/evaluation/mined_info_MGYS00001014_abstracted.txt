@@ -1,0 +1,12 @@
+study_id	MGYS00001014
+study_name	Iron plaque of paddy rice root Targeted Locus (Loci)
+study_abstract	To explore the divergence of microbial community structure among iron plaque, bulk soil and rihzosphere soil of paddy field
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	26324258
+publication_nr_0_pubmed_abstract	Iron plaque is a strong adsorbent on rice roots, acting as a barrier to prevent metal uptake by rice. However, the role of root iron plaque microbes in governing metal redox cycling and metal bioavailability is unknown. In this study, the microbial community structure on the iron plaque of rice roots from an arsenic-contaminated paddy soil was explored using high-throughput next-generation sequencing. The microbial composition and diversity of the root iron plaque were significantly different from those of the bulk and rhizosphere soils. Using the aoxB gene as an identifying marker, we determined that the arsenite-oxidizing microbiota on the iron plaque was dominated by Acidovorax and Hydrogenophaga-affiliated bacteria. More importantly, the abundance of arsenite-oxidizing bacteria (AsOB) on the root iron plaque was significantly negatively correlated with the arsenic concentration in the rice root, straw and grain, indicating that the microbes on the iron plaque, particularly the AsOB, were actively catalyzing arsenic transformation and greatly influencing metal uptake by rice. This exploratory research represents a preliminary examination of the microbial community structure of the root iron plaque formed under arsenic pollution and emphasizes the importance of the root iron plaque environment in arsenic biogeochemical cycling compared with the soil-rhizosphere biotope. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26324258
+publication_nr_0_title	The diversity and abundance of As(III) oxidizers on root iron plaque is critical for arsenic bioavailability to rice.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000365
+study_name	Functional metagenomic profiling of Tibetan Plateau soils affected by permafrost or seasonal freezing
+study_abstract	Approximately two thirds of the Tibetan Plateau is affected by permafrost and this area reacts particularly sensitively to possible effects of climate change. However, little is known about the functional potential of the microbial communities inhabiting this environment, which is of key importance to predict potential feedback effects, such as increased emissions of greenhouse gas. A metagenomic analysis was performed on soil profiles from two meadow sites on the Tibetan Plateau, either affected by permafrost (site Huashixia [HUA]) or seasonal freezing (Site Haibei Station [HAI]). The goal was to determine how respiratory and fermentative pathways varied with soil depth and across sites.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

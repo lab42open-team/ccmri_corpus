@@ -1,0 +1,7 @@
+study_id	MGYS00004561
+study_name	nifH gene in KH-11-10 and KH-13-7 cruises
+study_abstract	This study aims to describe diazotroph community structure in the euphotic zone in the western and eastern subtropical South Pacific
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002449
+study_name	Nuunat- ORMS formation during oil biodegradation at low temperature
+study_abstract	Biodegradation study of chemically dispersed oil and ORMS formation in cold local (5C) Norwegian seawater over 64 days incubation period containing natural microbial community and selected diatom population of Fragilariopsis cylindrus.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Oil-contaminated
+=========================================================================================
+=========================================================================================

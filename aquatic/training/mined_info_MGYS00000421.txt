@@ -1,0 +1,7 @@
+study_id	MGYS00000421
+study_name	Sao Paulo Zoo Lake Study
+study_abstract	Sao Paulo Zoo Lake Study
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

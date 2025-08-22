@@ -1,0 +1,7 @@
+study_id	MGYS00000674
+study_name	Microbial Saltern Metagenome HighSalternSDbayMicD0704
+study_abstract	Microbial community collected July 1, 2004, from a 'high' salinity saltern (32.599040, -117.107356). A water sample from the solar saltern of South Bay Salt Works (Chula Vista, CA) was collected in July 2004 from a ponds with high salinity (28-30%), as measured using a hand refractometer. The microbial fraction was isolated from the water sample by passage through a 0.2 mkm tangential flow filter (TFF, Millipore). The retentate was kept and the microbial fraction was collected from the 0.2 mkm TFF retentate by centrifugation at ~ 2000 xg for 10 min. Microbial DNA was extracted using the Ultra Clean Soil DNA Kit (Mo Bio Laboratories, CA). The microbial DNA samples was amplified using the strand-displacement 29 DNA polymerase (GenomiPhi Amersham Biosciences, NJ). The resulting metagenomic DNA was pyrosequenced on the GS20 sequencer (454 Life Sciences, CT). The raw metagenomic sequences were screened to remove duplicate sequences. The metagenome was named HighSalternSDbayMicD200407 and submitted to NCBI.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Salt crystallizer pond
+=========================================================================================
+=========================================================================================

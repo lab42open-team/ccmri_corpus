@@ -1,0 +1,12 @@
+study_id	MGYS00004240
+study_name	Narragansett Bay, RI Sediments Targeted Locus (Loci)
+study_abstract	Goals were to investigate microbial community of sediment samples with acetylene and without
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26029177
+publication_nr_0_pubmed_abstract	Here we examined the impact of a commonly employed method used to measure nitrogen fixation, the acetylene reduction assay (ARA), on a marine sediment community. Historically, the ARA technique has been broadly employed for its ease of use, in spite of numerous known artifacts. To gauge the severity of these effects in a natural environment, we employed high-throughput 16S rRNA gene sequencing to detect differences in acetylene-treated sediments vs. non-treated control sediments after a 7 h incubation. Within this short time period, significant differences were seen across all activity of microbes identified in the sediment, implying that the changes induced by acetylene occur quickly. The results have important implications for our understanding of marine nitrogen budgets. Moreover, because the ARA technique has been widely used in terrestrial and freshwater habitats, these results may be applicable to other ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26029177
+publication_nr_0_title	Examining the impact of acetylene on N-fixation and the active sediment microbial community.
+publication_nr_0_publication_year	2015
+=========================================================================================

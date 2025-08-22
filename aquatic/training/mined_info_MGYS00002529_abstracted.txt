@@ -1,0 +1,12 @@
+study_id	MGYS00002529
+study_name	Dark ocean microbial diversity
+study_abstract	The goal of the study is to assess the diversity of bacteria and archaea in the water masses of the open ocean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	26914787
+publication_nr_0_pubmed_abstract	To decipher the influence of depth stratification and surface provincialism on the dark ocean prokaryotic community composition, we sampled the major deep-water masses in the eastern North Atlantic covering three biogeographic provinces. Their diversity was evaluated using ordination and canonical analysis of 454 pyrotag sequences. Variance partitioning suggested that 16% of the variation in the bacterial community composition was based on depth stratification while 9% of the variation was due to geographic location. General linear mixed effect models showed that the community of the subsurface waters was connected to the dark ocean prokaryotic communities in different biogeographic provinces. Cluster analysis indicated that some prokaryotic taxa are specific to distinct regions in bathypelagic water masses. Taken together, our data suggest that the dark ocean prokaryotic community composition of the eastern North Atlantic is primed by the formation and the horizontal transport of water masses. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26914787
+publication_nr_0_title	Connectivity between surface and deep waters determines prokaryotic diversity in the North Atlantic Deep Water.
+publication_nr_0_publication_year	2016
+=========================================================================================

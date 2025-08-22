@@ -1,0 +1,7 @@
+study_id	MGYS00000780
+study_name	Wuliangsuhai wetland soil ,Wuliangsuhai sediment ,Wuliangsuhai farmland soil Targeted Locus (Loci)
+study_abstract	Bacteria are important drivers for biogeochemical cycles in freshwater aquatic environments, particularly nutrient-rich eutrophic lakes. Sediments from Lake Wuliangsuhai and soils from Wuliangsuhai wetland were surveyed to characterize the structure and diversity of its microbial communities using barcoded pyrosequencing based on the 16s rDNA. Investigations of sediment and soil bacterial communities were believed to be able to obtain a better understanding of aquatic and wetland ecosystems. The results of this research identified the relationships they share with their environment; and provide new insights into and add valuable reference for the bacterial communities in eutrophic lakes and wetlands
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

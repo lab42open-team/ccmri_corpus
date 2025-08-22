@@ -1,0 +1,12 @@
+study_id	MGYS00002591
+study_name	Spirulina necromass degradartion in arctic marine sediments
+study_abstract	Reveal the identity and population dynamics of responders to spirulina and acetate amendments to arctic marine sediments.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30051650
+publication_nr_0_pubmed_abstract	Seafloor microorganisms impact global carbon cycling by mineralizing vast quantities of organic matter (OM) from pelagic primary production, which is predicted to increase in the Arctic because of diminishing sea ice cover. We studied microbial interspecies-carbon-flow during anaerobic OM degradation in arctic marine sediment using stable isotope probing. We supplemented sediment incubations with <sup>13</sup> C-labeled cyanobacterial necromass (spirulina), mimicking fresh OM input, or acetate, an important OM degradation intermediate and monitored sulfate reduction rates and concentrations of volatile fatty acids (VFAs) during substrate degradation. Sequential 16S rRNA gene and transcript amplicon sequencing and fluorescence in situ hybridization combined with Raman microspectroscopy revealed that only few bacterial species were the main degraders of <sup>13</sup> C-spirulina necromass. Psychrilyobacter, Psychromonas, Marinifilum, Colwellia, Marinilabiaceae and Clostridiales species were likely involved in the primary hydrolysis and fermentation of spirulina. VFAs, mainly acetate, produced from spirulina degradation were mineralized by sulfate-reducing bacteria and an Arcobacter species. Cellular activity of Desulfobacteraceae and Desulfobulbaceae species during acetoclastic sulfate reduction was largely decoupled from relative 16S rRNA gene abundance shifts. Our findings provide new insights into the identities and physiological constraints that determine the population dynamics of key microorganisms during complex OM degradation in arctic marine sediments.(C) 2018 Society for Applied Microbiology and John Wiley &amp; Sons Ltd. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30051650
+publication_nr_0_title	Bacterial interactions during sequential degradation of cyanobacterial necromass in a sulfidic arctic marine sediment.
+publication_nr_0_publication_year	2018
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001593
+study_name	Microbiota, microbiome, and virome of an aquaculture sample
+study_abstract	This study aims to characterize the microbial ecology of a water sample collected from a salmonid aquaculture plant.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Aquaculture
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002603
+study_name	Diet analysis of Japanese sardine and Pacific round herring larvae
+study_abstract	A successful feeding on preferred prey is important for survival of fish larvae; however, it is difficult to obtain high taxonomic resolutions from damaged gut contents by morphological classification. In this study, <10 mm early post-larvae of Japanese sardine (Sardinops melanostictus) and Pacific round herring (Etrumeus teres) were collected in Tosa Bay (Japan) during their major spawning period. Their diet and environmental plankton communities were investigated using metagenetic analysis of 18S V9 region.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

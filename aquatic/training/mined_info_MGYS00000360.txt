@@ -1,0 +1,8 @@
+study_id	MGYS00000360
+study_name	Metagenomes and metatranscriptomes from the diffuse hydrothermal vents of Axial Seamount, 2011-2012
+study_abstract	This projects explores the functional diversity and activity of rocky subseafloor microbial communities in hydrothermal vent systems. Samples were collected in 2011 and 2012 from a number of low temperature diffuse fluid vents at Axial seamount, located in the northeast Pacific Ocean. Shotgun metagenomics and metatranscriptomics were performed on four diffuse vent samples. Previous work at this site determined the taxonomic structure and distribution of microbial communities in venting fluids, but the contribution and mechanisms of the different redox driven metabolisms and the impact these reactions have on vent chemical signatures have not been fully characterized. This study helps to determine the genetic potential and expression patterns of the largely uncharacterized subseafloor microbial community and shows how these patterns change across the complicated biogeochemical gradients of hydrothermal vent systems. 
+study_origination	SUBMITTED
+associated_study_0	MGYS00002010
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents:Sediment
+=========================================================================================
+=========================================================================================

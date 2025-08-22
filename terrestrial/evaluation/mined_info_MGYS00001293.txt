@@ -1,0 +1,7 @@
+study_id	MGYS00001293
+study_name	Biological soil crusts, Southern Spain
+study_abstract	Biological soil crusts play vital roles in dryland regions that cover over 35% of the Earth´s land mass, including 24% of Europe. They provide important ecosystem services such as limitation of soil erosion, retention of water, improving soil fertility and nitrogen and carbon fixation.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

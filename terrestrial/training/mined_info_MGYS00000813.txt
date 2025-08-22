@@ -1,0 +1,7 @@
+study_id	MGYS00000813
+study_name	Bacterial community composition of divergent soil habitats in a polar desert Metagenome
+study_abstract	A 16S rDNA sequencing approach was used to examine the differences in diversity and community composition between three divergent soil habitats of the McMurdo Dry Valleys, Antarctica.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Desert
+=========================================================================================
+=========================================================================================

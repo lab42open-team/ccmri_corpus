@@ -1,0 +1,7 @@
+study_id	MGYS00002784
+study_name	Limited influence of primary treated sewage waters on bacterial abundance, production and community composition in coastal seawaters
+study_abstract	The response of bacteria in terms of abundance, production and community structure to changes induced by the discharge of primary treated sewage waters was investigated combining microbiological, chemical and molecular tools. The primary treatment did not affect substantially the bacterial community structure in wastewaters and did not reduce the concentrations of fecal indicators. The spatial distribution of the sewage plume was governed by vertical stratification and currents. Bacterial abundance and production in the sea receiving waste waters depended predominantly on environmental conditions. In the waters with the highest concentration of fecal pollution indicators the bacterial community was characterized by allochthonous bacteria belonging to Epsilonproteobacteria, Firmicutes, Gammaproteobacteria and Bacteroidetes. The latter two taxa were also present in unpolluted waters but had a different structure, typical for oligotrophic environments. Although the impact of primary treated sewage waters was limited, a sanitary risk persisted due to the relevant presence of potentially pathogenic bacteria.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

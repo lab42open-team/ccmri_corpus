@@ -1,0 +1,10 @@
+study_id	MGYS00003863
+study_name	Rio de Janeiro Coastline
+study_abstract	Although Brazil is well known for the great biodiversity within its flora and fauna, the microbial diversity has been poorly characterized. The geographic formation of Rio de Janeiro results in a combination of distinct environments near the coastal Atlantic Ocean, such as Atlantic rain forest, restingas, estuaries, bay areas, hypersaline lagoons and freshwater lakes. All together make the surrounding areas of Rio de Janeiro coastline a microbial diversity hotspot. These tropical regions are of enormous interest since they are considered an important source of novel and unique microorganisms for bioremediation and for biotechnological industries. However, the adjacent areas present either a deficient sewage treatment or/and a busy industrial park that can severely impact the environment. Therefore, the aim of this study is to characterize the microbial community and the functional diversity from pristine and contaminated aquatic environments from Rio de Janeiro coastline. Studying the microbial and functional distributions associated with environmental data, we will be able to identify the effect of environmental factors on the microbial community. This information will be useful to preserve the natural conditions of these tropical areas.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

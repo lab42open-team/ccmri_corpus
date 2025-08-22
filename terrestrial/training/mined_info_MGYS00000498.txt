@@ -1,0 +1,7 @@
+study_id	MGYS00000498
+study_name	This a study of how variability of the soil environment affects the soil microbial function and diversity
+study_abstract	This study has a total of 183 samples from 4 time points and 3 paired pasture and woodland sites. We have obtained continuous measurements of soil moisture and temperature for the study period and we sequenced the soil metagenome by Illumina Hiseq.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

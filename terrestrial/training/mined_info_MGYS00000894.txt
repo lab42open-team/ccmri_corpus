@@ -1,0 +1,10 @@
+study_id	MGYS00000894
+study_name	Fungal ITS2 amlicons Targeted Locus (Loci)
+study_abstract	In this project we have used high throughput 454-pyrosequencing of ITS2 amplicons to analyse fungal communities in humus and litter from 26 old-growth boreal forests in central Sweden. The sites represent a gradient in nitrogen availability and pH, as well as different vegetation types with respect to dominant tree (Pinus sylvestris, Picea abies) and understory species.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+=========================================================================================

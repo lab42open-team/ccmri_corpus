@@ -1,0 +1,7 @@
+study_id	MGYS00002428
+study_name	Microbial populations of Lascauxs Apse in relation to collembola and black stains on cave walls.
+study_abstract	In the Apse of Lascaux Cave (France), microorganisms present on and in arthropods were identified using the 16S rRNA genes specific for bacteria and the second internal transcribed spacer (ITS2) specific for fungi.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Deep subsurface
+=========================================================================================
+=========================================================================================

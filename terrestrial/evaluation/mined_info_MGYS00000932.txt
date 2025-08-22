@@ -1,0 +1,7 @@
+study_id	MGYS00000932
+study_name	A study of microflora of plant growth substrate
+study_abstract	The study focuses possibilities of manipulations of microflora of artificial plant growth substrates in order to optimalize and unify their microbiological properties
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

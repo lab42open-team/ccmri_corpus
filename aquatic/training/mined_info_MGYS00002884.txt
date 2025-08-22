@@ -1,0 +1,7 @@
+study_id	MGYS00002884
+study_name	marine sediment metagenome Targeted loci environmental
+study_abstract	Compare the bacterial communities of hydrothermal deposits and other deep-sea sediments in Okinawa Trough
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Hydrothermal vents:Sediment
+=========================================================================================
+=========================================================================================

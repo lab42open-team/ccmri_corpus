@@ -1,0 +1,12 @@
+study_id	MGYS00004370
+study_name	Enhanced pyrene and benzo[a]pyrene degradation by plant root and SMFC
+study_abstract	Toward Understanding Complex Interaction between Roots of Macrophyte Sweet Flag Acorus calamus and Anode of Microbial Fuel Cell for Pyrene and Benzo[a]pyrene Degradation in Freshwater Sediments
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26023748
+publication_nr_0_pubmed_abstract	This study investigated the interaction of the macrophyte Acorus calamus and sediment microbial fuel cells (SMFC) during the degradation of high molecular weight-polycyclic aromatic hydrocarbons (HMW-PAHs) in sediments. Over 367-days, the combination of macrophyte and SMFC led to an increase in pyrene and benzo[a]pyrene degradation rates by at least 70% compared to SMFC or macrophyte alone. While either the macrophyte or SMFC increased redox potential in sediments, redox potentials near the anode (approximately 6 cm depth) in the macrophyte-SMFC combination were markedly lower than that in the only macrophyte treatment. Moreover, rhizospheric bacterial communities in macrophyte-SMFC and macrophyte treatments were distinctly different. Aerobic genera (Vogesella, Pseudomonas, Flavobacterium and Rhizobium) and anaerobic genera (Longilinea, Bellilinea, Desulfobacca and Anaeromyxobacter) became dominant in the rhizosphere in macrophyte and macrophyte-SMFC treatments, respectively. In addition, the macrophyte-SMFC combination improved the numbers of not only aerobic but anaerobic PAHs degraders in sediments. So, the SMFC employment facilitated the formation of anoxic zones in sediments with oxygen loss and exudates from the roots. As a result, cooperation of anaerobic/aerobic microbial metabolism for accelerating HMW-PAHs removal occurred within sediments after combining macrophytes with SMFC. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26023748
+publication_nr_0_title	Complex Interactions Between the Macrophyte Acorus Calamus and Microbial Fuel Cells During Pyrene and Benzo[a]Pyrene Degradation in Sediments.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00005622
+study_name	The environmental soil 16S rRNA amplicon
+study_abstract	The environmental soil 16S rRNA amplicon data
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	29806176
+publication_nr_0_pubmed_abstract	As a preliminary investigation for the development of microbial-enhanced oil recovery strategies for high-temperature oil reservoirs (~70 to 90C), we have investigated the indigenous microbial community compositions of produced waters from five different high-temperature oil reservoirs near Segno, Texas, U.S. (~80 to 85C) and Crossfield, Alberta, Canada (~75C). The DNA extracted from these low-biomass-produced water samples were analysed with MiSeq amplicon sequencing of partial 16S rRNA genes. These sequences were analysed along with additional sequence data sets available from existing databases. Despite the geographical distance and difference in the physicochemical properties, the microbial compositions of the Segno and Crossfield produced waters exhibited unexpectedly high similarity, as indicated by the results of beta diversity analyses. The major operational taxonomic units included acetoclastic and hydrogenotrophic methanogens (Methanosaetaceae, Methanobacterium and Methanoculleus), as well as bacteria belonging to the families Clostridiaceae and Thermotogaceae, which have been recognized to include thermophilic, thermotolerant, and/or spore-forming subtaxa. The sequence data retrieved from the databases exhibited different clustering patterns, as the communities from close geographical locations invariably had low beta diversity and the physicochemical properties and conditions of the reservoirs apparently did not have a substantial role in shaping of microbial communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29806176
+publication_nr_0_title	Microbial community analyses of produced waters from high-temperature oil reservoirs reveal unexpected similarity between geographically distant oil reservoirs.
+publication_nr_0_publication_year	2018
+=========================================================================================

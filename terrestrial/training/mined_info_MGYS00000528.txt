@@ -1,0 +1,7 @@
+study_id	MGYS00000528
+study_name	Soil metagenome.
+study_abstract	SoilB soil sample was collected on a rough grass terrain with the trees nearby in Danesbury Park in Hertforshire, UK.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

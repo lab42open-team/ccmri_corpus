@@ -1,0 +1,7 @@
+study_id	MGYS00005097
+study_name	Shrimp aquaculture
+study_abstract	Shrimp aquaculture metagenome
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Aquaculture
+=========================================================================================
+=========================================================================================

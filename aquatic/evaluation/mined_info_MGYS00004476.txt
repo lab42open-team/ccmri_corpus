@@ -1,0 +1,7 @@
+study_id	MGYS00004476
+study_name	Archaea microbial communities structure in the sediment and downarea soil of the Fengshuba Reservoir in the Guangdong Provinve, South China
+study_abstract	Archaea microbial communities structure in the sediment and downarea soil of the Fengshuba Reservoir in the Guangdong Provinve, South China
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

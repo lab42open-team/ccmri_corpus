@@ -1,0 +1,7 @@
+study_id	MGYS00005149
+study_name	aquifer metagenome raw sequence reads
+study_abstract	Microbial communities from subsurface basaltic aquifers in C sequestration operations
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

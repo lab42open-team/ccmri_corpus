@@ -1,0 +1,7 @@
+study_id	MGYS00004212
+study_name	Foraminifera Metagenome
+study_abstract	Spatial patchiness is a natural feature that strongly influences the level of species richness we perceive in surface sediments sampled in the deep-sea. Recent environmental DNA (eDNA) surveys of benthic micro- and meiofauna confirmed this exceptional richness. However, it is unknown to which extent the results of these studies, based usually on few grams of sediment, are affected by spatial patchiness of deep-sea benthos. Here, we analyse the eDNA diversity of Foraminifera in 42 deep-sea sediment samples collected across different scales in the Southern Ocean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

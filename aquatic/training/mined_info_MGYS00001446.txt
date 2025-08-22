@@ -1,0 +1,7 @@
+study_id	MGYS00001446
+study_name	Citrate may stimulate the anaerobic hydrocarbon degraders in the groundwater
+study_abstract	Citrate addition can increase phosphorus and hydrocarbon bioavailability to enhance hydrocarbon bioremediation, but the overall microbial community response is poorly understood. In order to elucidate the potential mechanisms of citrate addition for hydrocarbon biostimulation, the structure and function of microbial communities were investigated in a gasoline-contaminated site in calcareous cold region soil.There are three treatments (no amendment, phosphate amendment, phosphate and citrate amendment) for the biostimulation deliveries. DNA was extracted from Tenax beads incubated in two infiltrators for different biostimulation treatments. 16S metagenomics sequencing library was constructed with primers 926F and 1392R and was sequenced on an Illumina Miseq sequencer.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Contaminated
+=========================================================================================
+=========================================================================================

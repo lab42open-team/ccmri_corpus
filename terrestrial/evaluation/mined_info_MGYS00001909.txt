@@ -1,0 +1,7 @@
+study_id	MGYS00001909
+study_name	Metagenomic study on pasturelands chronically exposed to pesticides
+study_abstract	Metagenomic study on pasturelands chronically exposed to pesticides
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

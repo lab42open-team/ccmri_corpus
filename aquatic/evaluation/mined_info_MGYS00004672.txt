@@ -1,0 +1,9 @@
+study_id	MGYS00004672
+study_name	Zooplankton microbiome of the Amazon River Plume and western trophic North Atlantic
+study_abstract	The goal of this study was to investigate if mesozooplankton grazers in the Amazon River plume-influenced western trophic North Atlantic directly grazed upon diazotrophic organisms.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Host-associated:Arthropoda
+biome_info_2	root:Host-associated:Fish
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00002043
+study_name	EMG produced TPA metagenomics assembly of the Molecular study on haloarchaea producing industerially important enzymes (Molecular study on Haloarchaea) data set
+study_abstract	The Molecular study on Haloarchaea Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB18746. This project includes samples from the following biomes : Aquatic.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001378
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline
+=========================================================================================
+=========================================================================================

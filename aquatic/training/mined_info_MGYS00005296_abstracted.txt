@@ -1,0 +1,12 @@
+study_id	MGYS00005296
+study_name	Metagenomic analysis of lake sediment.
+study_abstract	Shotgun sequencing of lake sediments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	35614182
+publication_nr_0_pubmed_abstract	Lake sediments not only store the long-term ecological information including pollen and microfossils but are also a source of sedimentary DNA (sedDNA). Here, by the combination of traditional multi-proxy paleolimnological methods with the whole-metagenome shotgun-sequencing of sedDNA we were able to paint a comprehensive picture of the fluctuations in trophy and bacterial diversity and metabolism of a small temperate lake in response to hemp retting, across the past 2000 years. Hemp retting (HR), a key step in hemp fibre production, was historically carried out in freshwater reservoirs and had a negative impact on the lake ecosystems. In Lake Slone, we identified two HR events, during the late stage of the Roman and Early Medieval periods and correlated these to the increased trophy and imbalanced lake microbiome. The metagenomic analyses showed a higher abundance of Chloroflexi, Planctomycetes and Bacteroidetes and a functional shift towards anaerobic metabolism, including degradation of complex biopolymers such as pectin and cellulose, during HR episodes. The lake eutrophication during HR was linked to the allochthonous, rather than autochthonous carbon supply-hemp straws. We also showed that the identification of HR based on the palynological analysis of hemp pollen may be inconclusive and we suggest the employment of the fibre count analysis as an additional and independent proxy. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/35614182
+publication_nr_0_title	Lake microbiome and trophy fluctuations of the ancient hemp rettery.
+publication_nr_0_publication_year	2022
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000801
+study_name	Soil from rural backyards Targeted Locus (Loci)
+study_abstract	In the State of Yucatan, Mexico, there are a number of rural houses where the sewage daily produced by laundry and general washing has for decades been disposed directly on the soil of the backyards. This wastewater contains not only a mixture of several detergents, mainly in powder, but occasionally also bleach, soap, hot water, and even food scraps. It is to be expected that this exert a selective pressure when present in soils, bringing about modifications in the structure of the edaphic bacterial communities. In the present work, bacterial community structures of three samples from detergent-contaminated soils and three from non-contaminated soils were assessed by 16S rRNA pyrosequencing. The results may contribute to better understand how selective pressure imposed by this anthropogenic contamination can modify soil bacterial communities, to plan possible remediation procedures, and to find out how to use the metagenomes of contaminated environments in the search for biotechnological products.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

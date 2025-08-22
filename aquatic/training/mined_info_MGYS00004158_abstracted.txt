@@ -1,0 +1,12 @@
+study_id	MGYS00004158
+study_name	16S rRNA genes Random survey
+study_abstract	Sequencing of 16S genes from fractions of 15N and 13C SIP experiments
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	25063662
+publication_nr_0_pubmed_abstract	How Arctic climate change might translate into alterations of biogeochemical cycles of carbon (C) and nitrogen (N) with respect to inorganic and organic N utilization is not well understood. This study combined 15N uptake rate measurements for ammonium, nitrate, and urea with 15N- and 13C-based DNA stable-isotope probing (SIP). The objective was to identify active bacterial and archeal plankton and their role in N and C uptake during the Arctic summer and winter seasons. We hypothesized that bacteria and archaea would successfully compete for nitrate and urea during the Arctic winter but not during the summer, when phytoplankton dominate the uptake of these nitrogen sources. Samples were collected at a coastal station near Barrow, AK, during August and January. During both seasons, ammonium uptake rates were greater than those for nitrate or urea, and nitrate uptake rates remained lower than those for ammonium or urea. SIP experiments indicated a strong seasonal shift of bacterial and archaeal N utilization from ammonium during the summer to urea during the winter but did not support a similar seasonal pattern of nitrate utilization. Analysis of 16S rRNA gene sequences obtained from each SIP fraction implicated marine group I Crenarchaeota (MGIC) as well as Betaproteobacteria, Firmicutes, SAR11, and SAR324 in N uptake from urea during the winter. Similarly, 13C SIP data suggested dark carbon fixation for MGIC, as well as for several proteobacterial lineages and the Firmicutes. These data are consistent with urea-fueled nitrification by polar archaea and bacteria, which may be advantageous under dark conditions. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25063662
+publication_nr_0_title	Urea uptake and carbon fixation by marine pelagic bacteria and archaea during the Arctic summer and winter seasons.
+publication_nr_0_publication_year	2014
+=========================================================================================

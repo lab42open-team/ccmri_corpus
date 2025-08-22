@@ -1,0 +1,7 @@
+study_id	MGYS00004208
+study_name	1)sediments; 2) coral floc Metagenome
+study_abstract	Deep-sea sediments and coral flocculant material (floc) collected from a coral community impacted by the Deepwater Horizon (DWH) oil spill were examined to determine the diversity of microbes and the presence of oil-degrading genes
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

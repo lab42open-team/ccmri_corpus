@@ -1,0 +1,7 @@
+study_id	MGYS00005650
+study_name	Metagenomic and metatranscriptomic analysis of the microbial community in drinking water distribution systems of ground and surface waterworks in Finland
+study_abstract	The water microbiome in the drinking water distribution systems (DWDSs) of five waterworks in Finland with different raw water sources and treatment processes was explored. The sampled DWDSs were from two waterworks AB with non-disinfected, recharged groundwater as source water and from three waterworks utilizing chlorinated water (two DWDSs of surface waterworks CD and one of ground waterworks E). The water microbiome was characterized by Illumina high-throughput sequencing technology.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+=========================================================================================
+=========================================================================================

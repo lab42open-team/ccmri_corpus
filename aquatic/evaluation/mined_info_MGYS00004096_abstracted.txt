@@ -1,0 +1,12 @@
+study_id	MGYS00004096
+study_name	Metazoan sequencing
+study_abstract	The present study provides a new data on the diversity of nematodes communities in sub-marine canyon.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30083476
+publication_nr_0_pubmed_abstract	In submarine canyon sediments, bacteria and nematodes dominate the benthic biomass and play a key role in nutrient cycling and energy transfer. The diversity of these communities remains, however, poorly studied. This work aims at describing the composition of bacteria and nematode communities in the Lacaze-Duthiers submarine canyon in the north-western Mediterranean Sea. We targeted three sediment depths for two consecutive years and investigated the communities using nuclear markers (18S rRNA and 16S rRNA genes). High throughput sequencing combined to maximal information coefficient (MIC) statistical analysis allowed us to identify, for the first time, at the same small scale, the community structures and the co-occurrence of nematodes and bacteria Operational Taxonomic Units across the sediment cores. The associations detected by MIC revealed marked patterns of co-occurrences between the bacteria and nematodes in the sediment of the canyon and could be linked to the ecological requirements of individual bacteria and nematodes. For the bacterial community, <i>Delta</i>- and <i>Gammaproteobacteria</i> sequences were the most abundant, as seen in some canyons earlier, although <i>Acidobacteria</i>, <i>Actinobacteria</i> and <i>Planctomycetes</i> have been prevalent in other canyon sediments. The 20 identified nematode genera included bacteria feeders as <i>Terschellingia</i>, <i>Eubostrichus</i>, <i>Geomonhystera</i>, <i>Desmoscolex</i> and <i>Leptolaimus.</i> The present study provides new data on the diversity of bacterial and nematodes communities in the Lacaze-Duthiers canyon and further highlights the importance of small-scale sampling for an accurate vision of deep-sea communities. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30083476
+publication_nr_0_title	Co-occurring nematodes and bacteria in submarine canyon sediments.
+publication_nr_0_publication_year	2018
+=========================================================================================

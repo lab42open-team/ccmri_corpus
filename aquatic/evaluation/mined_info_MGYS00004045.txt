@@ -1,0 +1,7 @@
+study_id	MGYS00004045
+study_name	Marine metagenome ICM_WBS
+study_abstract	Pyrosequencing as a paleometagenomical tool offers a window into Holocene plankton, littoral fauna, and terrestrial vegetation in the Black Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

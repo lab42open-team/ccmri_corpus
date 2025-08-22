@@ -1,0 +1,8 @@
+study_id	MGYS00005422
+study_name	NRC/UOttawa - Peace Athabasca Delta Raw sequence reads
+study_abstract	Metagenomic analysis of the hydrocarbon degradation potential of microbial communities in lakes of the Peace-Athabasca Delta, AB, Canada in relation to petroleum hydrocarbons
+study_origination	HARVESTED
+associated_study_0	MGYS00005421
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

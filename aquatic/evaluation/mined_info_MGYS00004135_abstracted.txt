@@ -1,0 +1,12 @@
+study_id	MGYS00004135
+study_name	May 2013 DNA-SIP marine seawater bacteria metagenomic assembly
+study_abstract	Illumina bacteria and archaea 16S rRNA genes
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	28326069
+publication_nr_0_pubmed_abstract	Proteins and peptides are key components of the labile dissolved organic matter pool in marine environments. Knowing which types of bacteria metabolize peptides can inform the factors that govern peptide decomposition and further carbon and nitrogen remineralization in marine environments. A <sup>13</sup>C-labeled tetrapeptide, alanine-valine-phenylalanine-alanine (AVFA), was added to both surface (normoxic) and bottom (hypoxic) seawater from a coastal station in the northern Gulf of Mexico for a 2-day incubation experiment, and bacteria that incorporated the peptide were identified using DNA stable isotope probing (SIP). The decomposition rate of AVFA in the bottom hypoxic seawater (0.018-0.035 myM h<sup>-1</sup>) was twice as fast as that in the surface normoxic seawater (0.011-0.017 myM h<sup>-1</sup>). SIP experiments indicated that incorporation of <sup>13</sup>C was highest among the Flavobacteria, Sphingobacteria, Alphaproteobacteria, Acidimicrobiia, Verrucomicrobiae, Cyanobacteria, and Actinobacteria in surface waters. In contrast, highest <sup>13</sup>C-enrichment was mainly observed in several Alphaproteobacteria (<i>Thalassococcus, Rhodobacteraceae, Ruegeria</i>) and Gammaproteobacteria genera (<i>Colwellia, Balneatrix, Thalassomonas</i>) in the bottom water. These data suggest that a more diverse group of both oligotrophic and copiotrophic bacteria may be involved in metabolizing labile organic matter such as peptides in normoxic coastal waters, and several copiotrophic genera belonging to Alphaproteobacteria and Gammaproteobacteria and known to be widely distributed may contribute to faster peptide decomposition in the hypoxic waters. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28326069
+publication_nr_0_title	Different Bacterial Communities Involved in Peptide Decomposition between Normoxic and Hypoxic Coastal Waters.
+publication_nr_0_publication_year	2017
+=========================================================================================

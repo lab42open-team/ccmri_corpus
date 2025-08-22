@@ -1,0 +1,12 @@
+study_id	MGYS00000383
+study_name	Lonar Lake sediment Metagenome
+study_abstract	Understanding the relevance of bacterial and archaeal diversity in the soda lake sediments by the culture independent approach using bTEFAP. Lonar Lake is a saline soda lake located at Lonar in Buldana district, Maharashtra State, India, which was created by a meteor impact.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26484168
+publication_nr_0_pubmed_abstract	Bacterial diversity and archaeal diversity in metagenome of the Lonar soda lake sediment were assessed by bacterial tag-encoded FLX amplicon pyrosequencing (bTEFAP). Metagenome comprised 5093 sequences with 2,531,282 bp and 53 +/- 2% G + C content. Metagenome sequence data are available at NCBI under the Bioproject database with accession no. PRJNA218849. Metagenome sequence represented the presence of 83.1% bacterial and 10.5% archaeal origin. A total of 14 different bacteria demonstrating 57 species were recorded with dominating species like Coxiella burnetii (17%), Fibrobacter intestinalis (12%) and Candidatus Cloacamonas acidaminovorans (11%). Occurrence of two archaeal phyla representing 24 species, among them Methanosaeta harundinacea (35%), Methanoculleus chikugoensis (12%) and Methanolinea tarda (11%) were dominating species. Significant presence of 11% sequences as an unclassified indicated the possibilities for unknown novel prokaryotes from the metagenome. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26484168
+publication_nr_0_title	Bacterial tag encoded FLX titanium amplicon pyrosequencing (bTEFAP) based assessment of prokaryotic diversity in metagenome of Lonar soda lake, India.
+publication_nr_0_publication_year	2015
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00002518
+study_name	Marine planktonic ciliates: SSU rDNA
+study_abstract	Diversity and biogeography of marine planktonic ciliates in the NW Atlanctic Ocean
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	26849313
+publication_nr_0_pubmed_abstract	Our knowledge on microbial biogeography depends on the way we define and study diversity. In contrast to most microbes, some protist lineages have conspicuous structures that allow comparisons of diversity concepts and measures-those based on molecules and those based on morphology. We analyzed a group of shell-bearing planktonic ciliates, the tintinnids, in a coast-to-ocean gradient using high-throughput sequencing and microscopy. First, we compared molecular operational taxonomic units (OTUs) and morphospecies in terms of assemblage composition, distribution and relationships with the environment. OTUs revealed potentially novel and rare taxa, while morphospecies showed clearer correlations with environmental factors, and both approaches coincided in supporting a coastal versus oceanic pattern. Second, we explored which processes influence assembly across the environmental gradient examined. Assemblage fluctuations were associated with significant distance-decay and changes in morphospecies size and prey proxies, thus suggesting niche partitioning as a key structuring mechanism. Our conclusion is that molecules and morphologies generally agreed, but they provided complementary data, the first revealing hidden diversity, and the latter making better connections between distribution patterns and ecological processes. This highlights the importance of linking genotypes and phenotypes (using multidisciplinary analyses and/or reliable databases of barcoded species), to understand the diversity, biogeography and ecological roles of microbes. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26849313
+publication_nr_0_title	Patterns and processes in microbial biogeography: do molecules and morphologies give the same answers?
+publication_nr_0_publication_year	2016
+=========================================================================================

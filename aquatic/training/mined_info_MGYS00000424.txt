@@ -1,0 +1,8 @@
+study_id	MGYS00000424
+study_name	Metagenomic analysis of the Binga Hot Springs in Zimbabwe for Microbial Diversity and Hydrolytic Enzymes
+study_abstract	Hot springs are an important source novel thermostable industrial enzymes. This study is seeks to use bioinformatics to analyze the metagenome derived from the Binga Hotsprings in Zimbabwe. The analysis will focus on microbial diversity and function prediction of genes encoding Novel hydrolases of industrial importance
+study_origination	SUBMITTED
+associated_study_0	MGYS00003601
+biome_info_0	root:Environmental:Aquatic:Thermal springs
+=========================================================================================
+=========================================================================================

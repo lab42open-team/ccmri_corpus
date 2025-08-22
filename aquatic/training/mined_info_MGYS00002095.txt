@@ -1,0 +1,7 @@
+study_id	MGYS00002095
+study_name	River Ganges Microbiome Project
+study_abstract	River Ganges Water and Soil Community Structure
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004500
+study_name	Metagenomics of Jacarepagua Lagoon
+study_abstract	The Jacarepagua lagoon is a coastal shallow water body in the Rio de Janeiro city (Brazil) historically contaminated by Microcystins ("MCs" - toxin produced by cyanobacteria with carcinogenic potential for mammals). These molecules are stable and resistant to variation in some physical and chemical factors (i.e. temperature, pH) and some common proteases. Besides, many studies have evidenced the process of bioaccumulation of MCs in different organisms, its adsorption to sediment particles and also its biodegradation by microorganisms from the environment. Previously, we evaluated the removal of MC from water by microorganism assemblages and biodegradation process was observed in the sediment as well as in the interstitial water. Furthermore, we analysed the microbial community through sequencing 16S rDNA by Illumina and showed the differences between these two microbiomes. Moreover, major identified phyla were Chloroflexi, Proteobacteria, Firmicutes, OP3 and the identified OTUs several genera described as MC-degraders were detected
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

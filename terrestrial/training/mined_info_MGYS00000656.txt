@@ -1,0 +1,7 @@
+study_id	MGYS00000656
+study_name	Metagenome from Pru Toh Daeng Peat Swamp
+study_abstract	Metagenome samples were collected from the Pru Toh Daeng peat swamp forest in Narathiwat province, Southern Thailand, in 2007. <p> Community genomic DNA was extracted from the surface peat soil. Sequencing was carried out by 454 Life Sciences on the Genome Sequencer (GS) FLX System. The aim of this study is to get a snapshot of the microbial community and obtain sequences encoding an interesting enzyme. <p> Data submitted to the Short Read Archive (SRA) is available from the Project Data button.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

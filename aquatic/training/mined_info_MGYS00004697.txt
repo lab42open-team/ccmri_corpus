@@ -1,0 +1,8 @@
+study_id	MGYS00004697
+study_name	Natural seawater bacterial community in exopolysaccharides utilization
+study_abstract	We report the microbial EPS degradation in incubation experiments with seawater from estuarine and open ocean sites (surface and deep water), shifts in microbial community structure during the incubation were investigated. Microbial genomic DNA was extracted from the polycarbonate membranes (microbial cells filtered) and the 16S rRNA gene sequences were amplified by PCR. To understand the changes in the bacterial community structure during the early stage of the incubations, we classified the OTUs based on their phylogenetic affiliations and determined their relative proportions on the total number of sequencing reads.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+biome_info_1	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

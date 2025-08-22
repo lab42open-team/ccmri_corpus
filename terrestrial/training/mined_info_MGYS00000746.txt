@@ -1,0 +1,7 @@
+study_id	MGYS00000746
+study_name	Soil community for preservation Metagenome
+study_abstract	Soil was stored at three temperatures over two weeks to determine the most appropriate method for preserving the soil microbiome. Soil was collected from the mineral soil surface to a depth of ~6 inches underneath a native riparian California bay tree at California Polytechnic State University (N 35 18'' 46.59'''', W 120 39'' 7.26''''). There was substantial organic matter buildup in this soil, but it is serpentinite in nature with low calcium and high magnesium content.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

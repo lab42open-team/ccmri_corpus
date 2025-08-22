@@ -1,0 +1,7 @@
+study_id	MGYS00000903
+study_name	soil metagenome Targeted Locus (Loci)
+study_abstract	Nitrous oxide reductase sequences obtained by targeted amplification of the nosZ gene from arable soils in field sites throughout Europe.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

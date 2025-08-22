@@ -1,0 +1,11 @@
+study_id	MGYS00005787
+study_name	EMG produced TPA metagenomics assembly of PRJEB4419 data set (Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for small DNA viruses.).
+study_abstract	The Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB4419, and was assembled with metaSPAdes v3.14.1. This project includes samples from the following biomes: root:Environmental:Aquatic:Marine:Oceanic,root:Environmental:Aquatic:Marine.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001918
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

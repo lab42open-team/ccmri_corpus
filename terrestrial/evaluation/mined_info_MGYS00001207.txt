@@ -1,0 +1,7 @@
+study_id	MGYS00001207
+study_name	Metagenomic samples from soil
+study_abstract	Soil consist of wide range of microbes that can be applied for various processes. This study aims to do meta-genomics analysis of the given soil sample.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

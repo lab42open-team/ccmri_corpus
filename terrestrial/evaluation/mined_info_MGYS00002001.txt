@@ -1,0 +1,7 @@
+study_id	MGYS00002001
+study_name	Desert Fairy Circles
+study_abstract	The formation of fairy circles, circular patches without vegetation in the center but with perennial grasses at the margin, is investigated.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

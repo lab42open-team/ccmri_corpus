@@ -1,0 +1,12 @@
+study_id	MGYS00004312
+study_name	Appliaction of metagenomic technique for isolation of microbes from mangroves for potential use in biofertilization and bioremediation
+study_abstract	The sequences submitted are the fingal ITS metagenomic. The mangrove ecosystem of Goa forms a very important bio-repository. Therefore, the ITS metagenomic DNA sequences obtained from Goa coastline will help to develop a gross idea about the fungal community members present in the mangrove sediments of North and South Goa. This is the first report of fungal metagenomic sequences for Mandovi &amp; Zuari mangrove ecosystem obtained through illumina Miseq platform.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30997301
+publication_nr_0_pubmed_abstract	The fungal composition, abundance and diversity of the mangrove sediments from the Mandovi and Zuari estuaries, Goa, using paired-end Illumina sequencing, hitherto unexplored by a metagenomic approach, indicated that though the types of fungal phyla were similar between the two sediments, the abundance of the species was significantly different between them (<i>p</i> value &lt; 0.005). Basidiomycota and Ascomycota were the two major phyla which were sub-divided into eighteen classes, families, orders, genera and species and one unassigned group in both the sediments. The top five classes observed were <i>Agaricomycetes</i>, <i>Sordariomycetes</i>, <i>Saccharomycetes</i>, <i>Dothideomycetes</i> and <i>Eurotiomycetes</i> from both the sediments. The diversity analysis based on the observed fungal species richness (Chao 1 for Mandovi were 614 and 714.7 while for Zuari were 665 and 771.2) revealed that Zuari sediment was taxonomically rich, indicating these to be potent candidates for bioremediation and a rich repository for biotechnologically important fungi. This is a first report on diversity of fungi from mangrove sediments of Goa using metagenomic studies. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30997301
+publication_nr_0_title	Diversity of fungi from mangrove sediments of Goa, India, obtained by metagenomic analysis using Illumina sequencing.
+publication_nr_0_publication_year	2019
+=========================================================================================

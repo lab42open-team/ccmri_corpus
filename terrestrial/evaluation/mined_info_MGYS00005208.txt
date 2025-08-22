@@ -1,0 +1,7 @@
+study_id	MGYS00005208
+study_name	Compost microbe establishment and growth in agricultural soils
+study_abstract	Compost application to soil has numerous agricultural benefits, but mechanistic understanding of benefits beyond fertility and organic matter gains particularly those mediated by microbes such as disease suppression is limited. Narrowing this uncertainty requires understanding which types of compost microbes will establish in agricultural soils, which types of soils will support compost microbes, and how soil microbial diversity may change following compost application. We tested the ability of plant invasion and diversity theories to address these questions. From a row crop experiment to which management treatments had been applied for 22 years, soil was collected from three systems representing different resource inputs: no input (low resource), conventional (moderate resource), and organic (high resource) systems. Live composted poultry manure was added to laboratory microcosms of these soils, and bacterial and archaeal communities were tracked using 16S rRNA sequencing of pre-invasion soils, pre-invasion compost, and the combined communities at 4 and 32 days post-invasion.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

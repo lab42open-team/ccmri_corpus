@@ -1,0 +1,8 @@
+study_id	MGYS00005654
+study_name	Microbial communities in two hot springs sediments derived from the Kamchatka peninsula
+study_abstract	
+study_origination	HARVESTED
+associated_study_0	MGYS00005653
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

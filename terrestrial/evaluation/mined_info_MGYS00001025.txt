@@ -1,0 +1,7 @@
+study_id	MGYS00001025
+study_name	The Greater Khingan Mountains Metagenome
+study_abstract	To investigate post-fire changes in soil AMF community structure and diversity. Our work was aimed at studying the short- and long-term response of the AMF communities, so sampling was performed at sites were fires had burned 1 or 11 years prior and compared to nearby unburned control sites. To achieve the purpose, we want to evaluate (i) how soil AMF communities respond to short- and long-term effect of wildfire, and (ii) which factors affect AMF communities and whether there are thresholds for factors driving AMF communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

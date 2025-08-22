@@ -1,0 +1,8 @@
+study_id	MGYS00001935
+study_name	EMOSE (2017) Inter-Comparison of Marine Plankton Metagenome Analysis Methods
+study_abstract	This study includes experiments from the following five sequencing strategies: 1) Shotgun DNA sequencing; 2) Amplicon sequencing after 18S amplification by PCR using 1391F/EukB primer set. Library were constructed according to Illumina Library protocol without any sizing; 3) Amplicon sequencing after 16S amplification by PCR using 515F/926R primer set. Library were constructed according to Illumina Library protocol without any sizing; 4) Amplicon sequencing after 16S amplification by PCR using 515F/926R primer set. Library were constructed according to Illumina Library protocol with a sizing step selecting the 450-650 bp fragments; and 5) Amplicon sequencing after 16S amplification by PCR using 515F/926R primer set. Library were constructed according to Illumina Library protocol with a sizing step selecting the 650-850 bp fragments.
+study_origination	SUBMITTED
+associated_study_0	MGYS00003954
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

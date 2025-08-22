@@ -1,0 +1,12 @@
+study_id	MGYS00000650
+study_name	Effects of NaCl concentrations on anode microbes in microbial fuel cells
+study_abstract	The study investigated that single-chamber microbial fuel cells were inoculated with paddy-field soil and continuously supplied with acetate media containing different concentrations of NaCl (0 M, 0.05 M, 0.1 M, 0.3 M, 0.6 M and 1.8 M).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	26061773
+publication_nr_0_pubmed_abstract	Understanding of how operational parameters affect the composition of exoelectrogenic microbes is an important step in the development of efficient microbial fuel cells (MFCs). In the present study, single-chamber MFCs were inoculated with rice paddy-field soil and continuously supplied with an acetate medium containing different concentrations of NaCl (0-1.8 M). Polarization analyses showed that power output increased as the NaCl concentration increased to 0.1 M, while it was markedly diminished over 0.3 M. The increase in power output was associated with an increased abundance of anode microbes as assessed by protein assays. Notably, the power increase was also accompanied by an increase in the abundance ratio of Geobacter bacteria to total anode bacteria as assessed by pyrosequencing of 16S rRNA gene amplicons and specific quantitative PCR. Although most Geobacter species are known to exhibit high growth rates in freshwater media without NaCl, the present study shows that 0.1 M NaCl facilitates the growth of Geobacter in MFC anode biofilms. This result suggests that the optimum salt concentration in MFC is determined by the balance of two factors, namely, the solution conductivity and salt tolerance of exoelectrogens. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26061773
+publication_nr_0_title	Effects of NaCl concentration on anode microbes in microbial fuel cells.
+publication_nr_0_publication_year	2015
+=========================================================================================

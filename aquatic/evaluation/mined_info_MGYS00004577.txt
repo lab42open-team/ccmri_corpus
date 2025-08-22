@@ -1,0 +1,7 @@
+study_id	MGYS00004577
+study_name	Bacterial and fungal diversity in Ashumet Pond, MA (USA), and prevalence of manganese-oxidizing isolates
+study_abstract	Distinct black manganese oxide mineral coatings have long been observed on a portion of the shores of Ashumet Pond, a freshwater pond impacted by heavily contaminated groundwater emanating from a nearby decommissioned wastewater treatment facility. The goal of this study is to identify the microbial communities contributing to the biogeochemical cycling of Mn, and thus to the remediation of metals and organics in this environment.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

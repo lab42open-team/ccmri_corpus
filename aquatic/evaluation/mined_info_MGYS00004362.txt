@@ -1,0 +1,7 @@
+study_id	MGYS00004362
+study_name	Hot springs Metagenome
+study_abstract	Investigation of microbial diversity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00004487
+study_name	Coral Spawn Degradation, Bocas del Toro, Panama - Raw sequence reads
+study_abstract	The goal of this study was to identify bacterial communities that were labeled with a thymidine analog, bromodeoxyuridine, for investigating active bacterial communities during a coral mass-spawn degradation study off coastal Panama.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+publication_nr_0_pubmed_id	29884827
+publication_nr_0_pubmed_abstract	Coral reef ecosystems are highly sensitive to microbial activities that result from dissolved organic matter (DOM) enrichment of their surrounding seawater. However, the response to particulate organic matter (POM) enrichment is less studied. In a microcosm experiment, we tested the response of bacterioplankton to a pulse of POM from the mass-spawning of Orbicella franksi coral off the Caribbean coast of Panama. Particulate organic carbon (POC), a proxy measurement for POM, increased by 40-fold in seawater samples collected during spawning; 68% degraded within 66 h. The elevation of multiple hydrolases presumably solubilized the spawn-derived POM into DOM. A carbon budget constructed for the 275 myM of degraded POC showed negligible change to the concentration of dissolved organic carbon (DOC), indicating that the DOM was readily utilized. Fourier transform ion cyclotron resonance mass spectrometry shows that the DOM pool became enriched with heteroatom-containing molecules, a trend that suggests microbial alteration of organic matter. Our sensitivity analysis demonstrates that bacterial carbon demand could have accounted for a large proportion of the POC degradation. Further, using bromodeoxyuridine immunocapture in combination with 454 pyrosequencing of the 16S ribosomal RNA gene, we surmise that actively growing bacterial groups were the primary degraders. We conclude that coral gametes are highly labile to bacteria and that such large capacity for bacterial degradation and alteration of organic matter has implications for coral reef health and coastal marine biogeochemistry. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29884827
+publication_nr_0_title	Bacterioplankton drawdown of coral mass-spawned organic matter.
+publication_nr_0_publication_year	2018
+=========================================================================================

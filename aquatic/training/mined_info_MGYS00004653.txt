@@ -1,0 +1,7 @@
+study_id	MGYS00004653
+study_name	Denitrification bacteria in sediment cores of Daya Bay, China
+study_abstract	nirS gene
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

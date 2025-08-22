@@ -1,0 +1,12 @@
+study_id	MGYS00004466
+study_name	sediment metagenome Raw sequence reads
+study_abstract	It was used to reflect the microbial community diversity for the sediment samples collected from the Yellow River Estuary.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28754970
+publication_nr_0_pubmed_abstract	Dissimilatory nitrate reduction to ammonium (DNRA) is an important nitrate reduction process in estuarine sediments. This study reports the first investigation of DNRA in the Yellow River Estuary located in Eastern Shandong, China. Saltwater intrusion could affect the physicochemical characteristics and change the microbial community structure of sediments. In this study, the activity, abundance and community diversity of DNRA bacteria were investigated during saltwater intrusion. The slurry incubation experiments combined with isotope-tracing techniques and qPCR results showed that DNRA rates and nrfA (the functional gene of DNRA bacteria) gene abundance varied over wide ranges across different sites. DNRA rates had a positive and significant correlation with sediment organic content and extractable NH<sub>4</sub><sup>+</sup>, while DNRA rates were weakly correlated with nrfA gene abundance. In comparison, the activities and abundance of DNRA bacteria did not change with a trend along salinity gradient. Pyrosequencing analysis of nrfA gene indicated that delta-proteobacteria was the most abundant at all sites, while epsilon-proteobacteria was hardly found. This study reveals that variability in the activities and community structure of DNRA bacteria is largely driven by changes in environmental factors and provides new insights into the characteristics of DNRA communities in estuarine ecosystems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28754970
+publication_nr_0_title	Dissimilatory Nitrate Reduction to Ammonium in the Yellow River Estuary: Rates, Abundance, and Community Diversity.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004379
+study_name	Pond sediments Metagenome
+study_abstract	Diversity of Bacterial and Archaeal 16S rRNA genes in sediment samples collected from biological stabilization ponds across different latitudes of China
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Pond:Sediment
+=========================================================================================
+=========================================================================================

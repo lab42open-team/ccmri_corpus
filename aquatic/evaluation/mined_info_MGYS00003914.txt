@@ -1,0 +1,10 @@
+study_id	MGYS00003914
+study_name	Mission Bay Sediment Viromes
+study_abstract	Mission Bay Sediment Viromes
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

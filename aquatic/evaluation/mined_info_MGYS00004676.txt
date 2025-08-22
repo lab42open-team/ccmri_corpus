@@ -1,0 +1,9 @@
+study_id	MGYS00004676
+study_name	uncultured prokaryote Metagenome
+study_abstract	In the present study, microbial communities ofsponges, Sediments and Seawater inhabitingcoral reef ecosystems were investigated usingbarcoded pyrosequencing of 16S rRNA geneamplicons. Our main goals were to compare thebacterial and archaeal richness and composition ofsponge species, sediment and seawaterinhabiting coral reef systems. FLX 454 titanium pyrosequencing study.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Environmental:Aquatic:Marine:Sediment
+biome_info_2	root:Host-associated:Porifera
+=========================================================================================
+=========================================================================================

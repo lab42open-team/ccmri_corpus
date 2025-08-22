@@ -1,0 +1,7 @@
+study_id	MGYS00003006
+study_name	A study on microbial functional groups producing a climate related gas in the ocean
+study_abstract	Dimethylsulfoniopropionate (DMSP), the precursor of dimethyl sulfide (DMS), is mainly produced by marine phytoplankton, and is one of the most important sulfur and carbon sources for marine bacteria. To reveal the abundance and distribution of bacterial DMSP-degrading genes and the corresponding bacterial communities in relation to DMS and DMSP concentrations in seawater, we performed deep sequencing of environmental DNA obtained from DMS hotspot samples in the Pacific Ocean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

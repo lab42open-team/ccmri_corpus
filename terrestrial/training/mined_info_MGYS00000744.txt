@@ -1,0 +1,7 @@
+study_id	MGYS00000744
+study_name	Arable soils under rice-wheat cropping system
+study_abstract	Fertilization is a common practice to improve plant nutrient and increase crop production, but it can also affect soil bacterial communities. In addition, soil microbial communities are dynamics in seasonal changes. Therefore, this study focuses on the responses of bacterial communities in arable soils under rice-wheat cropping system to different fertilizer regimes and sampling time.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

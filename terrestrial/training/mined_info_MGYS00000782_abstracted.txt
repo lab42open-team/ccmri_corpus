@@ -1,0 +1,12 @@
+study_id	MGYS00000782
+study_name	Big Brown Mine Targeted Locus (Loci)
+study_abstract	16S rRNA short reads from soil DNA sampled in 2009 at Texas, USA
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	27901123
+publication_nr_0_pubmed_abstract	Bacterial diversity is an important parameter for measuring bacterial contributions to the global ecosystem. However, even the task of describing bacterial diversity is challenging due to biological and technological difficulties. One of the challenges in bacterial diversity estimation is the appropriate measure of rare taxa, but the uncertainty of the size of rare biosphere is yet to be experimentally determined. One approach is using the generalized diversity, Hill number (N<sub>a</sub>), to control the variability associated with rare taxa by differentially weighing them. Here, we investigated Hill number as a framework for microbial diversity measure using a taxa-accmulation curve (TAC) with soil bacterial community data from two distinct studies by 454 pyrosequencing. The reliable biodiversity estimation was obtained when an increase in Hill number arose as the coverage became stable in TACs for a >= 1. In silico analysis also indicated that a certain level of sampling depth was desirable for reliable biodiversity estimation. Thus, in order to attain bacterial diversity from second generation sequencing, Hill number can be a good diversity framework with given sequencing depth, that is, until technology is further advanced and able to overcome the under- and random-sampling issues of the current sequencing approaches. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27901123
+publication_nr_0_title	Hill number as a bacterial diversity measure framework with high-throughput sequence data.
+publication_nr_0_publication_year	2016
+=========================================================================================

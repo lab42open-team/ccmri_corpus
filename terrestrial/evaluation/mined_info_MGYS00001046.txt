@@ -1,0 +1,7 @@
+study_id	MGYS00001046
+study_name	Czech Republic Norway Spruce soil fungal hyphae Metagenome
+study_abstract	We investigated fungal hyphal ingrowth and community composition in buried meshbags (3, 5, 15, 25 cm depths), amended with apatite, biotite or hornblende (1%), in a series of Norway spruce forests with different nutrient status (varying in K, P, and Mg). We assayed the fungal colonization of mineral amended mesh bags by measuring the ergosterol and performed fungal community analysis with 454 sequencing of the ITS region (ITS1f-ITS4). Bioinformatic analysis was conducted on extracted sequences from the ITS2 region.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Boreal forest
+=========================================================================================
+=========================================================================================

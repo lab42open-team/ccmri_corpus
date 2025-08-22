@@ -1,0 +1,7 @@
+study_id	MGYS00002448
+study_name	Biological rejuvenation of iron oxides in bioturbated marine sediments
+study_abstract	This project seeked to understand the distribution of iron-oxidizing Zetaproteobacteria in coastal marine sediments, which could allude to their importance to the Fe cycle in these systems.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+=========================================================================================

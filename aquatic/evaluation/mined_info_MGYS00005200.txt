@@ -1,0 +1,7 @@
+study_id	MGYS00005200
+study_name	Metabarcoding surveys of the Arctic marine environment
+study_abstract	This is a collection of samples taken for metabarcoding of environmental samples following the Earth Microbiome Project protocol.For bacteria and archaea, we used the following primer set published by Apprill et al. (doi:10.3354/ame01753)515F GTGCCAGCMGCCGCGGTAA806RB GGACTACNVGGGTWTCTAATFor Eukaryotes, we used the following primer set published by Stoeck et al. (doi:10.1111/j.1365-294X.2009.04480.x)TAReuk454FWD1 CCAGCASCYGCGGTAATTCCTAReukREV3_modified ACTTTCGTTCTTGATYRATGA
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

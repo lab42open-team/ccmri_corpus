@@ -1,0 +1,7 @@
+study_id	MGYS00001508
+study_name	Evaluating the diversity and activity of marine archaea via 16S rRNA gene and transcript sequencing
+study_abstract	This study evaluates the diversity and activity of marine archaea via 16S rRNA gene and transcript sequencing. This method is complementary to evaluation of the activity of these organisms by evaluating the differential uptake of isotope labeled bicarbonate and amino acids with nano-scale secondary ion mass spectrometry and isotope ratio mass spectrometry.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

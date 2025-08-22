@@ -1,0 +1,8 @@
+study_id	MGYS00005982
+study_name	Metagenomic analysis of microorganisms from Movile Cave - Romania
+study_abstract	Samples were collected from Movile Cave (Romania) for metagenomic analysis to study microorganisms forming benthic or floating microbial mats. Emphasis was made to assemble the full genome of a Thiovulum sp. dominating veil-like structures close to the surface of a hypoxic air bell known as Air Bell 2.
+study_origination	HARVESTED
+associated_study_0	MGYS00005981
+biome_info_0	root:Environmental:Aquatic:Thermal springs
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00005054
+study_name	Indian_sediments
+study_abstract	Shotgun metagenomics - sediments contaminated by pharmaceutical discharges. This project contains 11 samples (paired-end 101 bp metagenomic libraries) and sequenced on Illumina HiSeq2000 platform. The raw sequence data of read 1 and read 2 (paired-end) from each metagenome has been uploaded individually.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

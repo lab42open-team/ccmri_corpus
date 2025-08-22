@@ -1,0 +1,7 @@
+study_id	MGYS00004355
+study_name	Uranium reducing microbial consortia, under alkaline conditions relevent to geological disposal
+study_abstract	Uranium reducing microbial consortia, under alkaline conditions relevent to geological disposal, assessed by 16S rRNA gene pyrosequencing
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+=========================================================================================

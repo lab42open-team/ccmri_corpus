@@ -1,0 +1,7 @@
+study_id	MGYS00002948
+study_name	Diversity of bacterioneuston and bacterioplankton in coastal waters of Misaki, Japan
+study_abstract	Deep sequencing of environmental DNA from surface microlayer obtained using polycarbonate membrane (depth= 33 micrometer), glass plate (depth=42 micrometer) and drum sampler (depth=35 micrometer). The bacterial communities obtained using these three surface microlayer samplers were compared to control underlying water obtained from the depth of 20 cm.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

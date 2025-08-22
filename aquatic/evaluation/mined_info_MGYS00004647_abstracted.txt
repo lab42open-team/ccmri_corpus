@@ -1,0 +1,12 @@
+study_id	MGYS00004647
+study_name	Hangzhou-sediment-sample Raw sequence reads
+study_abstract	This is the result of amplicon sequencing of multiple microbial functional genes in sediment samples
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	31372463
+publication_nr_0_pubmed_abstract	This work included the primer design details of Quantitative Microbial Elemental Cycling (QMEC) method, a high-throughput qPCR method for microbial carbon (C), nitrogen (N), phosphorus (P), sulfur (S) and methane metabolism potential detection and assessment. We designed 36 novel primers based on their amino acid sequences. Via illumina sequencing technology, their phylogenetic taxonomy was identified and analyzed to validate the primer specificity. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31372463
+publication_nr_0_title	Data on Quantitative Microbial Elemental Cycling (QMEC) primer design and validation.
+publication_nr_0_publication_year	2019
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00005493
+study_name	Microbial community structure of sediment microbiome in the pelagic zone of Gulf of Khambhat, Gujarat, India.
+study_abstract	The pelagic sediment microbiota was assessed in the three sections of the sampled core (1m) from four locations of the Gulf of Khambhat and one location from the open sea (Arabian Sea).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

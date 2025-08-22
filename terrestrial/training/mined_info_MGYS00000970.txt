@@ -1,0 +1,7 @@
+study_id	MGYS00000970
+study_name	Rice field soils bacterial 16S rRNA genes raw sequence reads
+study_abstract	Detect the response of bacterial and archaeal community in rice field soils to rice straw addition under methanogenic conditions
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

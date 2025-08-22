@@ -1,0 +1,10 @@
+study_id	MGYS00003920
+study_name	Panama Precip Grad Soil
+study_abstract	The effect of precipitation in structuring soil microbial communities has not been extensively explored in lowland tropical rain forests. Across the Isthmus of Panama, there is a precipitation gradient ranging from 1600 mm MAP to less than 3000 mm MAP with several other biotic and abiotic factors found to co-vary with MAP. The Smithsonian Tropical Research Institute has established more than 40 plots (1 ha each) in which all trees 10cm dbh have been identified to species and mapped.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

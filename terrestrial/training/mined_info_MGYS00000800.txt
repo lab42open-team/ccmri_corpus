@@ -1,0 +1,7 @@
+study_id	MGYS00000800
+study_name	Contaminated Beach - Tabasco State, Mexico Targeted Locus (Loci)
+study_abstract	To introduce options for oil spills remediation by obtaining diesel degrading consortia. Environmental samples taken from oil contaminated soil located on the coast of Tabasco State in Mexico.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

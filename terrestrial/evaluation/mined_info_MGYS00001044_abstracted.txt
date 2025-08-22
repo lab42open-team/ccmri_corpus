@@ -1,0 +1,12 @@
+study_id	MGYS00001044
+study_name	Soil Metagenome
+study_abstract	Analyze the soil bacterial communities along elevation gradients of southwestern highlands
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	25888310
+publication_nr_0_pubmed_abstract	Saudi Arabia is mostly barren except the southwestern highlands that are susceptible to environmental changes, a hotspot for biodiversity, but poorly studied for microbial diversity and composition. In this study, 454-pyrosequencing of 16S rRNA gene hypervariable region V6 was used to analyze soil bacterial community along elevation gradients of the southwestern highlands. In general, lower percentage of total soil organic matter (SOM) and nitrogen were detected in the analyzed soil samples. Total 33 different phyla were identified across the samples, including dominant phyla Proteobacteria, Actinobacteria and Acidobacteria. Representative OTUs were grouped into 329 and 508 different taxa at family and genus level taxonomic classification, respectively. The identified OTUs unique to each sample were very low irrespective of the altitude. Jackknifed principal coordinates analysis (PCoA) revealed, overall differences in the bacterial community were more related to the quantity of specific OTUs than to their diversity among the studied samples. Bacterial diversity and soil physicochemical properties did not show consistent changes along the elevation gradients. The large number of OTUs shared between the studied samples suggest the presence of a core soil bacterial community in the southwestern highlands of Saudi Arabia. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25888310
+publication_nr_0_title	Composition of soil microbiome along elevation gradients in southwestern highlands of Saudi Arabia.
+publication_nr_0_publication_year	2015
+=========================================================================================

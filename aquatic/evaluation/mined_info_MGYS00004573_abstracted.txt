@@ -1,0 +1,12 @@
+study_id	MGYS00004573
+study_name	Bacteria community in the southern East China Sea
+study_abstract	Bacterial community analysis in the southern East China Sea. V6 region of 16s rRNA amplification for bacterial community in the southern East China Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	30607025
+publication_nr_0_pubmed_abstract	Variation in microbial species diversity has typically been explained as the outcome of local ecological factors driving species coexistence, overlooking the roles of evolutionary constraints. Here, we argue that macro-evolutionary niche conservatism and unequal diversification rates among phylum-level lineages are strong determinants of diversity-environment relationships in bacterial systems. That is, apart from stochasticity, environmental effects operate most strongly on phylum composition, which in turn dictates the species diversity of bacterial communities. This concept is demonstrated using bacterioplankton in the surface seawaters of the East China Sea. Furthermore, we show that the species richness of a local bacterioplankton community can generally be estimated based on the relative abundances of phyla and their contributions of species numbers in the global seawater pool-highlighting the important influence of evolutionary constraints on local community diversity. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30607025
+publication_nr_0_title	Evolutionary constraints on species diversity in marine bacterioplankton communities.
+publication_nr_0_publication_year	2019
+=========================================================================================

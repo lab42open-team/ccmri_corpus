@@ -1,0 +1,7 @@
+study_id	MGYS00001894
+study_name	Pesticide degrading bacterial populations on glacier
+study_abstract	Pesticide degrading bacterial populations on glacier
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Ice:Glacier
+=========================================================================================
+=========================================================================================

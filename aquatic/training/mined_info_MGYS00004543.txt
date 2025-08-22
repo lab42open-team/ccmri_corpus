@@ -1,0 +1,7 @@
+study_id	MGYS00004543
+study_name	UCYN-A diversity in the Pacific
+study_abstract	UCYN-A nifH amplicons were recovered from a coastal and oligotrophic site in the Pacific to characterize the diversity of UCYN-A sublineages.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00001291
+study_name	Oyster and water samples from Texas bays.
+study_abstract	Oyster and water samples from Texas bays.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002042
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

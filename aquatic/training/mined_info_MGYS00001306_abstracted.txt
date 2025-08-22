@@ -1,0 +1,25 @@
+study_id	MGYS00001306
+study_name	Diplonemids are the most diverse planktonic eukaryotes in the world ocean
+study_abstract	Diplonemids sequence data corresponding to the V9 loop of the 18S rDNA in 850 size-fractionnated plankton communities sampled at 123 location including samples from the mesopelagic zone.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001789
+associated_study_1	MGYS00002368
+associated_study_2	MGYS00002392
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	32832617
+publication_nr_0_pubmed_abstract	Oceans host communities of plankton composed of relatively few abundant species and many rare species. The number of rare protist species in these communities, as estimated in metagenomic studies, decays as a steep power law of their abundance. The ecological factors at the origin of this pattern remain elusive. We propose that chaotic advection by oceanic currents affects biodiversity patterns of rare species. To test this hypothesis, we introduce a spatially explicit coalescence model that reconstructs the species diversity of a sample of water. Our model predicts, in the presence of chaotic advection, a steeper power law decay of the species abundance distribution and a steeper increase of the number of observed species with sample size. A comparison of metagenomic studies of planktonic protist communities in oceans and in lakes quantitatively confirms our prediction. Our results support that oceanic currents positively affect the diversity of rare aquatic microbes. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32832617
+publication_nr_0_title	Ocean currents promote rare species diversity in protists.
+publication_nr_0_publication_year	2020
+publication_nr_1_pubmed_id	30349092
+publication_nr_1_pubmed_abstract	Diatoms are one of the most abundant and diverse groups of phytoplankton and play a major role in marine ecosystems and the Earth's biogeochemical cycles. Here we combine DNA metabarcoding data from the Tara Oceans expedition with palaeoenvironmental data and phylogenetic models of diversification to analyse the diversity dynamics of marine diatoms. We reveal a primary effect of variation in carbon dioxide partial pressure (pCO<sub>2</sub>) on early diatom diversification, followed by a major burst of diversification in the late Eocene epoch, after which diversification is chiefly affected by sea level, an influx of silica availability and competition with other planktonic groups. Our results demonstrate a remarkable heterogeneity of diversification dynamics across diatoms and suggest that a changing climate will favour some clades at the expense of others. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30349092
+publication_nr_1_title	Clade-specific diversification dynamics of marine diatoms since the Jurassic.
+publication_nr_1_publication_year	2018
+publication_nr_2_pubmed_id	29507291
+publication_nr_2_pubmed_abstract	Diatoms are one of the major primary producers in the ocean, responsible annually for ~20% of photosynthetically fixed CO<sub>2</sub> on Earth. In oceanic models, they are typically represented as large (&gt;20 mym) microphytoplankton. However, many diatoms belong to the nanophytoplankton (2-20 mym) and a few species even overlap with the picoplanktonic size-class (&lt;2 mym). Due to their minute size and difficulty of detection they are poorly characterized. Here we describe a massive spring bloom of the smallest known diatom (Minidiscus) in the northwestern Mediterranean Sea. Analysis of Tara Oceans data, together with literature review, reveal a general oversight of the significance of these small diatoms at the global scale. We further evidence that they can reach the seafloor at high sinking rates, implying the need to revise our classical binary vision of pico- and nanoplanktonic cells fueling the microbial loop, while only microphytoplankton sustain secondary trophic levels and carbon export. 
+publication_nr_2_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29507291
+publication_nr_2_title	Nanoplanktonic diatoms are globally overlooked but play a role in spring blooms and carbon export.
+publication_nr_2_publication_year	2018
+=========================================================================================

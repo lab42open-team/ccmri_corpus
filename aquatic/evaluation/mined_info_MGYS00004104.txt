@@ -1,0 +1,7 @@
+study_id	MGYS00004104
+study_name	Eukaryotic protists Metagenome
+study_abstract	Spatial differences in beta diversity between the open ocean, outer shelf, Inner shelf and estuarine waters experiencing different hydrography and biogeochemistry reflect diverse communities of heterotrophic protists. Gradients in Chlorophyll a, temperature, salinity, nitrate, nitrite and dissolved oxygen may serve as barriers to the distribution of heterotrophic protists, enabling selection and diversification of distinctive communities. The present study provides the base line information that can allow comparison of diversity metrics with world ocean sites. This work examines spatial changes in protist communities associated with various low oxygen sites.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

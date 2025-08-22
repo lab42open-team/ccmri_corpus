@@ -1,0 +1,7 @@
+study_id	MGYS00001526
+study_name	Oil spill impacted sediments
+study_abstract	Offshore spilled oils can cause long-term ecological effects in the marine environment. Environmental DNA metasystematics (EDMS) was applied to characterize the ecological effects of the Hebei Spirit oil spill on micro- and macro-biomes of sediments. Alterations on diversities and structures of micro- and macro-biomes were observed in the contaminated area with elevated concentration of total polycyclic aromatic hydrocarbons (?PAHs; sum of concentrations of parent- and alkyl-PAHs). EDMS potentially provides a powerful tool for ecological assessment of multiple communities in ecosystems affected by oil spills.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated sediments
+=========================================================================================
+=========================================================================================

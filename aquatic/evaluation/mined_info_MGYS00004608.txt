@@ -1,0 +1,7 @@
+study_id	MGYS00004608
+study_name	DD_cyano Targeted loci environmental
+study_abstract	To understand the distribution of diverse picocyanobacterial clades and environmental factors regulating their distribution, abundance and genetic diversity was investigated in adjacent waters of Dokdo showing diverse physical properties not only by seasonal variation but also by diverse physical processes.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

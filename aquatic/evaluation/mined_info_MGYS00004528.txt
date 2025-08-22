@@ -1,0 +1,7 @@
+study_id	MGYS00004528
+study_name	Particulate methane monooxygenase diversity on an Arctic shelf
+study_abstract	Analysis of particulate methane monooxygenase diversity from natural seawater and methane-ammended sea water incubations via amplicon sequencing of the pmoA subunit.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

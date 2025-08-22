@@ -1,0 +1,8 @@
+study_id	MGYS00002040
+study_name	EMG produced TPA metagenomics assembly of the Arctic Ocean metagenomes from HLY1502 (Arctic Ocean metagenomes) data set
+study_abstract	The Arctic Ocean metagenomes Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB14154. This project includes samples from the following biomes : Marine.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000991
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

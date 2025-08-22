@@ -1,0 +1,7 @@
+study_id	MGYS00002286
+study_name	Metagenomic investigation of six depths from the anchialine Bundera sinkhole
+study_abstract	Bundera sinkhole is an anchialine ecosystem located in north-western Australia. It has a highly stratified physico-chemical profile which is reflected in the microbial community structure of each strata. This study is the first to perform shotgun metagenomics on communities inhabiting a selection of depths: 2, 8, 17, 18, 22 and 28 m.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

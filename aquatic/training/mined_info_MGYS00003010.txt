@@ -1,0 +1,7 @@
+study_id	MGYS00003010
+study_name	Marine bacteria metagenome
+study_abstract	16S metagenome of marine bacteria from marginal East China Sea
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Marginal Sea
+=========================================================================================
+=========================================================================================

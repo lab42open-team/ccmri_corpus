@@ -1,0 +1,9 @@
+study_id	MGYS00005678
+study_name	Baikal Rift Zone hot springs metagenome sequencing
+study_abstract	The study aims to discover novel extremophilic taxa and extremozymes that could be used in biotechnological applications
+study_origination	HARVESTED
+associated_study_0	MGYS00005003
+associated_study_1	MGYS00005677
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

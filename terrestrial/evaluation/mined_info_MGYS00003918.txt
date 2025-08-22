@@ -1,0 +1,10 @@
+study_id	MGYS00003918
+study_name	Malaysia Lambir Soils
+study_abstract	Lambir Hills National Park is located in Sarawak, Malaysia on the island of Borneo. The Center for Tropical Forest Science (http://www.ctfs.si.edu/) established a permanent 52-ha research plot at this site in 1991 and mapped, tagged, and identified all trees 1cm dbh (recensuses occur every 5 years). Of all the CTFS plots established to date (&gt;40 across the world), Lambir Hills is the most diverse in terms of tree species with &gt;1000 species found to be coexisting. One of the major drivers of high tree diversity at this site is thought to be the soil heterogeneity. There are four distinct soil types at this site ranging from low to high fertility.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

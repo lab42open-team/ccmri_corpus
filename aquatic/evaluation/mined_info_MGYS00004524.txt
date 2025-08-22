@@ -1,0 +1,7 @@
+study_id	MGYS00004524
+study_name	marine sample sequencing
+study_abstract	microbial diversity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

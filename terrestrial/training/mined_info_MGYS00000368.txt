@@ -1,0 +1,7 @@
+study_id	MGYS00000368
+study_name	metagenomic study targeting N cycling processes
+study_abstract	Sugarcane is a crop for bioenergy in Brazil and one of the main concerns in the production of this crop is the impact on the environment, in particular in greenhouse gases (GHG) emissions. Recent studies have shown that the N2O emissions related to sugarcane production are dependent on soil management practices (Carmo et al. 2013). The way to mitigate N2O emissions would be to understanding the conditions and the processes involved in the N2O production and consumption. However, no studies have linked the emissions of GHGs with soil-borne microbial communities, which are the main players in nutrient cycling.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

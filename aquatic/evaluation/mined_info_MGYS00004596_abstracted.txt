@@ -1,0 +1,12 @@
+study_id	MGYS00004596
+study_name	Marine sediment in Arctic Raw sequence reads
+study_abstract	This study assessed the diversity and distribution of fungal communities associated with marine sediments in Arctic.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26494429
+publication_nr_0_pubmed_abstract	This study assessed the diversity and distribution of fungal communities in eight marine sediments of Kongsfjorden (Svalbard, High Arctic) using 454 pyrosequencing with fungal-specific primers targeting the internal transcribed spacer (ITS) region of the ribosomal rRNA gene. Sedimentary fungal communities showed high diversity with 42,219 reads belonging to 113 operational taxonomic units (OTUs). Of these OTUs, 62 belonged to the Ascomycota, 26 to Basidiomycota, 2 to Chytridiomycota, 1 to Zygomycota, 1 to Glomeromycota, and 21 to unknown fungi. The major known orders included Hypocreales and Saccharomycetales. The common fungal genera were Pichia, Fusarium, Alternaria, and Malassezia. Interestingly, most fungi occurring in these Arctic sediments may originate from the terrestrial habitats and different basins in Kongsfjorden (i.e., inner basin, central basin, and outer basin) harbor different sedimentary fungal communities. These results suggest the existence of diverse fungal communities in the Arctic marine sediments, which may serve as a useful community model for further ecological and evolutionary study of fungi in the Arctic. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26494429
+publication_nr_0_title	Diversity and distribution of fungal communities in the marine sediments of Kongsfjorden, Svalbard (High Arctic).
+publication_nr_0_publication_year	2015
+=========================================================================================

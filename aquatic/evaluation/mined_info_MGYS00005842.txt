@@ -1,0 +1,7 @@
+study_id	MGYS00005842
+study_name	sediment metagenome Metagenome
+study_abstract	River sediment polluted with fluoroquinolones and other drugs discharged from bulk drug production in India constitute an environment with unprecedented, long-term antibiotic selection pressures. It is therefore plausible that previously unknown resistance genes have evolved and/or are promoted here. In order to search for novel resistance genes, we, therefore, analyzed such river sediments by a functional metagenomics approach
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lotic:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004216
+study_name	Uncultured eukaryote community Targeted loci environmental
+study_abstract	Small size fraction (0.2-3 um) microbial community sample from northern Baffin Bay.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00003073
+study_name	Mediterranean mud volcano flow Targeted loci
+study_abstract	Mud volcanoes (MVs) expel mobilized muds, gases, and fluids from the subsurface at convergent margins. These muds and fluids originate from numerous sources and depths that range from methanogenic sediment layers, destabilizing gas hydrate deposits, clay dehydration reactions, and thermogenic hydrocarbon sourcesand thus represent a convenient window into the deep biosphere. The proposed sequencing opportunity will address bacterial and archaeal community diversity in recent mud flows of the Venere Mud Volcano and underlying mud volcano sediments to assess how mud flow deposition and subsurface fluids influence microbial community composition and dynamics. We sequenced 16S V4V5 amplicons from bacterial and archaeal communities at varying mud flow depths with contrasting deep fluid chemistries.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

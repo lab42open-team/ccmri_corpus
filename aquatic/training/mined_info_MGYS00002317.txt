@@ -1,0 +1,7 @@
+study_id	MGYS00002317
+study_name	EMG produced TPA metagenomics assembly of the Hot spring microbial communities from Grendel Spring, Yellowstone National Park, USA - T=76-80 metagenome (hypersaline lake metagenome) data set.
+study_abstract	The hypersaline lake metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA336649. This project includes samples from the following biomes: Environmental, Aquatic, Thermal springs, Hot (42-90C).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+=========================================================================================

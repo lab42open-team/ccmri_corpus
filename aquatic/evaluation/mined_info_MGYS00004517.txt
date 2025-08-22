@@ -1,0 +1,7 @@
+study_id	MGYS00004517
+study_name	Chandeleur Island 2016 Amplicon Study Raw sequence reads
+study_abstract	These amplicon sequences were generated from year 2 of an ongoing study of Chandeleur Islands saltmarsh habitats.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Salt marsh
+=========================================================================================
+=========================================================================================

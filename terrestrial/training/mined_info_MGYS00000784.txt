@@ -1,0 +1,7 @@
+study_id	MGYS00000784
+study_name	Soil bacterial and fungal community changes during primary succession on lava flows in Iceland
+study_abstract	Soil microbial communities (SMCs) play a critical role in the cycling of carbon and nutrients in terrestrial ecosystems, as well as regulating plant productivity and diversity. However, very little is known about long-term (decades-centuries) structural changes in these communities. The development of aboveground-belowground linkages during century-scale succession is also poorly understood. This study investigates SMC and plant communities undergoing primary succession on an 850-year chronosequence of lava flows in Iceland. We hypothesised that communities of microfungi and bacteria would respond to progressive changes in vegetation and that SMC diversity would increase with terrain age. This project has implications for studies of primary succession and the biogeochemical impact of vegetation change in high-latitude ecosystems.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

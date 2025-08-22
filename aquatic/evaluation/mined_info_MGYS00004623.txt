@@ -1,0 +1,7 @@
+study_id	MGYS00004623
+study_name	Detection and diversity of nitrite oxidoreductase alpha subunit (nxrA) gene of Nitrospina in the marine sediments
+study_abstract	nxrA gene abundance and diversity in sediments
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

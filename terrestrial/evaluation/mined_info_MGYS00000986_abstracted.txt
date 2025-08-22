@@ -1,0 +1,12 @@
+study_id	MGYS00000986
+study_name	1) Fungi; 2) Soil; 3) Community Targeted Locus (Loci)
+study_abstract	To investigate the affects of prescribed fire intervals on the soil fungal communities.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	29212440
+publication_nr_0_pubmed_abstract	One of the most crucial steps in high-throughput sequence-based microbiome studies is the taxonomic assignment of sequences belonging to operational taxonomic units (OTUs). Without taxonomic classification, functional and biological information of microbial communities cannot be inferred or interpreted. The internal transcribed spacer (ITS) region of the ribosomal DNA is the conventional marker region for fungal community studies. While bioinformatics pipelines that cluster reads into OTUs have received much attention in the literature, less attention has been given to the taxonomic classification of these sequences, upon which biological inference is dependent. Here we compare how three common fungal OTU taxonomic assignment tools (RDP Classifier, UTAX, and SINTAX) handle ITS fungal sequence data. The classification power, defined as the proportion of assigned OTUs at a given taxonomic rank, varied among the classifiers. Classifiers were generally consistent (assignment of the same taxonomy to a given OTU) across datasets and ranks; a small number of OTUs were assigned unique classifications across programs. We developed CONSTAX (CONSensus TAXonomy), a Python tool that compares taxonomic classifications of the three programs and merges them into an improved consensus taxonomy. This tool also produces summary classification outputs that are useful for downstream analyses. Our results demonstrate that independent taxonomy assignment tools classify unique members of the fungal community, and greater classification power is realized by generating consensus taxonomy of available classifiers with CONSTAX. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29212440
+publication_nr_0_title	CONSTAX: a tool for improved taxonomic resolution of environmental fungal ITS sequences.
+publication_nr_0_publication_year	2017
+=========================================================================================

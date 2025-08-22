@@ -1,0 +1,7 @@
+study_id	MGYS00000684
+study_name	Rhizotron Metagenome Targeted Locus
+study_abstract	Biodiversity Manipulation in Rhizosphere and Soil. The purpose of this project is to analyze the influence of beech and ash saplings on litter cycling and soil microbial communities using rhizotrons planted with beech and ash saplings, as well as control rhizotrons without any tree plant.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

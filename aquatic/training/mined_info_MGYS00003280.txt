@@ -1,0 +1,10 @@
+study_id	MGYS00003280
+study_name	EMG produced TPA metagenomics assembly of the Estuarine microbial communities from the Columbia River estuary - Ebb tide non-ETM metaG S.753 metagenome (marine metagenome) data set.
+study_abstract	The marine metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA365278. This project includes samples from the following biomes: Environmental, Aquatic, Marine, Intertidal zone, Estuary.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

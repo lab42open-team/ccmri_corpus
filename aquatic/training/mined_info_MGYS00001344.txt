@@ -1,0 +1,7 @@
+study_id	MGYS00001344
+study_name	Total metagenomic analysis
+study_abstract	Comparison between samples obtained from tucurui reservoir
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

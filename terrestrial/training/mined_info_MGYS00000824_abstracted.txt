@@ -1,0 +1,12 @@
+study_id	MGYS00000824
+study_name	16S sequences from B. vivipara roots and bulk soil
+study_abstract	
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	24326907
+publication_nr_0_pubmed_abstract	Several eukaryotic symbioses have shown to host a rich diversity of prokaryotes that interact with their hosts. Here, we study bacterial communities associated with ectomycorrhizal root systems of Bistorta vivipara compared to bacterial communities in bulk soil using pyrosequencing of 16S rRNA amplicons. A high richness of Operational Taxonomic Units (OTUs) was found in plant roots (3,571 OTUs) and surrounding soil (3,476 OTUs). The community composition differed markedly between these two environments. Actinobacteria, Armatimonadetes, Chloroflexi and OTUs unclassified at phylum level were significantly more abundant in plant roots than in soil. A large proportion of the OTUs, especially those in plant roots, presented low similarity to Sanger 16S rRNA reference sequences, suggesting novel bacterial diversity in ectomycorrhizae. Furthermore, the bacterial communities of the plant roots were spatially structured up to a distance of 60 cm, which may be explained by bacteria using fungal hyphae as a transport vector. The analyzed ectomycorrhizae presents a distinct microbiome, which likely influence the functioning of the plant-fungus symbiosis. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24326907
+publication_nr_0_title	Different bacterial communities in ectomycorrhizae and surrounding soil.
+publication_nr_0_publication_year	2013
+=========================================================================================

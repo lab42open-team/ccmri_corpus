@@ -1,0 +1,7 @@
+study_id	MGYS00001819
+study_name	Protist community structure in several habitats of the Central Arctic Ocean in summer 2011 and 2012
+study_abstract	Protists form a major part of the Arctic ecosystem and are of great importance for biodiversity and productivity of the Central Arctic Ocean (CAO). The sea ice is considered as one of the main factors that influence protist communities. Current changes in sea ice conditions are assumed to alter protist community biodiversity and composition in ice-influenced habitats with further implications for the overall productivity of the CAO and carbon sequestration to the deep sea. We investigated the environmental factors driving protist community structure and the potential consequences of sea ice retreat on protists in the CAO. Samples were collected from the deep-chlorophyll maximum water and sea ice during August and September in 2011 and 2012. In addition, we sampled melt pond water and under-ice water during record sea ice minimum in 2012 to analyze the exchange of protist communities (i.e. number of shared operational taxonomic units, OTUs) between the different habitats under several sea ice conditions.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+=========================================================================================

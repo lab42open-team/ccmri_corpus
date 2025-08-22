@@ -1,0 +1,7 @@
+study_id	MGYS00000620
+study_name	Malaysian Rainforest Soil Targeted Locus (Loci)
+study_abstract	Spatial-scale independence of soil bacterial communities in Malaysian tropical forests
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Tropical rainforest
+=========================================================================================
+=========================================================================================

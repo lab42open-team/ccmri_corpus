@@ -1,0 +1,7 @@
+study_id	MGYS00006001
+study_name	Impact of conservative agricultural practices on soil microbial communities in South Africa
+study_abstract	The study compares microbial communities from soil under contrasting agronomical practices in different locations of South Africa.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

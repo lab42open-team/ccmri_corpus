@@ -1,0 +1,15 @@
+study_id	MGYS00001011
+study_name	Soil Metagenome
+study_abstract	Fine-scale spatial structure of belowground communities
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	32661237
+publication_nr_0_title	GlobalFungi, a global database of fungal occurrences from high-throughput-sequencing metabarcoding studies.
+publication_nr_0_publication_year	2020
+publication_nr_1_pubmed_id	26394006
+publication_nr_1_pubmed_abstract	A central challenge in ecology is to understand the relative importance of processes that shape diversity patterns. Compared with aboveground biota, little is known about spatial patterns and processes in soil organisms. Here we examine the spatial structure of communities of small soil eukaryotes to elucidate the underlying stochastic and deterministic processes in the absence of environmental gradients at a local scale. Specifically, we focus on the fine-scale spatial autocorrelation of prominent taxonomic and functional groups of eukaryotic microbes. We collected 123 soil samples in a nested design at distances ranging from 0.01 to 64 m from three boreal forest sites and used 454 pyrosequencing analysis of Internal Transcribed Spacer for detecting Operational Taxonomic Units of major eukaryotic groups simultaneously. Among the main taxonomic groups, we found significant but weak spatial variability only in the communities of Fungi and Rhizaria. Within Fungi, ectomycorrhizas and pathogens exhibited stronger spatial structure compared with saprotrophs and corresponded to vegetation. For the groups with significant spatial structure, autocorrelation occurred at a very fine scale (&lt;2 m). Both dispersal limitation and environmental selection had a weak effect on communities as reflected in negative or null deviation of communities, which was also supported by multivariate analysis, that is, environment, spatial processes and their shared effects explained on average &lt;10% of variance. Taken together, these results indicate a random distribution of soil eukaryotes with respect to space and environment in the absence of environmental gradients at the local scale, reflecting the dominant role of drift and homogenizing dispersal. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26394006
+publication_nr_1_title	Stochastic distribution of small soil eukaryotes resulting from high dispersal and drift in a local environment.
+publication_nr_1_publication_year	2016
+=========================================================================================

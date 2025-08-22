@@ -1,0 +1,7 @@
+study_id	MGYS00002785
+study_name	Santa Monica Basin seep sediment incubations to assess C and N sources for F430 synthesis
+study_abstract	Santa Monica methane seep sediment incubations
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Cold seeps
+=========================================================================================
+=========================================================================================

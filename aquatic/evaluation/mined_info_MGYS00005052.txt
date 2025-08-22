@@ -1,0 +1,7 @@
+study_id	MGYS00005052
+study_name	Tucurui_Metagenoma_MGRAST
+study_abstract	Functional and taxonomic analysis of samples from the hydroelectric lake of Tucurui.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

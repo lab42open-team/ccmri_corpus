@@ -1,0 +1,8 @@
+study_id	MGYS00004589
+study_name	Diversity of archaeal amoA gene
+study_abstract	Diversity of Archaeal amoA genes in sea water samples from Ardley cove, Fildes Peninsula, Antarctica
+study_origination	HARVESTED
+associated_study_0	MGYS00004116
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

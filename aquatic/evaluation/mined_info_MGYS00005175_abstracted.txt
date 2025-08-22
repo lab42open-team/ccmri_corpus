@@ -1,0 +1,12 @@
+study_id	MGYS00005175
+study_name	marine metagenome Metagenome
+study_abstract	To study the effect of diesel oil spills on microbial communities in the monitored basin experiment
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	33424796
+publication_nr_0_pubmed_abstract	The brackish Baltic Sea is under diesel oil pollution risk due to heavy ship traffic. The situation is exasperated by densely distributed marinas and a vigorous although seasonal recreational boating. The seasonality and physical environmental variations hamper the monitoring of microbial communities in response to diesel oil spills. Hence, an 8-week simulation experiment was established in metal basins (containing 265 L sea water and 18 kg quartz sand or natural shore sand as the littoral sediment) to study the effect of accidental diesel oil spills on microbial communities. Our results demonstrated that microbial communities in the surface water responded to diesel oil contamination, whereas those in the littoral sediment did not, indicating that diesel oil degradation mainly happened in the water. Diesel oil decreased the abundance of bacteria and fungi, but increased bacterial diversity in the water. Time was the predominant driver of microbial succession, attributable to the adaption strategies of microbes. Bacteria were more sensitive to diesel oil contamination than fungi and archaea. Diesel oil increased relative abundances of bacterial phyla, Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Flavobacteriia and Cytophagia, and fungal phylum Ascomycota in the surface water. Overall, this study improves the understanding of the immediate ecological impact of accidental diesel oil contamination, providing insights into risk management at the coastal area. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/33424796
+publication_nr_0_title	Simulation of Microbial Response to Accidental Diesel Spills in Basins Containing Brackish Sea Water and Sediment.
+publication_nr_0_publication_year	2020
+=========================================================================================

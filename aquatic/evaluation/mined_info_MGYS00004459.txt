@@ -1,0 +1,7 @@
+study_id	MGYS00004459
+study_name	MeHg Coal Ash
+study_abstract	Mercury (Hg) associated with coal ash is an environmental concern, particularly if the release of coal ash to the environment is associated with the conversion of Hg to methylmercury (MeHg), a bioaccumulative form of Hg that is produced by anaerobic microorganisms. In this study, sediment slurry microcosm experiments were performed to understand how spilled coal ash might influence MeHg production in anaerobic sediments of an aquatic ecosystem. Two coal ash types were used: (1) a weathered coal ash; and (2) a freshly collected, unweathered fly ash that was relatively enriched in sulfate and Hg compared to the weathered ash. These ash samples were added to anaerobic sediment slurries constructed with a relatively pristine sediment (containing 0.03 mg kg-1 Hg) and a Hg-contaminated sediment (containing 0.29 mg kg-1 Hg). 16S amplicon sequencing of microbial communities in the slurries was done for each microcosm.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

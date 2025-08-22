@@ -1,0 +1,7 @@
+study_id	MGYS00001284
+study_name	Metagenome of the soil from hot spring is to be studied to get better ubderstanding of its biome.
+study_abstract	Soil is rich in microbes. Metagenomics of soil sample from extreme environment will be helpful for discovery of a new novel bacterial stain.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

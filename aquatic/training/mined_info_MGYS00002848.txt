@@ -1,0 +1,8 @@
+study_id	MGYS00002848
+study_name	Sediment Microcosm Metagenome
+study_abstract	Sediment Microcosm - Oil_contaminated*reduced_water_pH
+study_origination	HARVESTED
+associated_study_0	MGYS00003077
+biome_info_0	root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+=========================================================================================
+=========================================================================================

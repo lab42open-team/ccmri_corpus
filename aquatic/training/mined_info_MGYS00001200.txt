@@ -1,0 +1,7 @@
+study_id	MGYS00001200
+study_name	Metagenomic study of the eukaryotic microorganisms diversity of a pond based on an environmental DNA (eDNA) sample.
+study_abstract	Usually, to determine the biological quality of a body of water, micro fauna and especially macroinvertebrates are determined using a binocular microscope. This study aims to compare this traditional method of species census with the analysis by metagenomic of environmental DNA (eDNA) from the same pond sample.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Pond
+=========================================================================================
+=========================================================================================

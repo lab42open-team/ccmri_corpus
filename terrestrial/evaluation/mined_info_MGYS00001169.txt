@@ -1,0 +1,7 @@
+study_id	MGYS00001169
+study_name	Agricultural Soil Targeted Locus (Loci)
+study_abstract	Study of change in soil microbial diversity due to different experimental climatic conditions
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Crop:Agricultural land
+=========================================================================================
+=========================================================================================

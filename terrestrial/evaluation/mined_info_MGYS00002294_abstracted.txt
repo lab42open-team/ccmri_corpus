@@ -1,0 +1,12 @@
+study_id	MGYS00002294
+study_name	Soil microbial response to organic disturbances
+study_abstract	We employed a deep 16S amplicon sequencing approach to evaluate the recovery of the native soil microbiome after multiple disturbances caused by the application of organic vinasse residue, inorganic nitrogen (N) or a combination of both during the sugarcane crop-growing season.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Loam:Contaminated
+=========================================================================================
+publication_nr_0_pubmed_id	30103819
+publication_nr_0_pubmed_abstract	Vinasse, a by-product of sugarcane ethanol production, is recycled by sugarcane plantations as a fertilizer due to its rich nutrient content. However, the impacts of the chemical and microbial composition of vinasse on soil microbiome dynamics are unknown. Here, we evaluate the recovery of the native soil microbiome after multiple disturbances caused by the application of organic vinasse residue, inorganic nitrogen, or a combination of both during the sugarcane crop-growing season (389 days). Additionally, we evaluated the resistance of the resident soil microbial community to the vinasse microbiome. Vinasse applied alone or 30 days prior to N resulted in similar changes in the soil microbial community. Furthermore, the impact of the application of vinasse together with N fertilizer on the soil microbial community differed from that of N fertilizer alone. Organic vinasse is a source of microbes, nutrients, and organic matter, and the combination of these factors drove the changes in the resident soil microbial community. However, these changes were restricted to a short period of time due to the capacity of the soil community to recover. The invasive bacteria present in the vinasse microbiome were unable to survive in the soil conditions and disappeared after 31 days, with the exception of the Acetobacteraceae (native in the soil) and Lactobacillaceae families. Our analysis showed that the resident soil microbial community was not resistant to vinasse and inorganic N application but was highly resilient. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30103819
+publication_nr_0_title	Resilience of the resident soil microbiome to organic and inorganic amendment disturbances and to temporary bacterial invasion.
+publication_nr_0_publication_year	2018
+=========================================================================================

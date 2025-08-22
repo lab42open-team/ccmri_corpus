@@ -1,0 +1,7 @@
+study_id	MGYS00000671
+study_name	Metagenomic analysis of Pinus pinaster's forest soil in southern Spain
+study_abstract	This study mainly consist in the analysis of the Pinus pinaster's soil metagenome. Two different soil samples were obtained corresponding totimes with different gene expression patterns in P. pinaster. The first sample was taken in March and the second one in July. The sampling was made in Los Reales de Sierra Bermeja (Estepona, Spain) with the present UTM coordinates North 30S 303095 4034618 and 1245m of altitude.Sierra Bermeja is a mountain range in the southern Spain near the coast and it is the biggest massif of peridotite all over the world. The peridotiteis a dense, coarse-grained igneous rock, consisting mostly of the minerals olivine and pyroxene. The samples were from the soil around three trees (70 cm approx. from the tree stem) and three different samples were taken from each tree(3 trees x 3 samples = 9 samples per each time). Total DNA from the soil samples were extracted by triplicate (9 x 3 = 27 DNA samples per each time) and the resulting DNA was pooled with equivalent amounts from each DNA samples. Each soil DNA pool was processed and sequenced in a Roche 454 Titanium FLX+ sequencer. Half PicoTiterPlete was used for each sample.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

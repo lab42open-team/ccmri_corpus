@@ -1,0 +1,7 @@
+study_id	MGYS00002314
+study_name	EMG produced TPA metagenomics assembly of the Metagenome sequencing of a chitin enriched culture (Metagenome sequencing of a chitin enriched culture) data set.
+study_abstract	The Metagenome sequencing of a chitin enriched culture Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJEB6317. This project includes samples from the following biomes: Environmental, Terrestrial, Soil.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

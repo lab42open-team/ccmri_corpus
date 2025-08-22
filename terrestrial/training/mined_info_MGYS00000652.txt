@@ -1,0 +1,7 @@
+study_id	MGYS00000652
+study_name	Bacterial diversity in agricultural soils
+study_abstract	Barcoded amplicon sequencing targeting V4 regions of 16S gene from uncultured soil bacteria.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

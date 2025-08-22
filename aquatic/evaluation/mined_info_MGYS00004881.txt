@@ -1,0 +1,10 @@
+study_id	MGYS00004881
+study_name	EMG produced TPA metagenomics assembly of the Pelagic marine microbial communities from North Sea - COGITO_mtgs_110321 metagenome (marine metagenome) data set.
+study_abstract	The marine metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJNA365004. This project includes samples from the following biomes: Environmental, Aquatic, Marine, Pelagic.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Pelagic
+=========================================================================================
+publication_nr_0_pubmed_id	29069476
+publication_nr_0_title	EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies.
+publication_nr_0_publication_year	2018
+=========================================================================================

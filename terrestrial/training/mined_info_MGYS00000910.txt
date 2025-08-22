@@ -1,0 +1,7 @@
+study_id	MGYS00000910
+study_name	Different agricultural practices amended with bean residues Metagenome
+study_abstract	To investigate how different management practices affected the bacterial community structure in soil, ii) to investigate how the application of bean residue affected the bacterial community structure in soil with different agricultural practices and iii) compare the bacterial populations involved in the mineralization of bean residue with those when maize residue was applied to soil.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

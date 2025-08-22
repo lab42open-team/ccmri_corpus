@@ -1,0 +1,7 @@
+study_id	MGYS00000958
+study_name	Microbial community analysis of aerobic enrichment cultures sustaining nitrification from coal biotransformation
+study_abstract	Screening of microbial populations driving the metabolism of carbon from coal and feeding into the nitrification process.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

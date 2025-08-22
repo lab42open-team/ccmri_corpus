@@ -1,0 +1,7 @@
+study_id	MGYS00004047
+study_name	Peruvian eddy shotgun metagenomes
+study_abstract	Shotgun metagenomes sampled from a mesoscale water eddy during strong upwelling conditions in Eastern tropical South Pacific waters off the Peruvian coast, February to March 2013.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Pelagic
+=========================================================================================
+=========================================================================================

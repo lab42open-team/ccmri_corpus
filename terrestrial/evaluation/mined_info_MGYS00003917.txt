@@ -1,0 +1,10 @@
+study_id	MGYS00003917
+study_name	Agricultural intensification and the functional capacity of soil microbes on smallholder African farms - kakamenga
+study_abstract	For the previous 2-3 years, soils from a chronosequence of farms along the edge of the Kakamega forest in Kenya along with soils from adjacent forested plots were sampled for trace gas fluxes and nitrogen cycling processes. This project sampled soils from the same plots to evaluate the effects of land use change and farm age on the bacteria responsible for key nitrogen cycling processes.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

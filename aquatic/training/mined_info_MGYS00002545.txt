@@ -1,0 +1,7 @@
+study_id	MGYS00002545
+study_name	IMPACT OF SAHARAN DUST DEPOSITION ON BACTERIOPLANKTON IN MARINE SURFACE WATER
+study_abstract	Microcosm Experiments Performed in Florida Keys, field season 2015
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

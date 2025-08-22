@@ -1,0 +1,9 @@
+study_id	MGYS00001198
+study_name	Metagenomic analysis of soil samples from an oil contaminated military base
+study_abstract	Samples were taken from 3 contaminated and 1 non contaminated sites of the military base in 3 depth (1m, 5.5-5.8m and 7.5-7.8m). After DNA extraction whole metagenome sequencing was performed on Illumina MiSeq platform.
+study_origination	SUBMITTED
+associated_study_0	MGYS00005819
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand:Oil-contaminated
+biome_info_1	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

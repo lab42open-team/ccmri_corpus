@@ -1,0 +1,10 @@
+study_id	MGYS00003867
+study_name	Bergen Ocean Acidification Mesocosms
+study_abstract	Water samples were obtained from a replicated mesocosm study (two treatments, each in triplicate) established in coastal waters of a fjord close to Bergen, Norway (60.27 N: 5.22 E). Each mesocosm contained 11,000 L of coastal water and two of the six mesocosms were sampled for this study. To induce the phytoplankton bloom, nitrate and phosphate were added. Water samples were taken at the peak and immediately following the collapse of the phytoplankton bloom from both a high CO2 and control mesocosm. Water samples were collected in May 2006. Metagenomic and Metatranscriptomics data has already been published. These data presented here are 16S rRNA V3-V4 Illumina amplicon data.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Pelagic
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

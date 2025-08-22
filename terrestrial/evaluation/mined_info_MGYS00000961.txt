@@ -1,0 +1,7 @@
+study_id	MGYS00000961
+study_name	Arable and pasture soils spiked with anthracene Metagenome
+study_abstract	Two soils were contaminated with 500 mg anthracene using acetone. Five different treatments were applied to the anthracene-contaminated soil. In a first treatment, soil was amended with two adult Eisenia fetida earthworms (0.35 g) and with a developed clitellum. The earthworms were fed 60 g carrot every two weeks. In a second treatment, soil was amended with 60 g organic material (carrot) every two weeks. As such, the effect of the earthworms on the removal of anthracene could be differentiated from that of the organic material applied. In a third treatment, soil was mixed for 10 min every 7 days. In a fourth treatment, soil was amended with 24.9 g kg-1 soil surfactant Surfynol 485 and mixed. In a fifth treatment, soil was left unamended and served as control so that remediation capacity of the autochthonous microorganisms could be determined. Two more treatments were used in this study. In a first additional treatment, both soils were applied with the same amount of acetone used as carrier to contaminate the soil with anthracene and in a second additional treatment, unamended soil was used and served as control.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

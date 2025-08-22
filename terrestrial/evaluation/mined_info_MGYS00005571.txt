@@ -1,0 +1,7 @@
+study_id	MGYS00005571
+study_name	A metagenomic approach to understanding the microbial consequences of permafrost thaw in boreal Western Canada
+study_abstract	This study sampled 20 lakes along a north-south permafrost gradient (continuous, discontinuous, sporadic, no permafrost) in boreal western Canada (Northwest Territories and Alberta). Samples were taken from the sediments at the edges of small boreal ponds, extracted using DNeasy Powersoil and then prepared for shotgun sequencing using an NEBNext Ultra II FS kit. Controls included: negative water only, Zymo Microbial community standard.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+=========================================================================================

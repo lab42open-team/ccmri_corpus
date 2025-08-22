@@ -1,0 +1,7 @@
+study_id	MGYS00000875
+study_name	Soil microbial community of soil aggregates of different size in conditions of extreme land use practicies
+study_abstract	Investigation of microbial community composition in aggregates of different size is to some extend correlated with the task of studying of microbial population in soil microhabitats (microniches). The unique taxa found only in one of the certain size fractions of structural units may be used in in the further research as indicators of the presence of this faction in soil samples investigated. The unique taxa discovered in samples isolated from such extreme land uses as the permanent fallow (50 years), continuous wheat cropping (50 years) and wild land (15 years of soil remediation under natural vegetation after permanent fallowing) could be used as indicators of proceses of soil disturbance (soil structure loss), soil exhaustion and soil recovering processes
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

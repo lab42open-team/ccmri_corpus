@@ -1,0 +1,12 @@
+study_id	MGYS00000924
+study_name	Arctic soil Metagenome
+study_abstract	Sequencing of arctic soil samples on 454 platform for preliminary screening of most dominant bacteria and fungi before and after silver nanoparticles treatment
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+publication_nr_0_pubmed_id	24926877
+publication_nr_0_pubmed_abstract	The impact of silver nanoparticles (NPs) and microparticles (MPs) on bacterial and fungal assemblages was studied in soils collected from a low arctic site. Two different concentrations (0.066% and 6.6%) of Ag NPs and Ag MPs were tested in microcosms that were exposed to temperatures mimicking a winter to summer transition. Toxicity was monitored by differential respiration, phospholipid fatty acid analysis, polymerase chain reaction-denaturing gradient gel electrophoresis and DNA sequencing. Notwithstanding the effect of Ag MPs, nanosilver had an obvious, additional impact on the microbial community, underscoring the importance of particle size in toxicity. This impact was evidenced by levels of differential respiration in 0.066% Ag NP-treated soil that were only half that of control soils, a decrease in signature bacterial fatty acids, and changes in both richness and evenness in bacterial and fungal DNA sequence assemblages. Prominent after Ag NP-treatment were Hypocreales fungi, which increased to 70%, from only 1% of fungal sequences under control conditions. Genera within this Order known for their antioxidant properties (Cordyceps/Isaria) dominated the fungal assemblage after NP addition. In contrast, sequences attributed to the nitrogen-fixing Rhizobiales bacteria appeared vulnerable to Ag NP-mediated toxicity. This combination of physiological, biochemical and molecular studies clearly demonstrate that Ag NPs can severely disrupt the natural seasonal progression of tundra assemblages. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24926877
+publication_nr_0_title	The effect of silver nanoparticles on seasonal change in arctic tundra bacterial and fungal assemblages.
+publication_nr_0_publication_year	2014
+=========================================================================================

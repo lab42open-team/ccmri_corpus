@@ -1,0 +1,7 @@
+study_id	MGYS00004028
+study_name	Amplicon sequences from naphthalene biodegradation in Arctic and temperate seawater
+study_abstract	Seawater samples from Arctic and temperate area were collected and used directly as inoculum for microcosm scale (1 L) biodegradation experiments. Two set of naphthalene biodegradation experiments were carried out at four different incubation temperatures (0.5, 4, 8, 15 C) with Arctic and temperate seawater. DNA was extracted and amplicon libraries were prepared from the two original seawater samples and one exposed sample at each incubation temperature.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

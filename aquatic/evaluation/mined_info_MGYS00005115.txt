@@ -1,0 +1,7 @@
+study_id	MGYS00005115
+study_name	Microbes in drinking water and biofilms (18S rDNA amplicon study)
+study_abstract	18S rDNA amplicon study of bulk water and shower hose biofilm samples. Cold water samples were collected from the water outlet of a drinking water treatment plant and from the water inlet of two neighboring buildings, warm water samples (ca 37 degrees C) were taken from showers within the two buildings: one building with a copper-silver-ionization-system to disinfect the water, the other building without such a system. Biofilms were taken from shower hoses within the two buildings. For further experimental details see: Stüken et al. 2018. Environ Sci Technol.;52(6):3354-3364. doi: 10.1021/acs.est.7b0596318S rDNA amplicons were generated with forward primer 1391F (GTA CAC ACC GCC CGTC) and reverse primer 1510R (CCT TCY GCA GGT TCA CCT AC). AdapterRemoval ver 2.3.0 and cutadapt vers. 1.18. were used to prepare samples for sequence submission (removal of remaining Illumina adapters, demultiplexing, removal of heterogeneity spacers, primers, low quality bases and sequences < 50 bp lengths).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater
+=========================================================================================
+=========================================================================================

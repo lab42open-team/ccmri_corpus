@@ -1,0 +1,10 @@
+study_id	MGYS00003851
+study_name	Gibbons tongue river 16S
+study_abstract	The samples are river sediment particles (1.75-2.36 mm in diameter) taken from the top 20 cm of the river bed. For each sampling, we measured the coordinates, water temp, pH, dissolved oxygen percent, conductivity, whether the water was upwelling or downwelling.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

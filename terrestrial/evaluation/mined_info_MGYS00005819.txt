@@ -1,0 +1,8 @@
+study_id	MGYS00005819
+study_name	EMG produced TPA metagenomics assembly of the Metagenomic analysis of soil samples from an oil contaminated military base (Enviro_05_10_2015) data set
+study_abstract	The Enviro_05_10_2015 Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB15034. This project includes samples from the following biomes : Soil.
+study_origination	SUBMITTED
+associated_study_0	MGYS00001198
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand:Oil-contaminated
+=========================================================================================
+=========================================================================================

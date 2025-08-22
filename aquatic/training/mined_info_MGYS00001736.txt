@@ -1,0 +1,7 @@
+study_id	MGYS00001736
+study_name	River Sediment metagenomes of textile dye degrading communities collected from Ankleshwar, India
+study_abstract	Samples were collected from Indian (Ankleshwar) river sediment heavily polluted with textile dyes. A control site was also used. 1-2 g of river sediment was inoculated (in triplicate) in to Bushnell Hass Broth either supplemented with or without various textile dyes. 1-2 g of sediment form the control site was also inoculate (in triplicate) into Bushnell Hass Broth without addition of textiles dyes. Cultures were incubated at 37oC until decolourisation of the dyes occurred (usually within 24-48 hours). Two rounds of subculturing occurred where 1-2 ml of culture medium was inoculated into fresh Bushnell Hass Medium with or without dye. After these round of subculturing, all 9 cultures were sampled for metagenomics and metaproteomics.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Contaminated
+=========================================================================================
+=========================================================================================

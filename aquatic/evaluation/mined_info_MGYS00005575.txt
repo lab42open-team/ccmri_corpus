@@ -1,0 +1,7 @@
+study_id	MGYS00005575
+study_name	trial samples of a study in the Venice Lagoon
+study_abstract	The samples belong to a project aiming to study the Venice lagoon from funcional prespective via metagenomics
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

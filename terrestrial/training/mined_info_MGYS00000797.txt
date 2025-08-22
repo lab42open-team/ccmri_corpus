@@ -1,0 +1,7 @@
+study_id	MGYS00000797
+study_name	Whole genome amplification influence on microbial community profiles
+study_abstract	This study comprised a systematic evaluation of bias in microbial community profiles induced by whole genome amplification. Environmental soil sample from Wildekamp near Bennekom (The Netherlands).
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

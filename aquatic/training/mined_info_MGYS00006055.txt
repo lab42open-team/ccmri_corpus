@@ -1,0 +1,7 @@
+study_id	MGYS00006055
+study_name	Microbiome Signature in Natural Lakes
+study_abstract	The crust of lateritic (canga) is a particular environment to be a ferruginous complex that inhabiting a high species diversity, high endemism and unique species compositions generally metal-tolerant (see Jacobi et al. 2007). Lakes are formed in the top of Canga which are maintained by local rainfall patterns. Information about the formation and dynamics of these lakes are scarce, considering that microorganisms play crucial roles in ecosystem functioning, here we aimed to understand the relationship between microbial diversity, functions and environmental parameters that sustain this peculiar amazonian environment. In this study, we compare the taxonomic and functional structure of the microbial communities from sediment in three neighboring lakes on top of the extensive lateritic crust in the southeast Amazon Basin using shotgun metagenome sequencing
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

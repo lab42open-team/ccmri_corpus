@@ -1,0 +1,7 @@
+study_id	MGYS00001205
+study_name	Using metagenomic approach to study the microbial community structures in drinking water system.
+study_abstract	The tap filters (Torayvino, Toray Industries Inc., Japan) were installed at the tap ends of a residential area, and continuously filtered 2000 L drinking water within ~2 days. After that, the filters were immersed into 50% ethanol solution to fix the microorganisms collected on the surface of hollow filter membrane in the filter. Then, extract the biomass on the membrane filter and extract DNA for metagenomic sequencing.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+=========================================================================================
+=========================================================================================

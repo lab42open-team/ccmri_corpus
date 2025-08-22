@@ -1,0 +1,8 @@
+study_id	MGYS00002036
+study_name	EMG produced TPA metagenomics assembly of the Mining for novel cellulase genes from different ecosystem metagenomes (Mining for novel cellulase genes) data set
+study_abstract	The Mining for novel cellulase genes Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJEB12864. This project includes samples from the following biomes : Aquatic.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000619
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Sediment
+=========================================================================================
+=========================================================================================

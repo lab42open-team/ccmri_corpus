@@ -1,0 +1,12 @@
+study_id	MGYS00005165
+study_name	16S amplicons New Zealand agricultural soils
+study_abstract	This study consists of soil samples collected from pastures under a range of land uses and across three time points (May 2014, Nov 2014, May 2015
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	29755437
+publication_nr_0_pubmed_abstract	The rare biosphere is predicted to aid in maintaining functional redundancy as well as contributing to community turnover across many environments. Recent developments have partially confirmed these hypotheses, while also giving new insights into dormancy and activity among rare communities. However, less attention has been paid to the rare biosphere in soils. This study provides insight into the rare biosphere's contribution to soil microbial diversity through the study of 781 soil samples representing 24 edaphically diverse sites. Results show that Bray-Curtis dissimilarity for time-sensitive conditionally rare taxa (CRT) does not correlate with whole community dissimilarity, while dissimilarity for space-sensitive CRT only weakly correlate with whole community dissimilarity. This adds to current understanding of spatiotemporal filtering of rare taxa, showing that CRT do not account for community variance across tested soils, but are under the same selective pressure as the whole community. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29755437
+publication_nr_0_title	Conditionally Rare Taxa Contribute but Do Not Account for Changes in Soil Prokaryotic Community Structure.
+publication_nr_0_publication_year	2018
+=========================================================================================

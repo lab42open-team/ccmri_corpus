@@ -1,0 +1,12 @@
+study_id	MGYS00000919
+study_name	Archaeal diversity in mangrove soils Targeted Locus (Loci)
+study_abstract	To study the archaeal diversity in different sampling sites of mangrove soils in Bamen Bay by 454 high through-put sequencing
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Wetlands
+=========================================================================================
+publication_nr_0_pubmed_id	31182804
+publication_nr_0_pubmed_abstract	Microbial community diversity and composition are important for the maintenance of mangrove ecosystem. Bacterial and archaeal community composition of the Bamenwan Mangrove Wetland soil in Hainan, China, was determined using pyrosequencing technique. Bacterial community composition presented differences among the five soil samples. Rhizobiales with higher abundance were observed in inner mangrove forest samples, while Desulfobacterales were in the seaward edge samples, and Frankiales, Gaiellales and Rhodospirillales in the landedge sample. For archaea, Crenarchaeota and Euryarchaeota dominated in five samples, but the proportion in each samples were different. Dominant archaeal community composition at the order level was similar in the seaward edge samples. The dominant archaeal clusters in the two inner mangrove forest samples were different, with Soil Crenarchaeotic Group (SCG) and Halobacteriales in sample inside of Bruguiera sexangula forest and SCG, Methanosarcinales and Marine Benthic Group B (MBGB) in sample inside of Xylocarpus mekongensis forest. The dominant archaeal clusters in land sample were unique, with Terrestrial Group and South African Gold Mine Group 1. The metabolic pathways including metabolism, genetic information processing, environmental information processing, cellular processes, organismal systems and human diseases were all detected for bacterial and archaeal functional profiles, but metabolic potentials among five samples were different. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31182804
+publication_nr_0_title	Microbial community structure of soils in Bamenwan mangrove wetland.
+publication_nr_0_publication_year	2019
+=========================================================================================

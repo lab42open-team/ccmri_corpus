@@ -1,0 +1,7 @@
+study_id	MGYS00001430
+study_name	Metagenomic investigation of the coastal region of south Gujarat using soil sample - Nargol, Umargam and Dandi
+study_abstract	metagenomic investigation of the coastal region of south Gujarat. Soil and water samples were collected and pooled from three different location; dandi, umargam and nargol. From the pooled sample, environmental metagenomic DNA was isolated followed by WGS using Illumina Miseq platform.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal:Sediment
+=========================================================================================
+=========================================================================================

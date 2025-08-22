@@ -1,0 +1,12 @@
+study_id	MGYS00001588
+study_name	Bacterial diversity assessment of Tulshi shyam hot spring using metagenomic appraoch
+study_abstract	A taxonomic description of bacteria was deduced from 5.78 MB metagenomic sequence retrived from Tulshi shyam Hot spring, India using bacterial tag-encoded FLX amplicon pyrosequencing (bTEFAP). Metagenome sequences represented the 98.2% bacteria origin, 1.5% of eukaryotic and 0.3% were unidentified. A total of 16 bacterial phyla demonstrating 97 families and 287 species were revealed in the hot spring metagenome.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+=========================================================================================
+publication_nr_0_pubmed_id	26484176
+publication_nr_0_pubmed_abstract	A taxonomic description of bacteria was deduced from 5.78 Mb metagenomic sequence retrieved from Tulsi Shyam hot spring, India using bacterial tag-encoded FLX amplicon pyrosequencing (bTEFAP). Metagenome contained 10,893 16S rDNA sequences that were analyzed by MG-RAST server to generate the comprehensive profile of bacteria. Metagenomic data are available at EBI under EBI Metagenomics database with accession no. ERP009559. Metagenome sequences represented the 98.2% bacteria origin, 1.5% of eukaryotic and 0.3% were unidentified. A total of 16 bacterial phyla demonstrating 97 families and 287 species were revealed in the hot spring metagenome. Most abundant phyla were Firmicutes (65.38%), Proteobacteria (21.21%) and unclassified bacteria (10.69%). Whereas, Peptostreptococcaceae (37.33%), Clostridiaceae (23.36%), and Enterobacteriaceae (16.37%) were highest reported families in metagenome. Ubiquitous species were Clostridium bifermentans (17.47%), Clostridium lituseburense (13.93%) and uncultured bacterium (10.15%). Our data provide new information on hot spring bacteria and shed light on their abundance, diversity, distribution and coexisting organisms. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26484176
+publication_nr_0_title	Cultivation-independent comprehensive survey of bacterial diversity in Tulsi Shyam Hot Springs, India.
+publication_nr_0_publication_year	2015
+=========================================================================================

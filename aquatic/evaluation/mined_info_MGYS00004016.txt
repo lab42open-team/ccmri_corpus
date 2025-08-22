@@ -1,0 +1,7 @@
+study_id	MGYS00004016
+study_name	Antarctic Hypersaline Brine Raw sequence reads
+study_abstract	Antarctic brine sampled in the Boulder Clay site (74 44 ''S, 164 01'' E), located in Northern Victoria Land. The aim was to identify the biodiversity differences in hypersaline brines; understanding the reasons of these differences, considering that brines might contain DNA and RNA molecules that remain trapped inside for long geological eras, thus representing a key to reconstruct past ecosystems.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001328
+study_name	Environmental soil samples from a gasoline contaminated site in Meadow Lake, Saskatchewan, Canada.
+study_abstract	A gasoline contaminated site in Meadow Lake, Saskatchewan was monitored for hydrocarbon degradation. Different types of biochar and forms of phosphate were tested to track optimal degradation of gasoline at the site.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Oil-contaminated
+=========================================================================================
+=========================================================================================

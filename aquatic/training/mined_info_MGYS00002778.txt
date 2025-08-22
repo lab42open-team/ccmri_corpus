@@ -1,0 +1,7 @@
+study_id	MGYS00002778
+study_name	Environmental zooplankton Targeted Locus (Loci)
+study_abstract	This study investigated the diversity of metazoan plankton around three reef systems in the central/southern Red Sea utilising 18S rRNA amplicon sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Coral reef
+=========================================================================================
+=========================================================================================

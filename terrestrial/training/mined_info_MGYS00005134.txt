@@ -1,0 +1,10 @@
+study_id	MGYS00005134
+study_name	Ice Wedge Polygon
+study_abstract	Frozen soil samples were collected that represent topographically high and low areas from basins of various ages around Barrow, Alaska. All of the sites are coordinated with portable or permanent Eddy covariance towers that have been used to study gas exchange. The samples were collected from several transects that include polygon rims and centers. At each site two cores were taken from rims and three from centers. The cores were approximately 25 cm deep, and so only include the active layer. Specifically samples were obtained from matching sets of polygon rims and centers from 3 different basins. This produced 24 samples: 3 basins x 2 types (rim/center) x 4 depths (6-10, 16-20, 26-30, 36-40cm). These were supplemented with smaller cores from additional basins: 3 basins x 2 types x 2 depths (6-10, 16-20cm). For the samples high refers to polygon rims, low to polygon centers. Additional abundant biological and chemical metadata have been collected for these samples.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

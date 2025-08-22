@@ -1,0 +1,12 @@
+study_id	MGYS00002588
+study_name	Red Sea Zooplankton Raw sequence reads
+study_abstract	To assess the diversity of zooplankton in the Red Sea. Samples were taken along a depth profile as well as being temporally and spatially differentiated.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	26186220
+publication_nr_0_pubmed_abstract	The composition of zooplankton in the water column has received limited attention in the main body of the Red Sea and this study investigates the change in the community both spatially and temporally across 11 stations in the central Red Sea. Using molecular methods to target the v9 region of the 18S rRNA gene a total of approximately 11.5 million reads were sequenced resulting in 2528 operational taxonomic units (OTUs) at 97% similarity. The phylum Arthropoda dominated in terms of reads accounting for on average 86.2% and 65.3% for neuston nets and vertical multinets respectively. A reduction in the number of OTUs was noticed with depth for both total metazoa and Maxillopoda whilst there was also a significant change in the composition of the Maxillopoda community. The genus Corycaeus had a higher proportion of reads in the epipelagic zone with Pleuromamma becoming increasingly dominant with depth. No significant difference was observed in the community between night and day sampling however there was a significant difference in the zooplankton community between two sampling periods separated by 10 days. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26186220
+publication_nr_0_title	Assessment of Zooplankton Community Composition along a Depth Profile in the Central Red Sea.
+publication_nr_0_publication_year	2015
+=========================================================================================

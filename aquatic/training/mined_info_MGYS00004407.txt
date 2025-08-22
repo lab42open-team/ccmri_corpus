@@ -1,0 +1,7 @@
+study_id	MGYS00004407
+study_name	coastal suspended particulate matter North Sea surface Raw sequence reads
+study_abstract	Microbial diversity in the North Sea coastal surface water during an annual cycle
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

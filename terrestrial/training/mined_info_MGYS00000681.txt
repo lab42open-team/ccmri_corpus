@@ -1,0 +1,7 @@
+study_id	MGYS00000681
+study_name	Core Sample from Deep Subsurface Metagenome
+study_abstract	An innovative technology to manage municipal biosolids and recycle this waste into clean energy is proposed and tested by City of Los Angeles. With appropriate geological formation selection, proper design, and monitoring, biosolids slurry can be injected into soft, porous, sand formations below the earth surface at 5000ft or more. The high temperature salinity condition in the subsurface will kill pathogens in the biosolids, and stimulate the growth of methanogens to generate methane. This research will take a metagenomic approach to understand the bacteria community structure and diversity changes following the deep-well inject of biosolids.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Sand
+=========================================================================================
+=========================================================================================

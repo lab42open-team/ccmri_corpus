@@ -1,0 +1,7 @@
+study_id	MGYS00000698
+study_name	Soil samples Targeted Locus (Loci)
+study_abstract	Analysis of the taxonomic composition of soil microbiome for the microbiological mapping of the soil types in order to improve agronomic practices. 16S rRNA gene pyrosequencing from the various soil types in Russia.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

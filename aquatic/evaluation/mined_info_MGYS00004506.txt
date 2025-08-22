@@ -1,0 +1,7 @@
+study_id	MGYS00004506
+study_name	Surface Diatom Sediments of Deep Freshwater Lake Baikal
+study_abstract	In this work we analyzed the structure and diversity of bacterial and archaeal communities in the surface sediment core. Microscopy has shown that this core is rich in siliceous diatom valves (frustules), whose degrees of preservation varied with the depth and diatom species as revealed by SEM. Pyrosequencing targeting bacterial V3-V4 and archaeal V1-V3 regions of 16S rRNA were performed to profile procaryotic community structure.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+=========================================================================================
+=========================================================================================

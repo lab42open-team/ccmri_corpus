@@ -1,0 +1,7 @@
+study_id	MGYS00004491
+study_name	permafrost metagenome Targeted loci environmental
+study_abstract	Analysis of microbial communities in thawing permafrost taliks of a thermokarst lake.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+=========================================================================================

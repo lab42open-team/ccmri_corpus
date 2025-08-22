@@ -1,0 +1,8 @@
+study_id	MGYS00002049
+study_name	EMG produced TPA metagenomics assembly of the DG Metagenome (soil metagenome) data set
+study_abstract	The soil metagenome Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set PRJNA188490. This project includes samples from the following biomes : Soil.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000767
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001042
+study_name	Microbial community of apple replant soils treated with fumigation or seed meal
+study_abstract	Brassicaceae seed meal (SM) formulations were compared with pre-plant 1,3-dichloropropene/chloropicrin (Telone-C17) soil fumigation for the ability to control apple replant disease and to suppress pathogen/parasite re-infestation of organic orchard soils at two sites in Washington State. The study also examined capacity of the SM treatment to minimize re-establishment of the causal pathogen populations and the potential contribution of altered rhizosphere microbiology to disease suppression.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

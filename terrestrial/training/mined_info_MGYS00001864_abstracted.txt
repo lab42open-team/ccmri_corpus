@@ -1,0 +1,12 @@
+study_id	MGYS00001864
+study_name	Assembly and activity of microbial communities in the Pacific temperate rainforest
+study_abstract	Dataset includes 16S rRNA sequences from soil RNA and DNA extractions, metatranscriptomes and geochemical data related to ecological gradients and climactic variability in the Pacific temperate rainforest.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Forest soil
+=========================================================================================
+publication_nr_0_pubmed_id	30538276
+publication_nr_0_pubmed_abstract	The Pacific coastal temperate rainforest (PCTR) is a global hot-spot for carbon cycling and export. Yet the influence of microorganisms on carbon cycling processes in PCTR soil is poorly characterized. We developed and tested a conceptual model of seasonal microbial carbon cycling in PCTR soil through integration of geochemistry, micro-meteorology, and eukaryotic and prokaryotic ribosomal amplicon (rRNA) sequencing from 216 soil DNA and RNA libraries. Soil moisture and pH increased during the wet season, with significant correlation to net CO<sub>2</sub> flux in peat bog and net CH<sub>4</sub> flux in bog forest soil. Fungal succession in these sites was characterized by the apparent turnover of Archaeorhizomycetes phylotypes accounting for 41% of ITS libraries. Anaerobic prokaryotes, including Syntrophobacteraceae and Methanomicrobia increased in rRNA libraries during the wet season. Putatively active populations of these phylotypes and their biogeochemical marker genes for sulfate and CH<sub>4</sub> cycling, respectively, were positively correlated following rRNA and metatranscriptomic network analysis. The latter phylotype was positively correlated to CH<sub>4</sub> fluxes (r = 0.46, p &lt; 0.0001). Phylotype functional assignments were supported by metatranscriptomic analysis. We propose that active microbial populations respond primarily to changes in hydrology, pH, and nutrient availability. The increased microbial carbon export observed over winter may have ramifications for climate-soil feedbacks in the PCTR. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30538276
+publication_nr_0_title	Seasonal and ecohydrological regulation of active microbial populations involved in DOC, CO<sub>2</sub>, and CH<sub>4</sub> fluxes in temperate rainforest soil.
+publication_nr_0_publication_year	2019
+=========================================================================================

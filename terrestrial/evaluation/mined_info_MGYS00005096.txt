@@ -1,0 +1,7 @@
+study_id	MGYS00005096
+study_name	Impact of organic management in soil borne bacterial communities
+study_abstract	Evaluation of compost application, winter cover crops and no-tillage in an organic system for soybean, maize and wheat crop rotation in Argentina
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Crop:Agricultural land
+=========================================================================================
+=========================================================================================

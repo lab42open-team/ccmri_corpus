@@ -1,0 +1,7 @@
+study_id	MGYS00005093
+study_name	Effect of long term fertilization strategies on soil bacterial communities
+study_abstract	Effect of long term fertilization strategies on soil bacterial communities
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

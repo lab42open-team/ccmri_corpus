@@ -1,0 +1,12 @@
+study_id	MGYS00002849
+study_name	Thermophilic endospores in temperate sediments
+study_abstract	Sediment heating experiments were performed with freshwater, brackish and marine sediments to investigate the dispersal of microorganisms in aquatic environments
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+publication_nr_0_pubmed_id	29393553
+publication_nr_0_pubmed_abstract	Endospores of thermophilic bacteria are found in cold and temperate sediments where they persist in a dormant state. As inactive endospores that cannot grow at the low ambient temperatures, they are akin to tracer particles in cold sediments, unaffected by factors normally governing microbial biogeography (e.g., selection, drift, mutation). This makes thermophilic endospores ideal model organisms for studying microbial biogeography since their spatial distribution can be directly related to their dispersal history. To assess dispersal histories of estuarine bacteria, thermophilic endospores were enriched from sediments along a freshwater-to-marine transect of the River Tyne in high temperature incubations (50C). Dispersal histories for 75 different taxa indicated that the majority of estuarine endospores were of terrestrial origin; most closely related to bacteria from warm habitats associated with industrial activity. A subset of the taxa detected were marine derived, with close relatives from hot deep marine biosphere habitats. These patterns are consistent with the sources of sediment in the River Tyne being predominantly terrestrial in origin. The results point to microbial communities in estuarine and marine sediments being structured by bi-directional currents, terrestrial run-off and industrial effluent as vectors of passive dispersal and immigration. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29393553
+publication_nr_0_title	Distribution of thermophilic endospores in a temperate estuary indicate that dispersal history structures sediment microbial communities.
+publication_nr_0_publication_year	2018
+=========================================================================================

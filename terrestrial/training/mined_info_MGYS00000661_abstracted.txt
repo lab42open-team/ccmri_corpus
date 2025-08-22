@@ -1,0 +1,12 @@
+study_id	MGYS00000661
+study_name	Soil from Cuatro Cienegas Basin, Coahuila, Mexico Targeted Locus (Loci)
+study_abstract	The purpose of this study was to follow microbial succession following sterilization of soil plots in arid and humid locations within the Cuatro Cienegas Basin, a desert oasis.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	23638384
+publication_nr_0_pubmed_abstract	Ecological succession is one of the most important concepts in ecology. However for microbial community succession, there is a lack of a solid theoretical framework regarding succession in microorganisms. This is in part due to microbial community complexity and plasticity but also because little is known about temporal patterns of microbial community shifts in different kinds of ecosystems, including arid soils. The Cuatro Cienegas Basin (CCB) in Coahuila, Mexico, is an arid zone with high diversity and endemisms that has recently been threatened by aquifer overexploitation. The gypsum-based soil system of the CCB is one of the most oligotrophic places in the world. We undertook a comparative 16S rRNA 454 pyrosequencing study to evaluate microbial community succession and recovery over a year after disturbance at two sites. Results were related to concurrent measurements of humidity, organic matter and total C and N content. While each site differed in both biogeochemistry and biodiversity, both present similar pattern of change at the beginning of the succession that diverged in later stages. After one year, experimentally disturbed soil was not similar to established and undisturbed adjacent soil communities indicating recovery and succession in disturbed soils is a long process. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/23638384
+publication_nr_0_title	Microbial secondary succession in soil microcosms of a desert oasis in the Cuatro Cienegas Basin, Mexico.
+publication_nr_0_publication_year	2013
+=========================================================================================

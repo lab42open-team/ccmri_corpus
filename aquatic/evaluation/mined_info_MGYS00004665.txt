@@ -1,0 +1,7 @@
+study_id	MGYS00004665
+study_name	Diversity of diazotrophic bacteria in Sanya mangrove sediments
+study_abstract	This study aims to assess the structure and driving factors of diazotrophic bacteria in Sanya mangrove sediments from China
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Mangrove swamp
+=========================================================================================
+=========================================================================================

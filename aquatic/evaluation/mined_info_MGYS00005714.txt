@@ -1,0 +1,7 @@
+study_id	MGYS00005714
+study_name	Protist communities in moored long-term sediment traps (Fram Strait, Arctic) Preservation with mercury chloride allows for PCR-based molecular genetic analyses
+study_abstract	Protist communities in moored long-term sediment traps (Fram Strait, Arctic) Preservation with mercury chloride allows for PCR-based molecular genetic analyses
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

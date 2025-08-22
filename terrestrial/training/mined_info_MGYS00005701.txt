@@ -1,0 +1,7 @@
+study_id	MGYS00005701
+study_name	Prokaryotic Community Profiling of the Mt. Makiling Mudspring
+study_abstract	This study aims to determine the prokaryotic community thriving in the Mt. Makiling Solfaratic Mudspring in Los Banos, Laguna, Philippines using 16S rRNA gene amplicon Next Generation Sequencing Technology.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Volcanic
+=========================================================================================
+=========================================================================================

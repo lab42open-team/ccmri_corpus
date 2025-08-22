@@ -1,0 +1,12 @@
+study_id	MGYS00004024
+study_name	Benham Rise 16S raw sequence reads
+study_abstract	16S rDNA raw sequencing reads from prokaryotes isolated from the water column of Benham Rise, Philippines
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	29785352
+publication_nr_0_pubmed_abstract	Microbes are central to the structuring and functioning of marine ecosystems. Given the remarkable diversity of the ocean microbiome, uncovering marine microbial taxa remains a fundamental challenge in microbial ecology. However, there has been little effort, thus far, to describe the diversity of marine microorganisms in the region of high marine biodiversity around the Philippines. Here, we present data on the taxonomic diversity of bacteria and archaea in Benham Rise, Philippines, Western Pacific Ocean, using 16S V4 rRNA gene sequencing. The major bacterial and archaeal phyla identified in the Benham Rise are Proteobacteria, Cyanobacteria, Actinobacteria, Bacteroidetes, Marinimicrobia, Thaumarchaeota and, Euryarchaeota. The upper mesopelagic layer exhibited greater microbial diversity and richness compared to surface waters. Vertical zonation of the microbial community is evident and may be attributed to physical stratification of the water column acting as a dispersal barrier. Canonical Correspondence Analysis (CCA) recapitulated previously known associations of taxa and physicochemical parameters in the environment, such as the association of oligotrophic clades with low nutrient surface water and deep water clades that have the capacity to oxidize ammonia or nitrite at the upper mesopelagic layer. These findings provide foundational information on the diversity of marine microbes in Philippine waters. Further studies are warranted to gain a more comprehensive picture of microbial diversity within the region. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29785352
+publication_nr_0_title	Diversity and community structure of marine microbes around the Benham Rise underwater plateau, northeastern Philippines.
+publication_nr_0_publication_year	2018
+=========================================================================================

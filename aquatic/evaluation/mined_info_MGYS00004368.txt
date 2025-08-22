@@ -1,0 +1,7 @@
+study_id	MGYS00004368
+study_name	Newfoundland sediment pyrosequencing
+study_abstract	16S rRNA gene sequencing for bacterial community composition of sediment collected on the West coast of Newfoundland, Canada
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Estuary:Sediment
+=========================================================================================
+=========================================================================================

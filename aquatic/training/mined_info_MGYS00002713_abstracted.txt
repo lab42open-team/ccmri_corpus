@@ -1,0 +1,14 @@
+study_id	MGYS00002713
+study_name	Effect of genetics and environment on gut bacteria in Anopheles and Aedes mosquitoes.
+study_abstract	The aim was to investigate the effect of genetics and environment on gut bacteria in adult Anopheles and Aedes mosquito. The mosquitoes were both co-reared and reared separately. Larval water, sugar feeding source and adult mosquito-guts were analysed for bacteria.
+study_origination	SUBMITTED
+biome_info_0	root:Engineered:Lab enrichment:Defined media
+biome_info_1	root:Environmental:Aquatic:Freshwater
+biome_info_2	root:Host-associated:Insecta:Digestive system
+=========================================================================================
+publication_nr_0_pubmed_id	32099004
+publication_nr_0_pubmed_abstract	The midgut microbiota of disease vectors plays a critical role in the successful transmission of human pathogens. The environment influences the microbiota composition; however, the relative mosquito-species contribution has not been rigorously disentangled from the environmental contribution to the microbiota structure. Also, the extent to which the microbiota of the adult sugar food source and larval water can predict that of the adult midgut and vice versa is not fully understood. To address these relationships, larvae and adults of Anopheles gambiae and Aedes albopictus were either reared separately or in a co-rearing system, whereby aquatic and adult stages of both species shared the larval water and sugar food source, respectively. Despite being reared under identical conditions, clear intra- and interspecies differences in midgut microbiota-composition were observed across seven cohorts, collected at different time points over a period of eight months. Fitting a linear model separately for each OTU in the mosquito midgut showed that two OTUs significantly differed between the midguts of the two mosquito species. We also show an effect for the sugar food source and larval water on the adult midgut microbiota. Our findings suggest that the mosquito midgut microbiota is highly dynamic and controlled by multiple factors. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32099004
+publication_nr_0_title	The environment and species affect gut bacteria composition in laboratory co-cultured Anopheles gambiae and Aedes albopictus mosquitoes.
+publication_nr_0_publication_year	2020
+=========================================================================================

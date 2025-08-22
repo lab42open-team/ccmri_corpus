@@ -1,0 +1,12 @@
+study_id	MGYS00003169
+study_name	SAR amplicon from community incubated with various nanophytoplankton in microcosm
+study_abstract	To address the impact of prey (bottom-up) on protist communities, we combine insights from two methods DGGE to assess abundant ciliates, and HTS sequencing of SAR (Stramenopila, Alveolata, Rhizaria) communities in marine microcosms. Here are the resulting read generated for this project with our SAR primers.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	31059530
+publication_nr_0_pubmed_abstract	We used an experimental approach of analyzing marine microcosms to evaluate the impact of both predation (top-down) and food resources (bottom-up) on spirotrich ciliate communities. To assess the diversity, we used two molecular methods-denaturing gradient gel electrophoresis (DGGE) and high-throughput sequencing (HTS). We carried out two types of experiments to measure top-down (adult copepods as predators) and bottom-up effects (phytoplankton as food resources) on the spirotrich ciliates. We observed both strong incubation effects (untreated controls departed from initial assessment of diversity) and high variability across replicates within treatments, particularly for the bottom-up experiments. This suggests a rapid community turn-over during incubation and differential susceptibility to the effects of experimental manipulation. Despite the variability, our analyses reveal some broad patterns such as (1) increasing adult copepod predator abundance had a greater impact on spirotrich ciliates than on other microbial eukaryotes; (2) there was no evidence for strong food selection by the dominant spirotrich ciliates. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31059530
+publication_nr_0_title	Incubation and grazing effects on spirotrich ciliate diversity inferred from molecular analyses of microcosm experiments.
+publication_nr_0_publication_year	2019
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00001160
+study_name	Bacterial communitiesl in first and subsequent rounds in Korean ginseng field soil
+study_abstract	Investigation of bacterial diversities and communities in the soil of ginseng fields at the first round and subsequent round
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	27187071
+publication_nr_0_pubmed_abstract	Traditional molecular methods have been used to examine bacterial communities in ginseng-cultivated soil samples in a time-dependent manner. Despite these efforts, our understanding of the bacterial community is still inadequate. Therefore, in this study, a high-throughput sequencing approach was employed to investigate bacterial diversity in various ginseng field soil samples over cultivation times of 2, 4, and 6 years in the first and second rounds of cultivation. We used non-cultivated soil samples to perform a comparative study. Moreover, this study assessed changes in the bacterial community associated with soil depth and the health state of the ginseng. Bacterial richness decreased through years of cultivation. This study detected differences in relative abundance of bacterial populations between the first and second rounds of cultivation, years of cultivation, and health states of ginseng. These bacterial populations were mainly distributed in the classes Acidobacteria, Alphaproteobacteria, Deltaproteobacteria, Gammaproteobacteria, and Sphingobacteria. In addition, we found that pH, available phosphorus, and exchangeable Ca+ seemed to have high correlations with bacterial class in ginseng cultivated soil. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27187071
+publication_nr_0_title	Bacterial Diversity and Community Structure in Korean Ginseng Field Soil Are Shifted by Cultivation Time.
+publication_nr_0_publication_year	2016
+=========================================================================================

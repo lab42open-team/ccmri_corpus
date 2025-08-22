@@ -1,0 +1,7 @@
+study_id	MGYS00001563
+study_name	Evaluation of molecular techniques in characterization of deep terrestrial biosphere
+study_abstract	Depending to the methods used for characterization of uncultured microbial communities from environmental samples, the results may differ profoundly. Here we have employed three different molecular community screening tools (DGGE, cloning, NGS) and compared their performance for revealing the microbial community profiles in groundwater samples. DGGE is a quick method for community profiling, but may leave many of the microbial groups present undetected. Cloning libraries generally perform better than DGGE, but is labor-intensive and cost ineffective, and may also suffer from incompatibility between insert and transformation host. The NGS method performed best and gave the most complete picture of the uncultured microbial community, but the drawback of this method is the shortness of the sequence reads obtained. In this paper we discuss the pros and cons of these methosd in environmental microbiology.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater
+=========================================================================================
+=========================================================================================

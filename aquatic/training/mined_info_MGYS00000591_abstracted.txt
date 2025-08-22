@@ -1,0 +1,12 @@
+study_id	MGYS00000591
+study_name	Microbial diversity in a cave ecosystem
+study_abstract	Characterisation of microbial communities in microbial mat and sediment from Movile Cave, Romania
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Cave water
+=========================================================================================
+publication_nr_0_pubmed_id	29291746
+publication_nr_0_pubmed_abstract	Movile Cave (Mangalia, Romania) is a unique ecosystem where the food web is sustained by microbial primary production, analogous to deep-sea hydrothermal vents. Specifically, chemoautotrophic microbes deriving energy from the oxidation of hydrogen sulphide and methane form the basis of the food web. Here, we report the isolation of the first methane-oxidizing bacterium from the Movile Cave ecosystem, Candidatus Methylomonas sp. LWB, a new species and representative of Movile Cave microbial mat samples. While previous research has suggested a prevalence of anoxic conditions in deeper lake water and sediment, using small-scale shotgun metagenome sequencing, we show that metabolic genes encoding enzymes for aerobic methylotrophy are prevalent in sediment metagenomes possibly indicating the presence of microoxic conditions. Moreover, this study also indicates that members within the family Gallionellaceae (Sideroxydans and Gallionella) were the dominant taxa within the sediment microbial community, thus suggesting a major role for microaerophilic iron-oxidising bacteria in nutrient cycling within the Movile Cave sediments. In this study, based on phylogenetic and metabolic gene surveys of metagenome sequences, the possibility of aerobic microbial processes (i.e., methylotrophy and iron oxidation) within the sediment is indicated. We also highlight significant gaps in our knowledge on biogeochemical cycles within the Movile Cave ecosystem, and the need to further investigate potential feedback mechanisms between microbial communities in both lake sediment and lake water. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29291746
+publication_nr_0_title	Aerobic proteobacterial methylotrophs in Movile Cave: genomic and metagenomic analyses.
+publication_nr_0_publication_year	2018
+=========================================================================================

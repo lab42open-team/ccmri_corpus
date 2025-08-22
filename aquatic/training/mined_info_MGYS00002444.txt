@@ -1,0 +1,7 @@
+study_id	MGYS00002444
+study_name	Microbial diversity in the Benguela coastal upwelling system as derived from 16S rRNA sequencing and RNA Stable Isotope Probing (SIP)
+study_abstract	Sediment microbial diversity was assessed in samples retrieved from four sampled transects. 16S metagenomics was used to characterize microbial structure in the sediments of the different sampling stations. Furthermore, stable isotope probing was employed in samples from certain stations in an attempt to link the function and identity of the microorganisms of the sediment samples. Two microcosm experiments were conducted with one involving the addition of nitrate as substrate and the other one sulphate. In both experiments the provided electron donor was acetate.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

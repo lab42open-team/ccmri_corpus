@@ -1,0 +1,7 @@
+study_id	MGYS00001035
+study_name	amoA gene sequences from soil Targeted Locus (Loci)
+study_abstract	Both climate and pH are key in determining soil archaeal community structure and diversity
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

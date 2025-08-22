@@ -1,0 +1,8 @@
+study_id	MGYS00000619
+study_name	Mining for novel cellulase genes from different ecosystem metagenomes
+study_abstract	The uncultivated microbes are a good resource for identifying potential novel cellulase genes, which are important industrial enzymes.
+study_origination	SUBMITTED
+associated_study_0	MGYS00002036
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Alkaline:Sediment
+=========================================================================================
+=========================================================================================

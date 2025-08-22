@@ -1,0 +1,7 @@
+study_id	MGYS00003866
+study_name	Polluted Polar Coastal Sediments
+study_abstract	With the goal of increasing our understanding of the biogeographic distribution and functional traits of microorganisms from cold, polluted coastal sediments, we are performing a comprehensive characterization of the structure and function of microbial communities from sediments of four hydrocarbon-polluted cold regions (Potter Cove, Antarctic Peninsula; Ushuaia Bay, Tierra del Fuego Island; Vertahamnen, Baltic Sea; Adventfjord, Svalbard Archipelago). At each site, replicate samples were collected from polluted sediments and from unpolluted sediments for comparison. This project is the result of an international collaboration between researchers of Argentina, USA, Sweden and Norway, and has been funded by the Community Sequencing Program of the Joint Genome Institute (JGI-DOE, USA). The project PIs are Hebe Monica Dinoisi (CENPAT-CONICET, Argentina) and Janet K. Jansson (LBNL).
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oil-contaminated sediment
+=========================================================================================
+=========================================================================================

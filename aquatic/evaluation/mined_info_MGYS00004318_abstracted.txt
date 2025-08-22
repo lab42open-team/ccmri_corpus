@@ -1,0 +1,12 @@
+study_id	MGYS00004318
+study_name	Microbial community structure or iron oxyhydroxides rich mound in Satsuma Iwo-jima, Japan
+study_abstract	Iron oxyhydroxides rich mounds are observed at the bottom of Nagahama bay where iron and silica rich thermal fluid is discharged. The microbial community structure was investigated using V4 region of 16S rRNA gene.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	26793184
+publication_nr_0_pubmed_abstract	Previous studies of microbial communities in deep-sea hydrothermal ferric deposits have demonstrated that members of Zetaproteobacteria play significant ecological roles in biogeochemical iron-cycling. However, the ecophysiological characteristics and interaction between other microbial members in the habitat still remain largely unknown. In this study, we investigated microbial communities in a core sample obtained from shallow hydrothermal iron-oxyhydroxide deposits at Nagahama Bay of Satsuma Iwo-Jima, Japan. Scanning electron microscopic observation showed numerous helical stalk structures, suggesting the occurrence of iron-oxidizing bacteria. Analysis of 16S rRNA gene sequences indicated the co-occurrence of iron-oxidizing Zetaproteobacteria and iron-reducing bacteria such as the genera Deferrisoma and Desulfobulbus with strong correlations on the sequence abundance. CARD-FISH indicated that the numbers of Zetaproteobacteria were not always consistent to the frequency of stalk structures. In the stalk-abundant layers with relatively small numbers of Zetaproteobacteria cells, accumulation of polyphosphate was observed inside Zetaproteobacteria cells, whereas no polyphosphate grains were observed in the topmost layers with fewer stalks and abundant Zetaproteobacteria cells. These results suggest that Zetaproteobacteria store intracellular polyphosphates during active iron oxidation that contributes to the mineralogical growth and biogeochemical iron cycling. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26793184
+publication_nr_0_title	Ecophysiology of Zetaproteobacteria Associated with Shallow Hydrothermal Iron-Oxyhydroxide Deposits in Nagahama Bay of Satsuma Iwo-Jima, Japan.
+publication_nr_0_publication_year	2015
+=========================================================================================

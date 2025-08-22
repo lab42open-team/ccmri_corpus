@@ -1,0 +1,7 @@
+study_id	MGYS00002654
+study_name	Zooplankton communities in the coastal water of northeastern Hokkaido
+study_abstract	Monitoring zooplankton communities is important to understand changes in the marine ecosystem. In this study, total 101 zooplankton samples were collected weekly in 2014 and 2015 at the Okhotsk tower in Mombetsu city, Hokkaido, Japan. A metagenetic analysis of the 18S region was conducted to reveal seasonal changes of zooplankton diversity and community in the coastal water of northeastern Hokkaido along the Okhotsk Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Coastal
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000871
+study_name	Microbial community structure and composition of raw landfill leachate of different ages
+study_abstract	Microorganisms play a key role in the degradation of raw leachate generated in sanitary landfills, leading to the breakdown of organic matter and toxic compounds into less hazardous intermediate and end products. To expand on the knowledge about these contaminated ecosystems, the microbial communities in leachate produced by three landfill cells of a sanitary landfill in Northeast Brazil were analyzed using a high-throughput sequencing approach of the 16S rRNA gene with universal primers. In the related paper we describe the structure and composition as well as the metabolic function of leachate communities at different stages in the adaptation process to their environment.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+=========================================================================================

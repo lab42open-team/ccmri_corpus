@@ -1,0 +1,12 @@
+study_id	MGYS00004658
+study_name	cultured bacteria from enrichment culture Raw sequence reads
+study_abstract	To targeted culture marine bacteria after enrichment culture
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30587241
+publication_nr_0_pubmed_abstract	The pure culture of prokaryotes remains essential to elucidating the role of these organisms. Scientists have reasoned that hard to cultivate microorganisms might grow in pure culture if provided with the chemical components of their natural environment. However, most microbial species in the biosphere that would otherwise be "culturable" may fail to grow because of their growth state in nature, such as dormancy. That means even if scientist would provide microorganisms with the natural environment, such dormant microorganisms probably still remain in a dormant state. We constructed an enrichment culture system for high-efficiency isolation of uncultured strains from marine sediment. Degree of enrichment analysis, dormant and active taxa calculation, viable but non-culturable bacteria resuscitation analysis, combined with metatranscriptomic and comparative genomic analyses of the interactions between microbial communications during enrichment culture showed that the so-called enrichment method could culture the "uncultured" not only through enriching the abundance of "uncultured," but also through the resuscitation mechanism. In addition, the enrichment culture was a complicated mixed culture system, which contains the competition, cooperation, or coordination among bacterial communities, compared with pure cultures. Considering that cultivation techniques must evolve further-from axenic to mixed cultures-for us to fully understand the microbial world, we should redevelop an understanding of the classic enrichment culture method. Enrichment culture methods can be developed and used to construct a model for analyzing mixed cultures and exploring microbial dark matter. This study provides a new train of thought to mining marine microbial dark matter based on mixed cultures. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30587241
+publication_nr_0_title	Metatranscriptomic and comparative genomic insights into resuscitation mechanisms during enrichment culturing.
+publication_nr_0_publication_year	2018
+=========================================================================================

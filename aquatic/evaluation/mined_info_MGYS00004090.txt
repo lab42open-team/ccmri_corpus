@@ -1,0 +1,7 @@
+study_id	MGYS00004090
+study_name	marine metagenome Targeted loci environmental
+study_abstract	This project investigated the production of different classes of iron-binding ligands, iron concentrations, macronutrient concentrations, and phytoplankton and bacterioplankton assemblage composition in iron amended microcosm incubations conducted in oligotrophic waters collected off the Southern California Bight.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

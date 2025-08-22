@@ -1,0 +1,12 @@
+study_id	MGYS00001948
+study_name	ANME-2a Genome sequencing
+study_abstract	To understand the ecological roles of ANME-2a
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	24335827
+publication_nr_0_pubmed_abstract	Anaerobic oxidation of methane (AOM) is a crucial process limiting the flux of methane from marine environments to the atmosphere. The process is thought to be mediated by three groups of uncultivated methane-oxidizing archaea (ANME-1, 2 and 3). Although the responsible microbes have been intensively studied for more than a decade, central mechanistic details remain unresolved. On the basis of an integrated analysis of both environmental metatranscriptome and single-aggregate genome of a highly active AOM enrichment dominated by ANME-2a, we provide evidence for a complete and functioning AOM pathway in ANME-2a. All genes required for performing the seven steps of methanogenesis from CO2 were found present and actively expressed. Meanwhile, genes for energy conservation and electron transportation including those encoding F420H2 dehydrogenase (Fpo), the cytoplasmic and membrane-associated Coenzyme B-Coenzyme M heterodisulfide (CoB-S-SCoM) reductase (HdrABC, HdrDE), cytochrome C and the Rhodobacter nitrogen fixation (Rnf) complex were identified and expressed, whereas genes encoding for hydrogenases were absent. Thus, ANME-2a is likely performing AOM through a complete reversal of methanogenesis from CO2 reduction without involvement of canonical hydrogenase. ANME-2a is demonstrated to possess versatile electron transfer pathways that would provide the organism with more flexibility in substrate utilization and capacity for rapid adjustment to fluctuating environments. This work lays the foundation for understanding the environmental niche differentiation, physiology and evolution of different ANME subgroups. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24335827
+publication_nr_0_title	Methanotrophic archaea possessing diverging methane-oxidizing and electron-transporting pathways.
+publication_nr_0_publication_year	2014
+=========================================================================================

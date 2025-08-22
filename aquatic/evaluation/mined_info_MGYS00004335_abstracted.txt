@@ -1,0 +1,12 @@
+study_id	MGYS00004335
+study_name	Novel Biphenyl Oxidizing Bacteria and Dioxygenase Genes from a Korean Tidal Mudflat
+study_abstract	Gene-targeted FLX titanium pyrosequencing integrated with 13C-stable isotope probing (SIP) revealed that tidal mudflat sediments harbor for novel aerobic biphenyl degradative bacteria and aromatic ring hydroxylating dioxygenases (ARHD). Known terrestrial biphenyl oxidizing bacteria and dioxygenase genes were rare in 13C-biphenyl enriched bacterial community. Instead, more than 80% of the detected ARHD genes are not in the public databases.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Wetlands:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	21498748
+publication_nr_0_pubmed_abstract	Gene-targeted FLX titanium pyrosequencing integrated with stable isotope probing (SIP) using [(13)C]biphenyl substrate revealed that tidal mudflat sediments harbor novel aromatic ring hydroxylating dioxygenases (ARHD). More than 80% of the detected ARHD genes comprise four clades (0.5 distance) with 49 to 70% amino acid identity to sequences in public databases. The 16S rRNA sequences enriched in the (13)C fraction were from the Betaproteobacteria, bacilli (primarily Paenibacillus-like), and unclassified phyla. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/21498748
+publication_nr_0_title	Novel biphenyl-oxidizing bacteria and dioxygenase genes from a korean tidal mudflat.
+publication_nr_0_publication_year	2011
+=========================================================================================

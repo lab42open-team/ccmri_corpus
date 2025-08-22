@@ -1,0 +1,12 @@
+study_id	MGYS00003124
+study_name	Microbial Diversity in Antarctic marine sediments (Admiralty Bay and Bransfield Strait)
+study_abstract	We assessed the composition and structure of bacterial and archaeal communities at 15 stations in Admiralty Bay and Bransfield Strait, Antarctica.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	28210255
+publication_nr_0_pubmed_abstract	Microorganisms dominate most Antarctic marine ecosystems, in terms of biomass and taxonomic diversity, and play crucial role in ecosystem functioning due to their high metabolic plasticity. Admiralty Bay is the largest bay on King George Island (South Shetland Islands, Antarctic Peninsula) and a combination of hydro-oceanographic characteristics (bathymetry, sea ice and glacier melting, seasonal entrance of water masses, turbidity, vertical fluxes) create conditions favoring organic carbon deposition on the seafloor and microbial activities. We sampled surface sediments from 15 sites across Admiralty Bay (100-502 m total depth) and the adjacent North Bransfield Basin (693-1147 m), and used the amplicon 454-sequencing of 16S rRNA gene tags to compare the bacterial composition, diversity, and microbial community structure across environmental parameters (sediment grain size, pigments and organic nutrients) between the two areas. Marine sediments had a high abundance of heterotrophic Gammaproteobacteria (92.4% and 83.8% inside and outside the bay, respectively), followed by Alphaproteobacteria (2.5 and 5.5%), Firmicutes (1.5 and 1.6%), Bacteroidetes (1.1 and 1.7%), Deltaproteobacteria (0.8 and 2.5%) and Actinobacteria (0.7 and 1.3%). Differences in alpha-diversity and bacterial community structure were found between the two areas, reflecting the physical and chemical differences in the sediments, and the organic matter input. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/28210255
+publication_nr_0_title	High Prevalence of Gammaproteobacteria in the Sediments of Admiralty Bay and North Bransfield Basin, Northwestern Antarctic Peninsula.
+publication_nr_0_publication_year	2017
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004553
+study_name	Diamante Lake viral metagenome
+study_abstract	Diamante Lake, located inside the Galan Volcano crater and placed at 4589m above sea level (coordinates: 26°00'51.04"S , 67°01'46.42"O), presents multiple extreme conditions that include: High UV radiation, salinity and arsenic, low oxygen pressure and a hydrothermal vent input. Red biofilm samples (mixed with sediments) from Diamante Lake were resuspended in PBS, cleared by centrifugation, and viral particles were purified using a CsCl gradient and ultracentrifugation. The total DNA of the purified viral fraction was then extracted using a Roche Viral DNA purification kit. Sequencing libraries were prepared using the Nextera library preparation kit from Promega and sequenced at 2x250bp using a Illumina MiSeq machine.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+=========================================================================================

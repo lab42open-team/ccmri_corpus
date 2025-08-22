@@ -1,0 +1,8 @@
+study_id	MGYS00006059
+study_name	Deciphering the functional potential of a hypersaline marsh microbial mat community
+study_abstract	The present study combines 16S rRNA amplicon sequencing and metagenomic approaches to characterize microbial structure and functional potential of the sediment and microbial mats of a hypersaline marsh in Tristomo bay (Karpathos, Greece) which is under protection from national legislation and international treaties. Sampling was conducted in July of 2018 and November of 2019. Sediment samples were collected from the sediment's upper layer (0-1 cm: microbial mats, 1-3 cm: deeper sediment) at various sampling sites using cylindrical cores and were frozen at -20 oC upon return to the laboratory. In addition, microbial aggregates observed in the water overlaying the sediment were collected separately based on their color (orange or pink). Furthermore, environmental parameters (e.g. salinity, oxygen concentration, granulometric composition) were measured at the sampling sites. The construction of metagenomic libraries from sediment samples, microbial mats and microbial aggregates of the hypersaline swamp allowed the description of the whole microbial community in the study area and revealed its functional potential.
+study_origination	SUBMITTED
+associated_study_0	MGYS00006060
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Saline:Microbial mats
+=========================================================================================
+=========================================================================================

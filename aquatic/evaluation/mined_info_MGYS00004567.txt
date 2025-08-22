@@ -1,0 +1,7 @@
+study_id	MGYS00004567
+study_name	Marine metagenome ICM_ABR
+study_abstract	Diversity of active microbial communities in surface seawaters along a north-south transect in the South Pacific Ocean.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

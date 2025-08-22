@@ -1,0 +1,7 @@
+study_id	MGYS00004548
+study_name	Diamante Lake Metagenome
+study_abstract	Diamante Lake, located inside the Galan Volcano crater and placed at 4589m above sea level (coordinates: 26°00'51.04"S , 67°01'46.42"O), presents multiple extreme conditions that include: High UV radiation, salinity and arsenic, low oxygen pressure and a hydrothermal vent input. Total DNA from Diamante Lake Red Biofilm was extracted using a Fast Spin Kit for Soil (MP Biomedicals) and sheared by sonication with a target fragment size of ~ 400 bp. DNA fragment distribution was confirmed in a Fragment Analyzer (Advanced Analytical) and libraries were constructed using Illumina TruSeq DNA kit 2x300 bp as per manufacturer's instructions. Libraries were multiplexed and ran in a Illumina MiSeq machine.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Hypersaline
+=========================================================================================
+=========================================================================================

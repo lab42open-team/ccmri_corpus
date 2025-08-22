@@ -1,0 +1,7 @@
+study_id	MGYS00000831
+study_name	RaMPs 2006 tallgrass prairie soil fungi ITS1 locus sequencing
+study_abstract	Responses of soil-borne fungi to environmental manipulations (elevated temperature and increased intervals between precipitation events) were evaluated through ITS1 locus sequencing. The project explores fungal community shifts in response to manipulation of environmental conditions on an ecosystem level. 23 soil samples were collected, total DNA isolated and ITS1 targets sequenced.; Project type: Targeted Locus (Loci); Target description: A total of 23 soil samples were collected in June 2006 from the established rainfall manipulation (RaMPs) experiment. Total environmental DNA was extracted and fungal ITS1 regions PCR-amplified with target specific primers. The amplicons were sequenced on GS20 platform.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Grasslands
+=========================================================================================
+=========================================================================================

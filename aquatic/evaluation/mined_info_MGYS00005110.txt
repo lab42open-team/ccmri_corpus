@@ -1,0 +1,7 @@
+study_id	MGYS00005110
+study_name	Spatiotemporal dynamics in the metagenomes of biofouling microbial communities residing in district cooling basins
+study_abstract	Metagenomic datasets for biofouling biofilm samples collected from the water cooling tower basins of two district cooling plants.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater
+=========================================================================================
+=========================================================================================

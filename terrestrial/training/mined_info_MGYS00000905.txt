@@ -1,0 +1,7 @@
+study_id	MGYS00000905
+study_name	Rhizobacterial soil sample
+study_abstract	Microbial community diversity of rhizobacterial soil sample
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

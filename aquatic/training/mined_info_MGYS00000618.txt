@@ -1,0 +1,7 @@
+study_id	MGYS00000618
+study_name	metagenomics of lakes
+study_abstract	metagenomics of lakes
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

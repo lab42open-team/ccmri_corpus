@@ -1,0 +1,12 @@
+study_id	MGYS00003174
+study_name	dsrB sequencing of sulfate-reducing microbial communities in Skagerrak and Baltic sediment
+study_abstract	Seabed communities of sulfate-reducing microorganisms were profiled by Illumina MiSeq sequencing of the dsrB gene from four different sites up to a depth of 5.3 meters below seafloor.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	30894690
+publication_nr_0_pubmed_abstract	Recent work has shown that subsurface microbial communities assemble by selective survival of surface community members during sediment burial, but it remains unclear to what extent the compositions of the subsurface communities are a product of their founding population at the sediment surface or of the changing geochemical conditions during burial. Here we investigate this question for communities of sulfate-reducing microorganisms (SRMs). We collected marine sediment samples from the upper 3-5 m at four geochemically contrasting sites in the Skagerrak and Baltic Sea and measured SRM abundance (quantitative PCR of dsrB), metabolic activity (radiotracer rate measurements), and community composition (Illumina sequencing of dsrB amplicons). These data showed that SRM abundance, richness, and phylogenetic clustering as determined by the nearest taxon index peaked below the bioturbation zone and above the depth of sulfate depletion. Minimum cell-specific rates of sulfate reduction did not vary substantially between sites. SRM communities at different sites were best distinguished based on their composition of amplicon sequence variants (ASVs), while communities in different geochemical zones were best distinguished based on their composition of SRM families. This demonstrates environmental filtering of SRM communities in sediment while a site-specific fingerprint of the founding community is retained. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30894690
+publication_nr_0_title	Environmental filtering determines family-level structure of sulfate-reducing microbial communities in subsurface marine sediments.
+publication_nr_0_publication_year	2019
+=========================================================================================

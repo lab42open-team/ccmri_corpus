@@ -1,0 +1,12 @@
+study_id	MGYS00001933
+study_name	The diversity of bacteria in marine sediments of the Barents Sea
+study_abstract	The diversity of bacteria in marine sediments of the Barents Sea
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	25667586
+publication_nr_0_pubmed_abstract	Spatial variations in composition of marine microbial communities and its causes have largely been disclosed in studies comprising rather large environmental and spatial differences. In the present study, we explored if a moderate but temporally permanent climatic division within a contiguous arctic shelf seafloor was traceable in the diversity patterns of its bacterial and archaeal communities. Soft bottom sediment samples were collected at 10 geographical locations, spanning spatial distances of up to 640 km, transecting the oceanic polar front in the Barents Sea. The northern sampling sites were generally colder, less saline, shallower, and showed higher concentrations of freshly sedimented phytopigments compared to the southern study locations. Sampling sites depicted low variation in relative abundances of taxa at class level, with persistent numerical dominance by lineages of Gamma- and Deltaproteobacteria (57-66% of bacterial sequence reads). The Archaea, which constituted 0.7-1.8% of 16S rRNA gene copy numbers in the sediment, were overwhelmingly (85.8%) affiliated with the Thaumarchaeota. Beta-diversity analyses showed the environmental variations throughout the sampling range to have a stronger impact on the structuring of both the bacterial and archaeal communities than spatial effects. While bacterial communities were significantly influenced by the combined effect of several weakly selective environmental differences, including temperature, archaeal communities appeared to be more uniquely structured by the level of freshly sedimented phytopigments. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25667586
+publication_nr_0_title	Polar front associated variation in prokaryotic community structure in Arctic shelf seafloor.
+publication_nr_0_publication_year	2015
+=========================================================================================

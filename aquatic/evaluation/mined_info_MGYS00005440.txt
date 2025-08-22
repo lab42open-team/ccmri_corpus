@@ -1,0 +1,8 @@
+study_id	MGYS00005440
+study_name	Metagenome analysis of the trench microbiome project on Northwest Pacific Ocean
+study_abstract	The trench microbiome project analyzed planktonic microbiomes associated with sea surface to hadal waters along the water columns on Mariana, Ogasawara (Izu-Bonin), Japan and Chishima (Kuril) Trenches.
+study_origination	HARVESTED
+associated_study_0	MGYS00005439
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Aphotic zone
+=========================================================================================
+=========================================================================================

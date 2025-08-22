@@ -1,0 +1,7 @@
+study_id	MGYS00004049
+study_name	uncultured prokaryote Targeted loci environmental
+study_abstract	This study sequenced bacterial 16S ribosomal DNA from subseafloor sediment of the Bering Sea, in an effort to understand diversity in the deep subsurface.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00005534
+study_name	Drinking water distribution system biofilm samples Metagenome
+study_abstract	This project reveals the community structure and composition of biofilms from an urban drinking water distribution system across two years.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Biofilm
+=========================================================================================
+publication_nr_0_pubmed_id	26251872
+publication_nr_0_pubmed_abstract	Drinking water distribution systems (DWDSs) harbor the microorganisms in biofilms and suspended communities, yet the diversity and spatiotemporal distribution have been studied mainly in the suspended communities. This study examined the diversity of biofilms in an urban DWDS, its relationship with suspended communities and its dynamics. The studied DWDS in Urbana, Illinois received conventionally treated and disinfected water sourced from the groundwater. Over a 2-year span, biomass were sampled from household water meters (n=213) and tap water (n=20) to represent biofilm and suspended communities, respectively. A positive correlation between operational taxonomic unit (OTU) abundance and occupancy was observed. Examined under a 'core-satellite' model, the biofilm community comprised 31 core populations that encompassed 76.7% of total 16 S rRNA gene pyrosequences. The biofilm communities shared with the suspended community highly abundant and prevalent OTUs, which related to methano-/methylotrophs (i.e., Methylophilaceae and Methylococcaceae) and aerobic heterotrophs (Sphingomonadaceae and Comamonadaceae), yet differed by specific core populations and lower diversity and evenness. Multivariate tests indicated seasonality as the main contributor to community structure variation. This pattern was resilient to annual change and correlated to the cyclic fluctuations of core populations. The findings of a distinctive biofilm community assemblage and methano-/methyltrophic primary production provide critical insights for developing more targeted water quality monitoring programs and treatment strategies for groundwater-sourced drinking water systems. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/26251872
+publication_nr_0_title	Core-satellite populations and seasonality of water meter biofilms in a metropolitan drinking water distribution system.
+publication_nr_0_publication_year	2016
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001990
+study_name	Blue Mountains Swamp Bacteria
+study_abstract	Blue Mountains Swamp Bacteria
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Wetlands:Swamp
+=========================================================================================
+=========================================================================================

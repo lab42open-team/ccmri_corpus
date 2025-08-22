@@ -1,0 +1,10 @@
+study_id	MGYS00003699
+study_name	Geographic distance and pH drive bacterial distribution in alkaline lake sediments across Tibetan Plateau
+study_abstract	Continent-scale biogeography has been extensively studied in soils and marine systems, but little is known about biogeographical patterns in non-marine sediments. We used barcode pyrosequencing to quantify the effects of local geochemical properties and geographic distance for bacterial community structure and membership, using sediment samples from 15 lakes on the Tibetan Plateau (4–1670 km apart). Bacterial communities were surprisingly diverse, and distinct from soil communities. Four of 26 phyla detected were dominant: Proteobacteria, Bacteroidetes, Firmicutes and Actinobacteria, albeit 20.2% of sequences were unclassified at the phylum level. As previously observed in acidic soil, pH was the dominant factor influencing alkaline sediment community structure, phylotype richness and phylogenetic diversity. In contrast, archaeal communities were less affected by pH. More geographically distant sites had more dissimilar communities (r = 0.443, P = 0.030). Variance partitioning analysis showed that geographic distance (historical contingencies) contributed more to bacterial community variation (12.2%) than any other factor, although the environmental factors explained more variance when combined (28.9%). Together, our results show that pH is the best predictor of bacterial community structure in alkaline sediments, and confirm that both geographic distance and chemical factors govern bacterial biogeography in lake sediments.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

@@ -1,0 +1,18 @@
+study_id	MGYS00005141
+study_name	Temporal sampling of marine metagenomes from Station ALOHA and BATS
+study_abstract	
+study_origination	HARVESTED
+associated_study_0	MGYS00006072
+biome_info_0	root:Environmental:Aquatic:Marine:Oceanic
+=========================================================================================
+publication_nr_0_pubmed_id	31840364
+publication_nr_0_pubmed_abstract	Members of the SAR11 clade, despite their high abundance, are often poorly represented by metagenome-assembled genomes. This fact has hampered our knowledge about their ecology and genetic diversity. Here we examined 175 SAR11 genomes, including 47 new single-amplified genomes. The presence of the first genomes associated with subclade IV suggests that, in the same way as subclade V, they might be outside the proposed Pelagibacterales order. An expanded phylogenomic classification together with patterns of metagenomic recruitment at a global scale have allowed us to define new ecogenomic units of classification (genomospecies), appearing at different, and sometimes restricted, metagenomic data sets. We detected greater microdiversity across the water column at a single location than in samples collected from similar depth across the global ocean, suggesting little influence of biogeography. In addition, pangenome analysis revealed that the flexible genome was essential to shape genomospecies distribution. In one genomospecies preferentially found within the Mediterranean, a set of genes involved in phosphonate utilization was detected. While another, with a more cosmopolitan distribution, was unique in having an aerobic purine degradation pathway. Together, these results provide a glimpse of the enormous genomic diversity within this clade at a finer resolution than the currently defined clades. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/31840364
+publication_nr_0_title	Ecogenomics of the SAR11 clade.
+publication_nr_0_publication_year	2020
+publication_nr_1_pubmed_id	30179232
+publication_nr_1_pubmed_abstract	Recent advances in understanding the ecology of marine systems have been greatly facilitated by the growing availability of metagenomic data, which provide information on the identity, diversity and functional potential of the microbial community in a particular place and time. Here we present a dataset comprising over 5 terabases of metagenomic data from 610 samples spanning diverse regions of the Atlantic and Pacific Oceans. One set of metagenomes, collected on GEOTRACES cruises, captures large geographic transects at multiple depths per station. The second set represents two years of time-series data, collected at roughly monthly intervals from 3 depths at two long-term ocean sampling sites, Station ALOHA and BATS. These metagenomes contain genomic information from a diverse range of bacteria, archaea, eukaryotes and viruses. The data's utility is strengthened by the availability of extensive physical, chemical, and biological measurements associated with each sample. We expect that these metagenomes will facilitate a wide range of comparative studies that seek to illuminate new aspects of marine microbial ecosystems. 
+publication_nr_1_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30179232
+publication_nr_1_title	Marine microbial metagenomes sampled across space and time.
+publication_nr_1_publication_year	2018
+=========================================================================================

@@ -1,0 +1,12 @@
+study_id	MGYS00003999
+study_name	16s data marine community of L4 station
+study_abstract	We collected monthly water samples at the L4 station of the Western Channel Observatory. The prokaryote community composition was determined by sequencing of the 16s rRNA gene using the illumina platform.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+publication_nr_0_pubmed_id	27650378
+publication_nr_0_pubmed_abstract	The rapid advancement of next generation sequencing protocols in recent years has led to the diversification in the methods used to study microbial communities; however, how comparable the data generated from these different methods are, remains unclear. In this study we compared the taxonomic composition and seasonal dynamics of the bacterial community determined by two distinct 16s amplicon sequencing protocols: sequencing of the V6 region of the 16s rRNA gene using 454 pyrosequencing vs the V4 region of the 16s rRNA gene using the Illumina Hiseq 2500 platform. Significant differences between relative abundances at all taxonomic levels were observed; however, their seasonal dynamics between phyla were largely consistent between methods. This study highlights that care must be taken when comparing datasets generated from different methods. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/27650378
+publication_nr_0_title	Choice of molecular barcode will affect species prevalence but not bacterial community composition.
+publication_nr_0_publication_year	2016
+=========================================================================================

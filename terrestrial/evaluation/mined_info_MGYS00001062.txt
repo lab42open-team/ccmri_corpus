@@ -1,0 +1,7 @@
+study_id	MGYS00001062
+study_name	RDX degrading microbial communities
+study_abstract	RDX degrading enrichments were obtained using four different agricultural soils as innocula. The total genomic DNA samples extracted from the communities after two amendments of 20 mg/L of RDX was degraded, was subjected to high throughput amplicon sequencing. Time zero total genomic DNA samples of the agricultural soils were also sequenced.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+=========================================================================================

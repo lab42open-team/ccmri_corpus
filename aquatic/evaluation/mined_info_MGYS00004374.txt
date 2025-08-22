@@ -1,0 +1,7 @@
+study_id	MGYS00004374
+study_name	Protistan plankton diversity along salt gradient
+study_abstract	High-throughput pyro-sequencing was used to investigate protistan diversity in solar saltern ponds
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Non-marine Saline and Alkaline:Salt crystallizer pond
+=========================================================================================
+=========================================================================================

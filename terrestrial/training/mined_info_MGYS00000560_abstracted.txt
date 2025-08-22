@@ -1,0 +1,12 @@
+study_id	MGYS00000560
+study_name	Soil metagenome sampled from a chitin-amended agricultural field
+study_abstract	Sampling took place on 21 st November 2010. Soil cores were taken from agricultural (pasture) fields located within Northern Ireland amended with Nephrops carapaces. Carapaces were apllied to the field biannually from 2007 (~1.236 kg m-2). Total DNA was extracted using MPBio Fast DNA Kit for soil and sequenced using an Illumina MiSeq platform - paired end reads. The soil is slightly acidic.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Agricultural
+=========================================================================================
+publication_nr_0_pubmed_id	30850636
+publication_nr_0_pubmed_abstract	Antimicrobial resistance (AMR) is a serious threat to global public health, but obtaining representative data on AMR for healthy human populations is difficult. Here, we use metagenomic analysis of untreated sewage to characterize the bacterial resistome from 79 sites in 60 countries. We find systematic differences in abundance and diversity of AMR genes between Europe/North-America/Oceania and Africa/Asia/South-America. Antimicrobial use data and bacterial taxonomy only explains a minor part of the AMR variation that we observe. We find no evidence for cross-selection between antimicrobial classes, or for effect of air travel between sites. However, AMR gene abundance strongly correlates with socio-economic, health and environmental factors, which we use to predict AMR gene abundances in all countries in the world. Our findings suggest that global AMR gene diversity and abundance vary by region, and that improving sanitation and health could potentially limit the global burden of AMR. We propose metagenomic analysis of sewage as an ethically acceptable and economically feasible approach for continuous global surveillance and prediction of AMR. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/30850636
+publication_nr_0_title	Global monitoring of antimicrobial resistance based on metagenomics analyses of urban sewage.
+publication_nr_0_publication_year	2019
+=========================================================================================

@@ -1,0 +1,8 @@
+study_id	MGYS00005367
+study_name	Pelagic marine microbial communities from North Sea - COGITO_mtgs_110404 metagenome
+study_abstract	Metagenomics of North Sea microbial communities with relevance to post-phytoplankton bloom &amp; benthic-pelagic carbon-turnover from a long-term ecological research (LTER) site Helgoland
+study_origination	HARVESTED
+associated_study_0	MGYS00005366
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

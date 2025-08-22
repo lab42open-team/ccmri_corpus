@@ -1,0 +1,7 @@
+study_id	MGYS00003721
+study_name	photoautotrophic_biofilm
+study_abstract	Samples of this study were collected of a super-intensive shrimp culture using photoautotrophic biofilm as complementary aquafeed
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic
+=========================================================================================
+=========================================================================================

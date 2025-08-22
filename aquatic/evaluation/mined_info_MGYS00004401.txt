@@ -1,0 +1,7 @@
+study_id	MGYS00004401
+study_name	Sediment of acid mine drainage Targeted loci environmental
+study_abstract	Sediments from an ancient gold mine in La Carolina, San Luis, Argentina.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Groundwater:Acid Mine Drainage
+=========================================================================================
+=========================================================================================

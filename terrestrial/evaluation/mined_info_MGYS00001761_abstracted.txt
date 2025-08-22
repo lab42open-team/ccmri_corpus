@@ -1,0 +1,12 @@
+study_id	MGYS00001761
+study_name	NGEE Arctic Microbial Communities of Polygonal Grounds
+study_abstract	Arctic soils contain an estimated 12-42% of the global soil C and much of this carbon is trapped in permafrost. With increasing global temperatures, thawing permafrost is becoming a potential source of greenhouse gas (GHG) emissions. On the Alaskan North Slope the collapse and rise of soil due to formation of ice wedges and permafrost thaw create distinct features called polygons. As part of the U.S. Department of Energy (DOE) Next Generation Ecosystem Experiment (NGEE) in the Arctic, we collected seasonally thawed active layer soils across a transect of polygon features at the Barrow Environmental Observatory (BEO). We used Illumina HiSeq technology to sequence metagenomes. The sequence data was accompanied by GHG flux measurements, geophysical and geochemical soil characteristics.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil:Permafrost
+=========================================================================================
+publication_nr_0_pubmed_id	29472560
+publication_nr_0_pubmed_abstract	In the Arctic, environmental factors governing microbial degradation of soil carbon (C) in active layer and permafrost are poorly understood. Here we determined the functional potential of soil microbiomes horizontally and vertically across a cryoperturbed polygonal landscape in Alaska. With comparative metagenomics, genome binning of novel microbes, and gas flux measurements we show that microbial greenhouse gas (GHG) production is strongly correlated to landscape topography. Active layer and permafrost harbor contrasting microbiomes, with increasing amounts of Actinobacteria correlating with decreasing soil C in permafrost. While microbial functions such as fermentation and methanogenesis were dominant in wetter polygons, in drier polygons genes for C mineralization and CH<sub>4</sub> oxidation were abundant. The active layer microbiome was poised to assimilate N and not to release N<sub>2</sub>O, reflecting low N<sub>2</sub>O flux measurements. These results provide mechanistic links of microbial metabolism to GHG fluxes that are needed for the refinement of model predictions. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/29472560
+publication_nr_0_title	Landscape topography structures the soil microbiome in arctic polygonal tundra.
+publication_nr_0_publication_year	2018
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00000716
+study_name	structural analysis of microbial community for feild soil and compost made from coffee lees
+study_abstract	Our final end is to change organic agriculture to matter production system based on scientific basis by stationary measurement of soil microbial community.This year,We analyze bacteria and fungi community at feild soil fertilized by compost made from coffee lees.We also analyze compost made from coffee lees.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00001518
+study_name	microbial diversity and function
+study_abstract	studyed microbial diversity and function which is in the sediment polluted by antimony
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00004634
+study_name	Fe3+ and Mn4+ - induced changes in microbial communities of boreal lake sediments
+study_abstract	Here we study the structure of bacterial and archaeal communities in sediments of two boreal lakes (littoral site in one lake and profundal site in another lake) . We specifically focused on community changes induced by increased availability of Fe3+ and Mn4+, which were studied by laboratory incubation of sediment samples collected from the profundal site. Microbial communities were studied by NGS (Ion Torrent) of bacterial and archaeal 16S rRNA genes as well as archaeal mcrA genes and mcrA-transcripts.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

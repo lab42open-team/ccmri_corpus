@@ -1,0 +1,7 @@
+study_id	MGYS00000333
+study_name	Metagenomes of North Sea ballastwater before and after 2x UV treatment
+study_abstract	Dutch coastal North Sea water was first sampled and then treated with UV. After 5 days incubation in a ballastwater tank, the water received a second UV treatment and was sampled afterwards. Metagenomes of the untreated sample and of the sample treated with 2x UV are compared.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

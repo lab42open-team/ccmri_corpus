@@ -1,0 +1,10 @@
+study_id	MGYS00003916
+study_name	Friedman Alaska peat soils
+study_abstract	The samples are from Cornell University in the lab of Lars Angenent, and are soils and biofilms from tundra ecosystems outside Barrow, AK.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	33252655
+publication_nr_0_title	Dadasnake, a Snakemake implementation of DADA2 to process amplicon sequencing data for microbial ecology.
+publication_nr_0_publication_year	2020
+=========================================================================================

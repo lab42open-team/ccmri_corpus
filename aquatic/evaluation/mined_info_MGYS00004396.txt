@@ -1,0 +1,7 @@
+study_id	MGYS00004396
+study_name	Sediment bacterial diversity
+study_abstract	This study investigated the effects of salmonid aquaculture on microbial diversity and community composition of sediments in Chiloe, southern Chile using Roche 454 GS-FLX of the 16S ribosomal RNA gene. Bacterial diversity was found to be significantly lower in aquaculture sites than in reference sites. Bacterial communities were found to differ significantly between reference and aquaculture sites, but OTU richness was not significantly different between sites. The bacterial groups significantly enriched in aquaculture sites were genera belonging to Bacteroidetes (Flavobacteria) and Gammaproteobacteria, which play key roles in organic matter mineralization and sulfur oxidation. These findings show that current practices related to Chilean salmonid aquaculture alter the structure and functionality of marine microbial communities in sediments and suggest major changes in the biogeochemical processes.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

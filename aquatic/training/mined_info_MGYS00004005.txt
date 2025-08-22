@@ -1,0 +1,7 @@
+study_id	MGYS00004005
+study_name	Marine Samples Targeted Locus (Loci)
+study_abstract	This project examines the effects of inorganic phosphorus addition to water column (within water tanks) bacterioplankton community structure. All samples from all tanks and experimental days. Control mesocosm 1, experimental day zero - Control mesocosm 2, experimental day zero. Samples were collected from seawater in Eastern Mediterranean from polluted and nearby unpolluted coastal areas.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

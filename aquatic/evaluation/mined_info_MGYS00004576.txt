@@ -1,0 +1,7 @@
+study_id	MGYS00004576
+study_name	Picocyanobacterial diversity in temperate marginal seas
+study_abstract	To elucidate the seasonal and spatial changes in picocyanobacterial diversity in temperate waters, baccoded amplicon pyrosequencing of 16S-23S internal transcribed spacer sequences was applied. Synechococcus and Prochlorococcus diversity in the East Sea and the East China Sea.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

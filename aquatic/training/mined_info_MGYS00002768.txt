@@ -1,0 +1,7 @@
+study_id	MGYS00002768
+study_name	Patagonian fjord prokaryote community
+study_abstract	Time series of prokaryote community composition in waters of a Patagonian fjord
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+=========================================================================================
+=========================================================================================

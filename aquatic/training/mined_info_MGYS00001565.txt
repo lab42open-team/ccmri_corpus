@@ -1,0 +1,7 @@
+study_id	MGYS00001565
+study_name	PCR-amplified 16S rRNA gene tag sequencing from Banyoles karstic area (Catalonia, Spain).
+study_abstract	16S rRNA gene was sequenced using the primers set 341F-907R covering the hypervariable regions V3?V5. Amplicons were pyrosequenced using the 454 FLX system (454 Life Sciences, Branford, CT, USA) at the Research and Testing Laboratory (Lubbock, TX). Lakes Cis?, Vilar, and Lake Banyoles-basin III (C-III) are in the Banyoles karstic area northeastern Spain (42?8''N, 2?45''E), samples from the metalimnion and hypolimnion of these lakes are explored in this study. These stratified aquatic ecosystems have incoming sulfate-rich water seeping in through bottom springs resulting in deep waters rich in sulfur-reduced compounds. An oxic-anoxic interface, or redoxcline, is established in the water column where light and sulfide usually coexist.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Freshwater:Lake
+=========================================================================================
+=========================================================================================

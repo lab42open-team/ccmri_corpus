@@ -1,0 +1,7 @@
+study_id	MGYS00004400
+study_name	Bacterial biogeography of a High Arctic ice cap
+study_abstract	This study investigates the roles of dispersal, environmental and biotic filtration in bacterial assemblies, in order to understand the environmental influences in cryoconite ecosystems. Foxfonna dome is used as a model ecosystem to observe the bacterial biogeography of an ice cap.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Sediment
+=========================================================================================
+=========================================================================================

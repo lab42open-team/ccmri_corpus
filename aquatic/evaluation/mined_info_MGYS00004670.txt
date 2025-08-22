@@ -1,0 +1,8 @@
+study_id	MGYS00004670
+study_name	Bacteria of the genus Endozoicomonas dominate the microbial communities of the Mediterranean gorgonian soft coral Eunicella cavolini
+study_abstract	Forming dense beds that provide the structural basis of a distinct ecosystem, the gorgonian Eunicella cavolini (Octocorallia) is an important species in the Mediterranean Sea. Despite the importance and prevalence of this temperate gorgonian, little is known about its microbial assemblage although bacteria are well known to be important to hard and soft coral functioning. Here, we used massively parallel pyrosequencing of 16S rRNA genes to determine the composition and relative abundances of bacteria associated with E. cavolini collected from different depths at a site on the French Mediterranean coast. We found that whereas the bacterial assemblages of E. cavolini were distinct and less diverse than those of the surrounding water column, the water depth did not affect the bacterial assemblages of this gorgonian. Our data show that E. cavolini's microbiome contains only a few shared species and that it is highly dominated by bacteria from the genus Endozoicomonas, a gamma-Proteobacteria that is frequently found to associate with marine invertebrates.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+biome_info_1	root:Host-associated:Invertebrates:Cnidaria:Coral
+=========================================================================================
+=========================================================================================

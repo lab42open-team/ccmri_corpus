@@ -1,0 +1,7 @@
+study_id	MGYS00004380
+study_name	Assessing the effects of salmon farming seabed enrichment using bacterial community diversity and high throughput sequencing
+study_abstract	16S bacterial sequencing of DNA and RNA taken from around marine sediment under and around salmon farm cages.Published 2015 FEMS
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

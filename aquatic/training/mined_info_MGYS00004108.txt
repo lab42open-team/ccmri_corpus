@@ -1,0 +1,7 @@
+study_id	MGYS00004108
+study_name	MiSeq 16S rRNA gene (archaeal 16S rRNA gene) sequences of 4 SCS sediments
+study_abstract	DNA from 4 SCS sediments have been extracted and amplified by 21f/958r & Arch347F/Arch806R primer pairs (for archaeal 16S rRNA gene). The archaeal communities of these 4 samples were obtained.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

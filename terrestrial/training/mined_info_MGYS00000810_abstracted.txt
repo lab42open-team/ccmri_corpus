@@ -1,0 +1,12 @@
+study_id	MGYS00000810
+study_name	Characterization of Growing Bacterial Populations in McMurdo Dry Valley (Antarctica) Soils through Stable Isotope Probing with 18O-water
+study_abstract	Stable isotope probing of soil bacterial DNA with 18O labeled water was performed to identify which bacterial populations are active by sequencing 16S rRNA gene sequences from heavy and light fractions of soil DNA.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+publication_nr_0_pubmed_id	24785369
+publication_nr_0_pubmed_abstract	Soil microbial communities of the McMurdo Dry Valleys, Antarctica (MDV) contain representatives from at least fourteen bacterial phyla. However, given low rates of microbial activity, it is unclear whether this richness represents functioning rather than dormant members of the community. We used stable isotope probing (SIP) with (18) O-water to determine if microbial populations grow in MDV soils. Changes in the microbial community were characterized in soils amended with H2 (18) O and H2 (18) O-organic matter. Sequencing the 16S rRNA genes of the heavy and light fractions of the bacterial community DNA shows that DNA of microbial populations was labeled with (18) O-water, indicating these micro-organisms grew in the MDV soils. Significant differences existed in the community composition of the heavy and light fractions of the H2 (18) O and H2 (18) O-organic matter amended samples (Anosim P &lt; 0.05 of weighted Unifrac distance). Control samples and the light DNA fraction of the H2 (18) O amended samples were dominated by representatives of the phyla Deinococcus-Thermus, Proteobacteria, Planctomyces, Gemmatimonadetes, Actinobacteria and Acidobacteria, whereas Proteobacteria were more prevalent in the heavy DNA fractions from the H2 (18) O-water and the H2 (18) O-water-organic matter treatments. Our results indicate that SIP with H2 (18) O can be used to distinguish active bacterial populations even in this low organic matter environment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24785369
+publication_nr_0_title	Characterization of growing bacterial populations in McMurdo Dry Valley soils through stable isotope probing with (18) O-water.
+publication_nr_0_publication_year	2014
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00002670
+study_name	Macroalgal Morphology affects composition and settlement of microbial communities
+study_abstract	Macroalgae (seaweeds) have an intimate relationship with their microbial symbionts. Microbial communities associated with macroalgal surfaces (epibiota) are generally host-specific and, historically, there has been great interest in the role of biological compounds and chemical warfare in microbial community assembly on seaweeds. However, the interaction between seaweeds and their environment may also influence community assembly of their microbiota. In this experiment, I ask whether the interaction between water flow and seaweed morphology affects the settlement and structure of microbial biofilms. I test whether three common algal morphologies select for differential biofilm communities using artificial macro algae units (AM units) made out of latex. I find that morphology does affect initial microbial settlement and community structure, but that eventual dominance of substrate specialists (in our case, a latex degrader) swamps the influence of morphology in long-term biofilms.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================

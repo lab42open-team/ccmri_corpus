@@ -1,0 +1,12 @@
+study_id	MGYS00002584
+study_name	Marine Sediment from the Berkeley Bay Targeted Locus (Loci)
+study_abstract	Community analysis (16S) of a marine samples enriched with perchlorate
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	32024948
+publication_nr_0_pubmed_abstract	A key step in the chlorine cycle is the reduction of perchlorate (ClO<sub>4</sub><sup>-</sup>) and chlorate (ClO<sub>3</sub><sup>-</sup>) to chloride by microbial respiratory pathways. Perchlorate-reducing bacteria and chlorate-reducing bacteria differ in that the latter cannot use perchlorate, the most oxidized chlorine compound. However, a recent study identified a bacterium with the chlorate reduction pathway dominating a community provided only perchlorate. Here we confirm a metabolic interaction between perchlorate- and chlorate-reducing bacteria and define its mechanism. Perchlorate-reducing bacteria supported the growth of chlorate-reducing bacteria to up to 90% of total cells in communities and co-cultures. Chlorate-reducing bacteria required the gene for chlorate reductase to grow in co-culture with perchlorate-reducing bacteria, demonstrating that chlorate is responsible for the interaction, not the subsequent intermediates chlorite and oxygen. Modeling of the interaction suggested that cells specialized for chlorate reduction have a competitive advantage for consuming chlorate produced from perchlorate, especially at high concentrations of perchlorate, because perchlorate and chlorate compete for a single enzyme in perchlorate-reducing cells. We conclude that perchlorate-reducing bacteria inadvertently support large populations of chlorate-reducing bacteria in a parasitic relationship through the release of the intermediate chlorate. An implication of these findings is that undetected chlorate-reducing bacteria have likely negatively impacted efforts to bioremediate perchlorate pollution for decades. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/32024948
+publication_nr_0_title	Identification of a parasitic symbiosis between respiratory metabolisms in the biogeochemical chlorine cycle.
+publication_nr_0_publication_year	2020
+=========================================================================================

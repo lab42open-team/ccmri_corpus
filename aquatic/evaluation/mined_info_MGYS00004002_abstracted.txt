@@ -1,0 +1,12 @@
+study_id	MGYS00004002
+study_name	Marine sediment metagenome ICM_CFU
+study_abstract	Investigation of prokaryote diversity in the sub-seafloor biosphere by 16S rRNA gene tag (V6) sequencing.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+publication_nr_0_pubmed_id	24205246
+publication_nr_0_pubmed_abstract	Subseafloor sediments accumulate large amounts of organic and inorganic materials that contain a highly diverse microbial ecosystem. The aim of this study was to survey the bacterial community of subseafloor sediments from the South China Sea. Pyrosequencing of over 265,000 amplicons of the V3 hypervariable region of the 16S ribosomal RNA gene was performed on 16 sediment samples collected from multiple locations in the northern region of the South China Sea from depths ranging from 35 to 4000 m. A total of 9,726 operational taxonomic units (OTUs; between 695 and 2819 unique OTUs per sample) at 97% sequence similarity level were generated. In total, 40 bacterial phyla including 22 formally described phyla and 18 candidate phyla, with Proteobacteria, Firmicutes, Planctomycetes, Actinobacteria and Chloroflexi being most diverse, were identified. The most abundant phylotype, accounting for 42.6% of all sequences, belonged to Gammaproteobacteria, which possessed absolute predominance in the samples analyzed. Among the 18 candidate phyla, 12 were found for the first time in the South China Sea. This study provided a novel insight into the composition of bacterial communities of the South China Sea subseafloor. Furthermore, abundances and community similarity analysis showed that the compositions of the bacterial communities are very similar at phylum level at different depths from 35-4000 m. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/24205246
+publication_nr_0_title	Bacterial community composition of South China Sea sediments through pyrosequencing-based analysis of 16S rRNA genes.
+publication_nr_0_publication_year	2013
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00003933
+study_name	Impact of Plant Development on Structure and Function of Rhizosphere Microbial Community associated with Groundnut (Arachis hypogaea L.)
+study_abstract	Impact of Plant Development on Structure and Function of Rhizosphere Microbial Community associated with Groundnut (Arachis hypogaea L.).Present study investigates changes in microbiome of Groundnut rhizosphere throughout the development of plant from pre-sowing to post-harvest.
+study_origination	SUBMITTED
+biome_info_0	root:Environmental:Terrestrial:Soil
+=========================================================================================
+=========================================================================================

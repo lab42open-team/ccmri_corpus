@@ -1,0 +1,8 @@
+study_id	MGYS00003601
+study_name	EMG produced TPA metagenomics assembly of the Metagenomic analysis of the Binga Hot Springs in Zimbabwe for Microbial Diversity and Hydrolytic Enzymes (Binga Hot Springs) data set.
+study_abstract	The Binga Hot Springs Third Party Annotation (TPA) assembly was derived from the primary whole genome shotgun (WGS) data set: PRJEB7848. This project includes samples from the following biomes: Environmental, Aquatic, Thermal springs.
+study_origination	SUBMITTED
+associated_study_0	MGYS00000424
+biome_info_0	root:Environmental:Aquatic:Thermal springs
+=========================================================================================
+=========================================================================================

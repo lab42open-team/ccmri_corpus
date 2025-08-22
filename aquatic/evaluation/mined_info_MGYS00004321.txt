@@ -1,0 +1,7 @@
+study_id	MGYS00004321
+study_name	Microbial community in on-site tsunami sediment caused by the Great East Japan Earthquake
+study_abstract	In this project, we investigated microbial communities in the tsunami sediment at Dec. 2011, Mar. 2012 and Oct. 2013 to clarify time-course change of microbial communities and compare those in the surface (0-2 mm indepth) and core (20-40 mm in depth) sediment.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

@@ -1,0 +1,7 @@
+study_id	MGYS00003011
+study_name	gas hydrate bearing sediment Raw sequence reads
+study_abstract	By investigating the microbial community structure in the gas hydrate bearing cores, we can understand some of in situ biochemistry processes. It is useful to get to know how microbial involved in forming high-saturation microbial origin gas hydrates.
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine:Sediment
+=========================================================================================
+=========================================================================================

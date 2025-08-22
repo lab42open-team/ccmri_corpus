@@ -1,0 +1,13 @@
+study_id	MGYS00000881
+study_name	Metagenome on soil background with high concentration of arsenic and antimon Genome sequencing
+study_abstract	Metagenome sequencing on soil background with high concentration of arsenic and antimony
+study_origination	HARVESTED
+associated_study_0	MGYS00002306
+biome_info_0	root:Environmental:Terrestrial:Soil:Contaminated
+=========================================================================================
+publication_nr_0_pubmed_id	25299175
+publication_nr_0_pubmed_abstract	Microbes have great potential for arsenic (As) and antimony (Sb) bioremediation in heavily contaminated soil because they have the ability to biotransform As and Sb to species that have less toxicity or are more easily removed. In this study, we integrated a metagenomic method with physicochemical characterization to elucidate the composition of microbial community and functional genes (related to As and Sb) in a high As (range from 34.11 to 821.23 mg kg-1) and Sb (range from 226.67 to 3923.07 mg kg-1) contaminated mine field. Metagenomic analysis revealed that microbes from 18 phyla were present in the 5 samples of soil contaminated with high As and Sb. Moreover, redundancy analysis (RDA) of the relationship between the 18 phyla and the concentration of As and Sb demonstrated that 5 phyla of microbes, i.e. Actinobacteria, Firmicutes, Nitrospirae, Tenericutes and Gemmatimonadetes were positively correlated with As and Sb concentration. The distribution, diversity and abundance of functional genes (including arsC, arrA, aioA, arsB and ACR3) were much higher for the samples containing higher As and Sb concentrations. Based on correlation analysis, the results showed a positive relationship between arsC-like (R2 = 0.871) and aioA-like (R2 = 0.675) gene abundance and As concentration, and indicated that intracellular As(V) reduction and As(III) oxidation could be the dominant As detoxification mechanism enabling the microbes to survive in the environment. This study provides a direct and reliable reference on the diversity of microbial community and functional genes in an extremely high concentration As- and Sb-contaminated environment. 
+publication_nr_0_EBI_link	https://www.ebi.ac.uk/metagenomics/publications/25299175
+publication_nr_0_title	Metagenomic approach reveals variation of microbes with arsenic and antimony metabolism genes from highly contaminated soil.
+publication_nr_0_publication_year	2014
+=========================================================================================

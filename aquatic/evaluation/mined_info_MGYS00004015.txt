@@ -1,0 +1,7 @@
+study_id	MGYS00004015
+study_name	16S rDNA amplicon of Bacteria and Archaea Metagenome
+study_abstract	16S rDNA sequencing of Bacteria and Archaea in the NW Mediterranean sea (transect from coast to open ocean and vertical profiles)
+study_origination	HARVESTED
+biome_info_0	root:Environmental:Aquatic:Marine
+=========================================================================================
+=========================================================================================
